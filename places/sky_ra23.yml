@@ -1610,3 +1610,128 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: NGC 7789
 ra_hr: 23.9566666666667
 zoom_level: 20.705
+---
+_uuid: 415b4528-6f14-425f-a353-f6fb464f1554
+classification: ''
+constellation: SCL
+data_set_type: Sky
+dec_deg: -36.0998797596312
+description: This image from the NASA/ESA/CSA James Webb Space Telescope shows IC
+  5332, a spiral galaxy, in unprecedented detail thanks to observations from the Mid-InfraRed
+  Instrument (MIRI). Its symmetrical spiral arms, which appear so clearly in Hubble’s
+  ultraviolet and visible-light image of IC 5332, are revealed as a complex web of
+  gas, emitting infrared light at a variety of temperatures. Capturing light at these
+  wavelengths requires very specialised instruments kept at very cold temperatures,
+  and MIRI performs spectacularly at the task. IC 5332 lies over 29 million light-years
+  from Earth, and has a diameter of roughly 66 000 light-years, making it about a
+  third smaller than the Milky Way. It is notable for being almost perfectly face-on
+  with respect to Earth, allowing us to admire the symmetrical sweep of its spiral
+  arms. Links Image B (Hubble's View of IC 5332) Video A Video B
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2209a/L{1}X{2}Y{3}.png
+name: Webb Reveals Complex Galactic Structures
+ra_hr: 23.574281752673887
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2209a/thumb.jpg
+zoom_level: 0.3605100299812812
+---
+_uuid: 67ca1e71-a9ff-46d5-967b-9d15b662adb4
+classification: ''
+constellation: SCL
+data_set_type: Sky
+dec_deg: -36.10110581474469
+description: The winding spiral structure of the galaxy IC 5332 is portrayed in amazing
+  detail by this image from the NASA/ESA Hubble Space Telescope. The clarity of Hubble’s
+  Wide Field Camera 3 (WFC3) separates the arms of the galaxy from dark patches of
+  dust in between, which block out the ultraviolet and visible light Hubble is sensitive
+  to. Younger and older stars can be differentiated by their colours, showing how
+  they are distributed throughout the galaxy. Meanwhile, Webb’s MIRI image provides
+  a very different view, instead highlighting the patterns of gas spread throughout
+  the galaxy. Links Image A Video A Video B
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2209b/L{1}X{2}Y{3}.png
+name: Hubble Sees the Big Picture of a Complex Galaxy
+ra_hr: 23.57419156600965
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2209b/thumb.jpg
+zoom_level: 0.33665346798550616
+---
+_uuid: 546f5de3-155f-44bf-9c95-67fdc3a48b83
+classification: ''
+constellation: SCL
+data_set_type: Sky
+dec_deg: -36.10110581474469
+description: This image of the spiral galaxy IC 5332, taken by the NASA/ESA/CSA James
+  Webb Space Telescope with its MIRI instrument, has been scaled and cropped to match
+  the NASA/ESA Hubble Space Telescope’s view of the same galaxy.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2209c/L{1}X{2}Y{3}.png
+name: Webb Reveals IC 5332 (scaled)
+ra_hr: 23.57419156600965
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2209c/thumb.jpg
+zoom_level: 0.33665346798550616
+---
+_uuid: 9de34dde-7721-4852-a18c-e1b7cd2663a9
+classification: ''
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.818167119162126
+description: This is an image taken with the NASA/ESA Hubble Space Telescope that
+  provides a detailed look at the tattered remains of a supernova explosion known
+  as Cassiopeia A (Cas A). The image shows the complex and intricate structure of
+  the star's shattered fragments. This image was captured in 2004.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2311c/L{1}X{2}Y{3}.png
+name: Hubble’s view of Cassiopeia A
+ra_hr: 23.390543493280465
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2311c/thumb.jpg
+zoom_level: 1.2601372021596096
+---
+_uuid: 3599ad6e-2bb0-44e1-9991-ebd8b266f849
+classification: ''
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.82004567178765
+description: 'Cassiopeia A (Cas A) is a supernova remnant located about 11 000 light-years
+  from Earth in the constellation Cassiopeia. It spans approximately 10 light-years.
+  This image, released in April 2023, uses data from Webb’s Mid-Infrared Instrument
+  (MIRI) to reveal Cas A in a new light. On the remnant’s exterior, particularly at
+  the top and left, lie curtains of material ,appearing orange and red, that are due
+  to emission from warm dust. This marks where ejected material from the exploded
+  star is ramming into surrounding circumstellar material. Interior to this outer
+  shell lie mottled filaments of bright pink studded with clumps and knots. This is
+  material from the star itself, and likely shines due to a mix of various heavy elements
+  and dust emission. The stellar material can also be seen as fainter wisps near the
+  cavity’s interior. A loop represented in green extends across the right side of
+  the central cavity. Its shape and complexity are unexpected and challenging for
+  scientists to understand. [Image description: A roughly square image is rotated
+  clockwise about 45 degrees. Within the image is a roughly circular nebula with a
+  complex structure. On the circle’s exterior lie curtains of material glowing orange.
+  Interior to this outer shell lies a ring of mottled filaments of bright pink studded
+  with clumps and knots. At centre right, a greenish loop extends from the right side
+  of the ring into the central cavity. Translucent wisps of blue, green, and red appear
+  throughout the image.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2330f/L{1}X{2}Y{3}.png
+name: Cas A (MIRI image)
+ra_hr: 23.390332224760673
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2330f/thumb.jpg
+zoom_level: 0.8492911600685705
+---
+_uuid: 70fe485b-7c4e-4f0d-9169-d95aca0e8408
+classification: ''
+constellation: CAS
+data_set_type: Sky
+dec_deg: 61.194025907060784
+description: 'This image was taken by Webb’s Mid-InfraRed Instrument (MIRI) of a region
+  parallel to the massive protostar known as IRAS23385. IRAS 2A and IRAS23385 (not
+  visible in this image) were targets for a recent research effort by an international
+  team of astronomers that used Webb to discover that the key ingredients for making
+  potentially habitable worlds are present in early-stage protostars, where planets
+  have not yet formed. With MIRI’s unprecedented spectral resolution and sensitivity,
+  the JOYS+ (James Webb Observations of Young ProtoStars) programme individually identified
+  organic molecules that have been confirmed to be present in interstellar ices. This
+  includes the robust detection of acetaldehyde, ethanol, methyl formate, and likely
+  acetic acid, in the solid phase. [Image description: A region of a molecular cloud.
+  The cloud is dense and bright close to the top of the image, like rolling clouds,
+  and grows darker and more wispy towards the bottom and in the top corner. One bright
+  star, and several dimmer stars, are visible as light spots among the clouds. The
+  image is a single exposure which has been assigned an orange colour for visibility.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2409a/L{1}X{2}Y{3}.png
+name: Parallel field to protostar IRAS23385
+ra_hr: 23.680947991644253
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2409a/thumb.jpg
+zoom_level: 0.3274756934531572

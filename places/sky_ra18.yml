@@ -3344,6 +3344,364 @@ name: Ring Nebula
 ra_hr: 18.893333333333334
 zoom_level: 1.0
 ---
+_uuid: c5d804c6-dd6c-4d27-b2a5-da11aa2cfc64
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -19.84177527372926
+description: 'This new NASA/ESA/CSA James Webb Space Telescope Picture of the Month
+  features a cosmic creepy-crawly called NGC 6537 — the Red Spider Nebula. Using its
+  Near-InfraRed Camera (NIRCam), Webb has revealed never-before-seen details in this
+  picturesque planetary nebula with a rich backdrop of thousands of stars. Planetary
+  nebulae like the Red Spider Nebula form when ordinary stars like the Sun reach the
+  end of their lives. After ballooning into cool red giants, these stars shed their
+  outer layers and cast them into space, exposing their white-hot cores. Ultraviolet
+  light from the central star ionises the cast-off material, causing it to glow. The
+  planetary nebula phase of a star’s life is as fleeting as it is beautiful, lasting
+  only a few tens of thousands of years. The central star of the Red Spider Nebula
+  is visible in this image, glowing just brighter than the webs of dusty gas that
+  surround it. The surprising nature of the nebula’s tremendously hot and luminous
+  central star has been revealed by Webb’s NIRCam. In optical-wavelength images, such
+  as from the NASA/ESA Hubble Space Telescope, the star appears faint and blue. But
+  in the NIRCam images, it shows up as red: thanks to its sensitive near-infrared
+  capabilities, Webb has revealed a shroud of hot dust surrounding the central star.
+  This hot dust likely orbits the central star, in a disc structure. Though only a
+  single star is visible in the Red Spider’s heart, a hidden companion star may lurk
+  there as well. A stellar companion could explain the nebula’s shape, including its
+  characteristic narrow waist and wide outflows. This hourglass shape is seen in other
+  planetary nebulae such as the Butterfly Nebula, which Webb also recently observed.
+  Webb’s new view of the Red Spider Nebula reveals for the first time the full extent
+  of the nebula’s outstretched lobes, which form the ‘legs’ of the spider. These lobes,
+  shown in blue, are traced by light emitted from H2 molecules, which contain two
+  hydrogen atoms bonded together. Stretching over the entirety of NIRCam’s field of
+  view, these lobes are shown to be closed, bubble-like structures that each extend
+  about 3 light-years. Outflowing gas from the centre of the nebula has inflated these
+  massive bubbles over thousands of years. Gas is also actively jetting out from the
+  nebula’s centre, as these new Webb observations show. An elongated purple ‘S’ shape
+  centred on the heart of the nebula follows the light from ionised iron atoms. This
+  feature marks where a fast-moving jet has emerged from near the nebula’s central
+  star and collided with material that was previously cast away by the star, sculpting
+  the rippling structure of the nebula seen today. The observations used to create
+  this image come from Webb GO programme #4571 (PI: J. Kastner) as part of a joint
+  Chandra-JWST observing programme, which aims to understand how bipolar planetary
+  nebulae like the Red Spider Nebula are shaped by the outflows and jets that emerge
+  from the stars at their cores. [Image Description: A large planetary nebula. The
+  nebula’s central star is hidden by a blotchy pinkish cloud of dust. A strong red
+  light radiates from this area, illuminating the nearby dust. Two large loops extend
+  diagonally away from the centre, formed of thin ridges of molecular gas, here coloured
+  blue. They stretch out to the corners of the view. A huge number of bright, whitish
+  stars cover the background, also easily visible through the thin dust layers.] Links
+  Science paper Annotated image Slider tool: Hubble and Webb''s views of NGC 6537
+  Image on ESA website Pan video Transition Video: Hubble and Webb''s views of NGC
+  6537 Space Sparks Episode'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2510a/L{1}X{2}Y{3}.png
+name: The Red Spider Nebula, caught by Webb
+ra_hr: 18.08706819480371
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2510a/thumb.jpg
+zoom_level: 0.41425930901650887
+---
+_uuid: 9906bc5f-fffc-41bb-b870-ab116a18532a
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -19.84195812607862
+description: 'The subject of this month’s ESA/Webb Picture of the Month is NGC 6537,
+  a planetary nebula commonly called the Red Spider Nebula. The nebula got its name
+  from its reddish colour and distinctive shape, which resembles the narrow body of
+  a spider with four outstretched ‘legs’. This image gives the NASA/ESA Hubble Space
+  Telescope’s view of the nebula, using observations made in 1997. Along each of the
+  Red Spider’s ‘legs’ are billowing clouds of gas, which are captured in great detail
+  by Hubble. Each of the wave-like features is estimated to be 100 billion kilometres
+  high, providing evidence for a clash between the gas that surrounds the nebula and
+  its fierce outflowing winds, which scream into space at thousands of kilometres
+  per second. These winds are powered by the central star of the nebula, which is
+  seen faintly in optical images like this one. The central star was once an ordinary
+  star, but it has evolved into a bare, searingly hot stellar core that has cast off
+  its outer layers to form the nebula. [Image Description: A planetary nebula. The
+  central star sits within brightly lit pink dust, and thick, darker orange dust clouds
+  surround that. An arm of dust reaches away from the central nebula at the top and
+  bottom of both sides, creating the shape of a four-legged spider. Some dimly-lit
+  dust clouds are visible outside of these arms. Stars appear as white dots scattered
+  on the black background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2510c/L{1}X{2}Y{3}.png
+name: Red Spider Nebula NGC 6537 (Hubble’s view)
+ra_hr: 18.087011398687242
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2510c/thumb.jpg
+zoom_level: 0.20651846736625917
+---
+_uuid: d8451440-7d81-440f-b2a0-a6d9d5d4dea4
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -19.84195812607862
+description: 'This new NASA/ESA/CSA James Webb Space Telescope Picture of the Month
+  features a cosmic creepy-crawly called NGC 6537 — the Red Spider Nebula. Using its
+  Near-InfraRed Camera (NIRCam), Webb has revealed never-before-seen details in this
+  picturesque planetary nebula with a rich backdrop of thousands of stars. Planetary
+  nebulae like the Red Spider Nebula form when ordinary stars like the Sun reach the
+  end of their lives. After ballooning into cool red giants, these stars shed their
+  outer layers and cast them into space, exposing their white-hot cores. Ultraviolet
+  light from the central star ionises the cast-off material, causing it to glow. The
+  planetary nebula phase of a star’s life is as fleeting as it is beautiful, lasting
+  only a few tens of thousands of years. This image zooms in on the centre of the
+  nebula, where the searing hot core of a dying star strips electrons from the dusty
+  gas that surrounds it. Though only one star is faintly visible at the heart of the
+  nebula, researchers suspect that many of the nebula’s characteristics are caused
+  by the presence of a second star. Extending outward to either side of the nebula’s
+  centre are two massive lobes that have resulted from thousands of years of mass
+  loss from the central star. The blue of the lobes traces light from molecular hydrogen
+  gas, while the purple ‘S’-shape that borders the inside edge of the lobes is due
+  to ionised iron atoms. The ionised iron arises from a powerful jet that has emerged
+  from the central star and collided with the previously expelled gas, showing how
+  the central star continues to sculpt the nebula today. [Image Description: A planetary
+  nebula. The nebula’s central star is hidden by a blotchy pinkish cloud of dust.
+  A strong red light radiates from this area, illuminating the nearby dust. Two large
+  loops extend laterally away from the centre, formed of thin ridges of blue dust.
+  A huge number of bright, whitish stars cover the background, also easily visible
+  through the thin dust layers.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2510d/L{1}X{2}Y{3}.png
+name: Webb zooms in on the Red Spider Nebula, NGC 6537
+ra_hr: 18.087011398687242
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2510d/thumb.jpg
+zoom_level: 0.20651846736625917
+---
+_uuid: 8c0235c3-7839-47a2-819a-af92a93efee6
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.844913256952578
+description: 'The Pillars of Creation are set off in a kaleidoscope of colour in the
+  NASA/ESA/CSA James Webb Space Telescope’s near-infrared-light view. The pillars
+  look like arches and spires rising out of a desert landscape, but are filled with
+  semi-transparent gas and dust, and ever changing. This is a region where young stars
+  are forming – or have barely burst from their dusty cocoons as they continue to
+  form. Protostars are the scene-stealers in this Near-Infrared Camera (NIRCam) image.
+  These are the bright red orbs that sometimes appear with eight diffraction spikes.
+  When knots with sufficient mass form within the pillars, they begin to collapse
+  under their own gravity, slowly heat up, and eventually begin shining brightly.
+  Along the edges of the pillars are wavy lines that look like lava. These are ejections
+  from stars that are still forming. Young stars periodically shoot out jets that
+  can interact within clouds of material, like these thick pillars of gas and dust.
+  This sometimes also results in bow shocks, which can form wavy patterns like a boat
+  does as it moves through water. These young stars are estimated to be only a few
+  hundred thousand years old, and will continue to form for millions of years. Although
+  it may appear that near-infrared light has allowed Webb to “pierce through” the
+  background to reveal great cosmic distances beyond the pillars, the interstellar
+  medium stands in the way, like a drawn curtain. This is also the reason why there
+  are no distant galaxies in this view. This translucent layer of gas blocks our view
+  of the deeper universe. Plus, dust is lit up by the collective light from the packed
+  “party” of stars that have burst free from the pillars. It’s like standing in a
+  well-lit room looking out a window – the interior light reflects on the pane, obscuring
+  the scene outside and, in turn, illuminating the activity at the party inside. Webb’s
+  new view of the Pillars of Creation will help researchers revamp models of star
+  formation. By identifying far more precise star populations, along with the quantities
+  of gas and dust in the region, they will begin to build a clearer understanding
+  of how stars form and burst out of these clouds over millions of years. The Pillars
+  of Creation is a small region within the vast Eagle Nebula, which lies 6,500 light-years
+  away. Webb’s NIRCam was built by a team at the University of Arizona and Lockheed
+  Martin’s Advanced Technology Center. [Image Description: This vertical image has
+  layers of semi-opaque rusty red colored gas and dust that starts at the bottom left
+  and goes toward the top right. There are three prominent pillars rising toward the
+  top right. The left pillar is the largest and widest. The peaks of the second and
+  third pillars are set off in darker shades of brown and have red outlines.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2216a/L{1}X{2}Y{3}.png
+name: Webb Takes a Stunning, Star-Filled Portrait of the Pillars of Creation (Cropped)
+ra_hr: 18.315369570686787
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2216a/thumb.jpg
+zoom_level: 0.716680559327623
+---
+_uuid: a0e198db-9843-4a35-aabe-2576e823f93a
+classification: ''
+constellation: LYR
+data_set_type: Sky
+dec_deg: 33.028761143984845
+description: 'The NASA/ESA/CSA James Webb Space Telescope has observed the well-known
+  Ring Nebula with unprecedented detail. Formed by a star throwing off its outer layers
+  as it runs out of fuel, the Ring Nebula is an archetypal planetary nebula. Also
+  known as M57 and NGC 6720, it is both relatively close to Earth at roughly 2,500
+  light-years away. This new image provides unprecedented spatial resolution and spectral
+  sensitivity. For example, the intricate details of the filament structure of the
+  inner ring are particularly visible in this dataset. There are some 20,000 dense
+  globules in the nebula, which are rich in molecular hydrogen. In contrast, the inner
+  region shows very hot gas. The main shell contains a thin ring of enhanced emission
+  from carbon-based molecules known as polycyclic aromatic hydrocarbons (PAHs). Roughly
+  ten concentric arcs are located just beyond the outer edge of the main ring. The
+  arcs are thought to originate from the interaction of the central star with a low-mass
+  companion orbiting at a distance comparable to that between the Earth and the dwarf
+  planet Pluto. In this way, nebulae like the Ring Nebula reveal a kind of astronomical
+  archaeology, as astronomers study the nebula to learn about the star that created
+  it. [Image description: This image of the Ring Nebula appears as a distorted doughnut.
+  The nebula’s inner cavity hosts shades of blue and green, while the detailed ring
+  transitions through shades of orange in the inner regions and pink in the outer
+  region. The ring’s inner region has distinct filament elements.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2320d/L{1}X{2}Y{3}.png
+name: Webb captures detailed beauty of Ring Nebula (NIRCam image - cropped)
+ra_hr: 18.89308337816382
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2320d/thumb.jpg
+zoom_level: 0.2750193516510847
+---
+_uuid: b1aae24d-44fa-4767-84a8-29abf6e51a1f
+classification: ''
+constellation: LYR
+data_set_type: Sky
+dec_deg: 33.028761143984845
+description: 'The NASA/ESA/CSA James Webb Space Telescope has observed the well-known
+  Ring Nebula with unprecedented detail. Formed by a star throwing off its outer layers
+  as it runs out of fuel, the Ring Nebula is an archetypal planetary nebula. Also
+  known as M57 and NGC 6720, it is both relatively close to Earth at roughly 2,500
+  light-years away. This new image provides unprecedented spatial resolution and spectral
+  sensitivity. In particular, Webb’s MIRI (Mid-InfraRed Instrument) reveals particular
+  details in the concentric features in the outer regions of the nebulae’s ring (right).
+  There are some 20,000 dense globules in the nebula, which are rich in molecular
+  hydrogen. In contrast, the inner region shows very hot gas. The main shell contains
+  a thin ring of enhanced emission from carbon-based molecules known as polycyclic
+  aromatic hydrocarbons (PAHs). Roughly ten concentric arcs are located just beyond
+  the outer edge of the main ring. The arcs are thought to originate from the interaction
+  of the central star with a low-mass companion orbiting at a distance comparable
+  to that between the Earth and the dwarf planet Pluto. In this way, nebulae like
+  the Ring Nebula reveal a kind of astronomical archaeology, as astronomers study
+  the nebula to learn about the star that created it. [Image description: This image
+  of the Ring Nebula appears as a distorted doughnut. The nebula’s inner cavity hosts
+  shades of red and orange, while the detailed ring transitions through shades of
+  yellow in the inner regions and blue/purple in the outer region. The ring’s inner
+  region has distinct filament elements.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2320e/L{1}X{2}Y{3}.png
+name: Webb captures detailed beauty of Ring Nebula (MIRI image - cropped)
+ra_hr: 18.89308337816382
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2320e/thumb.jpg
+zoom_level: 0.2750193516510847
+---
+_uuid: 786b0987-c329-4ae7-96f4-ecb0ce856c02
+classification: ''
+constellation: LYR
+data_set_type: Sky
+dec_deg: 33.028761143984845
+description: This image from the NASA/ESA Hubble Space Telescope of the Ring Nebula
+  was released in 2013 and has since become one of the observatory’s most well-known
+  images. From Earth’s perspective, the nebula looks roughly elliptical. However,
+  astronomers combined ground-based data with observations by Hubble to explore the
+  object’s structure, evolution, physical conditions and motion. This research revealed
+  that the nebula is shaped like a distorted doughnut.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2320f/L{1}X{2}Y{3}.png
+name: Hubble’s view of the Ring Nebula (2013 image - cropped)
+ra_hr: 18.89308337816382
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2320f/thumb.jpg
+zoom_level: 0.2750193516510847
+---
+_uuid: e192218c-866c-419d-b56a-ad7e28c14eb2
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: 1.2429607441365038
+description: 'In this image of the Serpens Nebula from the Near-InfraRed Camera (NIRCam)
+  on the NASA/ESA/CSA James Webb Space Telescope, astronomers found a grouping of
+  aligned protostellar outflows within one small region (the top left corner). In
+  the Webb image, these jets are identified by bright red clumpy streaks, which are
+  shockwaves caused when the jet hits the surrounding gas and dust. The Serpens Nebula,
+  located 1 300 light-years from Earth, is home to a particularly dense cluster of
+  newly forming stars (around 100 000 years old), some of which will eventually grow
+  to the mass of our Sun. This region has been home to other coincidental discoveries,
+  including the flapping ''Bat Shadow'', which earned its name when 2020 data from
+  the NASA/ESA Hubble Space Telescope revealed it to flap, or shift. This feature
+  is visible at the centre of the Webb image. To the right of the ''Bat Shadow'' lies
+  another intriguing feature—an eye-shaped crevice, which appears as if a star is
+  bursting through. However, astronomers say looks may be deceiving here. This could
+  just be where gases of different densities are layered on top of one another, similar
+  to what is seen in the famous Pillars of Creation. And to the right of that, an
+  extremely dark patch could be a similar occurrence. The gas and dust here are so
+  dense in comparison to the rest of the region that no near-infrared light is getting
+  through. [Image description: A rectangular image with black vertical rectangles
+  at the bottom left and top right that indicate missing data. A young star-forming
+  region is filled with wispy orange, red, and blue layers of gas and dust. The upper
+  left corner of the image is filled with mostly orange dust, and within that orange
+  dust are several small red plumes of gas that extend from the top left to the bottom
+  right, at the same angle. The centre of the image is filled with mostly blue gas.
+  At the centre, there is one particularly bright star that has an hourglass shadow
+  above and below it. To the right of that is what looks like a vertical eye-shaped
+  crevice with a bright star at the centre. The gas to the right of the crevice is
+  a darker orange.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2415a/L{1}X{2}Y{3}.png
+name: Serpens Nebula (NIRCam image)
+ra_hr: 18.49883383654696
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2415a/thumb.jpg
+zoom_level: 0.7095493378577011
+---
+_uuid: 9fbbb5ea-710a-4483-9115-2a3e4cefe6d5
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: 1.2634712975648625
+description: 'This image from the NASA/ESA/CSA James Webb Space Telescope shows a
+  portion of the Serpens Nebula, where astronomers have discovered a grouping of aligned
+  protostellar outflows. These jets are signified by bright clumpy streaks that appear
+  red, which are shock waves from the jet hitting surrounding gas and dust. Here,
+  the red colour represents the presence of molecular hydrogen and carbon monoxide.
+  Typically these objects have a variety of orientations within one region. Here,
+  however, they are all slanted in the same direction, to the same degree, like sleet
+  pouring down during a storm. Researchers say the discovery of these aligned objects,
+  made possible only by Webb’s exquisite spatial resolution and sensitivity at near-infrared
+  wavelengths, is providing information about the fundamentals of how stars are born.
+  [Image description: A portion of the young star-forming region known as the Serpens
+  Nebula. It’s filled with wispy orange and red layers of gas and dust and within
+  that orange dust are several small red plumes of gas that extend from the top left
+  to the bottom right, at the same angle. There are wispy blue filaments of gas in
+  the bottom right corner of the image. Small points of light are sprinkled across
+  the field; the brightest sources in the field have the eight-pointed diffraction
+  spikes that are characteristic of the James Webb Space Telescope.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2415b/L{1}X{2}Y{3}.png
+name: Serpens Nebula North – aligned outflows crop (NIRCam image)
+ra_hr: 18.49726685008825
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2415b/thumb.jpg
+zoom_level: 0.3885960273651019
+---
+_uuid: 7c422883-815d-41d5-9c7c-059d193ff477
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: 1.2430542550732293
+description: 'This image shows the centre of the Serpens Nebula as seen by the NASA/ESA/CSA
+  James Webb Space Telescope’s Near-InfraRed Camera (NIRCam). The Serpens Nebula,
+  located 1300 light-years from Earth, is home to a particularly dense cluster of
+  newly forming stars (about 100 000 years old), some of which will eventually grow
+  to the mass of our Sun. Webb’s image of this nebula revealed a grouping of aligned
+  protostellar outflows (seen in the top left). These jets are identified by bright
+  clumpy streaks that appear red, which are shock waves caused when the jet hits the
+  surrounding gas and dust. Throughout this image filaments and wisps of different
+  hues represent reflected starlight from still-forming protostars within the cloud.
+  In some areas, there is dust in front of that reflection, which appears here in
+  an orange, diffuse shade. [Image description: A young star-forming region is filled
+  with wispy orange, red, and blue layers of gas and dust. The upper left corner of
+  the image is filled with mostly orange dust and within that orange dust are several
+  small red plumes of gas that extend from the top left to the bottom right, at the
+  same angle. The centre of the image is filled with mostly blue gas. At the centre,
+  there is one particularly bright star that has an hourglass shadow above and below
+  it. To the right of that is what looks like a vertical eye-shaped crevice with a
+  bright star at the centre. The gas to the right of the crevice is a darker orange.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2415c/L{1}X{2}Y{3}.png
+name: Serpens Nebula centre crop (NIRCam image)
+ra_hr: 18.498831967430704
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2415c/thumb.jpg
+zoom_level: 0.708947251170595
+---
+_uuid: 5f0689cd-63ac-49fc-8d50-f3e26610d0fe
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: -4.661549900558748
+description: 'Shimmering ejections emitted by two actively forming stars make up Lynds
+  483 (L483). High-resolution near-infrared light captured by the NASA/ESA/CSA James
+  Webb Space Telescope shows incredible new detail and structure within these lobes,
+  including asymmetrical lines that appear to run into one another. L483 is 650 light-years
+  away in the constellation Serpens. [Image description: At the centre is a thin vertical
+  cloud known as Lynds 483 (L483) that is roughly shaped like an hourglass with irregular
+  edges. The lower lobe is slightly cut off. The top lobe is seen in full, petering
+  out at the top.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2503a/L{1}X{2}Y{3}.png
+name: Actively forming star system Lynds 483 (NIRCam image)
+ra_hr: 18.292104161851608
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2503a/thumb.jpg
+zoom_level: 0.39873413738998986
+---
 _uuid: 2ef6fc90-b7e9-4112-abe5-a6a064f063f9
 classification: ''
 constellation: SER2

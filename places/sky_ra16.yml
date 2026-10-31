@@ -2237,3 +2237,131 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Massive Young Stars Trigger Stellar Birth;RCW 108
 ra_hr: 16.6663888888889
 zoom_level: 4.5
+---
+_uuid: 34142258-3c86-4a67-b1b0-779c2b7e68d9
+classification: ''
+constellation: OPH
+data_set_type: Sky
+dec_deg: -24.441482590229107
+description: 'This shining disc in the middle of a dark, empty background is a protoplanetary
+  disc named Oph 163131, and it’s one of two featured for this month''s ESA/Webb Picture
+  of the Month. Also catalogued as 2MASS J16313124-2426281, it is located about 480
+  light-years away in our galaxy, in the constellation Ophiuchus. Its close location,
+  almost edge-on inclination of 85 degrees (where 90 would be perfectly edge-on) and
+  its considerable size of 66 billion kilometres across — several times wider than
+  our Solar System — make it an excellent target for studying these kinds of planet-forming
+  discs. At the centre of Oph 163131 is a newly formed star that’s still wrapped in
+  a thick disc of gas and dust. Eventually the new star will disperse all the dust
+  with its ferocious radiation, but before that happens there’s a chance for the dust
+  to clump together and grow into pebbles, planetesimals and eventually planets —
+  hence, a protoplanetary disc. Whether planets appear, and what kind of planets they
+  are, depends on how larger and smaller dust grains migrate in the disc. An edge-on
+  view like this shows us if dust grains are settling into a layer of large dust grains
+  at the core of the disc. Such a layer is critical for dust grains to further grow
+  and begin forming planets, and the thicker it is, the better. This image of Oph
+  163131 combines near- and mid-infrared data from Webb’s NIRCam and MIRI instruments
+  with visible light captured by the NASA/ESA Hubble Space Telescope and radio waves
+  from the Atacama Large Millimeter/submillimeter Array (ALMA). Where Hubble and Webb
+  each image tiny dust grains only micrometres across, ALMA sees larger dust grains
+  that are about a milimetre in size, which are concentrated in the central plane
+  of the disc. Combined with the very slightly off-edge perspective, this creates
+  a particularly clear picture of the structure of Oph 163131. Small dust grains floating
+  above and below the disc scatter light from the star and reflect it at us, creating
+  the purple arcs above and below the centre; these are most clearly seen by Hubble
+  and Webb’s NIRCam. The disc of dust itself, here shown in yellow, is made of the
+  larger dust grains visible to ALMA. It distinctly shows two rings separated by a
+  gap — potentially a region where a planet is already forming and clearing up dust
+  in the disc. The red, green and blue glow around the disc that extends far into
+  the background appears most brightly in the mid-infrared images from MIRI, combined
+  with the distinctive diffraction spikes from Webb at the longer wavelength observations.
+  Taken together, the observations describe a disc where the large dust grains that
+  create an environment where planets can form have been concentrated into the centre,
+  and might even have created a clump of gas that is well on its way to becoming a
+  new planet. We get a unique view of this very interesting protoplanetary disc out
+  of the bargain, too! [Image Description: A protoplanetary disc around a newly-formed
+  star. The disc itself appears to be made of two flat, purple lobes that meet in
+  the centre. Yellow rings are visible in the midplane. The whole disc glows brightly,
+  shining bands of green, blue and red light into space around it. Several stars are
+  visible nearby as white dots. Distant galaxies also appear as large, dark orange
+  spirals and other shapes, fading into the black background.] Links Oph 163131 and
+  Tau 042021 side by side Annotated close-up of Oph 163131 Image of Tau 042021'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2603b/L{1}X{2}Y{3}.png
+name: Oph 163131 (wide view)
+ra_hr: 16.52535196501761
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2603b/thumb.jpg
+zoom_level: 0.05585577475340231
+---
+_uuid: 694948e5-58e5-4562-be11-b6b4a875a579
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -36.23061929383705
+description: 'The NASA/ESA/CSA James Webb Space Telescope’s view of planetary nebula
+  NGC 6072 in the near-infrared shows a complex scene of multiple outflows expanding
+  out at different angles from a dying star at the centre of the scene. These outflows
+  push gas toward the equatorial plane, forming a disc. Astronomers suspect there
+  is at least one other star interacting with the material cast off by the central
+  dying star, creating the abnormal appearance of this planetary nebula. In this image,
+  the red areas represent cool molecular gas, for example, molecular hydrogen. [Image
+  description: colourful mostly red image of near-infrared light from a glowing cloud
+  with a distorted, asymmetrical shape, illuminated from within by a bright central
+  star. The asymmetrical shape resembles paint splattered on the ground. In the centre
+  of this image, a light blue glow casts over areas of dark pockets that appear dark
+  blue and are traced with orange material. It has a clumpy appearance. The shells
+  become a deeper red with distance from the centre. The shells appear as lobes that
+  push gas toward the equatorial plane, forming a disc. The background of the image
+  is black and speckled with tiny bright stars and distant galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2514a/L{1}X{2}Y{3}.png
+name: NGC 6072 (NIRCam image)
+ra_hr: 16.216308105370324
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2514a/thumb.jpg
+zoom_level: 0.40733210751083715
+---
+_uuid: a4a8aea1-ae53-4b0e-a19b-039cc6edd424
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -36.23046036989109
+description: 'The mid-infrared view of planetary nebula NGC 6072 from the NASA/ESA/CSA
+  James Webb Space Telescope shows expanding circular shells around the outflows from
+  the dying central star, which astronomers suspect is that pinkish white dot at the
+  centre of the image. The longer wavelengths captured by Webb’s MIRI (Mid-Infrared
+  Instrument) highlight the dust being cast off by the central dying star. In this
+  image, the blue represents cool molecular gas seen in red in the image from Webb’s
+  NIRCam (Near-Infrared Camera) due to colour mapping. [Image description: colourful,
+  mostly blue, image of mid-infrared light from a glowing cloud with a distorted,
+  asymmetrical shape. A star at the centre of the image is a small point of pinkish-white
+  light. The asymmetrical shape of the expanding cloud of gas and dust resembles paint
+  splattered on the ground. The filaments of the expanding shells are wispy, and mostly
+  white and blue. The shells appear as lobes that push gas toward the equatorial plane,
+  forming a disc. A perfect circle of white-ish blue dust traces the outer edges of
+  the shells. The background of the image is black and speckled with tiny bright stars
+  and distant galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2514b/L{1}X{2}Y{3}.png
+name: NGC 6072 (MIRI image)
+ra_hr: 16.216188586070334
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2514b/thumb.jpg
+zoom_level: 0.3449119921260151
+---
+_uuid: 494bc07b-70ae-4bfc-a9f1-474ea099f44c
+classification: ''
+constellation: NOR
+data_set_type: Sky
+dec_deg: -51.712248539812
+description: 'This NASA/ESA/CSA James Webb Space Telescope’s mid-infrared image shows
+  four coiled shells of dust around a pair of Wolf-Rayet stars known as Apep for the
+  first time. Previous observations by other telescopes showed only one. Webb’s data,
+  combined with observations from the European Southern Observatory’s Very Large Telescope
+  (VLT) in Chile, confirmed that the two Wolf-Rayet stars sail past one another approximately
+  every 190 years. Over each orbit, they make a close pass for 25 years, producing
+  and spewing amorphous carbon dust. Webb’s new data also confirmed that there are
+  three stars gravitationally bound to one another in this system. Holes are “sliced”
+  into these shells by the third star, a massive supergiant. Learn more about this
+  result here. [Image description: Four dust shells in Wolf-Rayet Apep expand away
+  from three central stars that appear as a single pinpoint of light. The shells are
+  curved, and the interior shell looks like a backward lowercase e shape.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/wolf-rayet-apep/L{1}X{2}Y{3}.png
+name: Wolf-Rayet Apep (MIRI Image)
+ra_hr: 16.014016711779075
+thumbnail: https://data1.wwtassets.org/feeds/jwst/wolf-rayet-apep/thumb.jpg
+zoom_level: 0.1987192047475505

@@ -1547,3 +1547,221 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: NGC 891
 ra_hr: 2.3758333333333335
 zoom_level: 2.331666666666667
+---
+_uuid: 83895864-1941-4fd9-b52d-d0df870455c8
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -0.01338883232212217
+description: 'This latest Picture of the Month from the NASA/ESA/CSA James Webb Space
+  Telescope features Messier 77 (M77), a barred spiral galaxy famous and appreciated
+  among astronomers for its combination of relative proximity and spectacular features
+  to study. It is located 45 million light-years away in the constellation Cetus (The
+  Whale). This new image from Webb’s Mid-Infrared Instrument (MIRI) highlights its
+  swirling spiral arms, the dust in its disc and its piercingly bright core like never
+  before. At the heart of M77 is a compact region filled with hot gas that handily
+  outshines the rest of the galaxy put together, even overcoming the light-gathering
+  capacity of Webb’s cameras. This is an active galactic nucleus (AGN), and it’s powered
+  by M77’s central supermassive black hole, which is eight million times as massive
+  as our Sun. Gas in the galaxy’s central regions is pulled by the strong gravity
+  into a tight and rapid orbit around the black hole, where it crashes together and
+  heats up, releasing tremendous amounts of radiation. The bright orange lines appearing
+  to radiate out from the centre of M77 are not actually a feature of the galaxy:
+  they are a type of distortion that arises from the optical design of the telescope.
+  Called diffraction spikes, they are created because the intense light from the unresolved
+  AGN is bent (“diffracted”) very slightly at the edges of Webb’s hexagonal mirror
+  panels and around one of the struts that hold up its secondary mirror. This distinctive
+  six-plus-two-pointed pattern is the same for any image taken by Webb. For diffraction
+  spikes to appear, the light source has to be very bright and very concentrated,
+  so they’re most often seen on stars. But in some galaxies, as here, the nucleus
+  is bright and compact enough to make diffraction spikes appear as well. M77 is not
+  just known for its easily visible AGN, but also as a prolific star-forming galaxy.
+  The near-infrared image of M77 reveals a bar spanning across the central region,
+  which doesn’t appear in visible-light images of the galaxy. The bar is enclosed
+  by a bright ring, called a starburst ring, formed by the inner ends of M77’s two
+  spiral arms. Starburst regions in galaxies are typified by extremely high star-formation
+  rates. This ring is more than 6 000 light-years across and displays intense and
+  widespread starbursts, visible in this image by the densely concentrated orange
+  bubbles all around the ring. Since M77 is relatively close to Earth, this starburst
+  ring is a very well-studied example of the phenomenon. As an active spiral galaxy,
+  M77’s disc is filled with gas and dust which is both a product of and fuel for future
+  star formation. Webb’s MIRI fills out our view of the galaxy with the glow of interstellar
+  dust grains emitted at longer wavelengths, shown here in blue. The dust forms a
+  huge vortex of smoky, swirling filaments with cavities in between. The glowing orange
+  bubbles carved out by newly formed star clusters are also prominently visible out
+  along the galaxy’s arms. Beyond Webb’s quite focused view, M77’s arms join into
+  a faint extended ring of hydrogen gas thousands of light-years wide, where yet more
+  star formation is taking place. Vast, tenuous filaments of hydrogen gas stretch
+  across this ring and out into intergalactic space, forming an outermost layer around
+  the galaxy. For the tentacle-like appearance of these filaments, M77 is also named
+  the Squid Galaxy. The data used to create this image are from an observing programme
+  (#3707) that surveyed massive, nearby, star-forming galaxies to create a rich dataset
+  useful for many scientific investigations. As can be seen here, the stunning resolution
+  of Webb’s instruments reveals star clusters and rich reservoirs of gas, which can
+  be used to explore the cycle of star formation, life and death in these and other
+  galaxies. [Image Description: A spiral galaxy shown in mid-infrared light. The image
+  is dominated by an extremely bright glow from the galaxy’s nucleus. Six large and
+  two smaller rays of light emit from the centre, which are diffraction spikes created
+  by the telescope’s optics. The galaxy’s spiral arms are visible by two lines of
+  glowing orange bubbles which whirl out into the disc. Swirling blue clouds of dust
+  make up the rest of the galaxy.] Links Messier 77 (MIRI + NIRCam image) Messier
+  77 (NIRCam image) Image on ESA website Space Sparks episode Pan video Transition
+  video'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2604a/L{1}X{2}Y{3}.png
+name: A beacon of light in swirls of dust
+ra_hr: 2.711287365622407
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2604a/thumb.jpg
+zoom_level: 0.4045394332071024
+---
+_uuid: 04d445b0-7448-4082-95b7-719dbdf214d2
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -0.012372178846000908
+description: 'This latest Picture of the Month from the NASA/ESA/CSA James Webb Space
+  Telescope features Messier 77 (M77), a barred spiral galaxy famous and appreciated
+  among astronomers for its combination of relative proximity and spectacular features
+  to study. It is located 45 million light-years away in the constellation Cetus (The
+  Whale). This new image from Webb highlights its swirling spiral arms, the dust in
+  its disc and its piercingly bright core like never before. At the heart of M77 is
+  a compact region filled with hot gas that handily outshines the rest of the galaxy
+  put together, even overcoming the light-gathering capacity of Webb’s cameras. This
+  is an active galactic nucleus (AGN), and it’s powered by M77’s central supermassive
+  black hole, which is eight million times as massive as our Sun. Gas in the galaxy’s
+  central regions is pulled by the strong gravity into a tight and rapid orbit around
+  the black hole, where it crashes together and heats up, releasing tremendous amounts
+  of radiation. The bright orange lines appearing to radiate out from the centre of
+  M77 are not actually a feature of the galaxy: they are a type of distortion that
+  arises from the optical design of the telescope. Called diffraction spikes, they
+  are created because the intense light from the unresolved AGN is bent (“diffracted”)
+  very slightly at the edges of Webb’s hexagonal mirror panels and around one of the
+  struts that hold up its secondary mirror. This distinctive six-plus-two-pointed
+  pattern is the same for any image taken by Webb. For diffraction spikes to appear,
+  the light source has to be very bright and very concentrated, so they’re most often
+  seen on stars. But in some galaxies, as here, the nucleus is bright and compact
+  enough to make diffraction spikes appear as well. M77 is not just known for its
+  easily visible AGN, but also as a prolific star-forming galaxy. Data in this image
+  from Webb’s Near-Infrared Camera (NIRCam) reveals a bar spanning across the central
+  region, which doesn’t appear in visible-light images of the galaxy. The bar is enclosed
+  by a bright ring, called a starburst ring, formed by the inner ends of M77’s two
+  spiral arms. Starburst regions in galaxies are typified by extremely high star-formation
+  rates. This ring is more than 6 000 light-years across and displays intense and
+  widespread starbursts, visible in this image by the densely concentrated orange
+  bubbles all around the ring. Since M77 is relatively close to Earth, this starburst
+  ring is a very well-studied example of the phenomenon. Beyond the ring and bar,
+  M77’s spiral arms spin lazily out into the disc of the galaxy and beyond. The arms
+  are the location of much of this new star birth, with dense clumps of gas collapsing
+  to form tightly-packed clusters of stars. NIRCam pinpoints the light from these
+  stars along the spiral arms, as well as capturing the glow that suffuses the galaxy
+  from the billions of stars in its disc. Particularly along the southern spiral arm,
+  NIRCam also traces infrared emission at slightly longer wavelengths from complex
+  molecules including polycyclic aromatic hydrocarbons (PAHs). As an active spiral
+  galaxy, M77’s disc is filled with gas and dust which is both a product of and fuel
+  for future star formation. NIRCam picks out the glitter of countless stars spread
+  across the disc, and Webb’s Mid-Infrared Instrument (MIRI) fills out the view with
+  the glow of interstellar dust grains emitted at longer wavelengths, shown here in
+  dark red. The dust forms a huge vortex of smoky, swirling filaments with cavities
+  in between. The data used to create this image are from an observing programme (#3707)
+  that surveyed massive, nearby, star-forming galaxies to create a rich dataset useful
+  for many scientific investigations. As can be seen here, the stunning resolution
+  of Webb’s instruments reveals star clusters and rich reservoirs of gas, which can
+  be used to explore the cycle of star formation, life and death in these and other
+  galaxies. [Image Description: A spiral galaxy shown in infrared light. Six long
+  and two smaller rays of light emit from the centre, which are diffraction spikes
+  created by the telescope’s optics. A glowing bar spans across the centre. A glittering
+  ring of stars and dust surrounds the bar; at each side, the ring splits off into
+  a spiral arm that winds outwards. Faint, dark red dust clouds swirl throughout the
+  rest of the disc, backed by a pale glow from all the galaxy’s stars.] Links Messier
+  77 (MIRI image) Messier 77 (NIRCam image) Space Sparks episode Pan video Transition
+  video'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2604b/L{1}X{2}Y{3}.png
+name: Messier 77 (MIRI + NIRCam)
+ra_hr: 2.7112691789116363
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2604b/thumb.jpg
+zoom_level: 0.3624582890008172
+---
+_uuid: 33554bfd-7c45-456b-af80-667c1abcc137
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -0.011714461660477148
+description: 'This latest Picture of the Month from the NASA/ESA/CSA James Webb Space
+  Telescope features Messier 77 (M77), a barred spiral galaxy famous and appreciated
+  among astronomers for its combination of relative proximity and spectacular features
+  to study. It is located 45 million light-years away in the constellation Cetus (The
+  Whale). This new image, from Webb’s Near-Infrared Camera (NIRCam), highlights its
+  swirling spiral arms, the dust in its disc and its piercingly bright core like never
+  before. At the heart of M77 is a compact region filled with hot gas that handily
+  outshines the rest of the galaxy put together, even overcoming the light-gathering
+  capacity of Webb’s cameras. This is an active galactic nucleus (AGN), and it’s powered
+  by M77’s central supermassive black hole, which is eight million times as massive
+  as our Sun. Gas in the galaxy’s central regions is pulled by the strong gravity
+  into a tight and rapid orbit around the black hole, where it crashes together and
+  heats up, releasing tremendous amounts of radiation. The starburst pattern radiating
+  from M77’s centre is diffraction spikes that are a feature of the telescope’s optics.
+  They are most often seen from stars, but the bright and compact AGN creates some
+  in this image too. The bright AGN lies within a larger structure that is uniquely
+  highlighted by Webb’s NIRCam. Since its discovery in 1780, M77 has been variously
+  identified as a nebula (before the concept of separate galaxies beyond our own),
+  a star cluster, and an ordinary spiral galaxy. But near-infrared images reveal a
+  bar spanning from the inner end of one spiral arm to the other, a bar which doesn’t
+  appear in visible-light images of the galaxy. Bars in galaxies channel vast amounts
+  of star-forming material through a dense central region, and indeed M77 is an extremely
+  prolific star-forming galaxy thanks to this bar, spawning tens of Suns worth of
+  new stars every year! Beyond the bar, M77’s spiral arms spin lazily out into the
+  disc of the galaxy and beyond. The arms are the location of much of this new star
+  birth, with dense clumps of gas collapsing to form tightly-packed clusters of stars.
+  NIRCam pinpoints the light from these stars along the spiral arms, as well as capturing
+  the glow that suffuses the galaxy from the billions of stars in its disc. Particularly
+  along the southern spiral arm, NIRCam also traces infrared emission at slightly
+  longer wavelengths — shown here in red colours — from complex molecules including
+  polycyclic aromatic hydrocarbons (PAHs). The data used to create this image are
+  from an observing programme (#3707) that surveyed massive, nearby, star-forming
+  galaxies to create a rich dataset useful for many scientific investigations. As
+  can be seen here, the stunning resolution of Webb’s instruments reveals star clusters
+  and rich reservoirs of gas, which can be used to explore the cycle of star formation,
+  life and death in these and other galaxies. [Image Description: A spiral galaxy
+  shown in near-infrared light. Six long, thin rays of light emit from the centre,
+  which are diffraction spikes created by the telescope’s optics. A glowing bar spans
+  across the centre. A glittering orange ring of stars and dust surrounds the bar;
+  at each side, the ring splits off into a spiral arm that winds outwards, traced
+  by dark red dust and more glowing orange spots. The galaxy’s disc is a pale glow.]
+  Links Messier 77 (MIRI + NIRCam image) Messier 77 (MIRI image) Space Sparks episode
+  Pan video Transition video'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2604c/L{1}X{2}Y{3}.png
+name: Messier 77 (NIRCam)
+ra_hr: 2.711271916762085
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2604c/thumb.jpg
+zoom_level: 0.37351704903198085
+---
+_uuid: cce4c04f-fa43-447c-b686-95698a337984
+classification: ''
+constellation: CAS
+data_set_type: Sky
+dec_deg: 58.39389830076326
+description: 'The NASA/ESA/CSA James Webb Space Telescope has observed the very outskirts
+  of our Milky Way galaxy. Known as the Extreme Outer Galaxy, this region is located
+  more than 58 000 light-years from the Galactic centre. To learn more about how a
+  local environment affects the star formation process within it, a team of scientists
+  directed the telescope’s NIRCam (Near-InfraRed Camera) and MIRI (Mid-InfraRed Instrument)
+  towards a total of four star-forming areas within Digel Clouds 1 and 2: 1A, 1B,
+  2N, and 2S. In the case of Cloud 2S, shown here, Webb revealed a luminous main cluster
+  that contains newly formed stars. Several of these young stars are emitting extended
+  jets of material from their poles. To the main cluster’s top right is a sub-cluster
+  of stars, a feature that scientists previously suspected to exist but has now been
+  confirmed with Webb. Additionally, the telescope revealed a deep sea of background
+  galaxies and red nebulous structures that are being carved away by winds and radiation
+  from nearby stars. [Image description: At centre is a compact star cluster composed
+  of luminous red, blue, and white points of light. Faint jets with clumpy, diffuse
+  material extend in various directions from the bright cluster. Above and to the
+  right is a smaller cluster of stars. Translucent red wisps of material stretch across
+  the scene, though there are patches and a noticeable gap in the top left corner
+  that reveal the black background of space. Background galaxies are scattered across
+  this swath of space, appearing as small blue-white and orange-white dots or fuzzy,
+  thin discs. There is one noticeably larger blue-white point with diffraction spikes,
+  a foreground star in the upper right.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2422a/L{1}X{2}Y{3}.png
+name: Digel Cloud 2S
+ra_hr: 2.808289150776243
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2422a/thumb.jpg
+zoom_level: 0.22078242583181004

@@ -6724,3 +6724,453 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Witch Head Nebula
 ra_hr: 5.045833333333333
 zoom_level: 56.39666666666667
+---
+_uuid: df0aec7c-5715-40f5-a033-8ebecd80ce70
+classification: ''
+constellation: COL
+data_set_type: Sky
+dec_deg: -34.24934365786167
+description: 'Featured in this NASA/ESA/CSA James Webb Space Telescope Picture of
+  the Month is the spiral galaxy NGC 2090, located in the constellation Columba. This
+  combination of data from Webb’s MIRI and NIRCam instruments shows the galaxy’s two
+  winding spiral arms and the swirling gas and dust of its disc in magnificent and
+  unique detail. This was one of the group of galaxies studied early on by the NASA/ESA
+  Hubble Space Telescope, observing Cepheid variable stars in it as part of refining
+  the measurement of the Hubble constant. The Cepheid-based measurement from that
+  study in 1998 put NGC 2090 as 37 million light-years away; the newest measurements
+  have NGC 2090 slightly farther away, at 40 million light-years. Hubble is to this
+  day surveying galaxies in visible and ultraviolet light; alongside this Webb image
+  a new Hubble image of NGC 2090 has also been published this week, which you can
+  find here. Before and since that project, NGC 2090 has been well studied as a very
+  prominent nearby example of star formation. It has been described as a flocculent
+  spiral, meaning a spiral galaxy with a patchy, dusty disc and arms that are flaky
+  or not visible at all. Visible-light images show this well, but the near-infrared
+  data from NIRCam used in this image reveal the spiral arms with remarkable clarity.
+  NIRCam also picks up bright light from stars, displayed by the blue colours most
+  visible in the centre. Meanwhile, mid-infrared light emitted mainly by the important
+  carbon-based compounds known as polycyclic aromatic hydrocarbons along the many
+  strands of gas and dust is captured by MIRI and shown here in red. These data on
+  NGC 2090 were collected as part of an observing programme (#3707) taking a census
+  of nearby massive, star-forming galaxies much like it. These galaxies are at just
+  the right distance, with the right size and level of activity, that Webb’s instruments
+  can capture a comprehensive picture of the star-forming activity, including the
+  tightly-bound clusters that stars often form in, and the clouds of gas in the galaxy
+  in which stars can be born. The rich collection of detailed images like this one
+  will be of value to astronomers studying this area for years to come. [Image Description:
+  A spiral galaxy with a wide, oval-shaped disc. It has a shining spot at the centre
+  from which two curving, pale red spiral arms emerge, wrapping once each around the
+  galaxy. They’re surrounded by a whirl of bright threads and patches of dust, with
+  spots of star formation scattered throughout. The glow of the disc fades smoothly
+  into the background where some patches of dust can be seen, as well as foreground
+  stars.] Links Slider Tool: Webb and Hubble''s views of NGC 2090 Video: Pan of NGC
+  2090 Video: Hubble and Webb''s views of NGC2090 Image on ESA website'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2411a/L{1}X{2}Y{3}.png
+name: Tracing spiral arms in infrared
+ra_hr: 5.783799308559617
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2411a/thumb.jpg
+zoom_level: 0.36283907070729043
+---
+_uuid: b8ee04a8-e0e8-44e2-9177-5274d60d6fbb
+classification: ''
+constellation: COL
+data_set_type: Sky
+dec_deg: -34.24936304534071
+description: 'Featured in this new NASA/ESA Hubble Space Telescope Picture of the
+  Week is the spiral galaxy NGC 2090, located in the constellation Columba. This galaxy
+  is notable as a part of the group of galaxies studied in Hubble’s Extragalactic
+  Distance Scale Key Project, which aimed to determine a new state-of-the-art value
+  for the Hubble constant, one of the then-new telescope’s primary science goals.
+  The contribution of NGC 2090 was in calibrating the Tully-Fisher (TF) distance method,
+  by observing Cepheid variable stars in the galaxy. The Cepheid-based measurement
+  from that study in 1998 put NGC 2090 as 37 million light-years away; the newest
+  measurement from 2020, using the TF method, has NGC 2090 slightly farther away,
+  at 40 million light-years. Before and since that project, NGC 2090 has been well
+  studied as a very prominent nearby example of star formation. It has been described
+  as a flocculent spiral, meaning a spiral galaxy with a patchy, dusty disc and arms
+  that are flaky or not visible at all. This Hubble image shows well why NGC 2090
+  earned that description, but its spiral arms do appear among the dust as winding
+  lanes of light. NGC 2090 is a galaxy still full of activity, with clusters of star
+  formation at various stages of evolution spread across the disc. Examining star
+  formation and the movement of matter in galaxies was the motivation for these Hubble
+  observations, taken in October of this year. This image has been adjusted slightly
+  to compare with the image from Webb. See the original here. [Image Description:
+  A spiral galaxy with a wide, oval-shaped disc. It has a shining spot at the centre
+  which is surrounded by a whirl of dark threads and patches of dust, all atop a luminous
+  disc. Some brighter lanes curving through the disc indicate the galaxy’s spiral
+  arms. The glow of the disc fades smoothly into a dark background where faint, extended
+  patches of dust can be seen, as well as some foreground stars.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2411b/L{1}X{2}Y{3}.png
+name: Viewing a flaky disc
+ra_hr: 5.7837995299655764
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2411b/thumb.jpg
+zoom_level: 0.3630438020917958
+---
+_uuid: 438d321f-9cd2-46c8-92c7-de44fe1206b8
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.1105835008474525
+description: 'For this NASA/ESA/CSA James Webb Space Telescope Picture of the Month
+  we return to the constellation Orion (the Hunter), a location familiar to Webb.
+  This area of the sky is replete with star-forming clouds that make up a complex
+  hundreds of light-years across. We find ourselves in the giant molecular cloud Orion
+  A, of which the familiar Orion Nebula (also known as M42) is just a part; Webb has
+  taken both close-up and wide-angle looks at M42 before. The target of these observations,
+  however, requires us to look behind the Orion Nebula. Behind the stars, gas and
+  dust of M42 is a long, massive filament of cold gas and dust called (somewhat confusingly)
+  the Orion Molecular Clouds, which is divided into four parts, OMC-1 through OMC-4.
+  OMC-1 sits immediately behind M42, to the north are OMC-2 and OMC-3, and OMC-4 lies
+  to the south. This image shows just a small, northern portion of OMC-2, located
+  1280 light-years from Earth and a little north of the Orion Nebula. Every stage
+  of star formation — from the youngest stellar embryos, to protoplanetary discs,
+  to newly-minted pre-main sequence stars — is contained within just this scene, which
+  stretches 150 light-years across. The intense star-forming activity has produced
+  an impressive display of billowing outflows and sparkling stars atop swirling layers
+  of gas and dark, obscuring clouds. Molecular clouds such as OMC-2 are vast clumps
+  of gas much more dense than the rest of interstellar space. This density allows
+  complex molecules to form, protected from the radiation given off by other stars,
+  and it means that gravity can cause the cloud to collapse and form stars. The earliest
+  stage of this process is a protostar - a growing star that is being fed gas from
+  the surrounding cloud through a spinning disc of gas. As gas falls onto the protostar,
+  it heats up, powering the glow of the protostar. The immense amount of energy acquired
+  during this process is unleashed in fierce jets of gas from the poles of the star,
+  frequently seen as twin glowing outflows that mark the location of a protostar.
+  The abundance of protostars forming here in OMC-2 has created many spectacular outflows,
+  large and small. Jets emitted from the young stars form high-speed shockwaves that
+  sweep through the dense material around them; where the shockwaves are impacting
+  the gas, it heats up and glows brightly, creating sharp ridges. Zoom in to observe
+  the fine details in these shockwaves, as well as spot the smaller outflows from
+  younger protostars. See if you can spot the location of hidden protostars, still
+  so deeply obscured by their dusty cradles that they can’t be seen directly, by following
+  outflows! Compare these very young protostars to the most evolved examples: the
+  large, bright stars which have cleared away the clouds that surrounded them and
+  now illuminate OMC-2. Webb’s Near-Infrared Camera (NIRCam) was used to capture this
+  view of OMC-2. The thick gas and dust in and around the Orion Nebula blocks any
+  light coming from OMC-2 at visible wavelengths, and the clouds in OMC-2 itself obscure
+  the protostars that astronomers really want to find. Only in the infrared do we
+  see these protostars begin to shine out from their cocoons of dust. In many places,
+  the cold dust is so dense that it absorbs all or almost all light, creating dark
+  globules. Orange, brown and some of the red colours mark warmer dust that absorbs
+  some light and emits some of its own. The yellow to green gradient is largely emission
+  from polycyclic aromatic hydrocarbons (PAHs), while light from stars and protostars
+  scattered by dust grains is seen here primarily as blue and cyan hazes. Gas heated
+  by the outflows creates the detailed, glowing red ridges. The data was collected
+  in observing programme #5804, which aims to study the star formation in OMC-2 and
+  its immediate neighbour, OMC-3. Since these molecular clouds are so near to Earth,
+  they are excellent laboratories to learn about the earliest stages of stellar evolution.
+  Astronomers will use the data from Webb to investigate how the many outflows affect
+  star formation in the two regions, how the ultraviolet emission from the young stars
+  impacts chemistry in the circumstellar discs which one day will form planets, and
+  how gas and dust accretes onto the tens of protostars in the region. [Image Description:
+  An area inside a star-forming molecular cloud. The background is covered with layers
+  of gas and dust in blue, green and yellowish colours. Thicker clumps of cold dust,
+  dark brown to black, block out light completely. Stars lie among and atop the clouds,
+  from small orange ones to large white or blue ones. Waves and streams of glowing
+  whitish gas are created by jets from protostars colliding with the surrounding material.]
+  Links Pan video: OMC-2 Zoom video: OMC-2 Space Sparks episode: OMC-2 Image on ESA
+  website'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2605a/L{1}X{2}Y{3}.png
+name: Webb unveils young stars across every stage of formation
+ra_hr: 5.59058320759968
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2605a/thumb.jpg
+zoom_level: 0.6685785873106589
+---
+_uuid: ef49ec2d-e906-4b06-ae60-5ae9203c08b5
+classification: ''
+constellation: COL
+data_set_type: Sky
+dec_deg: -33.707606053690746
+description: 'In today’s Picture of the Month from the NASA/ESA/CSA James Webb Space
+  Telescope we are taken on a visit to a building site of significant scale. The project
+  is a galaxy cluster named MACS J0553.4-3342, located in the constellation Columba
+  (the Dove). MACS J0553.4-3342 is situated at a redshift of 0.412. Redshift is a
+  measure of how much the cluster’s light has been stretched by the expansion of the
+  Universe over the course of its long journey to Webb’s mirrors; this unassuming
+  number tells us that we are seeing MACS J0553.4-3342 as it was 4.4 billion years
+  in the past. But for a galaxy cluster, this is relatively young. In fact, observations
+  with the NASA/ESA Hubble Space Telescope and other telescopes show a cluster still
+  in the process of being built. MACS J0553.4-3342 is composed of two sub-clusters
+  — roughly equal in mass — that are actively merging. The two subclusters have already
+  slammed through each other and travelled over one million light-years apart, but
+  they will eventually come back together again and again until they finally merge.
+  The construction process is messy, and MACS J0553.4-3342 is filled with extremely
+  hot gas that radiates powerful X-rays. Each subcluster is anchored on an immensely
+  bright and massive elliptical galaxy, which are easily identifiable as the two brightest
+  points in the centre of this scene with the largest glowing halos around them. The
+  many smaller white elliptical galaxies are bound to one of the two subclusters by
+  gravity, and will be incorporated into the final galaxy cluster. This image also
+  features many foreground galaxies — spirals and dusty discs that are unrelated to
+  MACS J0553.4-3342 — and prominent bright stars in our own Milky Way galaxy. Even
+  mid-way through its construction, the titanic clumps of matter swirling around in
+  this galaxy cluster have built a device that is already very useful for us here
+  on Earth: a gravitational lens. The extreme and concentrated mass in MACS J0553.4-3342
+  curves light with its gravity, similar to how a glass lens bends and focuses light.
+  In this image you can see prominent orange, stretched-out arcs alongside each of
+  the subclusters. These arcs are images of distant background galaxies, whose light
+  has been warped by the galaxy cluster’s gravitational pull. The arc on the left
+  side, three bright spots joined together, is actually three images of a single background
+  galaxy! A forest of smaller arcs and lines are scattered across the image too; such
+  a fantastic view appears in few other places in the Universe. Look in the right
+  spot, however, and this galaxy cluster turns from a distorting funhouse mirror into
+  a precision scientific device. The gravitational lensing focuses light, magnifying
+  objects and enhancing their brightness so if they lie in exactly the right place,
+  background galaxies and even individual stars that would have been far too faint
+  and distant to spot will be made visible. By carefully mapping out the mass of the
+  cluster, researchers can reconstruct where and how strongly it distorts light from
+  our point of view, then search for serendipitously-magnified distant objects to
+  study. The arcs we can see in MACS J0553.4-3342 already show a few galaxies from
+  less than a billion years after the Big Bang. This image, taken with Webb’s Near-Infrared
+  Camera (NIRCam), stems from a survey programme named VENUS (#6882). Astronomers
+  aimed to create a collection of deep, high-quality images of massive galaxy clusters
+  like MACS J0553.4-3342 across a wide range of infrared wavelengths, greatly expanding
+  the area covered by Webb’s sensitive instruments. Researchers can then scour the
+  clusters for distant and faint objects that have been brightened through gravitational
+  lensing, from young galaxies and low-mass black holes to supernova explosions and
+  individual stars. Gravitational lensing has been key to many of Webb’s most dramatic
+  discoveries in recent years, and having many more examples of it allows us to systematically
+  study the distant past and the evolutionary stages of the galaxies, stars and black
+  holes we see today. [Image Description: A galaxy cluster in deep space. It is filled
+  with elliptical galaxies: small, bright white glowing ovals. The two largest elliptical
+  galaxies, left and right of center, are bright cores that radiate light. Unrelated,
+  distant galaxies are scattered around as red smudges and dots.Many of these are
+  stretched out into red arcs and lines by the galaxy cluster’s strong gravity, creating
+  multiple images in places. Numerous spiral galaxies and bright stars appear in the
+  foreground.] Links Pan video: MACS J0553.4-3342 Zoom video: MACS J0553.4-3342'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2606a/L{1}X{2}Y{3}.png
+name: A cosmic construction project
+ra_hr: 5.88972463975812
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2606a/thumb.jpg
+zoom_level: 0.3780003256183931
+---
+_uuid: 40e4bb27-a4f4-4368-88f4-190ca2efa758
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.7545665341955
+description: 'In this Picture of the Month from the NASA/ESA James Webb Space Telescope,
+  we visit a turbulent cauldron of star formation to see what is brewing inside dense
+  clumps of gas. This is a star-forming region named LHA 120-N 159, or simply N159,
+  located 161 000 light-years away in the Large Magellanic Cloud (LMC), one of the
+  satellite galaxies orbiting the Milky Way galaxy. This image spans about 230 light
+  years across. N159 is what astronomers call a H II region: an area of space filled
+  with ionised hydrogen gas. In stellar nurseries such as this one, giant molecular
+  clouds of cold hydrogen gas collapse under gravity, forming new stars. Many of these
+  stars are extremely massive and hot, and their powerful ultraviolet radiation ionises
+  the gas around them. This makes H II regions markers of active star formation, and
+  as the ionised gas radiates light this turns them into the kind of brilliant emission
+  nebula that we see in this image. The fierce stellar winds from these stars sculpt
+  dense ridges and carve open cavities in the gas, which Webb’s Near-Infrared Camera
+  (NIRCam) captures here in great detail. The roiling brew of star formation in N159
+  is closed in by thick, smoky orange clouds that also billow across the centre of
+  the image. The light orange colour signifies light emitted by polycyclic aromatic
+  hydrocarbons, an important carbon-based molecule. The pools of pale blue gas are
+  clouds of H II gas, ionised by the intense ultraviolet light from massive stars.
+  Dark red filaments cross the centre of the image, particularly visible above the
+  blue region on the right side; these are made of cool molecular hydrogen. These
+  filaments are the densest part of the nebula and currently shield new stars from
+  harsh radiation and stellar winds — by zooming in, you can see stars as points of
+  light embedded in these filaments and in the small pillars of orange gas that reach
+  out into the blue bubbles. Eventually, these structures will melt away, leaving
+  their completed stars behind. The LMC is full of H II regions like N159 conveniently
+  located for us to study, including the larger N79 region and the spectacular Tarantula
+  Nebula. They are not exactly like the star-forming regions within our own galaxy:
+  the LMC’s metallicity — its proportion of the elements, which astronomers call “metals”,
+  that are heavier than hydrogen and helium — is significantly lower than in the Milky
+  Way galaxy. This gives researchers an opportunity to study H II regions in conditions
+  that are more similar to those found in the early Universe, helping us to learn
+  about star formation in that time. At less than three million years old, N159 is
+  one of the youngest star-forming regions of the LMC, containing thousands of stars
+  at their earliest stages of formation. Since the advent of space telescopes astronomers
+  have closely examined the stellar populations in N159. The brightly glowing spot
+  on the left side of the image is the Papillon Nebula, an exceptionally compact blob
+  of ionised hydrogen that is thought to be linked to the formation of massive stars:
+  it was resolved for the first time by the NASA/ESA Hubble Space Telescope in 1999.
+  Sections of the sweeping clouds of gas were featured in a pair of images from Hubble
+  in 2025, covering east and west sides of the cloud. The data used in this new Webb
+  image come from an observing programme (#5114) aiming to study and compare stars
+  throughout their different stages of evolution in this giant nebula. In the resulting
+  paper, astronomers delved into N159 with greater detail thanks to these new and
+  comprehensive Webb data. They were able to detect extremely dim stars less than
+  a tenth as massive as the Sun, and distinguish larger, hotter, fully evolved stars
+  from the young stellar objects still wrapped up in the thick clouds where they are
+  born. Their results showed that the western region of N159 has more of these young
+  stellar objects in a more concentrated area, showing that it is at an earlier stage
+  of collapsing to form stars. With the whole sequence of star formation taking place
+  at once, N159 is a unique place to see the evolution of a collapsing molecular cloud
+  up close. [Image Description: A nebula made of clouds of gas and dust with stars
+  forming within. In the centre and out to the left it is filled with thin, wispy
+  blue gas that forms delicate layers. Around this are thicker orange clouds with
+  dark ridges. Thin red filaments of gas cross the centre of the nebula. Glowing bubbles
+  in the gas contain dense, very bright clusters of stars. In the edges, distant stars
+  are visible as bright points on a dark background.] Links N159 wide view Pan video:
+  N159 Zoom video: N159 Space Sparks #32: N159 Image on ESA website Science paper
+  (N. Habel et al.)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2610a/L{1}X{2}Y{3}.png
+name: Stars brewing in a nebulous cauldron
+ra_hr: 5.66470458385642
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2610a/thumb.jpg
+zoom_level: 0.5717210158888612
+---
+_uuid: d16891d2-5227-4b5a-a6ab-d22db79d670e
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.76183114705728
+description: 'In this Picture of the Month from the NASA/ESA James Webb Space Telescope,
+  we visit a turbulent cauldron of star formation to see what is brewing inside dense
+  clumps of gas. This is a star-forming region named LHA 120-N 159, or simply N159,
+  located 161 000 light-years away in the Large Magellanic Cloud (LMC), one of the
+  satellite galaxies orbiting the Milky Way galaxy. This image spans about 230 light
+  years across. N159 is what astronomers call a H II region: an area of space filled
+  with ionised hydrogen gas. In stellar nurseries such as this one, giant molecular
+  clouds of cold hydrogen gas collapse under gravity, forming new stars. Many of these
+  stars are extremely massive and hot, and their powerful ultraviolet radiation ionises
+  the gas around them. This makes H II regions markers of active star formation, and
+  as the ionised gas radiates light this turns them into the kind of brilliant emission
+  nebula that we see in this image. The fierce stellar winds from these stars sculpt
+  dense ridges and carve open cavities in the gas, which Webb’s Near-Infrared Camera
+  (NIRCam) captures here in great detail. The roiling brew of star formation in N159
+  is closed in by thick, smoky orange clouds that also billow across the centre of
+  the image. The light orange colour signifies light emitted by polycyclic aromatic
+  hydrocarbons, an important carbon-based molecule. Left and right of centre, the
+  pools of bright blue gas are clouds of H II gas, ionised by the intense ultraviolet
+  light from massive stars. Dark red filaments cross the centre of the image, particularly
+  visible above the blue region on the right side; these are made of cool molecular
+  hydrogen. These filaments are the densest part of the nebula and currently shield
+  new stars from harsh radiation and stellar winds, but eventually they will also
+  melt away. The LMC is full of H II regions like N159 conveniently located for us
+  to study, including the larger N79 region and the spectacular Tarantula Nebula.
+  They are not exactly like the star-forming regions within our own galaxy: the LMC’s
+  metallicity — its proportion of the elements, which astronomers call “metals”, that
+  are heavier than hydrogen and helium — is significantly lower than in the Milky
+  Way galaxy. This gives researchers an opportunity to study H II regions in conditions
+  that are more similar to those found in the early Universe, helping us to learn
+  about star formation in that time. At less than three million years old, N159 is
+  one of the youngest star-forming regions of the LMC, containing thousands of stars
+  at their earliest stages of formation. Since the advent of space telescopes astronomers
+  have closely examined the stellar populations in N159. The brightly glowing spot
+  on the left side of the image is the Papillon Nebula, an exceptionally compact blob
+  of ionised hydrogen that is thought to be linked to the formation of massive stars:
+  it was resolved for the first time by the NASA/ESA Hubble Space Telescope in 1999.
+  Sections of the sweeping clouds of gas were featured in a pair of images from Hubble
+  in 2025, covering east and west sides of the cloud. The data used in this new Webb
+  image come from an observing programme (#5114) aiming to study and compare stars
+  throughout their different stages of evolution in this giant nebula. In the resulting
+  paper, astronomers delved into N159 with greater detail thanks to these new and
+  comprehensive Webb data. They were able to detect extremely dim stars less than
+  a tenth as massive as the Sun, and distinguish larger, hotter, fully evolved stars
+  from the young stellar objects still wrapped up in the thick clouds where they are
+  born. Their results showed that the western region of N159 has more of these young
+  stellar objects in a more concentrated area, showing that it is at an earlier stage
+  of collapsing to form stars. This image of N159 shows more of the nebula’s surroundings,
+  including its southern region. This area is even less evolved than the western region
+  with little star formation, affording a view of the stars in the LMC. [Image Description:
+  A nebula made of clouds of gas and dust with stars forming within. In the centre
+  large pockets of blue gas are thin and wispy, forming delicate layers. Around this,
+  more so on the right, are thicker orange clouds with dark ridges. Glowing bubbles
+  in the gas contain dense, very bright clusters of stars. The bottom of the image
+  is mostly free of gas and shows distant stars as bright points on a dark background.]
+  Links N159 landscape view Pan video: N159 Zoom video: N159 Space Sparks #32: N159
+  Image on ESA website Science paper'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2610b/L{1}X{2}Y{3}.png
+name: N159 (wide view)
+ra_hr: 5.664541201943447
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2610b/thumb.jpg
+zoom_level: 1.0464758612479652
+---
+_uuid: 9fe837fb-25d9-4d00-a68c-c352ad5c6e43
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.4082360464119645
+description: 'This image is a section of a larger NASA/ESA Hubble Space Telescope
+  mosaic of the entire Orion Nebula, released in 2006. At the centre of the nebula
+  lies a group of four hot, massive stars known as the Trapezium Cluster. In this
+  image, the cluster lies just out of view, off the top-left corner, illuminating
+  the gas visible here. The two large stars in the image are part of another cluster,
+  named θ² Orionis. A number of proplyds are visible among the clouds of the nebula.
+  This Hubble image has been cropped and aligned so that it matches the same area
+  as viewed by Webb with NIRCam. [Image description: A cloudy nebula with two large,
+  bright stars in the bottom-right. The material to the top-left is dull in colour,
+  thick and smoky. A wall of brighter purple material crosses the view in the bottom-right.
+  Beyond this bar, the material is wispier and more sparse.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2315d/L{1}X{2}Y{3}.png
+name: The Orion Bar region (Hubble image)
+ra_hr: 5.5895197501470255
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2315d/thumb.jpg
+zoom_level: 0.3924361719245039
+---
+_uuid: db3a2966-42c8-4d65-899b-ff72655174c1
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.01666634425393
+description: 'The NASA/ESA/CSA James Webb Space Telescope has gazed at the Crab Nebula
+  in the search for answers about the supernova remnant’s origins. Webb’s NIRCam (Near-Infrared
+  Camera) and MIRI (Mid-Infrared Instrument) have revealed new details in infrared
+  light. Similar to the Hubble optical wavelength image released in 2005, with Webb
+  the remnant appears to consist of a crisp, cage-like structure of fluffy red-orange
+  filaments of gas that trace doubly ionised sulphur (sulphur III). Within the remnant’s
+  interior, yellow-white and green fluffy ridges form large-scale loop-like structures,
+  which represent areas where dust particles reside. The area is composed of translucent,
+  milky material. This material is emitting synchrotron radiation, which is emitted
+  across the electromagnetic spectrum but becomes particularly vibrant thanks to Webb’s
+  sensitivity and spatial resolution. It is generated by particles accelerated to
+  extremely high speeds as they wind around magnetic field lines. The synchrotron
+  radiation can be traced throughout the majority of the Crab Nebula’s interior. Locate
+  the wisps that follow a ripple-like pattern in the middle. In the centre of this
+  ring-like structure is a bright white dot: a rapidly rotating neutron star. Further
+  out from the core, follow the thin white ribbons of the radiation. The curvy wisps
+  are closely grouped together, following different directions that mimic the structure
+  of the pulsar’s magnetic field. Note how certain gas filaments are bluer in colour.
+  These areas contain singly ionised iron (iron II). [Image description: An oval nebula
+  with a complex structure against a black background. On the oval''s exterior lie
+  curtains of glowing red and orange fluffy material. Interior to this outer shell
+  lie large-scale loops of mottled filaments of yellow-white and green, studded with
+  clumps and knots. Translucent thin ribbons of smoky white lie within the remnant’s
+  interior, brightest toward its centre.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2326a/L{1}X{2}Y{3}.png
+name: The Crab Nebula
+ra_hr: 5.5757148295773655
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2326a/thumb.jpg
+zoom_level: 0.8094403450491439
+---
+_uuid: 59763ab9-8d5b-40df-b370-dfc0fda3defc
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.01666634425393
+description: This is a 2005 optical image from the NASA/ESA Hubble Space Telescope
+  of the Crab Nebula.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2326d/L{1}X{2}Y{3}.png
+name: Hubble’s view of the Crab Nebula (2005 image)
+ra_hr: 5.5757148295773655
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2326d/thumb.jpg
+zoom_level: 0.8094403450491439
+---
+_uuid: 11ea81e6-e300-4b20-80c6-b790632921a7
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.016349969615597
+description: The NASA/ESA/CSA James Webb Space Telescope dissected the Crab Nebula’s
+  structure, aiding astronomers as they continue to evaluate leading theories about
+  the supernova remnant’s origins. With the data collected by Webb’s NIRCam (Near-Infrared
+  Camera) and MIRI (Mid-Infrared Instrument), a team of scientists were able to closely
+  inspect some of the Crab Nebula’s major components. For the first time ever, astronomers
+  mapped the warm dust emission throughout this supernova remnant. Represented here
+  as fluffy magenta material, the dust grains form a cage-like structure that is most
+  apparent toward the lower left and upper right portions of the remnant. Filaments
+  of dust are also threaded throughout the Crab’s interior and sometimes coincide
+  with regions of doubly ionised sulphur (sulphur III), coloured in green. Yellow-white
+  mottled filaments, which form large loop-like structures around the supernova remnant’s
+  centre, represent areas where dust and doubly ionised sulphur overlap. The dust’s
+  cage-like structure helps constrain some, but not all of the ghostly synchrotron
+  emission represented in blue. The emission resembles wisps of smoke, most notable
+  toward the Crab’s centre. The thin blue ribbons follow the magnetic field lines
+  created by the Crab’s pulsar heart — a rapidly rotating neutron star.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2417a/L{1}X{2}Y{3}.png
+name: Crab Nebula (MIRI and NIRCam image)
+ra_hr: 5.575711127387851
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2417a/thumb.jpg
+zoom_level: 0.7862280005290743

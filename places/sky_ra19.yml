@@ -2110,3 +2110,112 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Dumbbell Nebula
 ra_hr: 19.9925
 zoom_level: 4.0
+---
+_uuid: 0131df94-dc3f-4e5c-ad3e-9c8ede77916c
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -14.805730388911854
+description: 'This image shows the irregular galaxy NGC 6822, as observed by the Mid-InfraRed
+  Instrument (MIRI) mounted on the NASA/ESA/CSA James Webb Space Telescope. MIRI probes
+  the mid-infrared, which in this case makes it perfectly suited to observe the dense
+  regions of gas that suffuse this galaxy. At mid-infrared wavelengths the emission
+  of light by galactic dust is prominent, obscuring the galaxy’s stars which themselves
+  are faint at these longer wavelengths. Brilliant blue gas indicates light emitted
+  by organic compounds called polycyclic aromatic hydrocarbons, which play a critical
+  role in the formation of stars and planets. Cyan marks cooler patches of dust, while
+  warmer dust is more orange. Distant galaxies far beyond NGC 6822 are displayed in
+  orange. The few galaxies that are relatively closer, meanwhile, are marked in green
+  by their own light-emitting dust, which MIRI can pick out. Bright red and magenta
+  colours indicate active areas of star formation in the galaxy. With so many stars,
+  supernova explosions are routine, and an amazing example of a supernova remnant
+  is visible in this image: a red ring just below the centre. [Image Description:
+  A dark field covered by many layers of billowing clouds, made of gas and dust, spread
+  out in complex patterns. In the centre the clouds are dense and glowing; out towards
+  the edges, they become dark and faint. Bright galaxies with various shapes and sizes
+  shine through the clouds. Many bright stars with visible diffraction spikes are
+  spread throughout the image.] Links Slider tool: NGC6822 (NIRCam and MIRI images)
+  NGC 6822 (NIRCam+MIRI image)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2307b/L{1}X{2}Y{3}.png
+name: NGC 6822 (MIRI image)
+ra_hr: 19.74949362116888
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2307b/thumb.jpg
+zoom_level: 0.3149212691516008
+---
+_uuid: 79e8042a-91cf-413e-aeb9-d903807850a5
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -14.798168434954064
+description: 'This scaled image shows the irregular galaxy NGC 6822, which was observed
+  by the Near-InfraRed Camera (NIRCam) mounted on the NASA/ESA/CSA James Webb Space
+  Telescope. Webb’s near-infrared NIRCam image shows the galaxy’s countless stars
+  in incredible detail. Here, the dust and gas that pervade the galaxy are reduced
+  to translucent red wisps, laying the stars bare for astronomical study. The power
+  of Webb’s ice-cold infrared instruments and the incredible resolution of its primary
+  mirror is necessary to examine stars hidden in dusty environments, and the results
+  as shown here are spectacular. The brightest stars appear in pale blue and cyan
+  colours in this image, colours which are assigned to the shortest wavelengths of
+  light that NIRCam can detect: red and near infrared. The amount of light emitted
+  by any star decreases at longer and longer wavelengths, towards the mid-infrared,
+  so the stars that are more faint to NIRCam also appear more warmly coloured here.
+  A bright blue orb to the lower left of the gas is particularly prominent: this is
+  a globular cluster, packed with stars. This image has been cropped and downscaled
+  from the full NIRCam resolution to match that of the MIRI image. See a combined
+  MIRI+NIRCam view, and more information about NGC 6822, here. [Image description:
+  This is a near-infrared image of the irregular galaxy NGC 6822, which shows a densely-packed
+  field of stars with dark, wispy red gas.] Links Slider tool: NGC 6822 (NIRCam and
+  MIRI images) NGC 6822 (NIRCam + MIRI image) NGC 6822 (MIRI image)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2307c/L{1}X{2}Y{3}.png
+name: NGC 6822 (NIRCam image)
+ra_hr: 19.749520401599835
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2307c/thumb.jpg
+zoom_level: 0.3140673586340671
+---
+_uuid: 0d21cc2f-38eb-4b0a-b1a0-c41124c1bd31
+classification: ''
+constellation: SGE
+data_set_type: Sky
+dec_deg: 16.860364447073273
+description: 'The luminous, hot star Wolf-Rayet 124 (WR 124) is prominent at the centre
+  of the NASA/ESA/CSA James Webb Space Telescope’s composite image combining near-infrared
+  and mid-infrared wavelengths of light. The star displays the characteristic diffraction
+  spikes of Webb’s Near-infrared Camera (NIRCam), caused by the physical structure
+  of the telescope itself. NIRCam effectively balances the brightness of the star
+  with the fainter gas and dust surrounding it, while Webb’s Mid-Infrared Instrument
+  (MIRI) reveals the nebula’s structure. Background stars and galaxies populate the
+  field of view and peek through the nebula of gas and dust that has been ejected
+  from the ageing massive star to span 10 light-years across space. A history of the
+  star’s past episodes of mass loss can be read in the nebula’s structure. Rather
+  than smooth shells, the nebula is formed from random, asymmetric ejections. Bright
+  clumps of gas and dust appear like tadpoles swimming toward the star, their tails
+  streaming out behind them, blown back by the stellar wind. This image combines various
+  filters from both Webb imaging instruments, with the colour red assigned to wavelengths
+  of 4.44, 4.7, 12.8, and 18 microns (F444W, F470N, F1280W, F1800W), green to 2.1,
+  3.35, and 11.3 microns (F210M, F335M, F1130W), and blue to 0.9, 1.5, and 7.7 microns
+  (F090W, F150W, F770W). [Image Description: A large, bright star shines from the
+  centre with smaller stars scattered throughout the image. A clumpy cloud of material
+  surrounds the central star, with more material above and below than on the sides,
+  in some places allowing background stars to peek through. The cloud material is
+  yellow closer to the star.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2307a/L{1}X{2}Y{3}.png
+name: Wolf-Rayet 124 (NIRCam and MIRI composite image)
+ra_hr: 19.19194941929661
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2307a/thumb.jpg
+zoom_level: 0.3700261907164055
+---
+_uuid: 667d919c-a04c-4af5-b763-0c1203ad152e
+classification: ''
+constellation: SGE
+data_set_type: Sky
+dec_deg: 16.859781805244637
+description: This is an optical image from the NASA/ESA Hubble Space Telescope of
+  the luminous, hot star Wolf-Rayet 124 (WR 124). The image was taken by Hubble’s
+  Wide Field Planetary Camera 2 and was released by ESA/Hubble in 2015. The star shines
+  brightly at the very centre of this explosive image and around the hot clumps of
+  gas are ejected into space at over 150 000 kilometres per hour.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2307f/L{1}X{2}Y{3}.png
+name: Hubble’s view of Wolf-Rayet 124
+ra_hr: 19.19191577218273
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2307f/thumb.jpg
+zoom_level: 0.3151495760649259

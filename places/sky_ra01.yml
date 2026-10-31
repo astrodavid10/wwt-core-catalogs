@@ -2076,3 +2076,104 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Messier 103;M103
 ra_hr: 1.55805555555556
 zoom_level: 12.2066666666667
+---
+_uuid: 4eab6882-db6d-4fa4-ae63-0e59f2abff22
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -17.50596583951153
+description: 'This image from the NASA/ESA/CSA James Webb Space Telescope depicts
+  IC 1623, an entwined pair of interacting galaxies which lies around 270 million
+  light-years from Earth in the constellation Cetus. The two galaxies in IC 1623 are
+  plunging headlong into one another in a process known as a galaxy merger. Their
+  collision has ignited a frenzied spate of star formation known as a starburst, creating
+  new stars at a rate more than twenty times that of the Milky Way galaxy. In Webb’s
+  combined MIRI and NIRCam view of the galaxies, the gas being used as fuel by the
+  stellar nurseries is especially apparent. Webb’s ability to pierce the gaseous veil
+  obscuring the bright galactic cores also causes prominent diffraction spikes to
+  appear. [Image description: The two galaxies swirl into a single chaotic object
+  in the centre. Long, blue spiral arms stretch vertically, faint at the edges. Hot
+  gas spreads horizontally over that, mainly bright red with many small gold spots
+  of star formation. The core of the merging galaxies is very bright and radiates
+  eight large, golden diffraction spikes. The background is black, with many tiny
+  galaxies in orange and blue.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2210d/L{1}X{2}Y{3}.png
+name: Webb Explores a Pair of Merging Galaxies (scaled)
+ra_hr: 1.1297846546626584
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2210d/thumb.jpg
+zoom_level: 0.26748984932286846
+---
+_uuid: 943b9a07-6e20-4805-87f9-200e33e0e458
+classification: ''
+constellation: HYI
+data_set_type: Sky
+dec_deg: -73.56098915341882
+description: 'Near the outskirts of the Small Magellanic Cloud, a satellite galaxy
+  roughly 200 000 light-years from Earth, lies the young star cluster NGC 602, which
+  is featured in this new image from the NASA/ESA/CSA James Webb Space Telescope.
+  This image includes data from Webb’s NIRCam (Near-InfraRed Camera) and MIRI (Mid-InfraRed
+  Instrument). The local environment of this cluster is a close analogue of what existed
+  in the early Universe, with very low abundances of elements heavier than hydrogen
+  and helium. The existence of dark clouds of dense dust and the fact that the cluster
+  is rich in ionised gas also suggest the presence of ongoing star formation processes.
+  This cluster provides a valuable opportunity to examine star formation scenarios
+  under dramatically different conditions from those in the solar neighbourhood. An
+  international team of astronomers, including Peter Zeidler, Elena Sabbi, and Antonella
+  Nota, used Webb to observe NGC 602 and detected candidates for the first young brown
+  dwarfs outside our Milky Way. [Image description: A star cluster is shown inside
+  a large nebula of many-coloured gas and dust. The material forms dark ridges and
+  peaks of gas and dust surrounding the cluster, lit on the inner side, while layers
+  of diffuse, translucent clouds blanket over them. Around and within the gas, a huge
+  number of distant galaxies can be seen, some quite large, as well as a few stars
+  nearer to us which are very large and bright.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2425a/L{1}X{2}Y{3}.png
+name: NGC 602 (NIRCam and MIRI image)
+ra_hr: 1.489888803284179
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2425a/thumb.jpg
+zoom_level: 0.49291970203274094
+---
+_uuid: f3824ce8-84fb-4ba4-aecb-94816a8dbe7a
+classification: ''
+constellation: HYI
+data_set_type: Sky
+dec_deg: -73.56134322960968
+description: This image depicts bright blue newly formed stars that are blowing a
+  cavity in the centre of a fascinating star-forming region known as NGC 602 , also
+  known as N90. The high energy radiation blazing out from the hot young stars in
+  N90 is eroding the outer portions of the nebula from the inside, as the diffuse
+  outer reaches of the nebula prevent the energetic outflows from streaming away from
+  the cluster directly. Because N90 is located far from the central body of the Small
+  Magellanic Cloud, numerous background galaxies in this picture can be seen, delivering
+  a grand backdrop for the stellar newcomers. The dust in the region gives these distant
+  galaxies a reddish-brown tint.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2425b/L{1}X{2}Y{3}.png
+name: NGC 602 (Hubble image)
+ra_hr: 1.491294777098459
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2425b/thumb.jpg
+zoom_level: 0.4150485522344853
+---
+_uuid: 64d9e592-0ebe-4063-af8d-ad326273e754
+classification: ''
+constellation: HYI
+data_set_type: Sky
+dec_deg: -73.56134059060744
+description: 'Near the outskirts of the Small Magellanic Cloud, a satellite galaxy
+  roughly 200 000 light-years from Earth, lies the young star cluster NGC 602, which
+  is featured in this new image from the NASA/ESA/CSA James Webb Space Telescope.
+  This image includes data from Webb’s NIRCam (Near-InfraRed Camera) and MIRI (Mid-InfraRed
+  Instrument). The local environment of this cluster is a close analogue of what existed
+  in the early Universe, with very low abundances of elements heavier than hydrogen
+  and helium. The existence of dark clouds of dense dust and the fact that the cluster
+  is rich in ionised gas also suggest the presence of ongoing star formation processes.
+  This cluster provides a valuable opportunity to examine star formation scenarios
+  under dramatically different conditions from those in the solar neighbourhood. [Image
+  description: A star cluster is shown inside a large nebula of many-coloured gas
+  and dust. The material forms dark ridges and peaks of gas and dust surrounding the
+  cluster, lit on the inner side, while layers of diffuse, translucent clouds blanket
+  over them. Around and within the gas, a huge number of distant galaxies can be seen,
+  some quite large, as well as a few stars nearer to us which are very large and bright.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2425c/L{1}X{2}Y{3}.png
+name: NGC 602 (Webb image)
+ra_hr: 1.4912898428735377
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2425c/thumb.jpg
+zoom_level: 0.41611630453822784

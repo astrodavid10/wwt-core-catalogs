@@ -3228,3 +3228,471 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Messier 92
 ra_hr: 17.285
 zoom_level: 4.876666666666667
+---
+_uuid: aad5a6df-c455-4ec1-8fe7-d9f9dceaf05d
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -20.3594901629742
+description: 'This new image from the NASA/ESA/CSA James Webb Space Telescope features
+  NGC 6440, a globular cluster that resides roughly 28 000 light-years from Earth
+  in the constellation Sagittarius. The object was first discovered by William Herschel
+  in May of 1786. Globular clusters like NGC 6440 are roughly spherical, tightly packed,
+  collections of old stars bound together by gravity. They can be found throughout
+  galaxies, but often live on the outskirts. They hold hundreds of thousands to millions
+  of stars that are on average about one light-year apart, but they can be as close
+  together as the size of our Solar System. NGC 6440 is known to be a high-mass and
+  metal-rich cluster that formed and is orbiting within the Galactic bulge, which
+  is a dense, near-spherical region of old stars in the inner part of the Milky Way.
+  This image was obtained with 2023 data from Webb’s Near-InfraRed Camera (NIRCam)
+  as part of an observation programme to explore the stars in the cluster and to investigate
+  details of the cluster’s pulsars. A pulsar is a highly magnetised, rotating neutron
+  star that emits a beam of electromagnetic radiation from their magnetic poles. To
+  us, that beam appears as a short burst or pulse as the star rotates. Pulsars spin
+  extremely fast. Astronomers have clocked the fastest pulsars at more than 716 rotations
+  per second, but a pulsar could theoretically rotate as fast as 1500 rotations per
+  second before slowly losing energy or breaking apart. The new data obtained by the
+  science team indicate the first evidence from Webb observations of abundance variations
+  of helium and oxygen in stars in a globular cluster. These results open the window
+  for future, in-depth investigations of other clusters in the Galactic bulge, which
+  were previously infeasible with other telescope facilities given the significant
+  crowding of stars in the cluster and the strong reddening caused by interstellar
+  dust between the cluster and Earth. [Image Description: A spherical collection of
+  stars which fills the whole view. The cluster is dominated by a concentrated group
+  of bright white stars at the centre, with several large yellow stars scattered throughout
+  the image. Many of the stars have visible diffraction spikes. The background is
+  black.] Links Star studded cluster (NIRCam image wide-field view) Slider tool: Hubble
+  and Webb’s views of NGC 6440 Pan video: NGC 6440 Transition video: Hubble and Webb’s
+  views of NGC 6440 Science paper'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2404a/L{1}X{2}Y{3}.png
+name: Star-studded cluster
+ra_hr: 17.81451350545984
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2404a/thumb.jpg
+zoom_level: 0.20041008017671882
+---
+_uuid: bec599cc-0944-42b9-b00e-501048042ff5
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -20.355940563229165
+description: 'This new image from the NASA/ESA/CSA James Webb Space Telescope features
+  NGC 6440, a globular cluster that resides roughly 28 000 light-years from Earth
+  in the constellation Sagittarius. The object was first discovered by William Herschel
+  in May of 1786. Globular clusters like NGC 6440 are roughly spherical, tightly packed,
+  collections of old stars bound together by gravity. They can be found throughout
+  galaxies, but often live on the outskirts. They hold hundreds of thousands to millions
+  of stars that are on average about one light-year apart, but they can be as close
+  together as the size of our Solar System. NGC 6440 is known to be a high-mass and
+  metal-rich cluster that formed and is orbiting within the Galactic bulge, which
+  is a dense, near-spherical region of old stars in the inner part of the Milky Way.
+  This image was obtained with 2023 data from Webb’s Near-InfraRed Camera (NIRCam)
+  as part of an observation programme to explore the stars in the cluster and to investigate
+  details of the cluster’s pulsars. A pulsar is a highly magnetised, rotating neutron
+  star that emits a beam of electromagnetic radiation from their magnetic poles. To
+  us, that beam appears as a short burst or pulse as the star rotates. Pulsars spin
+  extremely fast. Astronomers have clocked the fastest pulsars at more than 716 rotations
+  per second, but a pulsar could theoretically rotate as fast as 1500 rotations per
+  second before slowly losing energy or breaking apart. The new data obtained by the
+  science team indicate the first evidence from Webb observations of abundance variations
+  of helium and oxygen in stars in a globular cluster. These results open the window
+  for future, in-depth investigations of other clusters in the Galactic bulge, which
+  were previously infeasible with other telescope facilities given the significant
+  crowding of stars in the cluster and the strong reddening caused by interstellar
+  dust between the cluster and Earth. [Image Description: A spherical collection of
+  stars which fills the whole view. The cluster is dominated by a concentrated group
+  of bright white stars at the centre, with several large yellow stars scattered throughout
+  the image. Many of the stars have visible diffraction spikes. The background is
+  black.] Links Star studded cluster (NIRCam image cropped) Slider tool: Hubble and
+  Webb’s views of NGC 6440 Pan video: NGC 6440 Transition video: Hubble and Webb’s
+  views of NGC 6440 Science paper'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2404b/L{1}X{2}Y{3}.png
+name: Star-studded cluster (NGC 6440 NIRCam wide-field image)
+ra_hr: 17.813901250572673
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2404b/thumb.jpg
+zoom_level: 0.37936290842224285
+---
+_uuid: 2abc93d7-15df-49f5-8c2b-aecbc6aa0bdd
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -20.360771342385384
+description: The stars of globular cluster NGC 6440 shine brightly in this 2022 NASA/ESA
+  Hubble Space Telescope image. Globular clusters like NGC 6440 are roughly spherical,
+  tightly packed, collections of old stars bound together by gravity. They can be
+  found throughout galaxies, but often live on the outskirts. They hold hundreds of
+  thousands to millions of stars that are on average about one light-year apart, but
+  they can be as close together as the size of our Solar System. The data used to
+  create this image came from five different Hubble observing programmes, four of
+  which focused on the properties of pulsars. A pulsar is a highly magnetised, rotating
+  neutron star that emits a beam of electromagnetic radiation from its magnetic poles.
+  To us, that beam appears as a short burst or pulse as the star rotates. Pulsars
+  spin extremely fast. Astronomers have clocked the fastest pulsars at more than 716
+  rotations per second, but a pulsar could theoretically rotate as fast as 1500 rotations
+  per second before slowly losing energy or breaking apart.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2404c/L{1}X{2}Y{3}.png
+name: Hubble’s view of NGC 6440
+ra_hr: 17.814675602479934
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2404c/thumb.jpg
+zoom_level: 0.1526895314708241
+---
+_uuid: ba73b175-7c4d-4721-ae0a-d82167e791f7
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -20.360762619011258
+description: Featured in this new image from the NASA/ESA/CSA James Webb Space Telescope
+  is NGC 6440, a globular cluster that resides roughly 28 000 light-years from Earth
+  in the constellation Sagittarius. The object was first discovered by William Herschel
+  in May of 1786. Globular clusters like NGC 6440 are roughly spherical, tightly packed,
+  collections of old stars bound together by gravity. They can be found throughout
+  galaxies, but often live on the outskirts. They hold hundreds of thousands to millions
+  of stars that are on average about one light-year apart, but they can be as close
+  together as the size of our Solar System. NGC 6440 is known to be a high-mass and
+  metal-rich cluster that formed and is orbiting within the Galactic bulge, which
+  is a dense, near-spherical region of old stars in the inner part of the Milky Way.
+  This image was obtained with 2023 data from Webb’s Near-InfraRed Camera (NIRCam)
+  as part of an observation programme to explore the stars in the cluster and to investigate
+  details of the cluster’s pulsars. A pulsar is a highly magnetised, rotating neutron
+  star that emits a beam of electromagnetic radiation from their magnetic poles. To
+  us, that beam appears as a short burst or pulse as the star rotates. Pulsars spin
+  extremely fast. Astronomers have clocked the fastest pulsars at more than 716 rotations
+  per second, but a pulsar could theoretically rotate as fast as 1500 rotations per
+  second before slowly losing energy or breaking apart. The new data obtained by the
+  science team indicate the first evidence from Webb observations of abundance variations
+  of helium and oxygen in stars in a globular cluster. These results open the window
+  for future, in-depth investigations of other clusters in the Galactic bulge, which
+  were previously infeasible with other telescope facilities given the significant
+  crowding of stars in the cluster and the strong reddening caused by interstellar
+  dust between the cluster and Earth. You can learn more about this image here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2404d/L{1}X{2}Y{3}.png
+name: Webb’s view of NGC 6440 (cropped)
+ra_hr: 17.814675811105946
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2404d/thumb.jpg
+zoom_level: 0.1527507264387442
+---
+_uuid: 23c10b9d-a839-420f-9e07-27c62e0a1514
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -35.82715238723243
+description: 'To celebrate the NASA/ESA/CSA James Webb Space Telescope’s third year
+  of highly productive science, astronomers used the telescope to scratch beyond the
+  surface of the Cat’s Paw Nebula (NGC 6334), a massive, local star-forming region.
+  This area is of great interest to scientists, having been subject to previous study
+  by NASA’s Hubble and retired Spitzer space telescopes, as they seek to understand
+  the multiple steps required for a turbulent molecular cloud to transition to stars.
+  With its near-infrared capabilities and sharp resolution, the telescope “clawed”
+  back a portion of a singular “toe bean,” revealing a subset of mini toe bean-reminiscent
+  structures composed of gas, dust, and young stars. Webb’s view reveals a chaotic
+  scene still in development: Massive young stars are carving away at nearby gas and
+  dust, while their bright starlight is producing a bright nebulous glow represented
+  in blue. This is only a chapter in the region’s larger story. The disruptive young
+  stars, with their relatively short lifespans and luminosity, will eventually quench
+  the local star formation process. The Cat’s Paw Nebula is located approximately
+  4,000 light-years away in the constellation Scorpius. [Image description: A section
+  of the Cat’s Paw, a local star-forming region composed of gas, dust, and young stars.
+  Four roughly circular areas are toward the centre of the frame: a small oval toward
+  the top left, a large circle in the top centre, and two ovals at bottom left and
+  right. Each circular area has a luminous blue glow, with the top centre and bottom
+  left areas the brightest. Brown-orange filaments of dust, which vary in density,
+  surround these four bluish patches and stretch toward the frame’s edges. Small zones,
+  such as to the left and right of the blue circular area at top centre, appear darker
+  and seemingly vacant of stars. Toward the centre are small, fiery red clumps scattered
+  amongst the brown dust. Many small, yellow-white stars are spread across the scene,
+  some with eight-pointed diffraction spikes that are characteristic of Webb. A few
+  larger blue-white stars with diffraction spikes are scattered throughout, mostly
+  toward the top left and bottom right. Toward the top right corner is a bright red-orange
+  oval.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2513a/L{1}X{2}Y{3}.png
+name: Cat’s Paw Nebula (NIRCam)
+ra_hr: 17.345003954252725
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2513a/thumb.jpg
+zoom_level: 1.074238866187287
+---
+_uuid: 332026e6-f3f9-40c4-bee5-a46d72db4f1a
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -37.103422998990006
+description: 'This image takes the viewer on a deep dive into the heart of the Butterfly
+  Nebula, NGC 6302. The Butterfly Nebula, located about 3400 light-years away in the
+  constellation Scorpius, is one of the best-studied planetary nebulae in our galaxy.
+  Planetary nebulae are among the most beautiful and most elusive creatures in the
+  cosmic zoo. These nebulae form when stars with masses between about 0.8 and 8 times
+  the mass of the Sun shed most of their mass at the end of their lives. The planetary
+  nebula phase is fleeting, lasting only about 20 000 years. At the centre of the
+  Butterfly Nebula is the ancient core of a Sun-like star that energises the surrounding
+  nebula and causes it to glow. This scorching central star is hidden from view at
+  optical wavelengths, but Webb’s infrared capabilities have revealed the star and
+  its surroundings in great detail. This image, which combines infrared data from
+  the NASA/ESA/CSA James Webb Space Telescope with submillimetre observations from
+  the Atacama Large Millimetre/submillimetre Array (ALMA), shows the doughnut-shaped
+  torus and interconnected bubbles of dusty gas that surround the nebula’s central
+  star. The torus is oriented vertically and nearly edge-on from our perspective,
+  and it intersects with bubbles of gas enclosing the star. The bubbles appear bright
+  red in this image, illuminated by the light from helium and neon gas. Outside the
+  bubbles, jets traced by emission from ionised iron shoot off in opposite directions.
+  These features are labeled in an annotated version of this image. [Image description:
+  The complicated structure at the centre of the Butterfly Nebula, NGC 6302. There
+  is a bright source at the centre that is surrounded by greenish nebulosity and several
+  looping lines in cream, orange and pink. One of these lines appears to form a ring
+  oriented vertically and nearly edge-on around the bright source at the centre. Other
+  lines trace out a figure eight shape. Moving outward from these complex lines and
+  green nebulosity, there is a section of red light on either side of the object.
+  The upper-right and lower-left corners of this image show a purple streak pointing
+  out of the image.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2517b/L{1}X{2}Y{3}.png
+name: Butterfly Nebula NGC 6302 (Webb and ALMA image)
+ra_hr: 17.22900246590619
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2517b/thumb.jpg
+zoom_level: 0.04459951426668202
+---
+_uuid: 4e9705c9-5f14-4ae8-9c19-b615e7c0b53b
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -37.102952771401036
+description: 'This view of the Butterfly Nebula, NGC 6302, comes from the NASA/ESA
+  Hubble Space Telescope. In the optical wavelengths shown here, the ‘wings’ of the
+  Butterfly Nebula appear clumpy and nearly opaque, blocking most of the background
+  stars from view. The orange colour that suffuses the ‘wings’ comes from ionised
+  nitrogen and hydrogen, while the red accents come from ionised sulfur. Blue comes
+  from hydrogen atoms. This Hubble image highlights the Butterfly Nebula’s bipolar
+  shape, showing how its two lobes spread in opposite directions, forming the ‘wings’
+  of the butterfly. A dark band of dusty gas poses as the butterfly’s ‘body’. This
+  band is actually a doughnut-shaped torus that’s being viewed from the side, hiding
+  the nebula’s central star - the ancient core of a Sun-like star that energises the
+  nebula and causes it to glow. The dusty doughnut may be responsible for the nebula’s
+  insectoid shape by preventing gas from flowing outward from the star equally in
+  all directions. [Image description: A planetary nebula called NGC 6302 or the Butterfly
+  Nebula. A dark dust lane runs through the centre of the nebula and two broad clouds
+  emerge from either side of the dust lane like the outstretched wings of a butterfly.
+  The nebula appears clumpy and nearly opaque, with a few background stars showing
+  through the cloudy material. The nebula appears in different shades of cream, yellow
+  and orange, with the lightest colours appearing closest to the centre. The background
+  of space is black with a handful of stars that are tinged pink.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2517d/L{1}X{2}Y{3}.png
+name: Butterfly Nebula NGC 6302 (Optical Hubble image)
+ra_hr: 17.228977541016715
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2517d/thumb.jpg
+zoom_level: 0.35351977827990955
+---
+_uuid: b17cd33a-9a48-47e1-b207-35b55e87d3c1
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -37.102953115077916
+description: 'This view of the Butterfly Nebula, NGC 6302, comes from the NASA/ESA
+  Hubble Space Telescope. Compared to its appearance in visible light, the Butterfly
+  Nebula looks gauzy at near-infrared wavelengths. The red colour that’s most prevalent
+  in this view shows light from hydrogen, while green and blue come from iron that
+  has been ionised. This Hubble image highlights the Butterfly Nebula’s bipolar shape,
+  showing how its two lobes spread in opposite directions, forming the ‘wings’ of
+  the butterfly. A dark band of dusty gas poses as the butterfly’s ‘body’. This band
+  is actually a doughnut-shaped torus that’s being viewed from the side, hiding the
+  nebula’s central star - the ancient core of a Sun-like star that energises the nebula
+  and causes it to glow. The dusty doughnut may be responsible for the nebula’s insectoid
+  shape by preventing gas from flowing outward from the star equally in all directions.
+  [Image description: A planetary nebula called NGC 6302 or the Butterfly Nebula.
+  A dark dust lane runs through the centre of the nebula and two broad clouds emerge
+  from either side of the dust lane like the outstretched wings of a butterfly. The
+  nebula appears cream coloured and most opaque near the centre, then becomes reddish
+  with purple streaks and more translucent out toward the wings of the nebula. There
+  are hundreds of background stars in the image, many of which are visible through
+  the nebula.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2517e/L{1}X{2}Y{3}.png
+name: Butterfly Nebula NGC 6302 (Near-infrared Hubble image)
+ra_hr: 17.22897860734532
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2517e/thumb.jpg
+zoom_level: 0.3536241469094652
+---
+_uuid: 124e47cb-8ce8-480e-a2eb-113959ab8e86
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -34.19332128272343
+description: 'This sparkling scene of star birth was captured by the NASA/ESA/CSA
+  James Webb Space Telescope. What appears to be a craggy, starlit mountaintop kissed
+  by wispy clouds is actually a cosmic dust-scape being eaten away by the blistering
+  winds and radiation of nearby, massive, infant stars. Called Pismis 24, this young
+  star cluster resides in the core of the nearby Lobster Nebula, approximately 5,500
+  light-years from Earth in the constellation Scorpius. Home to a vibrant stellar
+  nursery and one of the closest sites of massive star birth, Pismis 24 provides rare
+  insight into large and massive stars. This region is one of the best places to explore
+  the properties of hot young stars and how they evolve. [Image description: In what
+  appears as a celestial dreamscape, a blue and black sky filled with brilliant stars
+  covers about two thirds of the image. The stars are different sizes and shades of
+  white, beige, yellow, and light orange. Across the bottom third of the scene is
+  a craggy, mountain-like vista with spire-like peaks and deep, seemingly misty valleys.
+  These so-called mountains appear in varying shades of orange, yellow, and brown.
+  Above their soaring spires is a wispy, ethereal white cloud that stretched horizontally
+  across the scene. Steam appears to rise from the mountaintops and join with this
+  cloud. At the top, right corner of the image, a swath of orange and brown structure
+  cuts diagonally across the sky.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2518a/L{1}X{2}Y{3}.png
+name: Pismis 24 (NIRCam image)
+ra_hr: 17.412332551196016
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2518a/thumb.jpg
+zoom_level: 0.9907371480787435
+---
+_uuid: 03d9f45c-7644-4a76-922e-5072611c0a98
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -28.397772758783216
+description: 'Stars, gas and cosmic dust in the Sagittarius B2 molecular cloud glow
+  in near-infrared light, captured by Webb’s NIRCam (Near-Infrared Camera). In this
+  light, astronomers see more of the region’s diverse, colourful stars, but less of
+  its gas and dust structure. Webb’s instruments each provide astronomers with important
+  information that help build a more complete picture of what is happening in this
+  intriguing portion of the centre of our galaxy. [Image description: A wide view
+  of a region of space filled with stars and clumps of orange clouds.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2520a/L{1}X{2}Y{3}.png
+name: Sagittarius B2 (NIRCam image)
+ra_hr: 17.788980272105885
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2520a/thumb.jpg
+zoom_level: 0.4313228271804326
+---
+_uuid: cdd98319-688f-46e1-b2ff-4ac7027cfeec
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -28.398049426276465
+description: 'Webb’s MIRI (Mid-Infrared Instrument) shows the Sagittarius B2 (Sgr
+  B2) region in mid-infrared light, with warm dust glowing brightly. To the right
+  is one clump of clouds that captured astronomers’ attention. It is redder than the
+  rest of the clouds in the image and corresponds to an area that other telescopes
+  have shown to be one of the most molecularly rich regions known. Additional analysis
+  of this intriguing region could yield important insights into why Sgr B2 is so much
+  more productive in making stars than the rest of the galactic centre. Only the brightest
+  stars in this region emit mid-infrared light that can be picked up by Webb’s MIRI
+  instrument, which is why this image has so many fewer stars than that captured by
+  Webb’s NIRCam (Near-Infrared Camera). The darkest areas of the image are not empty
+  space but areas where cosmic dust and gas are so dense that light cannot penetrate
+  them to reach the telescope. [Image description: Cosmic clouds of pink and purple,
+  some with bright centres, are surrounded by dark areas that appear like black space
+  dotted with bright blue stars. A group of small clouds to the right is more red
+  than any other area of the image.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2520b/L{1}X{2}Y{3}.png
+name: Sagittarius B2 (MIRI image)
+ra_hr: 17.788952934921547
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2520b/thumb.jpg
+zoom_level: 0.34387402670663975
+---
+_uuid: 948f3251-eb65-40ba-a91b-b6e9bb257bb9
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -24.779789440232268
+description: 'Terzan 5 is a stellar system orbiting within the Milky Way galaxy’s
+  bulge, which is an incredibly bright, crowded central region of the galaxy. Not
+  only are stars within the bulge tightly packed together — every bit of this region
+  is laced with thick clouds of gas and dust. The James Webb and Hubble Space Telescopes
+  joined forces to study Terzan 5. Astronomers already knew that this star cluster
+  was unusual in that it contained two stellar populations of very different ages.
+  New research found strong evidence for two more stellar populations, one that formed
+  3.8 billion years ago and another only 2.5 billion years ago. The research team
+  also was able to determine the ages of the previously known stellar populations
+  with unprecedented precision, finding that they formed 12.5 billion and 4.7 billion
+  years ago. This finding proved that Terzan 5 is not a globular star cluster, as
+  originally classified. Instead, Terzan 5 belongs to a new category, known as a bulge
+  fossil fragment — a self-contained, self-enriching stellar system with multiple
+  star populations of different ages and with different iron abundances. Terzan 5
+  is 22,000 light-years away in the constellation Sagittarius. It contains about 2
+  million times the Sun''s mass packed into a stellar system only a few tens of light-years
+  across, making it one of the most massive and densely populated globular-cluster-like
+  systems in the Milky Way. This image was created with Hubble data from proposal:
+  12933 (F. R. Ferraro) and Webb data from proposal: 5502 (F. R. Ferraro). [Image
+  description: A dramatically crowded starfield that looks like a just-shaken snow
+  globe. The black background of space, which is clearer at the edges, is covered
+  by thousands of tiny white, orange, and blue points of light, which are stars. The
+  stars are most concentrated in the centre, forming a roughly circular orb, and sparser
+  at the edges of the image. Several larger orange stars, particularly those largest
+  near the edges of the frame, have prominent diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2611a/L{1}X{2}Y{3}.png
+name: Bulge fossil fragment Terzan 5 (Webb and Hubble image)
+ra_hr: 17.80130892797128
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2611a/thumb.jpg
+zoom_level: 0.26389123140474224
+---
+_uuid: b00eca06-f6e7-4853-bb2f-6bee7fdeff23
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -29.00778602895137
+description: 'This image features data from Webb’s NIRCam (Near Infrared Camera) and
+  MIRI (Mid Infrared Instrument) to capture the most detailed mid-infrared view yet
+  of the field that hosts the highly evolved star IRS 3, which is located just 0.55
+  light-years from Sagittarius A*, the Milky Way galaxy''s central supermassive black
+  hole. An international team of astronomers have discovered that dust and water can
+  form and survive surprisingly close to this supermassive black hole. The observations
+  reveal that the evolved star IRS 3 continues to enrich its surroundings with newly
+  formed material despite the intense radiation environment around Sagittarius A*.
+  The data in this image were taken with Webb programmes #1939 (J. Lu), #3571 (F.
+  Yusef-Zadeh), #2491 (N. B. Sabha), and #2075 (C. Chan). [Image description: A dense
+  star field fills the entire image, with countless stars scattered across a backdrop
+  of glowing clouds in shades of red, orange, pink, white, and blue. At the centre,
+  a brilliant concentration of stars creates a bright, almost white core surrounded
+  by intricate filaments and wisps of illuminated gas and dust that radiate outward.
+  Dark, irregular patches of opaque dust interrupt the glowing clouds, particularly
+  toward the left side of the image, where they appear as silhouetted shapes against
+  the brighter background. The surrounding stellar population varies in brightness
+  and colour, with cool blue stars and warmer orange and red stars distributed throughout
+  the scene.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2617a/L{1}X{2}Y{3}.png
+name: IRS 3 Field (NIRCam and MIRI image)
+ra_hr: 17.761124416821247
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2617a/thumb.jpg
+zoom_level: 0.30614799739171583
+---
+_uuid: 739dba40-5152-497d-8414-eb902a34ded7
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -29.00776379430117
+description: 'This image features data from Webb’s NIRCam (Near Infrared Camera) to
+  capture the most detailed mid-infrared view yet of the field that hosts the highly
+  evolved star IRS 3, which is located just 0.55 light-years from Sagittarius A*,
+  the Milky Way galaxy''s central supermassive black hole. An international team of
+  astronomers have discovered that dust and water can form and survive surprisingly
+  close to this supermassive black hole. The observations reveal that the evolved
+  star IRS 3 continues to enrich its surroundings with newly formed material despite
+  the intense radiation environment around Sagittarius A*. The data in this image
+  were taken with Webb programme #1939 (J. Lu). [Image description: A densely packed
+  field of stars fills the image, with a bright cluster of stars near the centre surrounded
+  by glowing clouds of gas and dust in soft shades of red, pink, and white. Dark patches
+  of dust appear scattered throughout the scene, contrasting with the luminous background.
+  Several bright foreground stars display Webb''s distinctive six-pointed diffraction
+  spikes, while countless fainter stars extend across the entire image.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2617c/L{1}X{2}Y{3}.png
+name: IRS 3 Field (NIRCam image)
+ra_hr: 17.76122393103817
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2617c/thumb.jpg
+zoom_level: 0.2145373860742904
+---
+_uuid: 6b5fafc0-cd65-4296-996d-e11cdd9914b3
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -29.00827206538766
+description: 'This image features data from Webb’s MIRI (Mid Infrared Instrument)
+  to capture the most detailed mid-infrared view yet of the field that hosts the highly
+  evolved star IRS 3, which is located just 0.55 light-years from Sagittarius A*,
+  the Milky Way galaxy''s central supermassive black hole. An international team of
+  astronomers have discovered that dust and water can form and survive surprisingly
+  close to this supermassive black hole. The observations reveal that the evolved
+  star IRS 3 continues to enrich its surroundings with newly formed material despite
+  the intense radiation environment around Sagittarius A*. The data in this image
+  were taken with Webb programmes #3571 (F. Yusef-Zadeh), #2491 (N. B. Sabha), and
+  #2075 (C. Chan). [Image description: A bright, densely populated star cluster lies
+  near the centre of the image, surrounded by intricate clouds of glowing gas and
+  dust in shades of red, pink, orange, and blue. Dark lanes of dust weave through
+  the nebula, contrasting with the luminous central region. Countless stars are scattered
+  across the field, with a few brighter foreground stars showing Webb''s characteristic
+  diffraction spikes. An irregular black region occupies the lower-right corner of
+  the image, indicating an area where no observational data was available.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2617d/L{1}X{2}Y{3}.png
+name: IRS 3 Field (MIRI image)
+ra_hr: 17.761134468105396
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2617d/thumb.jpg
+zoom_level: 0.5784301123063338

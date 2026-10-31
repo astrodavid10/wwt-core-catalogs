@@ -1617,3 +1617,240 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Helix Nebula
 ra_hr: 22.494444444444447
 zoom_level: 3.893333333333333
+---
+_uuid: 6b080033-7e21-4fff-9369-8dafc45e14a3
+classification: ''
+constellation: GRU
+data_set_type: Sky
+dec_deg: -44.53014931855705
+description: 'The eye is first drawn, in this new NASA/ESA/CSA James Webb Space Telescope
+  Picture of the Month, to the central mega-monster that is galaxy cluster Abell S1063.
+  This behemoth collection of galaxies, lying 4.5 billion light-years from Earth in
+  the constellation Grus (the Crane), dominates the scene. Looking more closely, this
+  dense collection of heavy galaxies is surrounded by glowing streaks of light, and
+  these warped arcs are the true object of scientists’ interest: faint galaxies from
+  the Universe’s distant past. Abell S1063 was previously observed by the NASA/ESA
+  Hubble Space Telescope’s Frontier Fields programme. It is a strong gravitational
+  lens: the galaxy cluster is so massive that the light of distant galaxies aligned
+  behind it is bent around it, creating the warped arcs that we see here. Like a glass
+  lens, it focuses the light from these faraway galaxies. The resulting images, albeit
+  distorted, are both bright and magnified — enough to be observed and studied. This
+  was the aim of Hubble’s observations, using the galaxy cluster as a magnifying glass
+  to investigate the early Universe. The new imagery from Webb’s Near-Infrared Camera
+  (NIRCam) takes this quest even further back in time. This image showcases an incredible
+  forest of lensing arcs around Abell S1063, which reveal distorted background galaxies
+  at a range of cosmic distances, along with a multitude of faint galaxies and previously
+  unseen features. This image is what’s known as a deep field — a long exposure of
+  a single area of the sky, collecting as much light as possible to draw out the most
+  faint and distant galaxies that don’t appear in ordinary images. With 9 separate
+  snapshots of different near-infrared wavelengths of light, totalling around 120
+  hours of observing time and aided by the magnifying effect of gravitational lensing,
+  this is Webb’s deepest gaze on a single target to date. Focusing such observing
+  power on a massive gravitational lens, like Abell S1063, therefore has the potential
+  to reveal some of the very first galaxies formed in the early Universe. The observing
+  programme that produced this data, GLIMPSE (#3293, PIs: H. Atek & J. Chisholm),
+  aims to probe the period known as Cosmic Dawn, when the Universe was only a few
+  million years old. Studying the galaxies revealed by gravitational lensing has the
+  potential to develop our understanding of the emergence of the first galaxies. Analysis
+  of this NIRCam data by the GLIMPSE team has already produced candidates for galaxies
+  that existed as early as 200 million years after the Big Bang, and hints of the
+  elusive first population of stars in the Universe. [Image Description: A field of
+  galaxies in space, dominated by an enormous, bright-white elliptical galaxy that
+  is the core of a massive galaxy cluster. Many other elliptical galaxies can be seen
+  around it. Also around it are short, curved, glowing red lines, which are images
+  of distant background galaxies magnified and warped by gravitational lensing. A
+  couple of foreground stars appear large and bright with long spikes around them.]
+  Links Image on ESA website Pan video Science paper: V. Kokorev et al. Science paper:
+  S. Fujimoto et al.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2505a/L{1}X{2}Y{3}.png
+name: A glimpse of the distant past
+ra_hr: 22.812241509080355
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2505a/thumb.jpg
+zoom_level: 0.3749502134940537
+---
+_uuid: 7981d1bf-9570-4464-a13b-411f6919e7e2
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 33.960496770267135
+description: 'An enormous mosaic of Stephan’s Quintet is the largest image to date
+  from the NASA/ESA/CSA James Webb Space Telescope, covering about one-fifth of the
+  Moon’s diameter. It contains over 150 million pixels and is constructed from almost
+  1,000 separate image files. The visual grouping of five galaxies was captured by
+  Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI). With its
+  powerful, infrared vision and extremely high spatial resolution, Webb shows never-before-seen
+  details in this galaxy group. Sparkling clusters of millions of young stars and
+  starburst regions of fresh star birth grace the image. Sweeping tails of gas, dust
+  and stars are being pulled from several of the galaxies due to gravitational interactions.
+  Most dramatically, Webb’s MIRI instrument captures huge shock waves as one of the
+  galaxies, NGC 7318B, smashes through the cluster. These regions surrounding the
+  central pair of galaxies are shown in the colours red and gold. This composite NIRCam-MIRI
+  image uses two of the three MIRI filters to best show and differentiate the hot
+  dust and structure within the galaxy. MIRI sees a distinct difference in colour
+  between the dust in the galaxies versus the shock waves between the interacting
+  galaxies. The image processing specialists at the Space Telescope Science Institute
+  in Baltimore opted to highlight that difference by giving MIRI data the distinct
+  yellow and orange colours, in contrast to the blue and white colours assigned to
+  stars at NIRCam’s wavelengths. Together, the five galaxies of Stephan’s Quintet
+  are also known as the Hickson Compact Group 92 (HCG 92). Although called a “quintet,”
+  only four of the galaxies are truly close together and caught up in a cosmic dance.
+  The fifth and leftmost galaxy, called NGC 7320, is well in the foreground compared
+  with the other four. NGC 7320 resides 40 million light-years from Earth, while the
+  other four galaxies (NGC 7317, NGC 7318A, NGC 7318B, and NGC 7319) are about 290
+  million light-years away. This is still fairly close in cosmic terms, compared with
+  more distant galaxies billions of light-years away. Studying these relatively nearby
+  galaxies helps scientists better understand structures seen in a much more distant
+  universe. This proximity provides astronomers a ringside seat for witnessing the
+  merging of and interactions between galaxies that are so crucial to all of galaxy
+  evolution. Rarely do scientists see in so much exquisite detail how interacting
+  galaxies trigger star formation in each other, and how the gas in these galaxies
+  is being disturbed. Stephan’s Quintet is a fantastic “laboratory” for studying these
+  processes fundamental to all galaxies. Tight groups like this may have been more
+  common in the early universe when their superheated, infalling material may have
+  fueled very energetic black holes called quasars. Even today, the topmost galaxy
+  in the group – NGC 7319 – harbours an active galactic nucleus, a supermassive black
+  hole that is actively accreting material. In NGC 7320, the leftmost and closest
+  galaxy in the visual grouping, NIRCam was remarkably able to resolve individual
+  stars and even the galaxy’s bright core. Old, dying stars that are producing dust
+  clearly stand out as red points with NIRCam. The new information from Webb provides
+  invaluable insights into how galactic interactions may have driven galaxy evolution
+  in the early universe. As a bonus, NIRCam and MIRI revealed a vast sea of many thousands
+  of distant background galaxies reminiscent of Hubble’s Deep Fields. NIRCam was built
+  by a team at the University of Arizona and Lockheed Martin’s Advanced Technology
+  Center. MIRI was contributed by ESA and NASA, with the instrument designed and built
+  by a consortium of nationally funded European Institutes (The MIRI European Consortium)
+  in partnership with JPL and the University of Arizona. For a full array of Webb’s
+  first images and spectra, including downloadable files, please visit: https://esawebb.org/initiatives/webbs-first-images/'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2208a/L{1}X{2}Y{3}.png
+name: Stephan’s Quintet (NIRCam + MIRI Imaging)
+ra_hr: 22.59984213496273
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2208a/thumb.jpg
+zoom_level: 1.0327750797599997
+---
+_uuid: ffa78001-9df4-461e-9389-50322b193993
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 33.95971360820718
+description: 'With its powerful, mid-infrared vision, MIRI shows never-before-seen
+  details of Stephan’s Quintet, a visual grouping of five galaxies. MIRI pierced through
+  dust-enshrouded regions to reveal huge shock waves and tidal tails, gas and stars
+  stripped from the outer regions of the galaxies by interactions. It also unveiled
+  hidden areas of star formation. The new information from MIRI provides invaluable
+  insights into how galactic interactions may have driven galaxy evolution in the
+  early universe. This image contains one more MIRI filter than was used in the NIRCam-MIRI
+  composite picture. The image processing specialists at the Space Telescope Science
+  Institute in Baltimore opted to use all three MIRI filters and the colours red,
+  green and blue to most clearly differentiate the galaxy features from each other
+  and the shock waves between the galaxies. In this image, red denotes dusty, star-forming
+  regions, as well as extremely distant, early galaxies and galaxies enshrouded in
+  thick dust. Blue point sources show stars or star clusters without dust. Diffuse
+  areas of blue indicate dust that has a significant amount of large hydrocarbon molecules.
+  For small background galaxies scattered throughout the image, the green and yellow
+  colours represent more distant, earlier galaxies that are rich in these hydrocarbons
+  as well. Stephan’s Quintet’s topmost galaxy – NGC 7319 – harbours a supermassive
+  black hole 24 million times the mass of the Sun. It is actively accreting material
+  and puts out light energy equivalent to 40 billion Suns. MIRI sees through the dust
+  surrounding this black hole to unveil the strikingly bright active galactic nucleus.
+  As a bonus, the deep mid-infrared sensitivity of MIRI revealed a sea of previously
+  unresolved background galaxies reminiscent of Hubble’s Deep Fields. Together, the
+  five galaxies of Stephan’s Quintet are also known as the Hickson Compact Group 92
+  (HCG 92). Although called a “quintet,” only four of the galaxies are truly close
+  together and caught up in a cosmic dance. The fifth and leftmost galaxy, called
+  NGC 7320, is well in the foreground compared with the other four. NGC 7320 resides
+  40 million light-years from Earth, while the other four galaxies (NGC 7317, NGC
+  7318A, NGC 7318B, and NGC 7319) are about 290 million light-years away. This is
+  still fairly close in cosmic terms, compared with more distant galaxies billions
+  of light-years away. Studying these relatively nearby galaxies helps scientists
+  better understand structures seen in a much more distant universe. This proximity
+  provides astronomers a ringside seat for witnessing the merging of and interactions
+  between galaxies that are so crucial to all of galaxy evolution. Rarely do scientists
+  see in so much exquisite detail how interacting galaxies trigger star formation
+  in each other, and how the gas in these galaxies is being disturbed. Stephan’s Quintet
+  is a fantastic “laboratory” for studying these processes fundamental to all galaxies.
+  Tight groups like this may have been more common in the early universe when their
+  superheated, infalling material may have fueled very energetic black holes called
+  quasars. Even today, the topmost galaxy in the group – NGC 7319 – harbours an active
+  galactic nucleus, a supermassive black hole that is actively pulling in material.
+  MIRI was contributed by ESA and NASA, with the instrument designed and built by
+  a consortium of nationally funded European Institutes (The MIRI European Consortium)
+  in partnership with JPL and the University of Arizona. For a full array of Webb’s
+  first images and spectra, including downloadable files, please visit: https://esawebb.org/initiatives/webbs-first-images/'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2208b/L{1}X{2}Y{3}.png
+name: Stephan’s Quintet (MIRI Imaging)
+ra_hr: 22.600410700606133
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2208b/thumb.jpg
+zoom_level: 0.6392534639827412
+---
+_uuid: e3e57abe-80da-4a00-9c28-4ca402b235b0
+classification: ''
+constellation: IND
+data_set_type: Sky
+dec_deg: -56.802620620962514
+description: 'This image of the gas-giant exoplanet Epsilon Indi Ab was taken with
+  the coronagraph on the NASA/ESA/CSA James Webb Space Telescope’s MIRI (Mid-Infrared
+  Instrument). A star symbol marks the location of the host star Epsilon Indi A, whose
+  light has been blocked by the coronagraph, resulting in the dark circle marked with
+  a dashed white line. Epsilon Indi Ab is one of the coldest exoplanets ever directly
+  imaged. Light at 10.6 microns was assigned the color blue, while light at 15.5 microns
+  was assigned the color orange. MIRI did not resolve the planet, which is a point
+  source. [Image description: This image shows the exoplanet Epsilon Indi Ab. Blue
+  scale-like features are visible in the background, with the host star’s light being
+  blocked by a black circle in the centre of the image (indicated by a dashed-line
+  and white star visual overlaid on the image). The exoplanet is visible on the left
+  as a bright orange circle.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2421a/L{1}X{2}Y{3}.png
+name: Exoplanet Epsilon Indi Ab (MIRI image)
+ra_hr: 22.059165965766304
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2421a/thumb.jpg
+zoom_level: 0.052254795808675786
+---
+_uuid: b2a226db-2d63-49cf-98ec-318e38c9db69
+classification: ''
+constellation: AQR
+data_set_type: Sky
+dec_deg: -20.8720110701997
+description: 'A new image from the James Webb Space Telescope of a portion of the
+  Helix Nebula highlights comet-like knots, fierce stellar winds, and layers of gas
+  shed off by a dying star interacting with its surrounding environment. Webb’s image
+  also shows the stark transition between the hottest gas to the coolest gas as the
+  shell expands out from the central white dwarf. [Image description: A closeup of
+  a small section of the Helix Nebula, an expanding shell of gas and dust. Thousands
+  of orange and gold comet-like pillars stream upward from the bottom, like thin liquid
+  blown up a sheet of glass. These pillars are around the circumference of the arced
+  shell, which forms a partial orange semi-circle at the bottom. The pillars are more
+  numerous and denser at the bottom, and darker red. They fade to orange and then
+  yellow in the arc. In the top two-thirds, they are thinner and more golden, and
+  it’s easier to see the black background of space. Several bright blue stars, some
+  with diffraction spikes, are scattered throughout. A few larger stars are on the
+  right side.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2601a/L{1}X{2}Y{3}.png
+name: Helix Nebula (NIRCam image)
+ra_hr: 22.490110740075924
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2601a/thumb.jpg
+zoom_level: 0.7160763005711265
+---
+_uuid: 8ac64db9-85e8-4baa-80f0-2fc053823a9b
+classification: ''
+constellation: GRU
+data_set_type: Sky
+dec_deg: -44.53068353045456
+description: 'The little red dot that would come to be known as GLIMPSE-17775 was
+  fortunately included in the NASA/ESA/CSA James Webb Space Telescope’s field of view
+  as it was observing this galaxy cluster Abell S1063 for a different scientific purpose.
+  Since galaxy clusters like Abell S1063 are some of the most massive objects in the
+  Universe, light emitted by objects farther away can become distorted as it reaches
+  the telescope. This effect is known as gravitational lensing. The combination of
+  Webb’s 30 hours of observing time and gravitational lensing enabled scientists to
+  obtain the deepest spectrum to date of a little red dot. The result: the strongest
+  evidence to date of a hot, dense gas cocoon known as a “black hole star.” [Image
+  description: A field of galaxies against the black background of space. In the centre
+  is a bright-white elliptical galaxy that is the core of the Abell S1063 galaxy cluster.
+  Around the core are short, curved red lines, which are distant background galaxies
+  magnified and warped by gravitational lensing. A couple of foreground stars appear
+  large and bright with Webb’s signature eight-point diffraction spike pattern.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2610c/L{1}X{2}Y{3}.png
+name: Abell S1063 galaxy cluster
+ra_hr: 22.81220916641503
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2610c/thumb.jpg
+zoom_level: 0.372036685432514

@@ -1959,3 +1959,637 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: M81;Messier 81
 ra_hr: 9.92861111111111
 zoom_level: 4.73833333333333
+---
+_uuid: 943fa7ef-4113-4109-a626-691d6ffc5d75
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 55.24095696363842
+description: 'The NASA/ESA/CSA James Webb Space Telescope has captured a spectacular
+  view of the galaxy I Zwicky 18 (I Zw 18) in this new image. The galaxy was first
+  identified by Swiss astronomer Fritz Zwicky in the 1930’s and resides roughly 59
+  million light-years from Earth. This galaxy has gone through several sudden bursts
+  of star formation. This galaxy is typical of the kinds of galaxies that inhabited
+  the early Universe and it is classified as a dwarf irregular galaxy (much smaller
+  than our Milky Way). Two major starburst regions are embedded in the heart of the
+  galaxy. The wispy brown filaments surrounding the central starburst region are bubbles
+  of gas that have been heated by stellar winds and intense ultraviolet radiation
+  unleashed by hot, young stars. A companion galaxy resides nearby to the dwarf galaxy,
+  which can be seen at the bottom of the wider-field image. The companion may be interacting
+  with the dwarf galaxy and may have triggered that galaxy''s recent star formation.
+  The orange blobs surrounding the dwarf galaxy are the dim glow from ancient fully
+  formed galaxies at much larger distances. This image was taken as part of a Webb
+  programme to study the life cycle of dust in I Zw 18. Scientists are now building
+  off of previous research with Hubble obtained at optical wavelengths, studying individual
+  dusty stars in detail with Webb’s equivalent spatial resolution and sensitivity
+  at infrared wavelengths. This galaxy is of particular interest as its content of
+  elements heavier than helium is one of the lowest of all known galaxies in the local
+  Universe. Such conditions are thought to be similar to those in some of the first
+  star-forming galaxies at high redshift, so the Webb study of I Zw 18 should shed
+  light on the life-cycle of stars and dust in the early Universe. Although previously
+  believed to have only just recently begun forming its first generation of stars,
+  the NASA/ESA Hubble Space Telescope found fainter, older red stars contained within
+  the galaxy, suggesting its star formation started at least one billion years ago
+  and possibly as much as 10 billion years ago. The galaxy, therefore, may have formed
+  at the same time as most other galaxies. The new observations from Webb have revealed
+  the detection of a set of candidate dusty evolved stars. It also provides details
+  about Zw 18’s two dominant star-forming regions. Webb’s new data suggest that the
+  dominant bursts of star formation in these regions occurred at different times.
+  The strongest starburst activity is now believed to have happened more recently
+  in the northwest lobe as compared to the galaxy’s southeast lobe. This is based
+  on the relative populations of younger versus older stars found in each of the lobes.
+  [Image Description: Many small galaxies are scattered on a black background: mainly,
+  white, oval-shaped and red, spiral galaxies. The image is dominated by a dwarf irregular
+  galaxy, which hosts a bright region of white and blue stars at its core that appear
+  as two distinct lobes. This region is surrounded by brown dusty filaments.] Links
+  I Zw 18 (wide-field image) Video: Pan of I Zw 18 Science paper (note: this paper
+  highlights Webb''s science in progress, which is currently going through the peer-review
+  process)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2403a/L{1}X{2}Y{3}.png
+name: A duo of starbursts in I Zwicky 18
+ra_hr: 9.567320918684002
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2403a/thumb.jpg
+zoom_level: 0.12183865363125476
+---
+_uuid: 66f49b29-2438-4f7f-a183-79f0cc5e7e65
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 55.24091367872926
+description: 'The NASA/ESA/CSA James Webb Space Telescope has captured a spectacular
+  view of the galaxy I Zwicky 18 (I Zw 18) in this new image. The galaxy was first
+  identified by Swiss astronomer Fritz Zwicky in the 1930’s and resides roughly 59
+  million light-years from Earth. This galaxy has gone through several sudden bursts
+  of star formation. This galaxy is typical of the kinds of galaxies that inhabited
+  the early Universe and it is classified as a dwarf irregular galaxy (much smaller
+  than our Milky Way). Two major starburst regions are embedded in the heart of the
+  galaxy. The wispy brown filaments surrounding the central starburst region are bubbles
+  of gas that have been heated by stellar winds and intense ultraviolet radiation
+  unleashed by hot, young stars. A companion galaxy lies just below the dwarf galaxy,
+  which can be seen as the blue region at the bottom of this wide-field image. This
+  companion may be interacting with I Zw 18’s main body and may have triggered that
+  galaxy''s recent star formation. The orange blobs surrounding the dwarf galaxy are
+  the dim glow from ancient fully formed galaxies at much larger distances. This image
+  was taken as part of a Webb programme to study the life cycle of dust in I Zw 18.
+  Scientists are now building off of previous research with Hubble obtained at optical
+  wavelengths, studying individual dusty stars in detail with Webb’s equivalent spatial
+  resolution and sensitivity at infrared wavelengths. This galaxy is of particular
+  interest as its content of elements heavier than helium is one of the lowest of
+  all known galaxies in the local Universe. Such conditions are thought to be similar
+  to those in some of the first star-forming galaxies at high redshift, so the Webb
+  study of I Zw 18 should shed light on the life-cycle of stars and dust in the early
+  Universe. Although previously believed to have only just recently begun forming
+  its first generation of stars, the NASA/ESA Hubble Space Telescope found fainter,
+  older red stars contained within the galaxy, suggesting its star formation started
+  at least one billion years ago and possibly as much as 10 billion years ago. The
+  galaxy, therefore, may have formed at the same time as most other galaxies. The
+  new observations from Webb have revealed the detection of a set of candidate dusty
+  evolved stars. It also provides details about Zw 18’s two dominant star-forming
+  regions. Webb’s new data suggest that the dominant bursts of star formation in these
+  regions occurred at different times. The strongest starburst activity is now believed
+  to have happened more recently in the northwest lobe as compared to the galaxy’s
+  southeast lobe. This is based on the relative populations of younger versus older
+  stars found in each of the lobes. [Image Description: Many small galaxies are scattered
+  on a black background: mainly, white, oval-shaped and red, spiral galaxies. The
+  image is dominated by a dwarf irregular galaxy, which hosts a bright region of white
+  and blue stars at its core that appear as two distinct lobes. This region is surrounded
+  by brown dusty filaments. At the bottom centre of the image, a companion galaxy
+  is visible that appears as a collection of blue stars.] Links I Zw 18 (cropped)
+  Video: Pan of I Zw 18 Science paper (note: this paper highlights Webb''s science
+  in progress, which is currently going through the peer-review process)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2403b/L{1}X{2}Y{3}.png
+name: I Zwicky 18 (wide-field view)
+ra_hr: 9.567333433655245
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2403b/thumb.jpg
+zoom_level: 0.17905068109840075
+---
+_uuid: f7eb5f4a-982e-4b02-9ebe-1e615ab14dc8
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 2.5311202510078687
+description: 'This new Picture of the Month from the NASA/ESA/CSA James Webb Space
+  Telescope features an astounding number of galaxies. The objects in this frame span
+  an incredible range of distances, from stars within our own Milky Way, marked by
+  diffraction spikes, to galaxies billions of light-years away. The star of this image
+  is a group of galaxies, the largest concentration of which can be found just below
+  the centre of this image. These galaxies glow with white-gold light. We see this
+  galaxy group as it appeared when the Universe was 6.5 billion years old, a little
+  less than half the Universe’s current age. More than half of the galaxies in our
+  Universe belong to galaxy groups like the one pictured here. Studying galaxy groups
+  is critical for understanding how individual galaxies link up to form galaxy clusters,
+  the largest gravitationally bound structures in the Universe. Belonging to a galaxy
+  group can also alter the course of a galaxy’s evolution through mergers and gravitational
+  interactions. The galaxy group pictured here is the most massive group in what’s
+  called the COSMOS-Web field. COSMOS stands for Cosmic Evolution Survey. This survey
+  has enlisted several telescopes, including Webb, the NASA/ESA Hubble Space Telescope,
+  and ESA’s XMM-Newton space observatory to gaze deeply at a single patch of sky.
+  The COSMOS-Web galaxy group team, led by Dr. Gozaliasl, has presented largest sample
+  of galaxy groups detected by Webb thus far using the Amico algorithm. COSMOS-Web
+  aims to understand how massive structures like galaxy clusters came to be. Webb’s
+  infrared capabilities and sensitive instruments have pushed the search for galaxy
+  groups farther back into cosmic history, revealing galaxy groups as far back as
+  when the Universe was only 1.9 billion years old — just 14% of its current age.
+  This image combines data from Webb’s Near-InfraRed Camera (NIRCam) with observations
+  from the Hubble Space Telescope to present a visual feast of galaxies. Take a moment
+  to zoom in and examine this galactic buffet: you’ll see galaxies with delicate spiral
+  arms or warped disks, galaxies with smooth, featureless faces, and even galaxies
+  that are interacting or merging and have taken on an array of strange shapes. The
+  range of colours is also fascinating, representing both galaxies with different
+  ages of stars — younger stars appear bluer, and older stars appear redder — as well
+  as galaxies at different distances. The more distant a galaxy, the redder it appears.
+  COSMOS-Web is a 255-hour Webb Treasury programme that maps 0.54 square degrees (a
+  little more than two-and-a-half times the area covered by three full moons) of the
+  COSMOS field using four NIRCam filters. Treasury programmes have the potential to
+  answer multiple important questions about our Universe. COSMOS-Web has three key
+  goals: to identify galaxies during the epoch of reionization, when the first stars
+  and galaxies reionized the Universe’s hydrogen gas; to probe the formation of the
+  Universe’s most massive galaxies; and to understand how the relationship between
+  the mass of a galaxy’s stars and the mass of its extended galactic halo evolves
+  over the course of cosmic history. [Image Description: An area of deep space with
+  thousands of galaxies in various shapes and sizes on a black background. Most are
+  circles or ovals, with a few spirals. More distant galaxies are redder in colour
+  and smaller, down to being mere dots, while closer galaxies are a bit larger and
+  white or blueish. A few gold-coloured galaxies are bunched closely together in the
+  centre. Bright stars surrounded by spikes lie in our galaxy.] Links Image including
+  X-ray data Slider tool (with/without X-ray)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2504a/L{1}X{2}Y{3}.png
+name: A visual feast of galaxies
+ra_hr: 9.99520853322994
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2504a/thumb.jpg
+zoom_level: 1.0948450043602098
+---
+_uuid: 1b39d271-6df5-4bb7-86a3-f64580ad7613
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 2.5311202510078687
+description: 'This new Picture of the Month from the NASA/ESA/CSA James Webb Space
+  Telescope features an astounding number of galaxies. The objects in this frame span
+  an incredible range of distances, from stars within our own Milky Way, marked by
+  diffraction spikes, to galaxies billions of light-years away. The star of this image
+  is a group of galaxies, the largest concentration of which can be found just below
+  the centre of this image. These galaxies glow with white-gold light. We see this
+  galaxy group as it appeared when the Universe was 6.5 billion years old, a little
+  less than half the Universe’s current age. More than half of the galaxies in our
+  Universe belong to galaxy groups like the one pictured here. Studying galaxy groups
+  is critical for understanding how individual galaxies link up to form galaxy clusters,
+  the largest gravitationally bound structures in the Universe. Belonging to a galaxy
+  group can also alter the course of a galaxy’s evolution through mergers and gravitational
+  interactions. The galaxy group pictured here is the most massive group in what’s
+  called the COSMOS-Web field. COSMOS stands for Cosmic Evolution Survey. This survey
+  has enlisted several telescopes, including Webb, the NASA/ESA Hubble Space Telescope,
+  and ESA’s XMM-Newton space observatory to gaze deeply at a single patch of sky.
+  COSMOS-Web aims to understand how massive structures like galaxy clusters came to
+  be. Webb’s infrared capabilities and sensitive instruments have pushed the search
+  for galaxy groups farther back into cosmic history, revealing galaxy groups as far
+  back as when the Universe was only 1.9 billion years old — just 14% of its current
+  age. This image combines infrared data from Webb’s Near-InfraRed Camera (NIRCam)
+  instrument with further infrared observations from the Hubble Space Telescope. The
+  X-ray data, shown in purple, highlights the presence of hot gas concentrated within
+  the X-ray galaxy group. These X-ray data come from ESA’s XMM-Newton space observatory,
+  with contributions from NASA’s Chandra X-ray Observatory. This image presents a
+  visual feast of galaxies. Take a moment to zoom in and examine the galactic buffet:
+  you’ll see galaxies with delicate spiral arms or warped disks, galaxies with smooth,
+  featureless faces, and even galaxies that are interacting or merging and have taken
+  on an array of strange shapes. The range of colours is also fascinating, representing
+  both galaxies with different ages of stars — younger stars appear bluer, and older
+  stars appear redder — as well as galaxies at different distances. The more distant
+  a galaxy, the redder it appears. COSMOS-Web is a 255-hour Webb Treasury programme
+  that maps 0.54 square degrees (a little more than two-and-a-half times the area
+  covered by three full moons) of the COSMOS field using four NIRCam filters. Treasury
+  programmes have the potential to answer multiple important questions about our Universe.
+  COSMOS-Web has three key goals: to identify galaxies during the epoch of reionization,
+  when the first stars and galaxies reionized the Universe’s hydrogen gas; to probe
+  the formation of the Universe’s most massive galaxies; and to understand how the
+  relationship between the mass of a galaxy’s stars and the mass of its extended galactic
+  halo evolves over the course of cosmic history. [Image Description: An area of deep
+  space with thousands of galaxies in various shapes and sizes on a black background.
+  A few gold-coloured galaxies are bunched closely together in the centre. A large,
+  translucent purple cloud lies over the galaxies, thickest across the centre where
+  the gold galaxies sit, and fainter up to the right. This shows where X-rays are
+  emitted by hot gas in the group of galaxies.] Links Webb (MIRI) and Hubble image
+  Slider tool (with/without X-ray)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2504b/L{1}X{2}Y{3}.png
+name: A visual feast of galaxies, from infrared to X-ray
+ra_hr: 9.99520853322994
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2504b/thumb.jpg
+zoom_level: 1.0948450043602098
+---
+_uuid: 45f1ec4b-d9eb-4e21-a6e9-4b3cd014a878
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.67968946644312
+description: 'Featured in this NASA/ESA/CSA James Webb Space Telescope Picture of
+  the Month is a nearby galaxy that outshines the Milky Way. This galaxy, called Messier
+  82 (M82) or the Cigar Galaxy, is situated just 12 million light-years away in the
+  constellation Ursa Major. Despite being smaller than the Milky Way, M82 is five
+  times as luminous as our home galaxy and forms stars ten times faster. M82 is classified
+  as a starburst galaxy because it is forming new stars at a rate much faster than
+  expected for a galaxy of its mass, especially at its centre. In visible-light images
+  of M82, the central hotbed of activity is obscured by a network of thick and dusty
+  clouds. Webb’s Near-InfraRed Camera (NIRCam) has drawn back these clouds, revealing
+  the full brilliance of the galactic centre. What caused M82’s burst of star formation?
+  The answer likely lies with its neighbour, the larger spiral galaxy M81. Researchers
+  suspect that the two galaxies have interacted gravitationally, sending gas pouring
+  into M82’s centre millions of years ago. The influx of gas provided the raw material
+  for new stars to form — and form they did! M82 is home to more than 100 super star
+  clusters, some of which are still in the process of forming and are blanketed with
+  dense, dusty gas. Super star clusters are more massive and luminous than typical
+  star clusters; these each contain hundreds of thousands of stars. A previous Webb
+  NIRCam image of M82 was released in 2024. The earlier image focused on the very
+  core of the galaxy, where individual clusters of young stars stand out against the
+  clumps and tendrils of gas. This new image takes a broader view of M82’s brilliant
+  centre, capturing the light of billions of stars as well as the glow of organic
+  molecules called polycyclic aromatic hydrocarbons, or PAHs. Researchers used the
+  new Webb data to identify plumes traced by the emission from PAH molecules. Each
+  plume is only about 160 light-years wide, and the Webb images show that these plumes
+  are made up of multiple individual clouds that are 16–49 light-years across — an
+  incredible level of detail enabled by Webb’s sensitive instruments. These clouds
+  appear to have been caught up in the galaxy’s powerful outflowing winds and whisked
+  away from the galactic disc. Ultimately, this phenomenon points back to the galaxy’s
+  remarkable abundance of massive star clusters: as these massive clusters form, their
+  newborn stars sear the surrounding gas with high-energy radiation and particles,
+  launching the outflowing wind that is traced by this NIRCam image. [Image Description:
+  An image of the central part of galaxy M82. The galaxy’s disc extends from the top
+  to the bottom of the image, emitting a blue-white glow. Gas erupts from the brightly
+  shining centre, forming an hourglass-shaped plume of red and orange dust clouds
+  to the left and right. Ridges and cavities in the gas are visible in great detail.
+  Many distant galaxies can be seen in the background, as well as tiny pinprick stars
+  in M82.] Links MIRI image of M82 Space Sparks Episode: June 2025 Picture of the
+  Month - M82 Pan video: M82 (NIRCam) Pan video: M82 (MIRI) Transition video: M82
+  (NIRCam and MIRI)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2506a/L{1}X{2}Y{3}.png
+name: A starburst shines in infrared
+ra_hr: 9.93099590347578
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2506a/thumb.jpg
+zoom_level: 0.4204073121508499
+---
+_uuid: 57f02572-8bdc-48b7-82ec-7fe6e55e6898
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 2.555403540403463
+description: 'The glowing elliptical galaxy at the centre of this image is about 8.6
+  billion light-years away. This gravitational lens is ideally suited for the study
+  of dark matter, an invisible form of matter that makes up most of the mass in the
+  Universe. This gravitational lens is one of eight featured in the September 2025
+  Picture of the Month. [Image Description: This image shows a deep galaxy field as
+  seen by Webb, with a distinct gravitational lens at the centre. A central glowing
+  galaxy in the foreground has a warped galaxy from the background as an orange arc
+  along its right side.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2509f/L{1}X{2}Y{3}.png
+name: Gravitational lens COSJ095593+023319
+ra_hr: 9.998312432001308
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2509f/thumb.jpg
+zoom_level: 0.056585007868135084
+---
+_uuid: 96bf1fea-c350-4505-b7db-bf45b1e52a25
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 2.2054381351562755
+description: 'The golden galaxy at the centre of the image is an elliptical galaxy
+  whose immense gravity is bending the light from a more distant galaxy. The background
+  galaxy is faintly visible as a golden arc along the top of the foreground galaxy.
+  This gravitational lens is one of eight featured in the September 2025 Picture of
+  the Month. [Image Description: This image shows a deep galaxy field as seen by Webb,
+  with a distinct gravitational lens at the centre. A central golden-hued glowing
+  galaxy in the foreground has a warped galaxy from the background as a golden arc
+  shape on top.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2509g/L{1}X{2}Y{3}.png
+name: Gravitational lens COSJ095914+021219
+ra_hr: 9.987428096960235
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2509g/thumb.jpg
+zoom_level: 0.056842546431563154
+---
+_uuid: 02fd1993-ab50-45c7-b059-18b82b3e4a74
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 2.1102188484605677
+description: 'An elliptical galaxy roughly 6 billion light-years away is bending the
+  light from a more distant galaxy whose light has been stretched into a delicate
+  circle. The blue points of light along the circle may be individual star clusters.
+  This gravitational lens is one of eight featured in the September 2025 Picture of
+  the Month. [Image Description: This image shows a deep galaxy field as seen by Webb,
+  with a distinct gravitational lens at the centre. A central glowing galaxy in the
+  foreground has a distorted background galaxy surrounding it in a circular shape.
+  There are four distinct dots within this circle that may be individual star clusters.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2509i/L{1}X{2}Y{3}.png
+name: Gravitational lens COSJ095921+020638
+ra_hr: 9.989370766584289
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2509i/thumb.jpg
+zoom_level: 0.047585820382916574
+---
+_uuid: 7fb92b5c-a004-4c45-8814-270e13b6a8bd
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: 2.756677891080452
+description: 'The distorted spiral galaxy at the centre, the Penguin, and the compact
+  elliptical galaxy at the left, the Egg, are locked in an active embrace. A new near-
+  and mid-infrared image from the James Webb Space Telescope, taken to mark its second
+  year of science, shows that their interaction is marked by a faint upside-down U-shaped
+  blue glow. The pair, known jointly as Arp 142, made their first pass between 25
+  and 75 million years ago — causing ‘fireworks’, or new star formation, in the Penguin.
+  In the most extreme cases, mergers can cause galaxies to form thousands of new stars
+  per year for a few million years. For the Penguin, research has shown that about
+  100 to 200 stars have formed per year. By comparison, our Milky Way galaxy (which
+  is not interacting with a galaxy of the same size) forms roughly six to seven new
+  stars per year. This gravitational shimmy also remade the Penguin’s appearance.
+  Its coiled spiral arms unwound, and gas and dust were pulled in an array of directions,
+  like it was releasing confetti. It is rare for individual stars to collide when
+  galaxies interact (space is vast), but the galaxies’ mingling disrupts their stars’
+  orbits. Today, the Penguin’s galactic centre looks like an eye set within a head,
+  and the galaxy has prominent star trails that take the shape of a beak, backbone,
+  and fanned-out tail. A faint, but prominent dust lane extends from its beak down
+  to its tail. Despite the Penguin appearing far larger than the Egg, these galaxies
+  have approximately the same mass. This is one reason why the smaller-looking Egg
+  hasn’t yet merged with the Penguin. (If one was less massive, it may have merged
+  earlier.) The oval Egg is filled with old stars, and little gas and dust, which
+  is why it isn’t sending out ‘streamers’ or tidal tails of its own and instead has
+  maintained a compact oval shape. If you look closely, the Egg has four prominent
+  diffraction spikes — the galaxy’s stars are so concentrated that it gleams. Now,
+  find the bright, edge-on galaxy at top right. It may look like a party crasher,
+  but it’s not nearby. Cataloged PGC 1237172, it lies 100 million light-years closer
+  to Earth. It is relatively young and isn’t overflowing with dust, which is why it
+  practically disappears in Webb’s mid-infrared view. The background of this image
+  is overflowing with far more distant galaxies. This is a testament to the sensitivity
+  and resolution of Webb’s infrared cameras. Arp 142 lies 326 million light-years
+  from Earth in the constellation Hydra. [Image description: Two interacting galaxies
+  known as Arp 142. At left is NGC 2937, nicknamed the Egg for its appearance. At
+  right is NGC 2936, nicknamed the Penguin for its appearance. The latter’s beak-like
+  region points toward and above the Egg.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2420a/L{1}X{2}Y{3}.png
+name: Interacting galaxies Arp 142 (NIRCam and MIRI image)
+ra_hr: 9.628618389451889
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2420a/thumb.jpg
+zoom_level: 0.5291715998011997
+---
+_uuid: 07e355f8-2a6b-4c21-bfad-ef35b20b3d21
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: 2.7592220230832956
+description: 'Webb’s mid-infrared view of interacting galaxies Arp 142 seems to sing
+  in primary colours. The background of space is like a yawning darkness speckled
+  with bright, multi-coloured beads. This image was taken by MIRI, the telescope’s
+  Mid-InfraRed Instrument, which astronomers use to study cooler and older objects,
+  dust, and extremely distant galaxies. Here, the Egg appears as an exceptionally
+  small teal oval with gauzy layers. Mid-infrared light predominantly shows the oldest
+  stars in the elliptical galaxy, which has lost or used up most of its gas and dust.
+  This is why the view is so different from the combined image, which includes near-infrared
+  light. At right, the Penguin’s shape is relatively unchanged. The MIRI image shows
+  all the gas and dust that has been distorted and stretched, as well as the smoke-like
+  material, in blue, that includes carbon-containing molecules, known as polycyclic
+  aromatic hydrocarbons. Next, look for the edge-on galaxy catalogued PGC 1237172
+  at the top right — a dim, hazy line. Find it by looking for the bright blue star
+  with small diffraction spikes positioned over the top of its left edge. This galaxy
+  nearly disappears in mid-infrared light because its stars are very young and the
+  galaxy isn’t overflowing with dust. Now, scan the full image left to right to spot
+  distant galaxies in the background. The red objects are encased in thick layers
+  of dust. Some are spiral galaxies and others are more distant galaxies that can
+  only be detected as dots or smudges. Green galaxies are laden with dust and are
+  farther away. Bluer galaxies are closer. Zoom in carefully to see if a blue dot
+  has minuscule diffraction spikes — those are stars, not galaxies. [Image description:
+  Two interacting galaxies known as Arp 142 in a horizontal image taken in mid-infrared
+  light. At left is NGC 2937, which looks like a tiny teal oval and is nicknamed the
+  Egg. At right is NGC 2936, nicknamed the Penguin, which is significantly larger
+  and looks like a bird with a fanned tail.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2420b/L{1}X{2}Y{3}.png
+name: Interacting galaxies Arp 142 (MIRI image)
+ra_hr: 9.628900491310135
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2420b/thumb.jpg
+zoom_level: 0.3866154998791135
+---
+_uuid: 62b3131f-1968-4daa-9e9a-e5f186fe8e6d
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: 2.756677891080452
+description: 'The distorted spiral galaxy at the centre, the Penguin, and the compact
+  elliptical galaxy at the left, the Egg, are locked in an active embrace. A new near-
+  and mid-infrared image from the James Webb Space Telescope, taken to mark its second
+  year of science, shows that their interaction is marked by a faint upside-down U-shaped
+  blue glow. The pair, known jointly as Arp 142, made their first pass between 25
+  and 75 million years ago — causing ‘fireworks’, or new star formation, in the Penguin.
+  In the most extreme cases, mergers can cause galaxies to form thousands of new stars
+  per year for a few million years. For the Penguin, research has shown that about
+  100 to 200 stars have formed per year. By comparison, our Milky Way galaxy (which
+  is not interacting with a galaxy of the same size) forms roughly six to seven new
+  stars per year. This gravitational shimmy also remade the Penguin’s appearance.
+  Its coiled spiral arms unwound, and gas and dust were pulled in an array of directions,
+  like it was releasing confetti. It is rare for individual stars to collide when
+  galaxies interact (space is vast), but the galaxies’ mingling disrupts their stars’
+  orbits. Today, the Penguin’s galactic centre looks like an eye set within a head,
+  and the galaxy has prominent star trails that take the shape of a beak, backbone,
+  and fanned-out tail. A faint, but prominent dust lane extends from its beak down
+  to its tail. Despite the Penguin appearing far larger than the Egg, these galaxies
+  have approximately the same mass. This is one reason why the smaller-looking Egg
+  hasn’t yet merged with the Penguin. (If one was less massive, it may have merged
+  earlier.) The oval Egg is filled with old stars, and little gas and dust, which
+  is why it isn’t sending out ‘streamers’ or tidal tails of its own and instead has
+  maintained a compact oval shape. If you look closely, the Egg has four prominent
+  diffraction spikes — the galaxy’s stars are so concentrated that it gleams. Now,
+  find the bright, edge-on galaxy at top right. It may look like a party crasher,
+  but it’s not nearby. Cataloged PGC 1237172, it lies 100 million light-years closer
+  to Earth. It is relatively young and isn’t overflowing with dust, which is why it
+  practically disappears in Webb’s mid-infrared view. The background of this image
+  is overflowing with far more distant galaxies. This is a testament to the sensitivity
+  and resolution of Webb’s infrared cameras. Arp 142 lies 326 million light-years
+  from Earth in the constellation Hydra. [Image description: Two interacting galaxies
+  known as Arp 142. At left is NGC 2937, nicknamed the Egg for its appearance. At
+  right is NGC 2936, nicknamed the Penguin for its appearance. The latter’s beak-like
+  region points toward and above the Egg.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2420f/L{1}X{2}Y{3}.png
+name: Interacting galaxies Arp 142 (NIRCam image)
+ra_hr: 9.628618389451889
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2420f/thumb.jpg
+zoom_level: 0.5291715998011997
+---
+_uuid: 2b4b5d6d-ecf4-4921-b69d-b8d61d5145a0
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: 2.759181368757783
+description: 'The distorted spiral galaxy, the Penguin, and the compact elliptical
+  galaxy, the Egg, are locked in an active embrace. A new near- and mid-infrared image
+  from the James Webb Space Telescope, taken to mark its second year of science, shows
+  that their interaction is marked by a faint upside-down U-shaped blue glow. The
+  pair, known jointly as Arp 142, made their first pass between 25 and 75 million
+  years ago — causing ‘fireworks’, or new star formation, in the Penguin. In the most
+  extreme cases, mergers can cause galaxies to form thousands of new stars per year
+  for a few million years. For the Penguin, research has shown that about 100 to 200
+  stars have formed per year. By comparison, our Milky Way galaxy (which is not interacting
+  with a galaxy of the same size) forms roughly six to seven new stars per year. This
+  gravitational shimmy also remade the Penguin’s appearance. Its coiled spiral arms
+  unwound, and gas and dust were pulled in an array of directions, like it was releasing
+  confetti. It is rare for individual stars to collide when galaxies interact (space
+  is vast), but the galaxies’ mingling disrupts their stars’ orbits. Today, the Penguin’s
+  galactic centre looks like an eye set within a head, and the galaxy has prominent
+  star trails that take the shape of a beak, backbone, and fanned-out tail. A faint,
+  but prominent dust lane extends from its beak down to its tail. Despite the Penguin
+  appearing far larger than the Egg, these galaxies have approximately the same mass.
+  This is one reason why the smaller-looking Egg hasn’t yet merged with the Penguin.
+  (If one was less massive, it may have merged earlier.) The oval Egg is filled with
+  old stars, and little gas and dust, which is why it isn’t sending out ‘streamers’
+  or tidal tails of its own and instead has maintained a compact oval shape. If you
+  look closely, the Egg has four prominent diffraction spikes — the galaxy’s stars
+  are so concentrated that it gleams. The background of this image is overflowing
+  with far more distant galaxies. This is a testament to the sensitivity and resolution
+  of Webb’s infrared cameras. Arp 142 lies 326 million light-years from Earth in the
+  constellation Hydra. [Image description: Two interacting galaxies known as Arp 142.
+  At left is NGC 2937, nicknamed the Egg for its appearance. At right is NGC 2936,
+  nicknamed the Penguin for its appearance. The latter’s beak-like region points toward
+  and above the Egg.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2420g/L{1}X{2}Y{3}.png
+name: Interacting galaxies Arp 142 (NIRCam image, rotated full-field)
+ra_hr: 9.6286755700136
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2420g/thumb.jpg
+zoom_level: 0.3788770864661814
+---
+_uuid: c435e656-3e0b-4e02-93f1-8cc131f78eb2
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -49.610677238386565
+description: 'A distinct dark lane between two cosmic clouds adds to the brainy appearance
+  of nebula PMR 1. The NIRCam (Near-Infrared Camera) instrument on the James Webb
+  Space Telescope shows multiple phases of a dying star’s outbursts in one image:
+  the skull-like, whitish outer bubble is from an initial ejection, mostly of hydrogen,
+  followed by other heavier material, shown in orange in the nebula’s interior. As
+  with many NIRCam images, many stars and even distant galaxies can be seen behind
+  the nebula. Beyond its unusual appearance there is still much to be uncovered about
+  PMR 1. It’s unclear if the star creating the nebula is massive enough to undergo
+  a supernova, or if it will evolve into a dense white dwarf once it has shed all
+  its outer layers. [Image description: A nebula appears like a transparent bubble
+  with a white edge, inside which are two hemispheres of orange clouds being blown
+  out from the centre, split by a dark lane, giving the overall appearance of a see-through
+  skull with a brain inside, as seen from above. A few stars appear with six points,
+  and small background galaxies can be seen around and through the outer bubble.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2605c/L{1}X{2}Y{3}.png
+name: Exposed Cranium Nebula (NIRCam image)
+ra_hr: 9.478134077988722
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2605c/thumb.jpg
+zoom_level: 0.39725114135821005
+---
+_uuid: 0d1d1d04-48c4-496c-9543-9e0e00d1757b
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -49.61087917835316
+description: 'More of the dusty material in the nebula PMR 1 shows up in the mid-infrared
+  light captured by the James Webb Space Telescope’s MIRI (Mid-Infrared Instrument).
+  Fewer stars and background galaxies appear in this image than in the near-infrared
+  light captured by Webb’s NIRCam (Near-Infrared Camera) instrument. Seeing the nebula
+  in different wavelengths of infrared light will give astronomers a better idea of
+  how much material the dying star at the heart of the nebula is shedding, and what
+  phase of its decline Webb has captured. Like NIRCam, MIRI also shows two distinctly
+  different-looking phases of the nebula’s formation — an outer shell primarily of
+  hydrogen that was blown off first, then a more complex and structured mix of material
+  closer to the centre of the nebula. Together, these episodes give the nebula the
+  unusual appearance of a brain inside a semi-transparent skull. The MIRI instrument
+  shows the ejection of material at the top of the nebula more prominently than NIRCam,
+  interrupting the overall oval, brain-like shape. Less prominent is a potential twin
+  ejection on the opposite, bottom side, hinting at a potential bipolar outflow that,
+  with further analysis, can shed light on the dynamics at play inside this “exposed
+  cranium.” [Image description: A nebula appears like a transparent bubble with a
+  blue edge, inside which are two hemispheres of off-white material being blown out
+  from the centre, interspersed vertically by a dark lane that gives the overall appearance
+  of a brain seen from above. At the top of the nebula the dark lane ends in an oval,
+  with the inner off-white material arcing overtop, giving the impression of an eruption.
+  The bottom of the nebula mirrors this effect, but less dramatically. A few scattered
+  background galaxies can be seen around the outer bubble.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2605d/L{1}X{2}Y{3}.png
+name: Exposed Cranium Nebula (MIRI image)
+ra_hr: 9.478151081021396
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2605d/thumb.jpg
+zoom_level: 0.41135274066560024
+---
+_uuid: e4d770ed-f50f-4355-9a49-d8d70e6bf277
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.68089669724134
+description: 'The NASA/ESA/CSA James Webb Space Telescope’s recently observed edge-on
+  starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s near-infrared-light
+  view is a snapshot in time, revealing a scene that has been evolving over a couple
+  hundred million years. In near-infrared light, astronomers can see the galaxy’s
+  distended disc structure and millions of individual stars — approximately 16.5 million
+  — for the first time. Depicted as luminous blue granules, these stars are only a
+  small portion of the total amount astronomers think reside in a galaxy like M82.
+  The extreme star formation occurring within M82, which will eventually cause star
+  formation to cease in the future, is causing bipolar plumes of material to be ejected
+  above and below the galaxy’s disc. Yellow tendrils of material closest to the galaxy’s
+  disc represent ionised gas, and the orange material farther away depicts small dust
+  grains. These grains are called polycyclic aromatic hydrocarbons and are helpful
+  in tracing material in the space between the galaxy’s stars — also known as the
+  interstellar medium. Webb’s detailed observation of the galaxy, specifically of
+  the main plane of the disc, is aiding astronomers as they seek to uncover the formation
+  history of M82. The telescope data will also help scientists understand the current
+  processes occurring within the starburst galaxy. [Image description: Composite image
+  of edge-on spiral starburst galaxy Messier 82 as observed by Webb and Hubble. Hourglass-shaped
+  plumes of gas are shooting outward from above and below a bright blue-white, disc-shaped
+  centre. The plumes are yellow near the galaxy’s bright centre, denoting areas of
+  ionised hydrogen gas as observed by Hubble, and gradually become redder as you move
+  farther away. Messier 82 is set against the black background of space, which has
+  many distant galaxies that appear as small white and orange spirals, ovals, and
+  points of light. Toward the right of Messier 82 is a blue-white star with eight-pointed
+  diffraction spikes that are characteristic of Webb.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2612a/L{1}X{2}Y{3}.png
+name: 'The Cigar Galaxy: M82 (Webb and Hubble image)'
+ra_hr: 9.931597965394051
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2612a/thumb.jpg
+zoom_level: 1.0866510985713265
+---
+_uuid: 9090b184-0c1b-47e4-ba9b-5fc753a2e444
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.68089669732913
+description: 'The NASA/ESA/CSA James Webb Space Telescope recently observed edge-on
+  starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s near-infrared-light
+  view is a snapshot in time, revealing a scene that has been evolving over a couple
+  hundred million years. In near-infrared light, astronomers can see the galaxy’s
+  distended disc structure and millions of individual stars (approximately 16.5 million)
+  for the first time. Webb’s imaging survey of the galaxy is helping astronomers investigate
+  the formation history of M82 and will also shed light on the current processes occurring
+  within the starburst galaxy. [Image description: Edge-on spiral starburst galaxy
+  Messier 82 as imaged by Webb. Hourglass-shaped red-orange plumes of material are
+  shooting outward from above and below a bright blue-white, disc-shaped centre. Messier
+  82 is set against the black background of space, which has many distant galaxies
+  that appear as small white and orange spirals, ovals, and points of light. Toward
+  the right of Messier 82 is a blue-white star with eight-pointed diffraction spikes
+  that are characteristic of Webb.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2612b/L{1}X{2}Y{3}.png
+name: 'The Cigar Galaxy: M82 (Webb NIRCam image)'
+ra_hr: 9.931597965377199
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2612b/thumb.jpg
+zoom_level: 1.0866510985713265
+---
+_uuid: e2940faf-4786-4402-b6be-441b637307ad
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.68171356605089
+description: 'The NASA/ESA/CSA James Webb Space Telescope recently observed edge-on
+  starburst galaxy Messier 82 (M82), nicknamed the Cigar Galaxy. Webb’s near-infrared-light
+  view is a snapshot in time, revealing a scene that has been evolving over a couple
+  hundred million years. In near-infrared light, astronomers can see the galaxy’s
+  distended disc structure and millions of individual stars (approximately 16.5 million)
+  for the first time. Webb’s imaging survey of the galaxy is helping astronomers investigate
+  the formation history of M82 and will also shed light on the current processes occurring
+  within the starburst galaxy. You can learn more about this image here. [Image description:
+  Edge-on spiral starburst galaxy Messier 82 as imaged by Webb. Hourglass-shaped red-orange
+  plumes of material are shooting outward from above and below a bright blue-white,
+  disc-shaped centre. Messier 82 is set against the black background of space, which
+  has many distant galaxies that appear as small white and orange spirals, ovals,
+  and points of light. Toward the right of Messier 82 is a blue-white star with eight-pointed
+  diffraction spikes that are characteristic of Webb.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2612e/L{1}X{2}Y{3}.png
+name: M82 (Webb NIRCam image)
+ra_hr: 9.931948842466463
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2612e/thumb.jpg
+zoom_level: 1.049876132071117

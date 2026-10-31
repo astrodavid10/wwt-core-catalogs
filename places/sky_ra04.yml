@@ -1452,3 +1452,408 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: California Nebula
 ra_hr: 4.00055555555556
 zoom_level: 43.2
+---
+_uuid: 0d068ff8-cb9c-4f05-86d1-9ce8ffbbfeae
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 26.95696169954886
+description: 'The NASA/ESA/CSA James Webb Space Telescope captures the infrared light
+  from bright protostars in the young star system FS Tau. In addition to myriad background
+  galaxies that burst into view, this image flickers with a number of protostars,
+  or baby stars that are formed from dense pockets of gas and dust. These hot, clumpy,
+  and low-mass objects eventually will become full-fledged stars capable of burning
+  hydrogen in their cores, like our Sun. The protostars of FS Tau are about 1 to 3
+  million years old, which is relatively young in cosmic scales. Our Sun, by contrast,
+  is 4.6 billion years old. FS Tau A, a pair of protostars that creates the largest
+  diffraction pattern slightly to the left of centre, is about half the mass of our
+  Sun. FS Tau B, the orange protostar slightly right of centre, is thought to be responsible
+  for the red (molecular hydrogen) and orange (soot-like molecules known as polycyclic
+  aromatic hydrocarbons) outflows that we see amid the dusty region. The blue ridges
+  are areas where light has been scattered by dust. The different colours of the background
+  galaxies indicate how much dust is in front of them, as dust both absorbs and scatters
+  light. Redder galaxies lie behind larger amounts of dust, yellower galaxies lie
+  behind thinner layers of dust, and whiter galaxies are mostly unobstructed. You
+  can learn more about this image here. [Image description: FS Tau, a star-forming
+  nebula. Clouds of transparent blue and purple gas and dust extend from slightly
+  left of centre to the right side of the frame, from 2 o’clock to 5 o’clock. Several
+  yellow and white protostars, some showing Webb’s eight-pronged diffraction pattern
+  are dispersed throughout the clouds. Orange wisps and filaments of gas extend from
+  one of the protostars at the centre toward the top left and bottom right corners
+  of the frame. There are numerous, distant yellow and white galaxies strewn about
+  the black background of space.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/FS-Tau/L{1}X{2}Y{3}.png
+name: FS Tau (Webb NIRCam image)
+ra_hr: 4.367089891840791
+thumbnail: https://data1.wwtassets.org/feeds/jwst/FS-Tau/thumb.jpg
+zoom_level: 0.40527027038139557
+---
+_uuid: 926c9c8f-9920-4a36-a312-f1e1b4478c97
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 26.05334178380569
+description: 'L1527, shown in this image from the NASA/ESA/CSA James Webb Space Telescope’s
+  MIRI (Mid-Infrared Instrument), is a molecular cloud that harbors a protostar. It
+  resides in the constellation Taurus, about 460 light-years from Earth. The more
+  diffuse blue light and the filamentary structures in the image come from organic
+  compounds known as polycyclic aromatic hydrocarbons (PAHs), while the red at the
+  center of this image is an energized, thick layer of gases and dust that surrounds
+  the protostar. The region in between, which shows up in white, is a mixture of PAHs,
+  ionized gas, and other molecules. As the protostar continues to age and release
+  energetic jets, it’ll consume, destroy, and push away much of this molecular cloud,
+  and many of the structures we see here will begin to fade. Eventually, once it finishes
+  gathering mass, this impressive display will end, and the star itself will become
+  more apparent, even to our visible-light telescopes. This image includes filters
+  representing 7.7 microns light as blue, 12.8 microns light as green, and 18 microns
+  light as red. [Image description: A growing protostar embedded within a molecular
+  cloud. The center of the image shows a bright, red region, where the growing protostar
+  resides, with a thin, gray lane of matter cutting through it horizontally, which
+  is the protostar’s accretion disk. Above and below this region are blue triangular-shaped
+  molecular clouds, which give the overall object an hourglass shape. The areas in
+  the molecular clouds closest to the protostar have more pronounced plumes of blue
+  gas. There are red, yellow, orange, blue, and green stars and galaxies scattered
+  across the background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/L1527-1/L{1}X{2}Y{3}.png
+name: L1527 (MIRI image)
+ra_hr: 4.664945194871637
+thumbnail: https://data1.wwtassets.org/feeds/jwst/L1527-1/thumb.jpg
+zoom_level: 0.320474363823391
+---
+_uuid: 131c2bf9-2f95-4518-b0f0-44d2ee707997
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.891298656959737
+description: 'For this new Picture of the Month feature, the NASA/ESA/CSA James Webb
+  Space Telescope has provided a fantastic new view of IRAS 04302+2247, a planet-forming
+  disc located about 525 light-years away in a dark cloud within the Taurus star-forming
+  region. With Webb, researchers can study the properties and growth of dust grains
+  within protoplanetary discs like this one, shedding light on the earliest stages
+  of planet formation. In stellar nurseries across the galaxy, baby stars are forming
+  in giant clouds of cold gas. As young stars grow, the gas surrounding them collects
+  in narrow, dusty protoplanetary discs. This sets the scene for the formation of
+  planets, and observations of distant protoplanetary discs can help researchers understand
+  what took place roughly 4.5 billion years ago in our own Solar System, when the
+  Sun, Earth, and the other planets formed. IRAS 04302+2247, or IRAS 04302 for short,
+  is a beautiful example of a protostar - a young star that is still gathering mass
+  from its environment - surrounded by a protoplanetary disc in which baby planets
+  might be forming. Webb is able to measure the disc at 65 billion kilometres across
+  - several times the diameter of our Solar System. From Webb’s vantage point, IRAS
+  04302’s disc is oriented edge-on, so we see it as a narrow, dark line of dusty gas
+  that blocks the light from the budding protostar at its centre. This dusty gas is
+  fuel for planet formation, providing an environment within which young planets can
+  bulk up and pack on mass. When seen face-on, protoplanetary discs can have a variety
+  of structures like rings, gaps and spirals. These structures can be signs of baby
+  planets that are burrowing through the dusty disc, or they can point to phenomena
+  unrelated to planets, like gravitational instabilities or regions where dust grains
+  are trapped. The edge-on view of IRAS 04302’s disc shows instead the vertical structure,
+  including how thick the dusty disk is. Dust grains migrate to the midplane of the
+  disc, settle there and form a thin, dense layer that is conducive to planet formation;
+  the thickness of the disc is a measure of how efficient this process has been. The
+  dense streak of dusty gas that runs vertically across this image cocoons IRAS 04302,
+  blotting out its bright light such that Webb can more easily image the delicate
+  structures around it. As a result, we’re treated to the sight of two gauzy nebulae
+  on either side of the disc. These are reflection nebulae, illuminated by light from
+  the central protostar reflecting off of the nebular material. Given the appearance
+  of the two reflection nebulae, IRAS 04302 has been nicknamed the “Butterfly Star”.
+  This view of IRAS 04302 features observations from Webb''s Near-InfraRed Camera
+  (NIRCam) and its Mid-InfraRed Instrument (MIRI), combined with optical data from
+  the NASA/ESA Hubble Space Telescope. Together, these powerful facilities paint a
+  fascinating multiwavelength portrait of a planetary birthplace. Webb reveals the
+  distribution of tiny dust grains as well as the reflection of near-infrared light
+  off of dusty material that extends a large distance from the disc, while Hubble
+  focuses on the dust lane as well as clumps and streaks surrounding the dust that
+  suggest the star is still collecting mass from its surroundings as well as shooting
+  out jets and outflows. The Webb observations of IRAS 04302 were taken as part of
+  the Webb GO programme #2562 (PI F. Ménard, K. Stapelfeldt). This programme investigates
+  four protoplanetary discs that are oriented edge-on from our point of view, aiming
+  to understand how dust evolves within these discs. The growth of dust grains in
+  protoplanetary discs is believed to be an important step toward planet formation.
+  [Image description: A wide-field image of IRAS 16594-4656 taken by the James Webb
+  Space Telescope. The nebula’s bright core is split by a narrow dark band, with expansive
+  rainbow lobes of light and colour radiating outward. Numerous background galaxies
+  and stars are visible across the field.] Links: Close-up view of IRAS 04302+2247
+  Science paper (M. Villenave et al.) Pan video Image on ESA website'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2508a/L{1}X{2}Y{3}.png
+name: Dusty wisps round a dusty disc
+ra_hr: 4.554965235406312
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2508a/thumb.jpg
+zoom_level: 0.17609776907589986
+---
+_uuid: 2b0e2091-ec9c-4437-aa8f-8bda88043d17
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.889442005104396
+description: 'This NASA/ESA/CSA James Webb Space Telescope provides a close-up view
+  of IRAS 04302+2247, a planet-forming disc located about 525 light-years away in
+  a dark cloud within the Taurus star-forming region. With Webb, researchers can study
+  the properties and growth of dust grains within protoplanetary discs like this one,
+  shedding light on the earliest stages of planet formation. In stellar nurseries
+  across the galaxy, baby stars are forming in giant clouds of cold gas. As young
+  stars grow, the gas surrounding them collects in narrow, dusty protoplanetary discs.
+  This sets the scene for the formation of planets, and observations of distant protoplanetary
+  discs can help researchers understand what took place roughly 4.5 billion years
+  ago in our own Solar System, when the Sun, Earth, and the other planets formed.
+  IRAS 04302+2247, or IRAS 04302 for short, is a beautiful example of a protostar
+  - a young star that is still gathering mass from its environment - surrounded by
+  a protoplanetary disc in which baby planets might be forming. Webb is able to measure
+  the disc at 65 billion kilometres across - several times the diameter of our Solar
+  System. From Webb’s vantage point, IRAS 04302’s disc is oriented edge-on, so we
+  see it as a narrow, dark line of dusty gas that blocks the light from the budding
+  protostar at its centre. This dusty gas is fuel for planet formation, providing
+  an environment within which young planets can bulk up and pack on mass. When seen
+  face-on, protoplanetary discs can have a variety of structures like rings, gaps
+  and spirals. These structures can be signs of baby planets that are burrowing through
+  the dusty disc, or they can point to phenomena unrelated to planets, like gravitational
+  instabilities or regions where dust grains are trapped. The edge-on view of IRAS
+  04302’s disc shows instead the vertical structure, including how thick the dusty
+  disk is. Dust grains migrate to the midplane of the disc, settle there and form
+  a thin, dense layer that is conducive to planet formation; the thickness of the
+  disc is a measure of how efficient this process has been. The dense streak of dusty
+  gas that runs vertically across this image cocoons IRAS 04302, blotting out its
+  bright light such that Webb can more easily image the delicate structures around
+  it. As a result, treated to the sight of two gauzy nebulae on either side of the
+  disc. These are reflection nebulae, illuminated by light from the central protostar
+  reflecting off of the nebular material. Given the appearance of the two reflection
+  nebulae, IRAS 04302 has been nicknamed the “Butterfly Star”. This view of IRAS 04302
+  combines observations from Webb, the NASA/ESA Hubble Space Telescope, and the Atacama
+  Large Millimetre/submillimetre Array (ALMA). Webb contributed data from both its
+  Near-InfraRed Camera (NIRCam) and its Mid-InfraRed Instrument (MIRI). Together,
+  these three powerful facilities paint a fascinating multiwavelength portrait of
+  a planetary birthplace. Webb reveals the distribution of tiny dust grains as well
+  as the reflection of near-infrared light off of dusty material that extends a large
+  distance from the disc. Hubble focuses on the dust lane as well as clumps and streaks
+  surrounding the dust that suggest the star is still collecting mass from its surroundings
+  as well as shooting out jets and outflows. ALMA detects the glow of larger dust
+  grains within the disk, showing that for a disc as young as IRAS 04302, the dust
+  has yet to settle into a narrow plane as is expected for more evolved discs. The
+  Webb observations of IRAS 04302 were taken as part of the Webb GO programme #2562
+  (PI F. Ménard, K. Stapelfeldt). This programme investigates four protoplanetary
+  discs that are oriented edge-on from our point of view, aiming to understand how
+  dust evolves within these discs. The growth of dust grains in protoplanetary discs
+  is believed to be an important step toward planet formation. [Image Description:
+  A detailed view of IRAS 16594-4656 captured by the James Webb Space Telescope. A
+  bright central region is bisected by a thin, horizontal line of dark dust. Symmetrical
+  lobes of glowing gas extend above and below, with soft blue, purple, and orange
+  hues blending outward into surrounding space.] Links: Wide-field view of IRAS 04302+2247
+  Science paper (M. Villenave et al.) Pan video'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2508b/L{1}X{2}Y{3}.png
+name: Zoom in on a dusty disc
+ra_hr: 4.554610084563538
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2508b/thumb.jpg
+zoom_level: 0.0727341106443461
+---
+_uuid: ec69975e-21d9-47f7-a46e-6fdcbcc1fe07
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 28.230264820233934
+description: 'This new image from the NASA/ESA/CSA James Webb Space Telescope presents
+  Tau 042021, a protoplanetary disc that is one of two featured for month''s ESA/Webb
+  Picture of the Month. It’s also known as 2MASS J04202144+2813491, and it is found
+  in the constellation Taurus, around 450 light-years away. It may look like a colourful
+  spinning top, but the light show pictured here comes from a newly born star wreathed
+  in a churning torus of gas and dust a thousand times as wide as the distance from
+  here to the Sun. Protoplanetary discs like these appear around stars that have recently
+  been born. Eventually the new star will disperse all the dust with its ferocious
+  radiation, but before that happens there’s a chance for the dust to clump together
+  and grow into pebbles, planetesimals and eventually planets — hence, a protoplanetary
+  disc. Whether planets appear, and what kind of planets they are, depends on how
+  larger and smaller dust grains migrate in the disc. An edge-on view like this shows
+  us if dust grains are settling into a layer of large dust grains at the core of
+  the disc. Such a layer is critical for forming planets, and the thicker it is, the
+  better. In this image of Tau 042021, since the disc is nearly exactly edge-on to
+  us, it appears as a dark band running straight across the centre of the image. Larger,
+  millimetre-sized dust grains settle in this area from the outer regions of the disc
+  and build up, creating the conditions for planets to potentially form. Tau 042021’s
+  central star is hidden from us behind this dusty disc, but we can see plenty of
+  evidence for its presence, most notably the purple jets blasting straight up and
+  down — a common feature of young stars embedded in dusty discs. Above and below
+  the dark band, the dust grains gradually become smaller and smaller the farther
+  out we look, to less than a millionth of a metre in size. They are lit by the central
+  star, creating these colourful “wings” top and bottom. Different colours in the
+  wings mark out different kinds of molecules, indexed by Webb’s keen infrared vision;
+  the red areas forming a cross shape are thought to be part of a wind blowing hydrogen
+  atoms and light molecules far out of the disc. Above and to the right of the disc,
+  three distant galaxies appear in the background. The detailed and eye-catching view
+  shown here combines Webb’s images, taken with the Near-Infrared Camera NIRCam and
+  the Mid-Infrared Imager MIRI, with visible-light data from the NASA/ESA Hubble Space
+  Telescope. The knots in the jet that is perpendicular to the disc appear in different
+  colours between the Hubble (bluer) and Webb (redder) images because of the motion
+  of the jet in the 12 years between the observations. [Image Description: A close-in
+  image of a protoplanetary disc around a newly formed star. The disc is a dark, horizontal
+  band in the centre. Broad, conical outflows from the star emerge from the top and
+  bottom of this disc. A thin, broken jet of gas reaches out from the disc’s centre.
+  The jet and outflows appear in pink, purple, blue and green colours, representing
+  the various wavelengths of light they emit.] Links Oph 163131 and Tau 042021 side
+  by side Wide view of Oph 163131 Annotated close-up of Oph 163131'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2603c/L{1}X{2}Y{3}.png
+name: Tau 042021
+ra_hr: 4.339293080293897
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2603c/thumb.jpg
+zoom_level: 0.0574574390239901
+---
+_uuid: 5e00d380-eba4-4c45-8029-762fdd452815
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -3.0143701444201954
+description: 'This NASA/ESA/CSA James Webb Space Telescope Picture of the Month features
+  galaxies in incredible detail that have been warped and multiplied like they’ve
+  stepped into a house of mirrors. The brilliant golden galaxies splashed across this
+  image belong to a galaxy cluster called MACS J0454.1-0300. The orange galaxies concentrated
+  on one side of the cluster are not actually part of the cluster; these galaxies
+  are much farther away from us than the galaxies that make up MACS J0454.1-0300.
+  MACS J0454.1-0300 is itself incredibly distant: the light from these galaxies has
+  been travelling to us for so long that we’re seeing the cluster as it was when the
+  Universe was about 8 billion years old. While this galaxy cluster is a valuable
+  scientific target in its own right, the real stars of this image are the galaxies
+  that appear warped and stretched, like a painting that has been smeared by a giant
+  hand. These strange-looking galaxies are of immense interest to astronomers. The
+  way these galaxies look is the result of gravitational lensing, in which the enormous
+  mass of a foreground object such as a galaxy cluster bends and magnifies the light
+  from a more distant object in the background. Gravitational lensing allows astronomers
+  to observe galaxies, star clusters and even individual stars that are too far away
+  for our telescopes to see under normal conditions. While the large, orange galaxies
+  appear obviously distorted, look carefully at some of the small reddish background
+  galaxies throughout this picture: even at the very edges of the frame, there are
+  galaxies whose images have been bent into tiny arcs by MACS J0454.1-0300’s gravity.
+  In addition to making galaxies look stretched out or bent, gravitational lensing
+  can also make us see double — or quadruple. Under certain conditions, multiple images
+  of the same galaxy can appear. It’s rare to see four or more images of the same
+  galaxy, as this requires the position of the background object and the shape of
+  the massive foreground object to be just so. Because the requirements are so particular,
+  this phenomenon is only seen in 10–20% of galaxy clusters. Researchers spotted this
+  rare configuration twice in the Webb observations of MACS J0454.1-0300, marking
+  the first time this phenomenon has been seen more than once in the same galaxy cluster.
+  The gravitationally lensed areas show multiple images of galaxies from when the
+  Universe was young: a group of galaxies 2 billion years after the Big Bang, and
+  a single galaxy just 800 million years old after the Big Bang. The galaxy group
+  appears to be going through a merger, resulting in an enormous burst of star formation.
+  Astronomers have also identified individual bright ‘knots’ within these gravitationally
+  lensed areas, corresponding to regions as small as 5 light-years across. These tiny
+  clumps appear magnified by a factor of more than 300, in some cases. A NASA/ESA
+  Hubble Space Telescope image of this same cluster was released in 2014. Take a moment
+  to compare the two images; the difference between them is dramatic. Start by finding
+  the similarities: the two bright stars from within our own galaxy that happened
+  to make it into the picture, and the fuzzy white galaxy near the centre of the cluster.
+  The new Webb image reveals hundreds of galaxies missing from the earlier image.
+  These galaxies were there all along, but Webb is much more sensitive to their much
+  redder light. The data behind this image come from two observing programmes (#5058,
+  PI: Furtak; #6882, PI: Fujimoto) that leverage the ability of massive galaxy clusters
+  to bring distant objects into view. One programme searches for individual gravitationally
+  lensed stars in the first billion years of the Universe. This programme will monitor
+  a particular gravitationally lensed galaxy in the MACS J0454.1-0300 field of view
+  for signs of hugely magnified single stars. The second programme aims to observe
+  a large sample of galaxy clusters at many wavelengths, helping researchers study
+  the onset star formation and the evolution of early galaxies. [Image Description:
+  A massive galaxy cluster, made of many golden elliptical galaxies with the largest,
+  brightest one in the centre. Heavily distorted orange galaxies appear all around
+  the cluster, the largest concentrated in a large arc around the cluster''s centre;
+  these are images of very distant galaxies, created by gravitational lensing. A few
+  galaxies are large and bluish-white in colour; bright, nearby stars are the same
+  colour.] Links Image on ESA website Pan video: MACS J0454.1-0300'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2609a/L{1}X{2}Y{3}.png
+name: Galaxies in a cosmic house of mirrors
+ra_hr: 4.903066263116897
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2609a/thumb.jpg
+zoom_level: 0.3647980242471765
+---
+_uuid: 36eaa323-8fb0-40b0-9b1a-6e242cba2c94
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -11.908655239063952
+description: The galaxy cluster MACS-J0417.5-1154 is so massive it is warping the
+  fabric of space-time and distorting the appearance of galaxies behind it, an effect
+  known as gravitational lensing. This natural phenomenon magnifies distant galaxies
+  and can also make them appear in an image multiple times, as NASA’s James Webb Space
+  Telescope saw here. Two distant, interacting galaxies — a face-on spiral and a dusty
+  red galaxy seen from the side — appear multiple times, tracing a familiar shape
+  across the sky. Active star formation, and the face-on galaxy’s remarkably intact
+  spiral shape, indicate that these galaxies’ interaction is just beginning.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/questionmark1/L{1}X{2}Y{3}.png
+name: Lensed Question Mark Galaxy (NIRCam)
+ra_hr: 4.292979341939647
+thumbnail: https://data1.wwtassets.org/feeds/jwst/questionmark1/thumb.jpg
+zoom_level: 0.11682529494120145
+---
+_uuid: 14d2c8d4-33b2-42dc-91c3-5dfdcc65b1bc
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -11.911024207398237
+description: A cosmic question mark appears amid a powerful gravitational lens in
+  the James Webb Space Telescope’s wide-field view of the galaxy cluster MACS-J0417.5-1154.
+  Gravitational lensing occurs when something is so massive, like this galaxy cluster,
+  that it warps the fabric of space-time itself, creating a natural funhouse-mirror
+  effect that also magnifies galaxies behind it. The rarely seen type of lensing captured
+  here, which astronomers term hyperbolic umbilic, created five repeated images of
+  one galaxy pair. The red, elongated member of this pair traces the familiar shape
+  of a question mark across the sky due to the distortion, with another unrelated
+  galaxy happening to be in just the right space-time to appear like the question
+  mark’s dot – especially for humans who love to recognize familiar shapes and patterns.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/questionmark2/L{1}X{2}Y{3}.png
+name: MACS J0417.5-1154 Wide Field (NIRCam)
+ra_hr: 4.293002919682454
+thumbnail: https://data1.wwtassets.org/feeds/jwst/questionmark2/thumb.jpg
+zoom_level: 0.4085813987411272
+---
+_uuid: b25294d2-1dc0-485d-96a9-f34b5e949b89
+classification: ''
+constellation: MEN
+data_set_type: Sky
+dec_deg: -75.38238290560564
+description: 'A team of scientists has used the NASA/ESA/CSA James Webb Space Telescope
+  to observe an exceptionally bright gamma-ray burst, GRB 230307A, and its associated
+  kilonova. Kilonovas—an explosion produced by a neutron star merging with either
+  a black hole or with another neutron star—are extremely rare, making it difficult
+  to observe these events. The highly sensitive infrared capabilities of Webb helped
+  scientists identify the home address of the two neutron stars that created the kilonova.
+  This image from Webb’s NIRCam (Near-Infrared Camera) instrument highlights GRB 230307A’s
+  kilonova and its former home galaxy among their local environment of other galaxies
+  and foreground stars. The neutron stars were kicked out of their home galaxy and
+  travelled the distance of about 120,000 light-years, approximately the diameter
+  of the Milky Way galaxy, before finally merging several hundred million years later.
+  This image is a composite of separate exposures acquired by the James Webb Space
+  Telescope using the NIRCam instrument. Several filters were used to sample wide
+  wavelength ranges. The colour results from assigning different hues (colours) to
+  each monochromatic (grayscale) image associated with an individual filter. In this
+  case, the assigned colours are: Blue: F115W + F150W Green: F277W Red: F356W + F444W
+  [Image description: Bright galaxies and other light sources in various sizes and
+  shapes are scattered across a black swath of space: small points, hazy elliptical-like
+  smudges with halos, and spiral-shaped blobs. The objects vary in colour: white,
+  blue-white, yellow-white, and orange-red. Toward the centre right is a blue-white
+  spiral galaxy seen face-on that is larger than the other light sources in the image.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2325c/L{1}X{2}Y{3}.png
+name: Kilonova and host galaxy (clean)
+ra_hr: 4.055788526952891
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2325c/thumb.jpg
+zoom_level: 0.16021744666037807
+---
+_uuid: cbb162e6-75fb-49de-844c-16e482c10467
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 30.775971504025488
+description: 'The NASA/ESA/CSA James Webb Space Telescope has taken the most detailed
+  image of planetary nebula NGC 1514 to date thanks to its unique mid-infrared observations.
+  Webb shows its rings as “fuzzy,” intricate clumps of dust. It’s also easier to see
+  holes punched through the bright pink central region. [Image description: What looks
+  like a single large, bright star (but is two) shines with bright purple diffraction
+  spikes at the center of a large, diffuse cylinder of gas and dust that is tipped
+  to the right. At the center is a bright pink clumpy cloud that takes up about 25%
+  of the view. There are two large rings seen at a roughly 60-degree angle that appear
+  joined at top left and bottom right. The edges are denser, and form shallow V-shapes
+  that go inward. The rings appear orange at top left and bottom right, and are blue
+  at bottom and center right. There is diffuse orange material around the body. The
+  black background of space is speckled with tiny stars and galaxies mostly in blues
+  and yellows. Areas Webb did not observe are along the top edges, a thin vertical
+  near the nebula at top left, and at the bottom left and right corners.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2508a/L{1}X{2}Y{3}.png
+name: Planetary Nebula NGC 1514 (MIRI image)
+ra_hr: 4.154693713620947
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2508a/thumb.jpg
+zoom_level: 0.7162561859497124

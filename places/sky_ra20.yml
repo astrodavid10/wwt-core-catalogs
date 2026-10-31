@@ -1655,3 +1655,97 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Fireworks Galaxy
 ra_hr: 20.58138888888889
 zoom_level: 3.92
+---
+_uuid: 2c96601e-f880-4af7-a62c-ca7e7648b80b
+classification: ''
+constellation: DEL
+data_set_type: Sky
+dec_deg: 17.12831558867535
+description: 'A merging galaxy pair cavort in this image captured by the NASA/ESA/CSA
+  James Webb Space Telescope. This pair of galaxies, known to astronomers as II ZW
+  96, is roughly 500 million light-years from Earth and lies in the constellation
+  Delphinus, close to the celestial equator. As well as the wild swirl of the merging
+  galaxies, a menagerie of background galaxies are dotted throughout the image.The
+  two galaxies are in the process of merging and as a result have a chaotic, disturbed
+  shape. The bright cores of the two galaxies are connected by bright tendrils of
+  star-forming regions, and the spiral arms of the lower galaxy have been twisted
+  out of shape by the gravitational perturbation of the galaxy merger. It is these
+  star-forming regions that made II ZW 96 such a tempting target for Webb; the galaxy
+  pair is particularly bright at infrared wavelengths thanks to the presence of the
+  star formation. This observation is from a collection of Webb measurements delving
+  into the details of galactic evolution, in particular in nearby Luminous Infrared
+  Galaxies such as II ZW 96. These galaxies, as the name suggests, are particularly
+  bright at infrared wavelengths, with luminosities more than 100 billion times that
+  of the Sun. An international team of astronomers proposed a study of complex galactic
+  ecosystems — including the merging galaxies in II ZW 96 — to put Webb through its
+  paces soon after the telescope was commissioned. Their chosen targets have already
+  been observed with ground-based telescopes and the NASA/ESA Hubble Space Telescope,
+  which will provide astronomers with insights into Webb’s ability to unravel the
+  details of complex galactic environments. Webb captured this merging galaxy pair
+  with a pair of its cutting-edge instruments; NIRCam — the Near-InfraRed Camera —
+  and MIRI, the Mid-InfraRed Instrument. If you are interested in exploring the differences
+  between Hubble and Webb’s observations of II ZW 96, you can do so here.MIRI was
+  contributed by ESA and NASA, with the instrument designed and built by a consortium
+  of nationally funded European Institutes (The MIRI European Consortium) in partnership
+  with JPL and the University of Arizona. The University of Arizona also provided
+  the NIRCam instrument. [Image description: A galaxy merger lies in the centre of
+  this image. The cores of the galaxies, coloured blue, are below-centre. They are
+  surrounded by red star-forming regions which stretch up through and above the centre.
+  Faint yellow diffraction spikes appear in the middle. The lower galaxy is a mostly
+  regular spiral shape, while the upper galaxy has been distorted heavily. The background
+  is black, and covered with many tiny galaxies throughout the scene.] Links Slider
+  Tool Zoom Into II ZW 96 Pan of II ZW 96 Hubble and Webb Observe II ZW 96 New science
+  paper on II ZW 96 (accepted for publication in ApJ Letters)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2211a/L{1}X{2}Y{3}.png
+name: Galactic Get-Together
+ra_hr: 20.956731824925285
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2211a/thumb.jpg
+zoom_level: 0.2222317450062646
+---
+_uuid: 82376a11-07ea-4339-8237-5cc61b4593f3
+classification: ''
+constellation: CYG
+data_set_type: Sky
+dec_deg: 43.85466221919304
+description: 'Astronomers using the NASA/ESA/CSA James Webb Space Telescope James
+  Webb Space Telescope have identified two stars responsible for generating carbon-rich
+  dust a mere 5000 light-years away in our own Milky Way galaxy. As the massive stars
+  in Wolf-Rayet 140 swing past one another on their elongated orbits, their winds
+  collide and produce the carbon-rich dust. For a few months every eight years, the
+  stars form a new shell of dust that expands outward — and may eventually go on to
+  become part of stars that form elsewhere in our galaxy. Every shell is racing away
+  from the stars at more than 2600 kilometers per second, almost 1% the speed of light.
+  Wolf-Rayet 140 lies just over 5000 light-years away in our Milky Way galaxy. [Image
+  description: The image shows a bright white point of light surrounded by 17 regularly
+  spaced, hazy dust shells at the bottom, right, and upper right, which look like
+  tree rings. There is noticeably less color in the upper left. The central point,
+  where the two stars are located, has a roughly hexagonal shape.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2501d/L{1}X{2}Y{3}.png
+name: Wolf-Rayet 140 (MIRI image) - September 2023
+ra_hr: 20.341136724358655
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2501d/thumb.jpg
+zoom_level: 0.1446082590047565
+---
+_uuid: 4a9e0ef1-eb2c-4618-abdd-dcccac426cba
+classification: ''
+constellation: CYG
+data_set_type: Sky
+dec_deg: 43.85466221919304
+description: 'Astronomers using the NASA/ESA/CSA James Webb Space Telescope James
+  Webb Space Telescope have identified two stars responsible for generating carbon-rich
+  dust a mere 5000 light-years away in our own Milky Way galaxy. As the massive stars
+  in Wolf-Rayet 140 swing past one another on their elongated orbits, their winds
+  collide and produce the carbon-rich dust. For a few months every eight years, the
+  stars form a new shell of dust that expands outward — and may eventually go on to
+  become part of stars that form elsewhere in our galaxy. Every shell is racing away
+  from the stars at more than 2600 kilometers per second, almost 1% the speed of light.
+  Wolf-Rayet 140 lies just over 5000 light-years away in our Milky Way galaxy. [Image
+  description: The image shows a bright white point of light surrounded by 17 regularly
+  spaced, hazy dust shells at the bottom, right, and upper right, which look like
+  tree rings. There is noticeably less color in the upper left. The central point,
+  where the two stars are located, has a roughly hexagonal shape.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2501e/L{1}X{2}Y{3}.png
+name: Wolf-Rayet 140 (MIRI image) - July 2022
+ra_hr: 20.341136724358655
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2501e/thumb.jpg
+zoom_level: 0.1446082590047565

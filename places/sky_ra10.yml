@@ -3074,3 +3074,740 @@ foreground_image_set_url: http://www.gemini.edu/images/pio/WWT/292498877/{1}/{3}
 name: NGC 3311 in Hydra Cluster of Galaxies
 ra_hr: 10.6118225
 zoom_level: 0.871831403894357
+---
+_uuid: 14f3b789-b3fe-45ac-81ea-47d200dfabe9
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 18.0917869209961
+description: 'This image from the NASA/ESA/CSA James Webb Space Telescope shows a
+  portion of the Leo P dwarf galaxy (stars at lower right represented in blue). Leo
+  P is a star-forming galaxy located about 5 million light-years away in the constellation
+  Leo. A team of scientists collected data from about 15,000 stars in Leo P to deduce
+  its star formation history. They determined that it went through three phases: an
+  initial burst of star formation, a “pause” that lasted several billion years, and
+  then a new round of star formation that is still continuing. The image from Webb’s
+  NIRCam (Near-Infrared Camera) combines infrared light at wavelengths of 0.9 microns
+  (represented in blue), 1.5 microns (green), and 2.77 microns (red). The stars in
+  Leo P appear blue in comparison to the background galaxies for several reasons.
+  Young, massive stars that are common in star-forming galaxies are predominantly
+  blue. Leo P also is extremely lacking in elements heavier than hydrogen and helium,
+  and the resulting “metal-poor” stars tend to be bluer than Sun-like stars. A bubble-like
+  structure at bottom center is a region of ionized hydrogen surrounding a hot, massive
+  O-type star.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/LeoP/L{1}X{2}Y{3}.png
+name: Leo P (NIRCam image)
+ra_hr: 10.362826989562143
+thumbnail: https://data1.wwtassets.org/feeds/jwst/LeoP/thumb.jpg
+zoom_level: 0.17585277078509784
+---
+_uuid: 66938a00-c7b6-46da-a200-ed92c07f60d4
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -43.90290984772679
+description: 'The peculiar galaxy NGC 3256 takes centre stage in this image from the
+  NASA/ESA Hubble Space Telescope. This distorted galaxy is the wreckage of a head-on
+  collision between two spiral galaxies which likely occurred 500 million years ago,
+  and it is studded with clumps of young stars which were formed as gas and dust from
+  the two galaxies collided. This image contains data from Hubble’s Advanced Camera
+  for Surveys and Wide Field Camera 3. In contrast to the infrared-light image, this
+  visible image lays out in detail the dark threads of dust and molecular gas that
+  spin around the centres of the two merged galaxies. Hot, massive stars in the two
+  nuclei shine brightly, giving a bluish colour to the core, even though the galaxy
+  is more bright overall in infrared wavelengths. The image was originally released
+  in 2018. [Image Description: A large, face-on spiral galaxy. The core is radiating
+  very brightly in white and bluish colours. Thin webs of dark gas cross the centre
+  and most of the galaxy, following the twist of the galaxy. This gas continues out
+  into a tidal tail at the upper-left, and another at the bottom. Small stars can
+  be seen around the spiral galaxy, on a black background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2306b/L{1}X{2}Y{3}.png
+name: NGC 3256 (HST)
+ra_hr: 10.46437730603078
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2306b/thumb.jpg
+zoom_level: 0.3132182853994282
+---
+_uuid: b022c83a-f5cf-41ac-aee5-4dba07ea8db7
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 2.297117943503319
+description: 'The light from the luminous blue foreground galaxy traveled for about
+  4 billion years to reach us, while the background galaxy’s light has been on a much
+  longer journey, taking more than 11 billion years to reach us. This newly detected
+  lens will help researchers understand galaxy evolution and the formation of stars
+  in dusty environments. This gravitational lens is one of eight featured in the September
+  2025 Picture of the Month. [Image Description: This image shows a deep galaxy field
+  as seen by Webb, with a distinct gravitational lens at the centre. A central glowing
+  galaxy in the foreground has a warped galaxy from the background as an orange arc
+  on its right side.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2509b/L{1}X{2}Y{3}.png
+name: Gravitational lens COSJ100024+021749
+ra_hr: 10.006677169006588
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2509b/thumb.jpg
+zoom_level: 0.056936125367912704
+---
+_uuid: 5f44c7bd-47af-4d63-a7d7-cdfbece5d507
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 2.3607549619529986
+description: 'Previously confirmed using data from the NASA/ESA Hubble Space Telescope,
+  this lens is revealed in greater detail by Webb. The elliptical lensing galaxy is
+  seen as it was when the Universe was about 4 billion years old. The blue galaxy
+  whose light has been warped into a circle goes back even further, shown as it was
+  when the Universe was less than 2 billion years old. This gravitational lens is
+  one of eight featured in the September 2025 Picture of the Month. [Image Description:
+  This image shows a deep galaxy field as seen by Webb, with a distinct gravitational
+  lens at the centre. A central elliptical galaxy in the foreground has a distorted
+  background galaxy surrounding it as a small, bright blue, circular shape.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2509c/L{1}X{2}Y{3}.png
+name: Gravitational lens COSJ100018+022138
+ra_hr: 10.005131543918944
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2509c/thumb.jpg
+zoom_level: 0.05675418718756774
+---
+_uuid: c96b3d4d-14c7-43db-9a15-5dd761a2c10f
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 1.8930270283358936
+description: 'Nicknamed ‘the COSMOS-Web Ring’, this lensing system contains a massive
+  elliptical galaxy that acts as the gravitational lens and a more distant star-forming
+  galaxy whose light has been stretched into a perfect circle. The lensed galaxy gives
+  us a glimpse of galactic life when the Universe was just over a billion years old.
+  This gravitational lens is one of eight featured in the September 2025 Picture of
+  the Month. [Image Description: This image shows a deep galaxy field as seen by Webb,
+  with a distinct gravitational lens at the centre. A central glowing galaxy in the
+  foreground has a distorted background galaxy, in orange and blue hues, surrounding
+  it in a circular shape.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2509d/L{1}X{2}Y{3}.png
+name: Gravitational lens COSJ100024+015334
+ra_hr: 10.006700664983539
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2509d/thumb.jpg
+zoom_level: 0.05716948924825234
+---
+_uuid: 5fd96ef3-4f64-4ec5-a2ad-c4f99819f94d
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 2.573325534771317
+description: 'The foreground galaxy whose gravity is bending the light from more distant
+  objects is seen as it was when the Universe was 6.4 billion years old. The more
+  distant lensed galaxy, which appears as an arc, was invisible in previous NASA/ESA
+  Hubble Space Telescope observations and has now been revealed by Webb’s sensitive
+  infrared eyes. This discovery is crucial for studying star formation in distant
+  galaxies. This gravitational lens is one of eight featured in the September 2025
+  Picture of the Month. [Image Description: This image shows a deep galaxy field as
+  seen by Webb, with a distinct gravitational lens at the centre. A central glowing
+  galaxy in the foreground has a warped galaxy from the background curving around
+  its top-left side as an orange arc.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2509e/L{1}X{2}Y{3}.png
+name: Gravitational lens COSJ100013+023424
+ra_hr: 10.003719800361543
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2509e/thumb.jpg
+zoom_level: 0.05669634238003006
+---
+_uuid: 65f23e35-7847-47d3-b23b-96c782bc769c
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 1.8793081733462924
+description: 'Somewhat resembling a ringed planet at first glance, this lens is markedly
+  different from the others presented in the Picture of the Month compilation of gravitational
+  lenses from the COSMOS-Web survey. This shows a rare case in which the lensing galaxy
+  is a thin disc galaxy rather than a giant elliptical galaxy. The dust within the
+  disc absorbs the source’s light, providing a valuable opportunity to study dust
+  in very distant galaxies. This gravitational lens is one of eight featured in the
+  September 2025 Picture of the Month. [Image Description: This image shows a deep
+  galaxy field as seen by Webb, with a distinct gravitational lens at the centre.
+  The lensing galaxy appears in the centre of the frame as a thin disc, with small
+  glowing arcs above and below its centre.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2509h/L{1}X{2}Y{3}.png
+name: Gravitational lens COSJ100025+015245
+ra_hr: 10.007115767905441
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2509h/thumb.jpg
+zoom_level: 0.056698250590784774
+---
+_uuid: c791960a-6212-4de3-a685-a4038eedeb0f
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -57.744616096569615
+description: 'The final ESA/Webb Picture of the Month feature for 2025 showcases a
+  festive-looking region filled with glowing clouds of gas and thousands of sparkling
+  stars. This star cluster, known as Westerlund 2, resides in a stellar breeding ground
+  known as Gum 29, located 20,000 light-years away from Earth in the constellation
+  Carina (the Keel). This image of Westerlund 2 uses data from Webb’s Near-InfraRed
+  Camera (NIRCam) and Mid-InfraRed Instrument (MIRI). The cluster measures between
+  6 light-years and 13 light-years across, and is host to some of our Milky Way galaxy''s
+  hottest, brightest, and most massive stars. It was also the feature of Hubble’s
+  25th anniversary image in 2015.This new Webb image captures the bright, brilliant
+  cluster near the top that is packed with young, massive stars whose intense light
+  shapes the entire scene. Below and around them, swirls of orange and red gas form
+  sculpted walls and tangled clouds - material that is being pushed, eroded, and illuminated
+  by the cluster’s powerful radiation. Threaded throughout the view are countless
+  tiny stars just beginning to shine, some still surrounded by the gas and dust from
+  which they formed. The soft blues and pinks are wisps of thinner material drifting
+  between the denser clouds. Scattered across the field are also many bright stars
+  much closer to us, whose sharp, star-shaped patterns are created by Webb’s optics.
+  The result is a vivid portrait of a stellar nursery in action, where intense energy
+  from newborn stars carves dramatic shapes into the surrounding nebula and drives
+  the ongoing cycle of star formation. These new Webb observations of Westerlund 2
+  have revealed, for the first time, the full population of brown dwarfs in this extremely
+  massive young star cluster, including objects as small as about 10 times the mass
+  of Jupiter. This data is allowing astronomers to find several hundred stars with
+  discs in various evolutionary states to facilitate our understanding of how discs
+  evolve and how planets form in such massive young clusters. This image was developed
+  using data from Webb’s programme #3523 (M. Guarcello) as part of the Extended Westerlund
+  1 and 2 Open Clusters Survey (EWOCS). [Image Description: A cluster of stars inside
+  a large nebula. The clouds of gas and dust are predominantly bright red in colour
+  and wispy, akin to flames. They are clumped in the bottom-left corner. Other clouds,
+  deeper in the cluster behind many of the stars, appear pale pink. The stars are
+  concentrated in the top half of the image and are mostly small, bright white and
+  six-pointed. They cast blue light over the nebula. Other stars with very long spikes
+  surrounding them lie in the foreground.] Links Slider tool: Webb and Hubble’s views
+  of Westerlund 2 Pan video: Westerlund 2 (NIRCam and MIRI image) Transition video:
+  Webb and Hubble’s views of Westerlund 2 Image on ESA website'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2512a/L{1}X{2}Y{3}.png
+name: Dwarf stars in a glittering sky
+ra_hr: 10.399612820971416
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2512a/thumb.jpg
+zoom_level: 0.36428977846081245
+---
+_uuid: f70a8b8b-601a-46c6-937b-9e2d9ff24e2d
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -57.744616096569615
+description: 'This image from the NASA/ESA Hubble Space Telescope showcases part of
+  the Westerlund 2 star cluster that was featured as Hubble’s 25th anniversary image
+  in 2015. The full image and its details can be explored here. [Image Description:
+  A cluster of stars inside a large nebula. The stars inside the nebula are very bright
+  and many are tinged red in colour, due to the layers of dust in front of them. Other
+  stars, in colours like yellow and blue, lie in front of the nebula. The background
+  is covered with dark, obscuring clouds of gas and dust, at parts lit faintly in
+  red, blue and yellow colours by the star cluster.] Links Slider tool: Webb and Hubble’s
+  views of Westerlund 2 Pan video: Westerlund 2 (NIRCam and MIRI image) Transition
+  video: Webb and Hubble’s views of Westerlund 2 Webb image of Westerlund 2'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2512b/L{1}X{2}Y{3}.png
+name: Westerlund 2 (HST image)
+ra_hr: 10.399612820971416
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2512b/thumb.jpg
+zoom_level: 0.36428977846081245
+---
+_uuid: 4c6247d1-9302-4f6c-a4a7-54dfb8699898
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -59.96274235178643
+description: 'This NASA/ESA/CSA James Webb Space Telescope Picture of the Month takes
+  us to a fantastical realm within our home galaxy, where piercing starlight and billowing
+  winds sculpt dust clouds into inventive shapes. This scene is from the Carina Nebula,
+  which lies just 7500 light-years away in the constellation Carina (the Keel). Spanning
+  roughly 260 light-years, the nebula is home to an incredible collection of objects,
+  including the Cosmic Cliffs revealed in the first-ever Webb image release. The Carina
+  Nebula is also the nearest high-mass star-forming region that allows astronomers
+  to study the full range of star formation. This nebula houses some of the most massive
+  stars in our galaxy as well as tens of thousands of protostars, offering a valuable
+  opportunity to understand how stars shape their neighbourhoods. The feature highlighted
+  in today’s image, aptly called the Treasure Chest, looks right at home in this celestial
+  sculpture garden. The Treasure Chest is what’s known as a cometary globule. A cometary
+  globule is an isolated cloud of gas and dust with a dense, dark head and a sweeping
+  tail. These clouds often somewhat resemble comets, but the Treasure Chest looks
+  distinctly like a wooden chest with its lid wide open. However, this chest doesn’t
+  contain jewels or gold coins, but instead a compact cluster of young stars. These
+  stars are responsible for the otherworldly glow coming from within the Treasure
+  Chest, revealed by Webb’s sensitive Near-Infrared Camera (NIRCam). Researchers estimate
+  that the Treasure Chest’s cluster contains about 70 stars, the most massive of which
+  is a rare O-type star roughly 19 times as massive as the Sun. The star cluster is
+  likely around 1.3 million years old, though earlier estimates found it to be as
+  young as just 100 000 years old. Because of its youth, the cluster is still deeply
+  embedded within the dusty clouds of the Treasure Chest. The individual stars in
+  the cluster are wrapped up in dust as well; astronomers have found evidence that
+  many of these stars are surrounded by circumstellar discs. Over time, the brilliant
+  starlight from these young stars will dissipate the surrounding cloud and reveal
+  the entire cluster. The key to the Treasure Chest’s sculptural shape lies outside
+  this image: just 39 light-years to the northwest, as measured on the sky, sits Eta
+  Carinae, the most luminous object in the entire Carina Nebula. Eta Carinae is a
+  star system containing at least two stars, one of which is 100 times as massive
+  as the Sun. This star alone is about 5 million times as luminous as the Sun. Adding
+  to this intense radiation is the nearby star cluster Trumpler 16, which also contains
+  several extremely hot massive stars. The radiation and winds from these massive
+  stars are largely responsible for the current appearance of the Treasure Chest,
+  though the star cluster embedded within it is also eating away at the cloud from
+  within. There’s some debate as to which came first, the cometary shape of the cloud
+  or the star cluster it contains. The likeliest scenario suggests that the star cluster
+  formed first in a cloud of gas that was larger than the Treasure Chest is today.
+  Then, the powerful stellar feedback from nearby stars whisked away the less-dense
+  gas, leaving behind only the denser gas that makes up the Treasure Chest. With Webb,
+  astronomers have carried out an observing programme (#5408; PI: Reiter) dedicated
+  to studying how young stars in the Carina Nebula collect gas from their surroundings
+  and expel it through outflows. These observations from Webb will help astronomers
+  understand how young stars impact their environments, allowing them to craft spectacular
+  scenes like this one. [Image Description: A region of space filled with bright stars
+  and clouds of gas. In the centre, the densest clouds form the shape of a chest with
+  its lid open. The chest appears to glow from within. At its base it breaks apart
+  into long pillars of thick gas. Many of the gas clouds in the background are dark
+  orange globules, while others form large, pale hazes. A few brightly shining stars
+  lie in the foreground, the biggest and brightest in front of the chest’s lid.] Links
+  Image on ESA website Pan Video Zoom Video'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2607a/L{1}X{2}Y{3}.png
+name: Webb opens a Treasure Chest filled with stars
+ra_hr: 10.764739183173846
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2607a/thumb.jpg
+zoom_level: 0.9913918373135656
+---
+_uuid: 6639a9e8-3a94-4ce5-b5bf-35258ad65dfe
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 17.164289410260384
+description: 'The latest ESA/Webb Picture of the Month is a new, infrared look into
+  the strange final phase of a galactic merger. Arp 263, an irregular galaxy, lies
+  in the constellation Leo at a relatively nearby distance of around 25 million light-years.
+  Originally discovered in 1784 and also catalogued as NGC 3239, this galaxy was included
+  in American astronomer Halton Arp’s Atlas of Peculiar Galaxies in 1966, as possibly
+  one of the most remarkable and strange galaxies in the sample. Arp categorised it
+  with the galaxies featuring “irregular clumps”. In 2023, the galaxy was featured
+  in an image from the NASA/ESA Hubble Space Telescope, where these clumps are revealed
+  to be bright nebulae between the galaxy’s dense clouds of gas, where stars are forming.
+  Arp 263 is believed to result from a past galactic merger. Apart from its unusual
+  distorted shape, astronomers have noticed a few features that point to this. It
+  has two short, curved tails of stars, beyond the field of view of this Webb image,
+  which are a feature that’s associated with gravitational interactions. However,
+  there are no nearby galaxies that Arp 263 could be interacting with now. The stars
+  in the galaxy are oriented differently to its hydrogen gas, where they would normally
+  be symmetric, and parts of that gas are moving at different velocities to each other.
+  And, of course, the widespread formation of new stars across Arp 263 is typical
+  of a galaxy whose gas has been seriously shaken up. Although Arp 263 clearly hasn’t
+  yet settled into a more regular shape after its gravitational tug-of-war, its former
+  companion galaxy is now nowhere to be found. It’s possible that this was a dwarf
+  galaxy small enough to have been already completely dissolved into the larger Arp
+  263 — or that its companion was simply much more heavy than it was bright, making
+  it difficult to spot as a remnant. This new image from Webb’s Near-Infrared Camera
+  (NIRCam) reveals an entirely different view of Arp 263, taking us inside the thick
+  gas crowding the galaxy to see the many stars scattered there. These old stars contrast
+  with the several areas of star birth, where multitudes of new stars are forming
+  in numerous clusters. Dust spread throughout the galaxy glows with the light, here
+  shown in red, emitted by complex molecules; around the star-forming regions we also
+  see — in blue colours — hydrogen gas, ionised by starlight and emitting its own
+  light in turn. The most intense area of star formation features a curved chain of
+  compact star clusters, leading to the largest and brightest star-forming nebula.
+  Webb allows us to peek into this stellar nursery and see the stars that have formed
+  within. The brightest of the bright spots in Arp 263 is a shining star, named BD+17
+  2217. It appears so large and bright, with long diffraction spikes created by the
+  telescope’s optics, because it is part of our own galaxy. The galaxies that appear
+  in the background are much more distant, most hundreds of millions of light-years
+  away from both us and Arp 263. A few of these galaxies are identifiable as spiral
+  galaxies, but Webb’s NIRCam reveals the hundreds of much more distant galaxies lurking
+  in the background as orange dots. This image was made with data from observing programme
+  #3707 (PI: Leroy), a survey of the nearby, large, star-forming galaxies in the southern
+  sky. These galaxies are close enough that Webb’s sharp vision can deliver a detailed
+  picture of the stars, star clusters and interstellar dust within the galaxy. The
+  observations will be used to better understand the cycle of star formation and how
+  it plays out across galaxies; Arp 263, with its disturbed disc of gas and its chaotic
+  star formation, presents a unique and fascinating target for these investigations.
+  [Image Description: An irregular galaxy, appearing like a broad band of tiny stars.
+  It is denser on one side, with a faint cloud of gas among the stars. Clumps of brighter
+  points are newly formed stars, with the largest lights being star clusters, and
+  with many surrounded in glowing blue gas clouds. Plumes of red dust surround the
+  galaxy. A foreground star appears very large and bright. A few distant galaxies
+  appear in the background.] Links Slider tool Pan video: Arp 263 Transition video:
+  Hubble and Webb''s views of Arp 263'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2608a/L{1}X{2}Y{3}.png
+name: Striking star clusters and irregular clumps
+ra_hr: 10.41815377871775
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2608a/thumb.jpg
+zoom_level: 0.377144160556501
+---
+_uuid: db54c8b9-b30e-4bfd-80ef-7d371361dec3
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 17.161942313651693
+description: 'The latest ESA/Webb Picture of the Month is a new, infrared look into
+  the strange final phase of a galactic merger. Arp 263, an irregular galaxy, lies
+  in the constellation Leo at a relatively nearby distance of around 25 million light-years.
+  This image shows Hubble’s visible-light view of Arp 263, originally released in
+  2023. Here, “irregular clumps” in the galaxy are revealed to be bright nebulae between
+  its dense clouds of gas, where stars are forming. Milky Way star BD+17 2217 appears
+  in the foreground as a stellar photobomber. The black region visible in the corners
+  appears because this image was cropped and rotated to align with Webb’s image of
+  the galaxy; see and compare the two images with our slider tool here. [Image Description:
+  An irregular galaxy that appears like a triangle-shaped patch of tiny stars. It
+  is densest in the centre and along one edge, growing faint out to the opposite corner.
+  Several bright pink patches mark areas of star formation, and the galaxy’s brightest
+  stars are around these. A large, bright star, with two sets of long spikes, stands
+  between the viewer and the galaxy.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2608b/L{1}X{2}Y{3}.png
+name: Starstruck image of Arp 263
+ra_hr: 10.418233270735616
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2608b/thumb.jpg
+zoom_level: 0.3435814686313585
+---
+_uuid: 9b77cc1f-a352-40b1-9b72-b0830ebaa5d9
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 17.16193834390315
+description: 'The latest ESA/Webb Picture of the Month is a new, infrared look into
+  the strange final phase of a galactic merger. Arp 263, an irregular galaxy, lies
+  in the constellation Leo at a relatively nearby distance of around 25 million light-years.
+  This version of the image is adjusted for comparison with Hubble’s view of Arp 263
+  — see them together here. [Image Description: An irregular galaxy, appearing like
+  a broad band of tiny stars. It is much denser on one side, with a faint cloud of
+  gas among the stars. Clumps of brighter points are newly formed stars, with the
+  largest lights being star clusters. Shells of glowing orange dust surround the clumps.
+  A foreground star appears very large and bright. A few distant galaxies appear in
+  the background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2608c/L{1}X{2}Y{3}.png
+name: Arp 263 (crop)
+ra_hr: 10.418232027776282
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2608c/thumb.jpg
+zoom_level: 0.34301136215671374
+---
+_uuid: cd5a546d-772b-4cd8-a5e6-68773382c753
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -58.62016759655853
+description: 'What looks much like craggy mountains on a moonlit evening is actually
+  the edge of a nearby, young, star-forming region NGC 3324 in the Carina Nebula.
+  Captured in infrared light by the Near-Infrared Camera (NIRCam) on the NASA/ESA/CSA
+  James Webb Space Telescope, this image reveals previously obscured areas of star
+  birth. Called the Cosmic Cliffs, the region is actually the edge of a gigantic,
+  gaseous cavity within NGC 3324, roughly 7,600 light-years away. The cavernous area
+  has been carved from the nebula by the intense ultraviolet radiation and stellar
+  winds from extremely massive, hot, young stars located in the centre of the bubble,
+  above the area shown in this image. The high-energy radiation from these stars is
+  sculpting the nebula’s wall by slowly eroding it away. NIRCam – with its crisp resolution
+  and unparalleled sensitivity – unveils hundreds of previously hidden stars, and
+  even numerous background galaxies. Several prominent features in this image are
+  described below. The “steam” that appears to rise from the celestial “mountains”
+  is actually hot, ionised gas and hot dust streaming away from the nebula due to
+  intense, ultraviolet radiation. Dramatic pillars rise above the glowing wall of
+  gas, resisting the blistering ultraviolet radiation from the young stars. Bubbles
+  and cavities are being blown by the intense radiation and stellar winds of newborn
+  stars. Protostellar jets and outflows, which appear in gold, shoot from dust-enshrouded,
+  nascent stars. A “blow-out” erupts at the top-centre of the ridge, spewing gas and
+  dust into the interstellar medium. An unusual “arch” appears, looking like a bent-over
+  cylinder. This period of very early star formation is difficult to capture because,
+  for an individual star, it lasts only about 50,000 to 100,000 years – but Webb’s
+  extreme sensitivity and exquisite spatial resolution have chronicled this rare event.
+  Located roughly 7,600 light-years away, NGC 3324 was first catalogued by James Dunlop
+  in 1826. Visible from the Southern Hemisphere, it is located at the northwest corner
+  of the Carina Nebula (NGC 3372), which resides in the constellation Carina. The
+  Carina Nebula is home to the Keyhole Nebula and the active, unstable supergiant
+  star called Eta Carinae. NIRCam was built by a team at the University of Arizona
+  and Lockheed Martin’s Advanced Technology Center. For a full array of Webb’s first
+  images and spectra, including downloadable files, please visit: https://esawebb.org/initiatives/webbs-first-images/'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2205a/L{1}X{2}Y{3}.png
+name: NIRCam Image of the “Cosmic Cliffs” in Carina
+ra_hr: 10.614202486597234
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2205a/thumb.jpg
+zoom_level: 0.7175139863940001
+---
+_uuid: 1adc2f89-ebca-428d-993c-b3a9814ba814
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -58.61319344609278
+description: 'Astronomers using the NASA/ESA/CSA James Webb Space Telescope combined
+  the capabilities of the telescope’s two cameras to create a never-before-seen view
+  of a star-forming region in the Carina Nebula. Captured in infrared light by the
+  Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), this combined
+  image reveals previously invisible areas of star birth. What looks much like craggy
+  mountains on a moonlit evening is actually the edge of a nearby, young, star-forming
+  region known as NGC 3324. Called the Cosmic Cliffs, this rim of a gigantic, gaseous
+  cavity is roughly 7,600 light-years away. The cavernous area has been carved from
+  the nebula by the intense ultraviolet radiation and stellar winds from extremely
+  massive, hot, young stars located in the centre of the bubble, above the area shown
+  in this image. The high-energy radiation from these stars is sculpting the nebula’s
+  wall by slowly eroding it away. NIRCam – with its crisp resolution and unparalleled
+  sensitivity – unveils hundreds of previously hidden stars, and even numerous background
+  galaxies. In MIRI’s view, young stars and their dusty, planet-forming disks shine
+  brightly in the mid-infrared, appearing pink and red. MIRI reveals structures that
+  are embedded in the dust and uncovers the stellar sources of massive jets and outflows.
+  With MIRI, the organic, soot-like material on the surface of the ridges glows, giving
+  the appearance of jagged rocks. Several prominent features in this image are described
+  below. The faint “steam” that appears to rise from the celestial “mountains” is
+  actually hot, ionised gas and hot dust streaming away from the nebula due to intense,
+  ultraviolet radiation. Peaks and pillars rise above the glowing wall of gas, resisting
+  the blistering ultraviolet radiation from the young stars. Bubbles and cavities
+  are being blown by the intense radiation and stellar winds of newborn stars. Protostellar
+  jets and outflows, which appear in gold, shoot from dust-enshrouded, nascent stars.
+  MIRI uncovers the young, stellar sources producing these features. For example,
+  a feature at left that looks like a comet with NIRCam is revealed with MIRI to be
+  one cone of an outflow from a dust-enshrouded, newborn star. A “blow-out” erupts
+  at the top-centre of the ridge, spewing material into the interstellar medium. MIRI
+  sees through the dust to unveil the star responsible for this phenomenon. An unusual
+  “arch,” looking like a bent-over cylinder, appears in all wavelengths shown here.
+  This period of very early star formation is difficult to capture because, for an
+  individual star, it lasts only about 50,000 to 100,000 years – but Webb’s extreme
+  sensitivity and exquisite spatial resolution have chronicled this rare event. NGC
+  3324 was first catalogued by James Dunlop in 1826. Visible from the Southern Hemisphere,
+  it is located at the northwest corner of the Carina Nebula (NGC 3372), which resides
+  in the constellation Carina. The Carina Nebula is home to the Keyhole Nebula and
+  the active, unstable supergiant star called Eta Carinae. NIRCam was built by a team
+  at the University of Arizona and Lockheed Martin’s Advanced Technology Center. MIRI
+  was developed as a partnership between NASA and ESA (European Space Agency), with
+  NASA’s Jet Propulsion Laboratory leading the U.S. efforts and a multi-national consortium
+  of European astronomical institutes contributing for ESA. For a full array of Webb’s
+  first images and spectra, including downloadable files, please visit: https://esawebb.org/initiatives/webbs-first-images/'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2205b/L{1}X{2}Y{3}.png
+name: Combined NIRCam and MIRI Image of the “Cosmic Cliffs” in Carina
+ra_hr: 10.6150436019235
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2205b/thumb.jpg
+zoom_level: 0.33185853500076146
+---
+_uuid: 0a0a628a-abad-49a5-ab25-d686a63cfd11
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -40.43593551734226
+description: 'The bright star at the centre of NGC 3132, while prominent when viewed
+  by the NASA/ESA/CSA James Webb Telescope in near-infrared light, plays a supporting
+  role in sculpting the surrounding nebula. A second star, barely visible at lower
+  left along one of the bright star’s diffraction spikes, is the nebula’s source.
+  It has ejected at least eight layers of gas and dust over thousands of years. But
+  the bright central star visible here has helped ‘stir the pot’, changing the shape
+  of this planetary nebula’s highly intricate rings by creating turbulence. The pair
+  of stars are locked in a tight orbit, which leads the dimmer star to spray ejected
+  material in a range of directions as they orbit one another, resulting in these
+  jagged rings. Hundreds of straight, brightly-lit lines pierce through the rings
+  of gas and dust. These ‘spotlights’ emanate from the bright star and stream through
+  holes in the nebula like sunlight through gaps in a cloud. But not all of the starlight
+  can escape. The density of the central region, set off in teal, is reflected by
+  how transparent or opaque it is. Areas that are a deeper teal indicate that the
+  gas and dust are denser — and light is unable to break free. Data from Webb’s Near-Infrared
+  Camera (NIRCam) were used to make this extremely detailed image. It is teeming with
+  scientific information — and research will begin following its release. This is
+  not only a crisp image of a planetary nebula — it also shows us objects in the vast
+  expanse of space behind it. The transparent red sections of the planetary nebula
+  — and all the areas outside it — are filled with distant galaxies. Look for the
+  bright angled line at the upper left. It is not starlight — it is a faraway galaxy
+  seen edge-on. Distant spirals, of many shapes and colours, also dot the scene. Those
+  that are farthest away — or are very dusty — are small and red. NIRCam was built
+  by a team at the University of Arizona and Lockheed Martin’s Advanced Technology
+  Center. For a full array of Webb’s first images and spectra, including downloadable
+  files, please visit: https://esawebb.org/initiatives/webbs-first-images/'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2207b/L{1}X{2}Y{3}.png
+name: Southern Ring Nebula (NIRCam Image)
+ra_hr: 10.11705944122971
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2207b/thumb.jpg
+zoom_level: 0.38263397087999995
+---
+_uuid: 054b2d4e-f3e1-4a43-9e18-d39c94bfd490
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -40.43644184798399
+description: 'The NASA/ESA/CSA James Webb Telescope has revealed the cloak of dust
+  around the second star, shown at left in red, at the centre of the Southern Ring
+  Nebula for the first time. It is a hot, dense white dwarf star. As it transformed
+  into a white dwarf, the star periodically ejected mass — the shells of material
+  you see here. As if on repeat, it contracted, heated up, and then, unable to push
+  out more material, pulsated. At this stage, it should have shed its last layers.
+  So why is the red star still cloaked in dust? Was material transferred from its
+  companion? Researchers will begin to pursue answers soon. The bluer star at right
+  in this image has also shaped the scene. It helps stir up the ejected material.
+  The disc around the stars is also wobbling, shooting out spirals of gas and dust
+  over long periods of time. This scene is like witnessing a rotating sprinkler that’s
+  finished shooting out material in all directions over thousands of years. Webb captured
+  this scene in mid-infrared light — most of which can only be observed from space.
+  Mid-infrared light helps researchers detect objects enshrouded in dust, like the
+  red star. This Mid-Infrared Instrument (MIRI) image also offers an incredible amount
+  of detail, including a cache of distant galaxies in the background. Most of the
+  multi-coloured points of light are galaxies, not stars. Tiny triangles mark the
+  circular edges of stars, including a blue one within the nebula’s red bottom-most
+  edges, while galaxies look like misshapen circles, straight lines, and spirals.
+  MIRI was contributed by ESA and NASA, and the instrument was designed and built
+  by a consortium of nationally funded European Institutes (The MIRI European Consortium)
+  in partnership with JPL and the University of Arizona. For a full array of Webb’s
+  first images and spectra, including downloadable files, please visit: https://esawebb.org/initiatives/webbs-first-images/'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2207c/L{1}X{2}Y{3}.png
+name: Southern Ring Nebula (MIRI Image)
+ra_hr: 10.117107797504449
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2207c/thumb.jpg
+zoom_level: 0.35274590006377177
+---
+_uuid: fb20abbf-5724-4738-99ac-db1a491aee77
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 2.3436074365248984
+description: 'This image shows the environment of the galaxy system ZS7 from the JWST
+  PRIMER programme (PI: J. Dunlop) as seen by Webb''s NIRCam instrument.New research
+  using the NIRSpec instrument on the NASA/ESA/CSA James Webb Space Telescope has
+  determined the system to be evidence of an ongoing merger of two galaxies and their
+  massive black holes when the Universe was only 740 million years old. This marks
+  the most distant detection of a black hole merger ever obtained and the first time
+  that this phenomenon has been detected so early in the Universe. The team has found
+  evidence for very dense gas with fast motions in the vicinity of the black hole,
+  as well as hot and highly ionised gas illuminated by the energetic radiation typically
+  produced by black holes in their accretion episodes. Webb also allowed the team
+  to spatially separate the two black holes and determined that one of the two black
+  holes has a mass that is 50 million times the mass of the Sun. The mass of the other
+  black hole is likely similar, although it is harder to measure because this second
+  black hole is buried in dense gas. [Image description: This image features the ZS7
+  galaxy system, showing a large field of hundreds of galaxies on the black background
+  of space.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2413a/L{1}X{2}Y{3}.png
+name: ZS7 environment (NIRcam image)
+ra_hr: 10.006600422972719
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2413a/thumb.jpg
+zoom_level: 0.5097176835736837
+---
+_uuid: 12ba2d1f-7eff-4262-bc1a-d8b919f6cbc7
+classification: ''
+constellation: LMI
+data_set_type: Sky
+dec_deg: 30.064192649331535
+description: 'This composite image of Arp 107, created with data from the James Webb
+  Space Telescope’s NIRCam (Near-InfraRed Camera) and MIRI (Mid-InfraRed Instrument),
+  reveals a wealth of information about the star formation taking place in these two
+  galaxies and how they collided hundreds of million years ago. The near-infrared
+  data, shown in white, show older stars, which shine brightly in both galaxies, as
+  well as the tenuous gas bridge that runs between them. The vibrant background galaxies
+  are also brightly illuminated at these wavelengths. On the other hand, MIRI data
+  show the young stars and star-forming regions in vibrant orange and red. Our view
+  in the mid-infrared provides the best view of the collision point, given the noticeable
+  gap at the top of the spiral galaxy. This collision not only began a new bout of
+  star formation in the region, but also produced an endearing smile. [Image description:
+  A pair of interacting galaxies. The larger of the two galaxies is slightly right
+  of centre, and is composed of a hazy, bright, white centre and a ring of gaseous
+  filaments, which are different shades of red and orange. Toward the bottom left
+  and bottom right of the ring are filaments of gas spiralling inward toward the core.
+  At the top left of the ring is a noticeable gap, bordered by two large, orange pockets
+  of dust and gas. The smaller galaxy is made of hazy and white gas and dust, which
+  become more diffuse further away from its centre. To this galaxy’s bottom left,
+  there is a smaller, more diffuse gas cloud that wafts outward toward the edges of
+  the image. Many red, orange, and white galaxies are spread throughout, with some
+  being hazier in appearance and others having more defined spiral patterns.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2423a/L{1}X{2}Y{3}.png
+name: Arp 107 composite image (NIRCam + MIRI)
+ra_hr: 10.871336046681003
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2423a/thumb.jpg
+zoom_level: 0.36807610933973334
+---
+_uuid: fe4bde0f-1cf3-4c9a-b3e6-50a77d5351da
+classification: ''
+constellation: LMI
+data_set_type: Sky
+dec_deg: 30.0621212258847
+description: 'This image of Arp 107, obtained by Webb’s MIRI (Mid-InfraRed Instrument),
+  reveals the supermassive black hole that lies in the centre of the large spiral
+  galaxy to the right, as evidenced by the small, bright central ‘core’. This bright
+  core, where the black hole is pulling much of the dust into lanes, also features
+  Webb’s characteristic diffraction spikes, caused by the light that it emits interacting
+  with the structure of the telescope itself. Perhaps the defining feature of the
+  region, which MIRI reveals, are the millions of young stars that are forming, highlighted
+  in blue. These stars are surrounded by dusty silicates and soot-like molecules known
+  as polycyclic aromatic hydrocarbons. The small elliptical galaxy to the left, which
+  has already completed much of its star formation, is composed of many of these organic
+  molecules. [Image description: A pair of interacting galaxies. The larger of the
+  two galaxies is slightly right of centre, and is composed of a bright, white centre
+  and a ring of blue, gaseous filaments. The centre of this galaxy shows Webb’s eight-pronged
+  diffraction pattern. There are three filaments of gas and dust moving from the ring
+  toward the centre. At the top left of the ring is a noticeable gap, bordered by
+  two large, blue pockets of dust and gas. The smaller galaxy is made of hazy, light
+  blue gas and dust. Many red, green, blue, and yellow galaxies are spread throughout,
+  with some being hazier in composition and others having more defined spiral patterns.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2423b/L{1}X{2}Y{3}.png
+name: Arp 107 MIRI image
+ra_hr: 10.87101844207667
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2423b/thumb.jpg
+zoom_level: 0.42614238129576576
+---
+_uuid: 304cfb95-9671-44e6-8516-8d3de9be7703
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -60.10668017447065
+description: 'The Cat’s Head Nebula in visible light by the NASA/ESA Hubble Space
+  Telescope. The nebula is an opaque, dark brown pillar of dust. The cat’s glowing
+  red eye may indicate a young star embedded in the dust. The nebula’s right side
+  has a hazy yellow outline, consistent with an illuminated, ionised rim where a process
+  known as photoevaporation may occur. During this process, energetic ultraviolet
+  light impinges on the gas, heating it up and essentially evaporating it. The background
+  changes from blue and cyan above the pillar to yellow, orange, and red farther down.
+  Hubble’s filters record scattered starlight along with light emitted from oxygen,
+  hydrogen, and sulfur. Differences in gas excitation, absorption by dust, and illumination
+  all contribute to the changing colours. Arcs of material toward the bottom may have
+  been shaped by ultraviolet radiation and stellar winds from massive stars. Many
+  small stars, and some larger stars with Hubble’s characteristic four-point diffraction
+  spikes, are scattered in the background and foreground. [Image description: Visible-light
+  image of the Cat’s Head Nebula by the Hubble Space Telescope. A dark brown, opaque
+  filament of dust is in the center, stretching from the bottom to almost the very
+  top. It has a narrow, irregular shape that resembles a cat sitting with its back
+  toward the viewer and a tail extending downward. The cat’s head is turned toward
+  the right, revealing a red glowing eye. A bright red spot marks the eye. The top
+  half of the background is bright blue. Approximately halfway down, cutting diagonally
+  across the frame, the background colour changes from blue to yellow, orange, and
+  finally red near the bottom. The image is dotted with many small stars. Some larger
+  stars with the telescope’s characteristic four-point diffraction spikes are scattered
+  in the background and foreground.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2622b/L{1}X{2}Y{3}.png
+name: Cat’s Head Nebula (Hubble WFC3 image)
+ra_hr: 10.766616318578132
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2622b/thumb.jpg
+zoom_level: 0.5909887247169873
+---
+_uuid: e7be4397-8d6e-4481-8cf2-4e73433e2f65
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -60.1106537204083
+description: 'The NASA/ESA/CSA James Webb Space Telescope’s near-infrared image of
+  the Cat’s Head Nebula peers through some of the dust to reveal a dense field of
+  stars and the filament’s complex surface structure. Faint, wispy structures to the
+  left of the pillar contain material exposed to intense stellar radiation. Webb captures
+  a dense field of stars, shown in blue and yellow. Even in near-infrared light, some
+  stars are still enshrouded in dust. The bright region marking the cat’s eye may
+  contain an embedded young star. The telescope’s high-resolution imagery even reveals
+  faint background galaxies. [Image description: Near-infrared image of the Cat’s
+  Head Nebula by the James Webb Space Telescope. An orange-brown filament of dust
+  is in the center, stretching from the bottom to almost the very top. It has a narrow,
+  irregular shape that resembles a cat sitting with its back toward the viewer and
+  a tail extending downward. The tail ends at the lower one-third of the image and
+  widens to a squarish dust cloud. The cat’s head is turned toward the right, revealing
+  a yellow glowing eye. The background is mostly blue, with the top right corner revealing
+  the black background of space. On the cat’s left are ghostly filaments of dust.
+  Scattered throughout the view are many yellow and blue stars, some with Webb’s signature
+  eight-point diffraction spikes, and a few faint background galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2622c/L{1}X{2}Y{3}.png
+name: Cat’s Head Nebula (Webb NIRCam image)
+ra_hr: 10.766681648533753
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2622c/thumb.jpg
+zoom_level: 0.9863531962100549
+---
+_uuid: 65b9eec8-ac4f-41c7-a21a-526c54fa656c
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -60.109313179018365
+description: 'In the NASA/ESA/CSA James Webb Space Telescope’s mid-infrared image,
+  emission from warm dust and carbon-based molecules excited by starlight outlines
+  intricate structures within the nebula. Changes in local conditions and compositions
+  cause variations in colour and brightness. Fine strands and globules are especially
+  apparent to the left of the main pillar. To the right of the pillar, a bright yellow
+  light source is seen against reddish mid-infrared emission, probably an infant star
+  embedded in dust. A narrow filament appears to cross the likely star, although its
+  physical relationship to the star is not established. Several blue stars are scattered
+  throughout, some with Webb’s characteristic diffraction spikes. [Image description:
+  Mid-infrared image of the Cat’s Head Nebula by the James Webb Space Telescope. A
+  bluish-gray filament of dust is in the center, stretching from the bottom to almost
+  the very top. It has a narrow, irregular shape that resembles a cat sitting with
+  its back toward the viewer and a tail extending downward. The tail ends at the lower
+  one-third of the image and widens to a triangular peak of dust. The cat’s head is
+  turned toward the right, revealing a white glowing eye. The background is mostly
+  red, with the top left and right corners revealing the black background of space.
+  On the cat’s left is a dome-shaped grouping of faint filaments of dust. Scattered
+  throughout the view are yellow and blue stars, some with Webb’s signature eight-point
+  diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2622d/L{1}X{2}Y{3}.png
+name: Cat’s Head Nebula (Webb MIRI image)
+ra_hr: 10.766517280031877
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2622d/thumb.jpg
+zoom_level: 0.6144770348530347

@@ -4807,3 +4807,191 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: NGC 4565
 ra_hr: 12.605833333333333
 zoom_level: 3.966666666666667
+---
+_uuid: 67bda1c0-ef07-4996-89e2-dc2784f10287
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 44.095800269607714
+description: 'Featured in this new image from the NASA/ESA/CSA James Webb Space Telescope
+  is the dwarf galaxy NGC 4449. This galaxy, also known as Caldwell 21, resides roughly
+  12.5 million light-years away in the constellation Canes Venatici. It is part of
+  the M94 galaxy group, which lies close to the Local Group that hosts our Milky Way.NGC
+  4449 has been forming stars for several billion years, but it is currently experiencing
+  a period of star formation at a much higher rate than in the past. Such unusually
+  explosive and intense star formation activity is called a starburst and for that
+  reason NGC 4449 is known as a starburst galaxy. In fact, at the current rate of
+  star formation, the gas supply that feeds the production of stars would only last
+  for another billion years or so. Starbursts usually occur in the central regions
+  of galaxies, but NGC 4449 displays more widespread star formation activity, and
+  the very youngest stars are observed both in the nucleus and in streams surrounding
+  the galaxy. It''s likely that the current widespread starburst was triggered by
+  interaction or merging with a smaller companion; indeed, astronomers think NGC 4449''s
+  star formation has been influenced by interactions with several of its neighbours.
+  NGC 4449 resembles primordial star-forming galaxies which grew by merging with and
+  accreting smaller stellar systems. Since NGC 4449 is close enough to be observed
+  in great detail, it is the ideal laboratory for astronomers to study what may have
+  occurred during galaxy formation and evolution in the early Universe. This new image
+  makes use of data from two of Webb’s instruments: MIRI (Mid-InfraRed Instrument)
+  and NIRCam (Near-InfraRed Camera). Observations in the infrared reveal the galaxy’s
+  creeping tendrils of gas, dust and stars. The bright blue spots reveal countless
+  individual stars, while the bright yellow regions that weave throughout the galaxy
+  indicate concentrations of active stellar nurseries, where new stars are forming.
+  The orange-red areas indicate the distribution of a type of carbon-based compounds
+  known as polycyclic aromatic hydrocarbons (or PAHs) — the MIRI F770W filter is particularly
+  suited to imaging these important molecules. The bright red spots correspond to
+  regions rich in hydrogen that have been ionised by the radiation from the newly
+  formed stars. The diffuse gradient of blue light around the central region shows
+  the distribution of older stars. The compact light-blue regions within the red ionised
+  gas, mostly concentrated in the galaxy’s outer region, show the distribution of
+  young star clusters.NGC 4449 was observed by Webb as part of a series of observations
+  collectively titled Feedback in Emerging extrAgalactic Star clusTers, or FEAST (PI:
+  A. Adamo). Two other targets of the FEAST programme, M51, and M83, were the subjects
+  of previous ESA/Webb Picture of the Month images in 2023. [Image Description: A
+  close view of the central area of a dwarf galaxy. A huge number of stars fill the
+  whole galaxy as tiny glowing points. They are brightest around the galaxy’s shining
+  core. Thick clouds of gas and dust billow out across the scene, curling like moving
+  flames. They glow in warm colours following their location: orange around the galaxy’s
+  core, and around glowing star clusters in the bottom-left, and dark red elsewhere.]
+  Links NGC 4449 (NIRCam image) NGC 4449 (MIRI image) Slider tool: Webb’s MIRI and
+  NIRCam images of NGC 4449 Slider tool: Hubble and Webb’s views of NGC 4449 Video:
+  Pan of NGC 4449 (NIRCam+MIRI image) Video: Pan of NGC 4449 (NIRCam image) Video:
+  Pan of NGC 4449 (MIRI image) Transition video: Webb''s views of NGC 4449 Transition
+  video: Hubble and Webb''s views of NGC 4449'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2405a/L{1}X{2}Y{3}.png
+name: Fireworks of stellar starbursts
+ra_hr: 12.469683862939267
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2405a/thumb.jpg
+zoom_level: 0.3504676896539402
+---
+_uuid: fb11fc09-f7c5-46be-b8a0-993be97afa6f
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 41.66209311516431
+description: 'For this new ESA/Webb Picture of the Month, the NASA/ESA/CSA James Webb
+  Space Telescope has spied a pair of dwarf galaxies engaged in a gravitational dance.
+  These two galaxies are named NGC 4490 and NGC 4485, and they’re located about 24
+  million light-years away in the constellation Canes Venatici (The Hunting Dogs).
+  Aside from the Milky Way’s own dwarf companions (the Large and Small Magellanic
+  Clouds), this is the closest known interacting dwarf-dwarf system where astronomers
+  have directly observed both a gas bridge and resolved stellar populations. Together
+  NGC 4490 and NGC 4485 form the system Arp 269, which is featured in the Atlas of
+  Peculiar Galaxies. At such a close distance (and with Webb’s impressive ability
+  to peer through dusty cosmic clouds) these galaxies allow astronomers to witness
+  up close the kinds of galaxy interactions that were common billions of years ago.
+  Dwarf galaxies likely share many similarities with young galaxies in the early Universe:
+  they are much less massive than galaxies like the Milky Way, they typically have
+  small amounts of metals (what astronomers call elements heavier than helium), and
+  they contain a lot of gas and relatively few stars. When nearby dwarf galaxies collide,
+  merge, or steal gas from one another, it can tell us how galaxies billions of years
+  ago might have grown and evolved. The nearby dwarf galaxies NGC 4490 and NGC 4485
+  form an intriguing pair. Nearly three decades ago, astronomers discovered a wispy
+  bridge of gas connecting the two galaxies, showing that they have interacted in
+  the past. Despite many studies with powerful telescopes like the NASA/ESA Hubble
+  Space Telescope, the history between NGC4490 and NGC 4485 has remained mysterious.
+  Recently, Webb observed this curious galactic pair as part of the Feedback in Emerging
+  extrAgalactic Star clusTers (FEAST) programme (#1783; PI: A. Adamo). The FEAST programme
+  used Webb’s sensitive infrared eyes to reveal the formation of new stars in different
+  types of nearby galaxies. This image was developed using data from Webb’s Near-InfraRed
+  Camera (NIRCam) and Mid-InfraRed Instrument (MIRI), as well as a single narrow-band
+  filter from Hubble (657N). It reveals NGC 4490 and NGC 4485 in never-before-seen
+  detail and illuminates the bridge of gas and stars that connects them. NGC 4490
+  dominates the image as the larger object occupying the left side of the image, while
+  NGC 4485 is the smaller galaxy that hosts the top-right portion of the image. By
+  dissecting these galaxies star by star, researchers were able to map out where young,
+  middle-aged, and old stars reside, and trace the timeline of the galaxies’ interaction.
+  Roughly 200 million years ago, these galaxies whirled close to one another before
+  waltzing away. The larger galaxy, NGC 4490, ensnared a stream of gas from its companion,
+  and this gas now trails between the galaxies like dancers connected by outstretched
+  arms. Along the newly formed bridge of gas and within the two galaxies, this interaction
+  spurred a burst of new stars. The concentrated areas of bright blue that appear
+  throughout the field indicate highly ionised regions of gas by the recently formed
+  star clusters. Just 30 million years ago, these galaxies burst alight with stars
+  once more, with new clusters coalescing where the gas of the two galaxies mixed
+  together. By capturing the history of the galactic dancers NGC 4490 and NGC 4485,
+  Webb has revealed new details in how dwarf galaxies interact, giving us a glimpse
+  of how small galaxies near and far grow and evolve. [Image Description: This Webb
+  image shows two interacting galaxies. NGC 4490 occupies the left side of the image,
+  while NGC 4485 appears as a white glowing hue in the top right of the field. Both
+  galaxies are connected by a bright stream of red stretching from the top left of
+  the image, through the bottom centre, and ending at the right under galaxy NGC 4485.
+  There are regions of bright blue ionised gas visible in concentrated areas of the
+  red stream. The background is black with multiple galaxies in various shapes throughout.]
+  Links: Science paper (G. Bortolini et al.) Pan Video Image on ESA website'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2511a/L{1}X{2}Y{3}.png
+name: A dance of dwarf galaxies
+ra_hr: 12.509274476400664
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2511a/thumb.jpg
+zoom_level: 0.3780301575003051
+---
+_uuid: 8e900305-185e-4402-89f3-4083fb98a2c5
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -11.622718359856558
+description: 'The NASA/ESA/CSA James Webb Space Telescope recently imaged the Sombrero
+  galaxy with its NIRCam (Near-Infrared Camera), which shows dust from the galaxy’s
+  outer ring blocking stellar light from stars within the galaxy. In the central region
+  of the galaxy, the roughly 2,000 globular clusters, or collections of hundreds of
+  thousands of old stars held together by gravity, glow in the near-infrared. The
+  Sombrero Galaxy is around 30 million light-years from Earth in the constellation
+  Virgo. From Earth, we see this galaxy nearly “edge-on,” or from the side. MIRI’s
+  view of the object can be seen here. This image was created with Webb data from
+  proposal 6565 (PI: M. Garcia Marin). The assigned filters are as follows: Blue:
+  F090W+F200W, Green: F212N+F277W, Red: F335M+F444W. [Image description: Image of
+  a galaxy on the black background of space. The galaxy is a very oblong, brownish
+  yellowish disk that extends from left to right at an angle (from about 10 o’clock
+  to 5 o’clock). Mottled dark brown patches rim the edge of the disk and are particularly
+  prominent where they cross directly in front of the galaxy. The galaxy’s center
+  glows white and extends above and below the disk. There are different colored dots,
+  distant galaxies, speckled among the black background of space surrounding the galaxy.
+  At the bottom right, there is a particularly bright foreground star with Webb’s
+  signature diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/sombrerogalaxy1/L{1}X{2}Y{3}.png
+name: Sombrero Galaxy (NIRCam image)
+ra_hr: 12.666504201676538
+thumbnail: https://data1.wwtassets.org/feeds/jwst/sombrerogalaxy1/thumb.jpg
+zoom_level: 0.9840210757649132
+---
+_uuid: 0e868324-3b06-4e0d-bbff-32149bca554b
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -11.622443884592963
+description: 'The NASA/ESA/CSA James Webb Space Telescope recently imaged the Sombrero
+  galaxy with its MIRI (Mid-Infrared Instrument), resolving the clumpy nature of the
+  dust along the galaxy’s outer ring. The mid-infrared light highlights the gas and
+  dust that are part of star formation taking place among the Sombrero galaxy’s outer
+  disk. The rings of the Sombrero galaxy produce less than one solar mass of stars
+  per year, in comparison to the Milky Way’s roughly two solar masses a year. It’s
+  not a particular hotbed of star formation. The Sombrero galaxy is around 30 million
+  light-years from Earth in the constellation Virgo. [Image description: Image of
+  a galaxy on the black background of space. The galaxy is a very oblong, blue disk
+  that extends from left to right at an angle (from about 10 o’clock to 5 o’clock).
+  The galaxy has a small bright core at the centre. There is an inner disk that is
+  clearer, with speckles of stars scattered throughout. The outer disk of the galaxy
+  is whiteish-blue, and clumpy, like clouds in the sky. There are different coloured
+  dots, distant galaxies, speckled among the black background of space surrounding
+  the galaxy.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2427a/L{1}X{2}Y{3}.png
+name: Sombrero galaxy (MIRI)
+ra_hr: 12.666483421848598
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2427a/thumb.jpg
+zoom_level: 0.41000644973371403
+---
+_uuid: 77021507-c507-4b30-9352-df69abc567ea
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 11.82018876064388
+description: 'This image shows the field of where the NASA/ESA/CSA James Webb Space
+  Telescope’s NIRCam (Near-Infrared Camera) was able to detect the host galaxy of
+  the fast radio burst called FRB 20240304B. [Image description: A field full of small
+  galaxies of all shapes against the blackness of space. A few bright white stars
+  show 8 prominent diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2621d/L{1}X{2}Y{3}.png
+name: FRB 20240304B (NIRCam clean image)
+ra_hr: 12.200655014861166
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2621d/thumb.jpg
+zoom_level: 0.32251439717575425

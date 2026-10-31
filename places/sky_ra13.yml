@@ -3838,6 +3838,513 @@ name: Whirlpool Galaxy
 ra_hr: 13.497777777777777
 zoom_level: 4.0
 ---
+_uuid: f0cee538-277e-429f-a413-f1dfd1fad721
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 25.677117599344566
+description: 'By combining data from the NASA/ESA/CSA James Webb Space Telescope and
+  the NASA/ESA Hubble Space Telescope, researchers were able to trace light that was
+  emitted by the large white elliptical galaxy at left through the spiral galaxy at
+  right and identify the effects of interstellar dust in the spiral galaxy. This image
+  of galaxy pair VV 191 includes near-infrared light from Webb, and ultraviolet and
+  visible light from Hubble. Webb’s near-infrared data also show us the galaxy’s longer,
+  extremely dusty spiral arms in far more detail, giving them an appearance of overlapping
+  with the central bulge of the bright white elliptical galaxy on the left. Although
+  the two foreground galaxies are relatively close astronomically speaking, they are
+  not actively interacting. Don’t overlook the background scenery! Like many Webb
+  images, this image of VV 191 shows many galaxies that lie great distances away.
+  For example, two patchy spirals to the upper left of the elliptical galaxy have
+  similar apparent sizes, but show up in very different colors. One is likely very
+  dusty and the other very far away, but researchers need to obtain data known as
+  spectra to determine which is which. Note: This image highlights Webb’s science
+  in progress, which has not yet been through the peer-review process. Links Video'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/VV191a/L{1}X{2}Y{3}.png
+name: Galaxy Pair VV 191 (Webb and Hubble Composite Image)
+ra_hr: 13.806114040512503
+thumbnail: https://data1.wwtassets.org/feeds/jwst/VV191a/thumb.jpg
+zoom_level: 0.15633359507414557
+---
+_uuid: 8b1d4348-f8a8-4625-8e7d-81743852bf82
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -21.03465721650229
+description: 'A delicate tracery of dust and bright star clusters threads across this
+  image from the NASA/ESA/CSA James Webb Space Telescope. In this image, from Webb’s
+  MIRI instrument, the dusty structure of the spiral galaxy and glowing bubbles of
+  gas containing newly-formed star clusters are particularly prominent. These bright
+  tendrils of gas belong to the barred spiral galaxy NGC 5068, located around 17 million
+  light-years from Earth in the constellation Virgo. This portrait of NGC 5068 is
+  part of a campaign to create an astronomical treasure trove, a repository of observations
+  of star formation in nearby galaxies. Previous gems from this collection can be
+  seen here and here. These observations are particularly valuable to astronomers
+  for two reasons. The first is because star formation underpins so many fields in
+  astronomy, from the physics of the tenuous plasma that lies between stars to the
+  evolution of entire galaxies. By observing the formation of stars in nearby galaxies,
+  astronomers hope to kick-start major scientific advances with some of the first
+  available data from Webb. The second reason is that Webb’s observations build on
+  other studies using telescopes including the NASA/ESA Hubble Space Telescope and
+  some of the world’s most capable ground-based observatories. Webb collected images
+  of 19 nearby star-forming galaxies which astronomers could then combine with catalogues
+  from Hubble of 10 000 star clusters, spectroscopic mapping of 20 000 star-forming
+  emission nebulae from the Very Large Telescope (VLT), and observations of 12 000
+  dark, dense molecular clouds identified by the Atacama Large Millimeter/submillimeter
+  Array (ALMA). These observations span the electromagnetic spectrum and give astronomers
+  an unprecedented opportunity to piece together the minutiae of star formation. Three
+  asteroid trails intrude into this image, visible as tiny blue-green-red dots. Asteroids
+  appear in astronomical images such as these because they are much closer to the
+  telescope than the distant target. As Webb captures several images of the astronomical
+  object, the asteroid moves, so it shows up in a slightly different place in each
+  frame. They are a little more noticeable in images such as this one from MIRI, because
+  many stars are not as bright in mid-infrared wavelengths as they are in near-infrared
+  or visible light, so asteroids are easier to see next to the stars. One trail lies
+  just below the galaxy’s bar, and two more in the bottom-left corner - can you spot
+  them? [Image description: A close-in image of a spiral galaxy, showing its core
+  and part of a spiral arm. A few bright stars are visible throughout it, concentrated
+  in the barred core. Clumps and filaments of dust thread through it, forming an almost
+  skeletal structure that follows the twist of the galaxy and its spiral arm. Large,
+  glowing bubbles of red gas are hidden in the dust.] Links NGC 5068 (MIRI+NIRCam
+  image) NGC 5068 (NIRCam image) Slider Tool (MIRI and NIRCam images) Video: Pan of
+  NGC 5068 Video: Webb''s views of NGC 5068 (MIRI and NIRCam images) Video: Zoom into
+  NGC 5068'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2305b/L{1}X{2}Y{3}.png
+name: Webb's MIRI peers behind bars
+ra_hr: 13.314004014626514
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2305b/thumb.jpg
+zoom_level: 0.43217142074509296
+---
+_uuid: 9f976b54-29ed-4762-a311-9440bae746a4
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -21.036483780267428
+description: 'A delicate tracery of dust and bright star clusters threads across this
+  image from the NASA/ESA/CSA James Webb Space Telescope. This view from Webb’s NIRCam
+  instrument is studded by the galaxy’s massive population of stars, most dense along
+  its bright central bar, along with burning red clouds of gas illuminated by young
+  stars within. These glittering stars belong to the barred spiral galaxy NGC 5068,
+  located around 17 million light-years from Earth in the constellation Virgo. This
+  portrait of NGC 5068 is part of a campaign to create an astronomical treasure trove,
+  a repository of observations of star formation in nearby galaxies. Previous gems
+  from this collection can be seen here and here. These observations are particularly
+  valuable to astronomers for two reasons. The first is because star formation underpins
+  so many fields in astronomy, from the physics of the tenuous plasma that lies between
+  stars to the evolution of entire galaxies. By observing the formation of stars in
+  nearby galaxies, astronomers hope to kick-start major scientific advances with some
+  of the first available data from Webb. The second reason is that Webb’s observations
+  build on other studies using telescopes including the NASA/ESA Hubble Space Telescope
+  and some of the world’s most capable ground-based observatories. Webb collected
+  images of 19 nearby star-forming galaxies which astronomers could then combine with
+  catalogues from Hubble of 10 000 star clusters, spectroscopic mapping of 20 000
+  star-forming emission nebulae from the Very Large Telescope (VLT), and observations
+  of 12 000 dark, dense molecular clouds identified by the Atacama Large Millimeter/submillimeter
+  Array (ALMA). These observations span the electromagnetic spectrum and give astronomers
+  an unprecedented opportunity to piece together the minutiae of star formation. This
+  near-infrared image of the galaxy is filled by the enormous gathering of older stars
+  which make up the core of NGC 5068. The keen vision of NIRCam allows astronomers
+  to peer through the galaxy’s gas and dust to closely examine its stars. Dense and
+  bright clouds of dust lie along the path of the spiral arms: within these are young,
+  massive star clusters and H II regions, collections of hydrogen gas where new stars
+  are forming. The young, energetic stars ionise the hydrogen around them which, when
+  combined with hot dust emission, creates this reddish glow. YOung star-forming regions
+  are a fascinating target for astronomers, and Webb’s instruments are the perfect
+  tools to examine them, resulting in this image. [Image Description: A close-in image
+  of a spiral galaxy, showing its core and part of a spiral arm. At this distance
+  thousands upon thousands of tiny stars that make up the galaxy can be seen. The
+  stars are most dense in a whitish bar that forms the core, and less dense out from
+  that towards the arm. Bright red gas clouds follow the twist of the galaxy and the
+  spiral arm.] Links NGC 5068 (NIRCam+MIRI Image) NGC 5068 (MIRI Image) Slider Tool
+  (MIRI and NIRCam images) Video: Pan of NGC 5068 Video: Webb''s views of NGC 5068
+  (MIRI and NIRCam images) Video: Zoom into NGC 5068'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2305c/L{1}X{2}Y{3}.png
+name: Webb's NIRCam peers behind bars
+ra_hr: 13.314261235349399
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2305c/thumb.jpg
+zoom_level: 0.3655237218279548
+---
+_uuid: e52eee36-7902-4ccf-9762-73d4c125b73a
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.20007775363007
+description: 'The graceful winding arms of the grand-design spiral galaxy M51 stretch
+  across this image from the NASA/ESA/CSA James Webb Space Telescope. Unlike the menagerie
+  of weird and wonderful spiral galaxies with ragged or disrupted spiral arms, grand-design
+  spiral galaxies boast prominent, well-developed spiral arms like the ones showcased
+  in this image. This galactic portrait was captured by Webb’s Mid-InfraRed Instrument
+  (MIRI). In this image the reprocessed stellar light by dust grains and molecules
+  in the medium of the galaxy illuminate a dramatic filamentary medium. Empty cavities
+  and bright filaments alternate and give the impression of ripples propagating from
+  the spiral arms. The yellow compact regions indicate the newly formed star clusters
+  in the galaxy. M51 — also known as NGC 5194 — lies about 27 million light-years
+  away from Earth in the constellation Canes Venatici, and is trapped in a tumultuous
+  relationship with its near neighbour, the dwarf galaxy NGC 5195. The interaction
+  between these two galaxies has made these galactic neighbours one of the better-studied
+  galaxy pairs in the night sky. The gravitational influence of M51’s smaller companion
+  is thought to be partially responsible for the stately nature of the galaxy’s prominent
+  and distinct spiral arms. If you would like to learn more about this squabbling
+  pair of galactic neighbours, you can explore earlier observations of M51 by the
+  NASA/ESA Hubble Space Telescope here. This Webb observation of M51 is one of a series
+  of observations collectively titled Feedback in Emerging extrAgalactic Star clusTers,
+  or FEAST. The FEAST observations were designed to shed light on the interplay between
+  stellar feedback and star formation in environments outside of our own galaxy, the
+  Milky Way. Stellar feedback is the term used to describe the outpouring of energy
+  from stars into the environments which form them, and is a crucial process in determining
+  the rates at which stars form. Understanding stellar feedback is vital to building
+  accurate universal models of star formation. The aim of the FEAST observations is
+  to discover and study stellar nurseries in galaxies beyond our own Milky Way. Before
+  Webb became operative, other observatories such as the Atacama Large Millimetre
+  Array in the Chilean desert and Hubble have given us a glimpse of star formation
+  either at the onset (tracing the dense gas and dust clouds where stars will form)
+  or after the stars have destroyed with their energy their natal gas and dust clouds.
+  Webb is opening a new window into the early stages of star formation and stellar
+  light, as well as the energy reprocessing of gas and dust. Scientists are seeing
+  star clusters emerging from their natal cloud in galaxies beyond our local group
+  for the first time. They will also be able to measure how long it takes for these
+  stars to pollute with newly formed metals and to clean out the gas (these time scales
+  are different from galaxy to galaxy). By studying these processes, we will better
+  understand how the star formation cycle and metal enrichment are regulated within
+  galaxies as well as what are the time scales for planets and brown dwarfs to form.
+  Once dust and gas is removed from the newly formed stars, there is no material left
+  to form planets. Note: The black region visible around this image is due to the
+  rotation and cropping of the image to align with the NIRCam image for the slider
+  tool. The full MIRI image can be viewed here. [Image Description: A large spiral
+  galaxy takes up the entirety of the image. The core is mostly bright white, but
+  there are also swirling, detailed structures that resemble water circling a drain.
+  There is white and pale blue light that emanates from stars and dust at the core’s
+  centre, but it is tightly limited to the core. The detailed rings feature bands
+  of deep orange and cloudy grey, which are interspersed by darker empty regions throughout.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2308d/L{1}X{2}Y{3}.png
+name: M51 (MIRI image - cropped)
+ra_hr: 13.497828470288457
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2308d/thumb.jpg
+zoom_level: 0.37402742492923646
+---
+_uuid: b6e0d217-ed5f-481c-8289-999a57d22c96
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -29.866586641491672
+description: 'The spiral galaxy M83, which is also known as NGC 5236, was observed
+  by Webb as part of a series of observations collectively titled Feedback in Emerging
+  extrAgalactic Star clusTers, or FEAST. Another target of the FEAST observations,
+  M51, was the subject of a previous Webb Picture of the Month. As with all six galaxies
+  that comprise the FEAST sample, M83 and M51 were observed with both NIRCam and MIRI,
+  two of the four instruments that are mounted on Webb. MIRI, or the Mid-InfraRed
+  Instrument, makes observations in the mid-infrared, which spans wavelengths of light
+  very different from optical wavelengths. Optical wavelengths in astronomy roughly
+  correspond to the range of light waves that human eyes are sensitive to, and extend
+  from about 0.38 to 0.75 micrometres (a micrometre, or micron, is one thousandth
+  of a millimetre). By contrast, MIRI detects light from 5 to 28 micrometres — however,
+  when it makes observations, it does not typically observe across this entire wavelength
+  range all at once. Instead, MIRI has a set of ten filters that allow very specific
+  regions of light through. For example, one of MIRI’s filters (dubbed F770W), allows
+  light with wavelengths of 6.581 to 8.687 micrometres to pass through it. This image
+  was compiled using data collected through just two of MIRI’s ten filters, near the
+  short end of the instrument’s wavelength range. The result is this extraordinarily
+  detailed image, with its creeping tendrils of gas, dust and stars. In this image,
+  the bright blue shows the distribution of stars across the central part of the galaxy.
+  The bright yellow regions that weave through the spiral arms indicate concentrations
+  of active stellar nurseries, where new stars are forming. The orange-red areas indicate
+  the distribution of a type of carbon-based compound known as polycyclic aromatic
+  hydrocarbons (or PAHs) — the F770W filter, one of the two used here, is particularly
+  suited to imaging these important molecules. [Image Description: A close-up view
+  of a barred spiral galaxy. Two spiral arms reach horizontally away from the core
+  in the centre, merging into a broad network of gas and dust which fills the image.
+  This material glows brightest orange along the path of the arms, and is darker red
+  across the rest of the galaxy. Through many gaps in the dust, countless tiny stars
+  can be seen, most densely around the core.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2310c/L{1}X{2}Y{3}.png
+name: M83 (MIRI image, scaled)
+ra_hr: 13.617178976436346
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2310c/thumb.jpg
+zoom_level: 0.3044212260841167
+---
+_uuid: ca52cbdc-390f-4071-a8fe-155127dd9227
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -29.866586641491672
+description: 'This image was captured by Webb’s NIRCam, or Near-InfraRed Camera. NIRCam
+  makes observations in the near-infrared, which spans wavelengths of light that are
+  just longer than optical wavelengths. Like MIRI, it is equipped with a range of
+  filters that cover its wavelength range of 0.6 to 5 micrometres, including 29 filters
+  specifically intended for imaging. Data collected through eight of those filters
+  were used to complete this impressive image, which picks out light emitted from
+  the wealth of stars that might be obscured by dust at other wavelengths. Even though
+  stars do not emit the majority of their light in the infrared, optical light is
+  much more vulnerable to being scattered by dust than infrared light is, and so infrared
+  instruments like Webb can provide the best opportunities to study stars in regions
+  (like galaxies) that might also contain large amounts of dust. In this image, the
+  bright red-pink spots correspond to regions rich in ionised hydrogen, which is due
+  to the presence of newly formed stars. The diffuse gradient of blue light around
+  the central region shows the distribution of older stars. The compact light blue
+  regions within the red, ionised gas, mostly concentrated in the spiral arms, show
+  the distribution of young star clusters. [Image Description: A close-up view of
+  a spiral galaxy. The core glows very brightly from the multitude of stars there,
+  which are so dense they appear like noise or static. Near the edges of the image,
+  the density of the stars notably follows the galaxy’s spiral arms. The two arms
+  are highlighted by patchy red gas, connecting in the galactic centre. The gas is
+  very thread-like in the centre and thicker further out along the arms.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2310d/L{1}X{2}Y{3}.png
+name: M83 (NIRCam image, scaled)
+ra_hr: 13.617178976436346
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2310d/thumb.jpg
+zoom_level: 0.3044212260841167
+---
+_uuid: fef32996-82a8-4dfa-9145-c6932e734dee
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -21.13388422700841
+description: 'Two powerful instruments of the NASA/ESA/CSA James Webb Space Telescope
+  joined forces to create this scenic galaxy view for today’s Picture of the Month.
+  This spiral galaxy is named NGC 5134, and it’s located 65 million light-years away
+  in the constellation Virgo. Though 65 million light-years may seem like a huge distance
+  — the light that Webb collected to create this image has been journeying to us from
+  NGC 5134 since soon after Tyrannosaurus rex went extinct — NGC 5134 is fairly close
+  by as far as galaxies go. Because of the galaxy’s relative proximity, Webb can spot
+  incredible details in its tightly wound spiral arms. Webb’s Mid-InfraRed Instrument
+  (MIRI) collects the mid-infrared light emitted by the warm dust that speckles NGC
+  5134’s interstellar clouds, tracing clumps and strands of dusty gas. Some of the
+  dust is composed of complex organic molecules called polycyclic aromatic hydrocarbons,
+  which feature interconnected rings of carbon atoms and provide a way for astronomers
+  to study the chemistry happening in interstellar clouds. Webb’s Near-InfraRed Camera
+  (NIRCam) records shorter-wavelength near-infrared light, mostly from the stars and
+  star clusters that dot the galaxy’s spiral arms. Together, the MIRI and NIRCam data
+  paint a portrait of a galaxy in constant ebb and flow. The gas clouds that billow
+  along NGC 5134’s spiral arms are the sites of star formation, and each star that
+  forms chips away at the galaxy’s supply of star-forming gas. When stars die, they
+  recycle some of that gas back into the galaxy. Massive stars more than about eight
+  times the mass of the Sun do so spectacularly, in cataclysmic supernova explosions
+  that spread stellar material across hundreds of light-years. Stars like the Sun
+  give back some of their material as well, though more gently; these stars will balloon
+  into bubbling red giants before shrugging off their atmospheres and sending them
+  into space. Whether expelled by explosive supernovae or gentle red giants, this
+  gas can then be incorporated into new stars. This give and take between gas and
+  stars is the focus of the observing programme (#3707) for which these images were
+  taken. This programme aims to study 55 galaxies in the nearby Universe that are
+  actively forming new stars and have been studied across a broad range of wavelengths.
+  The new Webb data contribute a rich understanding of individual star clusters and
+  star-forming clouds and have already been used to study the life cycle of tiny dust
+  grains, the shape and properties of star-forming clouds, the links between interstellar
+  gas and dust, and the process by which newly formed stars reshape their surrounding
+  environment. By using Webb to study the infrared light nearby galaxies like NGC
+  5134 whose stars and gas can be seen in detail, astronomers can apply their knowledge
+  to galaxies too distant to be observed so closely — like those that are scattered
+  in the background of this image, barely more than points of light. [Image Description:
+  A spiral galaxy, seen tilted diagonally. It has a blue-white, glowing spot at its
+  core. Its oval-shaped disc glows faintly blue throughout with light from its many
+  stars. The disc is filled with waves and strands of bright red dust that swirl around
+  the core. At places there are holes torn in the dust, while elsewhere it forms dense
+  clumps that glow orange. Several tiny, distant galaxies appear across the background.]
+  Links Pan video: NGC 5134 Space Sparks Episode 22: NGC 5134 Image on ESA website'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2602a/L{1}X{2}Y{3}.png
+name: The stellar lifecycle in a nearby spiral
+ra_hr: 13.421852196810311
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2602a/thumb.jpg
+zoom_level: 0.36627766007204554
+---
+_uuid: 29b4074a-708a-4c7d-954f-da4f60e1827c
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.22729626799324
+description: 'Astronomers have long known that understanding how star clusters come
+  to be is key to unlocking other secrets of galactic evolution. Stars form in clusters,
+  created when clouds of gas collapse under gravity. As more and more stars are born
+  in a collapsing cloud, strong stellar winds, harsh ultraviolet radiation and the
+  supernova explosions of massive stars eventually disperse the cloud, and their light
+  can bear down on other star-forming regions in the galaxy. This process is called
+  stellar feedback, and it means that most of the gas in a galaxy never gets used
+  for star formation. Researching how star clusters develop can answer questions about
+  star formation at a galactic scale. Now, the state of the art has been further developed
+  with both Hubble and Webb working together to provide a broad-spectrum view of thousands
+  of young star clusters. An international team of astronomers has pored over images
+  of four nearby galaxies from the FEAST observing programme (#1783), trying to solve
+  this mystery. Their results show that it is the most massive star clusters that
+  clear away their gaseous shroud the fastest, and begin lighting their galaxy the
+  earliest. The team identified nearly 9000 star clusters in the four galaxies in
+  different evolutionary stages: young clusters just starting to emerge from their
+  natal clouds of gas, clusters that had partially dispersed the gas (both from Webb
+  images), and fully unobstructed clusters visible in optical light (found in Hubble
+  images). With Webb’s ability to peer inside the gas clouds, they were able to then
+  estimate the mass and age of each cluster from its light spectrum. This image shows
+  a section of one of the spiral arms of Messier 51 (M51), one of the four galaxies
+  studied in this work, as seen by Webb’s Near-Infrared Camera (NIRCam). The thick
+  clumps of star-forming gas are shown here in red and orange, representing infrared
+  light emitted by ionised gas, dust grains, and complex molecules such as polycyclic
+  aromatic hydrocarbons (PAHs). Within these gas complexes, each tens or hundreds
+  of light years across, Webb reveals the dense, extremely bright clusters of massive
+  stars that have just recently formed. The countless stars strewn across the arm
+  of the galaxy, many of which would be invisible to our eyes behind layers of dust,
+  are also laid bare in infrared light. [Image description: A large, long portion
+  of one of the spiral arms in galaxy M51. Red-orange, clumpy filaments of gas and
+  dust that stretch in a chain from left to right comprise the arm. Shining cyan bubbles
+  light up parts of the gas clouds from within, and gaps expose bright star clusters
+  in these bubbles as glowing white dots. The whole image is dotted with small stars.
+  A faint blue glow around the arm colours the otherwise dark background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2608a/L{1}X{2}Y{3}.png
+name: Star-forming regions in M51
+ra_hr: 13.499833694518015
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2608a/thumb.jpg
+zoom_level: 0.1557661009527524
+---
+_uuid: 223bbbfe-1c59-44d0-bb38-636b3b717688
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 47.23391674414528
+description: 'Astronomers have long known that understanding how star clusters come
+  to be is key to unlocking other secrets of galactic evolution. Stars form in clusters,
+  created when clouds of gas collapse under gravity. As more and more stars are born
+  in a collapsing cloud, strong stellar winds, harsh ultraviolet radiation and the
+  supernova explosions of massive stars eventually disperse the cloud, and their light
+  can bear down on other star-forming regions in the galaxy. This process is called
+  stellar feedback, and it means that most of the gas in a galaxy never gets used
+  for star formation. Researching how star clusters develop can answer questions about
+  star formation at a galactic scale. Now, the state of the art has been further developed
+  with both Hubble and Webb working together to provide a broad-spectrum view of thousands
+  of young star clusters. An international team of astronomers has pored over images
+  of four nearby galaxies from the FEAST observing programme (#1783), trying to solve
+  this mystery. Their results show that it is the most massive star clusters that
+  clear away their gaseous shroud the fastest, and begin lighting their galaxy the
+  earliest. The team identified nearly 9000 star clusters in the four galaxies in
+  different evolutionary stages: young clusters just starting to emerge from their
+  natal clouds of gas, clusters that had partially dispersed the gas (both from Webb
+  images), and fully unobstructed clusters visible in optical light (found in Hubble
+  images). With Webb’s ability to peer inside the gas clouds, they were able to then
+  estimate the mass and age of each cluster from its light spectrum. This image shows
+  a star-forming complex in Messier 51 (M51), measuring almost 800 light-years across.
+  M51 is located about 27 million light-years away from Earth. The thick cloud of
+  star-forming gas, in which clumps collapsed to form each of the individual star
+  clusters, is shown here in red and orange colours that represent infrared light
+  emitted by ionised gas, dust grains, and complex molecules such as polycyclic aromatic
+  hydrocarbons (PAHs). Many of the bright dots that can be seen within the clouds
+  are star clusters. The massive young stars within cast powerful radiation on the
+  gas clouds that surround them, creating the cyan illumination shown here. Eventually,
+  the combination of radiation, stellar wind and the supernova explosions of the most
+  massive of these stars will disperse the gas clouds, putting an end to the star
+  formation in this part of M51. [Image description: A close-in view of a star-forming
+  nebula. At this resolution, it is slightly blurry. It is made of dense clouds of
+  gas, red on the outside and orange in towards the center. Nestled in the cloud is
+  a collection of bright blue-white dots, which are star clusters. They light up the
+  inner gas clouds in cyan. Many stars from the galaxy are scattered across the view.
+  A little of the dark background appears in the top right.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2608c/L{1}X{2}Y{3}.png
+name: Star-forming region in M51 (close-up)
+ra_hr: 13.498768484691556
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2608c/thumb.jpg
+zoom_level: 0.022173329648556006
+---
+_uuid: 564fe251-0423-468e-a5eb-5b94134a6bdb
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -43.02494068244672
+description: 'The NASA/ESA/CSA James Webb Space Telescope’s Mid-Infrared Instrument
+  (MIRI) reveals the nearby galaxy Centaurus A, exposing the dusty structures and
+  hidden activity that shape this unusual system. Webb’s infrared vision pierces thick
+  lanes of dust that obscure much of the galaxy in visible light, unveiling intricate
+  filaments, loops, and glowing clouds of warm dust stretching across its centre.
+  At the heart of the galaxy, an actively feeding supermassive black hole shines brightly,
+  surrounded by complex structures sculpted by a past galactic collision and ongoing
+  activity. [Image description: A horizontal image of the galaxy Centaurus A stretches
+  across a black background filled with thousands of tiny purple, pink, and white
+  points of light. The galaxy is brightest at its centre, where a brilliant white
+  and pale pink glow radiates outward. Eight diffraction spikes extend from the central
+  glow. Delicate loops and wispy ribbons of pink and lavender arc above and below
+  the centre of the image in the shape of an ‘S’. A band of gray and white dust in
+  the shape of a parallelogram cuts across the middle of the galaxy. Mottled patches
+  and bright knots are scattered throughout the dusty band. The galaxy’s outer edges
+  fade into soft, cloud-like plumes with feathery textures that stretch toward the
+  left and right sides of the image. Against the surrounding darkness, a few bright
+  foreground stars shine with Webb’s distinctive diffraction spikes, while countless
+  fainter stars create a speckled backdrop.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2615a/L{1}X{2}Y{3}.png
+name: Centaurus A (MIRI image)
+ra_hr: 13.424153822388574
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2615a/thumb.jpg
+zoom_level: 0.5850691864507251
+---
+_uuid: f3795c27-56d8-4419-832c-10fa42bf7034
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -43.01897104768533
+description: 'This combined view of Centaurus A from the NASA/ESA/CSA James Webb Space
+  Telescope pairs observations from the Near-Infrared Camera (NIRCam) and Mid-Infrared
+  Instrument (MIRI). Webb’s infrared vision exposes a warped disk of gas and dust
+  left behind by a collision with another galaxy billions of years ago. What may first
+  appear as a grainy glow is actually a dense field of millions of individually resolved
+  stars. By distinguishing different generations of stars embedded throughout the
+  dusty centre, Webb gives astronomers new clues to the galaxy’s history and the processes
+  that continue to shape it. [Image description: A diagonal image of the galaxy Centaurus
+  A stretches from the upper left to the lower right against a deep black background
+  filled with countless tiny orange, blue, and white points of light. The galaxy is
+  brightest at its centre with a white glowing core. A broad band of golden-orange
+  dust cuts across the middle of the galaxy, forming a distinctive parallelogram shape.
+  The dust in this feature is richly textured, with mottled patches, bright knots,
+  and intricate filaments throughout. Just above the centre, delicate peach-coloured
+  ribbons trace an S-shaped structure. Rather than appearing smooth, the galaxy has
+  a finely speckled texture created by millions of individually resolved stars, which
+  fill the central regions and extend into the surrounding glow. The galaxy’s outer
+  edges dissolve into diffuse, cloud-like plumes with feathery textures that stretch
+  beyond the dust lane. Against the surrounding darkness, several bright foreground
+  stars display Webb’s distinctive diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2615b/L{1}X{2}Y{3}.png
+name: Centaurus A (MIRI + NIRCam image)
+ra_hr: 13.424351209755477
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2615b/thumb.jpg
+zoom_level: 0.975403004510617
+---
+_uuid: 128ce0ed-0e91-4272-a6e1-9550afb0d5ad
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -43.018826715934765
+description: 'This combined view of Centaurus A from the NASA/ESA/CSA James Webb Space
+  Telescope pairs observations from the Near-Infrared Camera (NIRCam) and Mid-Infrared
+  Instrument (MIRI). Webb’s infrared vision exposes a warped disk of gas and dust
+  left behind by a collision with another galaxy billions of years ago. What may first
+  appear as a grainy glow is actually a dense field of millions of individually resolved
+  stars. By distinguishing different generations of stars embedded throughout the
+  dusty centre, Webb gives astronomers new clues to the galaxy’s history and the processes
+  that continue to shape it. [Image description: A diagonal image of the galaxy Centaurus
+  A stretches from the upper left to the lower right against a deep black background
+  filled with countless tiny orange, blue, and white points of light. The galaxy is
+  brightest at its centre with a white glowing core. A broad band of golden-orange
+  dust cuts across the middle of the galaxy, forming a distinctive parallelogram shape.
+  The dust in this feature is richly textured, with mottled patches, bright knots,
+  and intricate filaments throughout. Just above the centre, delicate peach-coloured
+  ribbons trace an S-shaped structure. Rather than appearing smooth, the galaxy has
+  a finely speckled texture created by millions of individually resolved stars, which
+  fill the central regions and extend into the surrounding glow. The galaxy’s outer
+  edges dissolve into diffuse, cloud-like plumes with feathery textures that stretch
+  beyond the dust lane. Against the surrounding darkness, several bright foreground
+  stars display Webb’s distinctive diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2615d/L{1}X{2}Y{3}.png
+name: Centaurus A (MIRI + NIRCam image wide-field view)
+ra_hr: 13.424346843075467
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2615d/thumb.jpg
+zoom_level: 1.5456946598574786
+---
+_uuid: 050aeeb8-9839-41bb-86c8-fad069e37dbc
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -43.018826715934765
+description: This view of Centaurus A from the NASA/ESA/CSA James Webb Space Telescope
+  if from the Near-Infrared Camera (NIRCam) Webb’s infrared vision exposes a warped
+  disk of gas and dust left behind by a collision with another galaxy billions of
+  years ago.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2615e/L{1}X{2}Y{3}.png
+name: Centaurus A (NIRCam image)
+ra_hr: 13.424346843075467
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2615e/thumb.jpg
+zoom_level: 1.5456946598574786
+---
 _uuid: da114b98-f23b-4188-a641-5a4db8defe1e
 classification: ''
 constellation: CEN

@@ -2357,3 +2357,212 @@ name: Lambda Centauri Nebula
 ra_hr: 11.6699656
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-046.jpg
 zoom_level: 6.25777769088778
+---
+_uuid: 0fd9f65e-1b43-4f0a-8ea8-78eeb983d00e
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 22.398479748013816
+description: 'This NASA/ESA/CSA James Webb Space Telescope Picture of the Month brings
+  us a scene from the distant Universe. Pictured here is the galaxy cluster MACS J1149.5+2223,
+  or MACS J1149 for short, which is located about 5 billion light-years away in the
+  constellation Leo. Galaxy clusters are the largest structures in the Universe that
+  are held together by gravity. Astronomers have confirmed more than 300 galaxies
+  belonging to the MACS J1149 cluster, and they’ve identified several hundred more
+  possible members. At the cluster’s centre, a huddle of ghostly elliptical galaxies
+  rules over the cluster with their immense gravity. The crushing gravity of this
+  cluster does more than just hold all the galaxies together as they drift through
+  space. As light from galaxies located behind the cluster makes its way toward our
+  telescope, journeying for billions of years, its path through spacetime is bent
+  by the mass of the intervening galaxies. This phenomenon is called gravitational
+  lensing, and the result is evident in this image of MACS J1149; scattered across
+  the image are subtle and not-so-subtle examples of gravitational lensing, from galaxies
+  that appear to have been stretched into narrow streaks of light to galaxy images
+  that have morphed into strange shapes. A fantastic example of gravitational lensing
+  can be seen near the centre of the image, just below the brilliant white galaxies
+  at the heart of the cluster. There, the image of a galaxy with distinct spiral arms
+  has been stretched into something resembling a pink jellyfish. This tangled-looking
+  galaxy is home to what was once the most distant single star ever discovered as
+  well as a supernova whose image appeared four times at once. MACS J1149 has long
+  received the celebrity treatment from leading telescopes, and for good reason. This
+  cluster was one of six investigated through the NASA/ESA Hubble Space Telescope’s
+  Frontier Fields programme. The Frontier Fields galaxy clusters were selected for
+  the strength of their gravitational lensing, and their ability to warp spacetime
+  has granted researchers a glimpse into the early Universe. Now, Webb is pushing
+  our knowledge horizon to even earlier times, enabling new discoveries like a feasting
+  supermassive black hole less than 600 million years after the Big Bang. Using Webb’s
+  Near-Infrared Spectrograph (NIRSpec), Near-InfraRed Camera (NIRCam), and Near-InfraRed
+  Imager and Slitless Spectrograph (NIRISS), researchers are revealing never-before-seen
+  details of the lives of early galaxies. The Webb data used to create this image
+  were collected as part of the CAnadian NIRISS Unbiased Cluster Survey (CANUCS) programme
+  #1208 (PI: C. J. Willott). This programme uses Webb’s sensitive instruments to unveil
+  the evolution of low-mass galaxies in the early Universe, revealing their star formation,
+  dust and chemistry. These data will also help researchers study the epoch of reionisation,
+  when the first stars and galaxies lit up the Universe, map the distribution of mass
+  within galaxy clusters, and understand how star formation can slow to a trickle
+  in a cluster environment. [Image description: A Webb image of many glowing galaxies
+  in deep space, in various shapes and colours, on a black background. There are some
+  large, blue spiral galaxies, some large and pale white elliptical galaxies, and
+  many orange and red, medium-sized galaxies. Even smaller galaxies, down to tiny
+  faint spots, appear in all these colours.] Links MACS J1149 (cropped view) Pan video:
+  MACS J1149 Space Sparks Episode 21: A celebrity cluster in the spotlight Image on
+  ESA website CANUCS High-Level Science Products'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2601a/L{1}X{2}Y{3}.png
+name: A celebrity cluster in the spotlight
+ra_hr: 11.826715488522849
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2601a/thumb.jpg
+zoom_level: 0.41009989969869104
+---
+_uuid: 32ebc430-5008-4fb8-ad2c-0b1c3db5c6ea
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 22.39779751382137
+description: 'This NASA/ESA/CSA James Webb Space Telescope Picture of the Month brings
+  us a scene from the distant Universe. Pictured here is the galaxy cluster MACS J1149.5+2223,
+  or MACS J1149 for short, which is located about 5 billion light-years away in the
+  constellation Leo. Galaxy clusters are the largest structures in the Universe that
+  are held together by gravity. Astronomers have confirmed more than 300 galaxies
+  belonging to the MACS J1149 cluster, and they’ve identified several hundred more
+  possible members. This image zooms in on the cluster’s centre of activity, where
+  a huddle of ghostly elliptical galaxies rules over the cluster with their immense
+  gravity. The crushing gravity of this cluster does more than just hold all the galaxies
+  together as they drift through space. As light from galaxies located behind the
+  cluster makes its way toward our telescope, journeying for billions of years, its
+  path through spacetime is bent by the mass of the intervening galaxies. This phenomenon
+  is called gravitational lensing, and the result is evident in this image of MACS
+  J1149; scattered across the image are subtle and not-so-subtle examples of gravitational
+  lensing, from galaxies that appear to have been stretched into narrow streaks of
+  light to galaxy images that have morphed into strange shapes. A fantastic example
+  of gravitational lensing can be seen near the centre of the image, just below the
+  brilliant white galaxies at the heart of the cluster. There, the image of a galaxy
+  with distinct spiral arms has been stretched into something resembling a pink jellyfish.
+  This tangled-looking galaxy is home to what was once the most distant single star
+  ever discovered as well as a supernova whose image appeared four times at once.
+  MACS J1149 has long received the celebrity treatment from leading telescopes, and
+  for good reason. This cluster was one of six investigated through the NASA/ESA Hubble
+  Space Telescope’s Frontier Fields programme. The Frontier Fields galaxy clusters
+  were selected for the strength of their gravitational lensing, and their ability
+  to warp spacetime has granted researchers a glimpse into the early Universe. Now,
+  Webb is pushing our knowledge horizon to even earlier times, enabling new discoveries
+  like a feasting supermassive black hole less than 600 million years after the Big
+  Bang. Using Webb’s Near-Infrared Spectrograph (NIRSpec), Near-InfraRed Camera (NIRCam),
+  and Near-InfraRed Imager and Slitless Spectrograph (NIRISS), researchers are revealing
+  never-before-seen details of the lives of early galaxies. The Webb data used to
+  create this image were collected as part of the CAnadian NIRISS Unbiased Cluster
+  Survey (CANUCS) programme #1208 (PI: C. J. Willott). This programme uses Webb’s
+  sensitive instruments to unveil the evolution of low-mass galaxies in the early
+  Universe, revealing their star formation, dust and chemistry. These data will also
+  help researchers study the epoch of reionisation, when the first stars and galaxies
+  lit up the Universe, map the distribution of mass within galaxy clusters, and understand
+  how star formation can slow to a trickle in a cluster environment. [Image description:
+  An image of many glowing galaxies in deep space, in various shapes and colours,
+  on a black background. There are some large, blue spiral galaxies, some large and
+  pale white elliptical galaxies, and many orange and red, medium-sized galaxies.
+  Even smaller galaxies, down to tiny faint spots, appear in all these colours.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2601b/L{1}X{2}Y{3}.png
+name: 'Ready for its closeup: MACS J1149.5+2223 (crop)'
+ra_hr: 11.826666773500959
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2601b/thumb.jpg
+zoom_level: 0.2580800680570945
+---
+_uuid: cec0b07e-ecd7-4277-8856-8fb0305d7fe5
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -26.489319439967158
+description: 'Using the NASA/ESA/CSA James Webb Space Telescope, an international
+  team of astronomers have found new galaxies in the Spiderweb protocluster. Their
+  characteristics shed light on the growth of galaxies in these large cosmic cities,
+  with the finding that gravitational interactions in these dense regions are not
+  as important as previously thought. With the use of Webb’s capabilities, astronomers
+  have now sought to better understand this protocluster and to reveal new galaxies
+  within it. Infrared radiation passes more freely through cosmic dust than visible
+  light, which is scattered by the dust. Because Webb can see infrared light very
+  well, scientists used it to observe regions of the Spiderweb that were previously
+  hidden to us by cosmic dust, and to find out to what degree this dust obscures them.
+  This image shows the Spiderweb protocluster as seen by Webb’s NIRCam (Near-InfraRed
+  Camera). [Image description: Hundreds of galaxies appear in this view, which is
+  set against the black background of space. There are many overlapping objects at
+  various distances. They include large, blue foreground stars, some with eight diffraction
+  spikes, and white and pink spiral and elliptical galaxies. Numerous tiny orange
+  dots appear throughout the scene.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2428a/L{1}X{2}Y{3}.png
+name: Spiderweb Protocluster (NIRCam)
+ra_hr: 11.679945220118315
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2428a/thumb.jpg
+zoom_level: 0.623295999214919
+---
+_uuid: c5873170-31ed-4e43-af9d-1daed642622f
+classification: ''
+constellation: CHA
+data_set_type: Sky
+dec_deg: -77.55063251527966
+description: 'The NASA/ESA/CSA James Webb Space Telescope observed Herbig-Haro 49/50,
+  an outflow from a nearby still-forming star, in high-resolution near- and mid-infrared
+  light with the NIRCam and MIRI instruments. The intricate features of the outflow,
+  represented in reddish-orange color, provide detailed clues about how young stars
+  form and how their jet activity affects the environment around them. A chance alignment
+  in this direction of the sky provides a beautiful juxtaposition of this nearby Herbig-Haro
+  object (located within our Milky Way) with a more distant, face-on spiral galaxy
+  in the background. Protostars are young stars in the process of formation that generally
+  launch narrow jets of material. These jets move through the surrounding environment,
+  in some cases extending to large distances away from the protostar. Like the water
+  wake generated by a speeding boat, the arcs in this image are created by the fast-moving
+  jet slamming into surrounding dust and gas. This ambient material is compressed
+  and heats up, then cools by emitting light at visible and infrared wavelengths.
+  In particular, the infrared light captured here by Webb highlights molecular hydrogen
+  and carbon monoxide. The galaxy that appears by happenstance at the tip of Herbig-Haro
+  49/50 is a much more distant spiral galaxy. It has a prominent central bulge represented
+  in blue that shows the location of older stars. It also displays hints of “side
+  lobes,” suggesting that this could be a barred-spiral galaxy. Reddish clumps within
+  the spiral arms show the locations of warm dust and groups of forming stars. In
+  the image background there are many more galaxies at further distances, including
+  galaxies that shine through the diffuse infrared glow of the nearby Herbig-Haro
+  object. [Image description: Angled from the upper left corner to the lower right
+  corner of the image is a conical shaped orange-red cloud known at Herbig-Haro 49/50.
+  This feature takes up about three-fourths of the length of this angle. The upper
+  left end of this feature has a translucent, rounded end. At this same location there
+  is a background spiral shaped galaxy with a concentrated blue center that fades
+  outwards to blend in with red spiral arms. The conical feature widens slightly from
+  the rounded end at the upper right down to the lower right. The black background
+  of space is clearer, speckled with some white stars and smaller, more numerous,
+  fainter white galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2506a/L{1}X{2}Y{3}.png
+name: Herbig-Haro 49/50 (NIRCam and MIRI Image)
+ra_hr: 11.099306586635086
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2506a/thumb.jpg
+zoom_level: 0.44498407452860456
+---
+_uuid: 69b8fbd8-cbc6-4450-9df9-6bb73083b308
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 22.357405108059417
+description: 'This image shows a portion of the galaxy cluster MACS J1149.5+2223,
+  as seen by Webb’s Near-Infrared Camera (NIRCam). With Webb’s excellent sensitivity
+  to infrared light and the hours of exposure time combined in this image, distant
+  galaxies (red colours) are brought out of the darkness. Other galaxies glow strongly
+  from the abundance of light they radiate. These observations come from the CANUCS
+  survey (#1208, PI: C. J. Willott). The survey employed Webb’s advanced instruments,
+  including NIRCam, NIRISS and NIRSpec, to capture detailed images and spectra of
+  massive galaxy clusters in infrared light. Astronomers could then study low-mass
+  galaxies in these early clusters at early stages of evolution. Because of how Webb’s
+  instruments work, for each cluster the survey targeted both the cluster’s centre,
+  where the brightest and largest galaxies are gathered, and a “parallel field” of
+  a neighbouring area within the cluster. This image features one of these parallel
+  fields. Researchers studying the data from the CANUCS survey uncovered a distant
+  galaxy, named CANUCS-LRD-z8.6, in this parallel field. The galaxy is extremely distant
+  (seen only 570 million years after the Big Bang) and the team’s research revealed
+  that it hosts a supermassive black hole that is unusually large for such an early
+  stage in the Universe. This result challenges existing theories about the formation
+  of galaxies and black holes in the early Universe. [Image description: An image
+  of many glowing galaxies in deep space, in various shapes and colours, on a black
+  background. There are some large, blue spiral galaxies, some large and pale white
+  elliptical galaxies, and many orange and red, medium-sized galaxies. Even smaller
+  galaxies, down to tiny faint spots, appear in all these colours.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2522b/L{1}X{2}Y{3}.png
+name: MACS J1149.5+2223
+ra_hr: 11.824843046554728
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2522b/thumb.jpg
+zoom_level: 0.4108060722345016

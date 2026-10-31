@@ -1441,3 +1441,128 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Thor's Helmet
 ra_hr: 7.3086111111111105
 zoom_level: 3.746666666666667
+---
+_uuid: e8c376bb-6770-485e-88ef-d21cc675faf0
+classification: ''
+constellation: VOL
+data_set_type: Sky
+dec_deg: -73.45389812907419
+description: 'Thousands of galaxies flood this near-infrared image of galaxy cluster
+  SMACS 0723. High-resolution imaging from the NASA/ESA/CSA James Webb Space Telescope
+  combined with a natural effect known as gravitational lensing made this finely detailed
+  image possible. First, focus on the galaxies responsible for the lensing: the bright
+  white elliptical galaxy at the centre of the image and smaller white galaxies throughout
+  the image. Bound together by gravity in a galaxy cluster, they are bending the light
+  from galaxies that appear in the vast distances behind them. The combined mass of
+  the galaxies and dark matter act as a cosmic telescope, creating magnified, contorted,
+  and sometimes mirrored images of individual galaxies. Clear examples of mirroring
+  are found in the prominent orange arcs to the left and right of the brightest cluster
+  galaxy. These are lensed galaxies – each individual galaxy is shown twice in one
+  arc. Webb’s image has fully revealed their bright cores, which are filled with stars,
+  along with orange star clusters along their edges. Not all galaxies in this field
+  are mirrored – some are stretched. Others appear scattered by interactions with
+  other galaxies, leaving trails of stars behind them. Webb has refined the level
+  of detail we can observe throughout this field. Very diffuse galaxies appear like
+  collections of loosely bound dandelion seeds aloft in a breeze. Individual “pods”
+  of star formation practically bloom within some of the most distant galaxies – the
+  clearest, most detailed views of star clusters in the early universe so far. One
+  galaxy speckled with star clusters appears near the bottom end of the bright central
+  star’s vertical diffraction spike – just to the right of a long orange arc. The
+  long, thin ladybug-like galaxy is flecked with pockets of star formation. Draw a
+  line between its “wings” to roughly match up its star clusters, mirrored top to
+  bottom. Because this galaxy is so magnified and its individual star clusters are
+  so crisp, researchers will be able to study it in exquisite detail, which wasn’t
+  previously possible for galaxies this distant. The galaxies in this scene that are
+  farthest away – the tiniest galaxies that are located well behind the cluster –
+  look nothing like the spiral and elliptical galaxies observed in the local universe.
+  They are much clumpier and more irregular. Webb’s highly detailed image may help
+  researchers measure the ages and masses of star clusters within these distant galaxies.
+  This might lead to more accurate models of galaxies that existed at cosmic “spring,”
+  when galaxies were sprouting tiny “buds” of new growth, actively interacting and
+  merging, and had yet to develop into larger spirals. Ultimately, Webb’s upcoming
+  observations will help astronomers better understand how galaxies form and grow
+  in the early universe. For a full array of Webb’s first images and spectra, including
+  downloadable files, please visit: https://esawebb.org/initiatives/webbs-first-images/
+  NIRCam was built by a team at the University of Arizona and Lockheed Martin’s Advanced
+  Technology Center.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2209a/L{1}X{2}Y{3}.png
+name: Webb’s First Deep Field (NIRCam Image)
+ra_hr: 7.388518874355877
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2209a/thumb.jpg
+zoom_level: 0.393426104391459
+---
+_uuid: 0b09d9e6-cf3c-4b42-80de-e4a0bb3958d1
+classification: ''
+constellation: GEM
+data_set_type: Sky
+dec_deg: 20.912138841879866
+description: 'The James Webb Space Telescope recently imaged planetary nebula NGC
+  2392, which is nicknamed the Lion Nebula due to its distinct shape. This near- and
+  mid-infrared composite image reveals the complex structure of the nebula, which
+  has formed and continues to be sculpted by the remains of a dying star. The stellar
+  core, also known as a white dwarf, is located at the centre and looks like the button
+  nose of the lion. The central dying star is so hot that its radiation is “cooking”
+  everything from the inside and producing a bubble of ionized hydrogen gas as it
+  does. The gas bubble, which is the lion’s “face,” features cavernous shells and
+  rings with tendrils that are expanding and destroying dust upon encounter. However,
+  not all dust is obliterated from the scene. The lion’s mane is the interior of a
+  dust shell that is being illuminated by the central star’s core. Within the mane
+  some compact clumps of dust (red and orange) have managed to survive so far and
+  are protecting the material that lies behind them. Additional clumps of molecular
+  hydrogen appear yellow. The Lion Nebula is a snapshot in time. It’s taken several
+  thousand years for the gas and dust to be shaped in this way, and it continues to
+  change as the star drives away the material. Astronomers estimate NGC 2392 will
+  eventually disperse in about 10,000 years, which is a relatively short period in
+  astronomical terms. [Image description: Planetary nebula NGC 2392, also called the
+  Lion Nebula, against the black background of space. The nebula is in the centre,
+  circular in shape, and looks like a male lion’s head. In the very centre is a small,
+  pinkish-white circle with eight-point diffraction spikes, a white dwarf star. Surrounding
+  the star are light purple-pink cavernous bubbles and shell-like rings. The bubbles
+  and shells collectively form an oval with two small, wide arcs near the top, reminiscent
+  of a lion’s face and its ears. What appears to be extended outward from the lion’s
+  face is a thick ring of purple-blue material. The width of the ring is consistent
+  throughout and resembles a mane. The area closest to the lion’s face looks cloudy,
+  while the edges of the mane look like there are clumps of dust with comet-like tails
+  and strands. In the background are distant galaxies and stars. Some galaxies appear
+  as small yellow and orange points of light and others with visible spiral structures.
+  A couple of the stars have diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2616a/L{1}X{2}Y{3}.png
+name: Lion Nebula (NIRCam + MIRI image)
+ra_hr: 7.486337534393227
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2616a/thumb.jpg
+zoom_level: 0.3015633699730776
+---
+_uuid: 7bb5c0b3-2d25-4517-b49c-6a559908b176
+classification: ''
+constellation: GEM
+data_set_type: Sky
+dec_deg: 20.912314495866152
+description: 'The James Webb Space Telescope observed planetary nebula NGC 2392 in
+  mid-infrared light, revealing the presence of dust and its varying structures within
+  this tumultuous environment. Nicknamed the Lion Nebula due to its appearance, this
+  collection of gas and dust is created and sculpted by the remains of a dying star,
+  which is in the center and resembles the button nose of the lion. While some dust
+  is being destroyed by the bubble of ionized gas that forms the lion’s face, most
+  of the gas is being ejected and migrating away from the star due to its radiation.
+  In this image, cyan highlights the lion’s mane, which is the interior of a dust
+  shell that is being illuminated by the central star. Within the mane, toward its
+  edges, are purple clumps that look like they have cometary tails. These fluffy structures
+  are also dust, which have managed to survive so far and protect the structures behind
+  them. [Image description: Planetary nebula NGC 2392, also called the Lion Nebula,
+  against the black background of space. The nebula is in the centre, circular in
+  shape, and looks like a male lion’s head. In the very centre is a small, bluish-white
+  circle with eight-point diffraction spikes, a white dwarf star. Surrounding the
+  star are light purple-red cavernous bubbles and shell-like rings. The bubbles and
+  shells collectively form an oval with two small, wide arcs near the top, reminiscent
+  of a lion’s face and its ears. What appears to be extended outward from the lion’s
+  face is a thick ring of cyan material. The width of the ring is consistent throughout
+  and resembles a mane. The area closest to the lion’s face looks cloudy, while the
+  edges of the mane look like there are purple clumps of dust with comet-like tails
+  and strands. In the background are distant galaxies and stars. Some galaxies appear
+  as small purple points of light and others with visible blue spiral structures.
+  A couple of the stars have diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2616b/L{1}X{2}Y{3}.png
+name: Lion Nebula (MIRI image)
+ra_hr: 7.486335501881009
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2616b/thumb.jpg
+zoom_level: 0.21955456953540953
