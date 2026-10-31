@@ -1008,3 +1008,131 @@ name: Puppis A
 ra_hr: 8.37116926666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-032.jpg
 zoom_level: 12.515540992
+---
+_uuid: 5f220c5f-a447-408d-a46c-ce76b35b9c24
+classification: ''
+constellation: PUP
+data_set_type: Sky
+dec_deg: -25.499852911433415
+description: 'The galaxy filling the frame in this NASA/ESA/CSA James Webb Space Telescope
+  Picture of the Month is NGC 2566, a spiral galaxy located in the constellation Puppis.
+  The image combines observations from two of Webb’s instruments, the Near-InfraRed
+  Camera (NIRCam) and Mid-InfraRed Instrument (MIRI), to show off NGC 2566’s well-defined
+  spiral arms, long central bar and delicate tracery of gas, dust and stars. At 76
+  million light-years away, NGC 2566 is considered a nearby galaxy, making it an excellent
+  target for studying fine details like star clusters and gas clouds. The new Webb
+  images of NGC 2566 were collected as part of an observing programme (#3707) dedicated
+  to understanding the connections between stars, gas and dust in nearby star-forming
+  galaxies. NGC 2566 is just one of the 55 galaxies in the local Universe examined
+  by Webb for this programme. The mid-infrared wavelengths captured by MIRI highlight
+  NGC 2566’s warm interstellar dust, including complex, sooty molecules called polycyclic
+  aromatic hydrocarbons. The near-infrared NIRCam data give a detailed view of the
+  galaxy’s stars, even those that are deeply embedded within clouds of gas. The NIRCam
+  data also capture some of the light from the hydrocarbon molecules. To gain a full
+  understanding of the star-formation process in nearby galaxies, astronomers will
+  combine Webb data with observations from other telescopes. At the long-wavelength
+  end of the electromagnetic spectrum, the 66 radio dishes of the Atacama Large Millimeter/submillimeter
+  Array (ALMA) provide a detailed view of the cold, turbulent clouds where stars are
+  born. The NASA/ESA Hubble Space Telescope has also cast its gaze on NGC 2566, and
+  a new Hubble image of this galaxy was released earlier this week. The Hubble data
+  will help researchers take a census of the stars in nearby galaxies, especially
+  the young stars that are bright at the ultraviolet and visible wavelengths to which
+  Hubble is sensitive. Together, the Webb, Hubble and ALMA data provide a rich view
+  of the cold gas, warm dust and brilliant stars in NGC 2566. The Webb data are part
+  of a Treasury programme, which means that the data may help answer multiple important
+  questions about our Universe. Treasury data are available for use by scientists
+  and the public without a waiting period, amplifying the scientific impact and allowing
+  exploration to begin immediately. [Image Description: An oval-shaped spiral galaxy,
+  seen close-up. Its core is a compact, pale spot that glows brightly, filling the
+  disc with bluish light. Faint strands of pale reddish dust swirl out from the core
+  to the far sides of the disc. They each join up with an arm of thick, cloudy, red
+  dust with brighter orange patches, that follows the edge of the disc around to the
+  opposite end and a little off the galaxy.] Links Webb''s MIRI image of NGC 2566
+  Slider Tool: Webb and Hubble''s views of NGC 2566 Pan video: NGC 2566 (Webb NIRCam
+  + MIRI image) Pan video: NGC 2566 (Webb MIRI image) Transition video: Hubble and
+  Webb''s views of NGC 2566'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2412a/L{1}X{2}Y{3}.png
+name: Close look at a local galaxy
+ra_hr: 8.312755390842172
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2412a/thumb.jpg
+zoom_level: 0.3821280952499354
+---
+_uuid: 7b9af856-2eed-4edd-89af-63d42f635259
+classification: ''
+constellation: PUP
+data_set_type: Sky
+dec_deg: -25.499186184253954
+description: 'The galaxy filling the frame in this NASA/ESA/CSA James Webb Space Telescope
+  Picture of the Month is NGC 2566, a spiral galaxy located in the constellation Puppis.
+  In this image Webb’s Mid-InfraRed Instrument (MIRI) puts the thick clouds of interstellar
+  dust that suffuse NGC 2566 on display, as well as the galaxy’s compact, bright core.
+  At 76 million light-years away, NGC 2566 is considered a nearby galaxy, making it
+  an excellent target for studying fine details like star clusters and gas clouds.
+  The new Webb images of NGC 2566 were collected as part of an observing programme
+  (#3707) dedicated to understanding the connections between stars, gas and dust in
+  nearby star-forming galaxies. NGC 2566 is just one of the 55 galaxies in the local
+  Universe examined by Webb for this programme. To gain a full understanding of the
+  star-formation process in nearby galaxies, astronomers will combine Webb data with
+  observations from other telescopes. At the long-wavelength end of the electromagnetic
+  spectrum, the 66 radio dishes of the Atacama Large Millimeter/submillimeter Array
+  (ALMA) provide a detailed view of the cold, turbulent clouds where stars are born.
+  The NASA/ESA Hubble Space Telescope has also cast its gaze on NGC 2566, and a new
+  Hubble image of this galaxy was released earlier this week. The Hubble data will
+  help researchers take a census of the stars in nearby galaxies, especially the young
+  stars that are bright at the ultraviolet and visible wavelengths to which Hubble
+  is sensitive. Together, the Webb, Hubble and ALMA data provide a rich view of the
+  cold gas, warm dust and brilliant stars in NGC 2566. The Webb data are part of a
+  Treasury programme, which means that the data may help answer multiple important
+  questions about our Universe. Treasury data are available for use by scientists
+  and the public without a waiting period, amplifying the scientific impact and allowing
+  exploration to begin immediately. [Image Description: A spiral galaxy, seen close-up.
+  Its core is a round spot that glows intensely bright, crowned by eight long and
+  spikes that extend across the galaxy, artefacts of the telescope’s structure. Its
+  disc is an oval shape with edges made of very thick and cloudy arms of gas and dust,
+  mostly blue but paler and brighter around patches of stars. Wisps of darker dust
+  also fill the inner disc and swirl off the ends of the arms.] Links Webb''s NIRCam+MIRI
+  image of NGC 2566 Slider Tool: Webb and Hubble''s views of NGC 2566'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2412b/L{1}X{2}Y{3}.png
+name: NGC 2566 (MIRI image)
+ra_hr: 8.312642791441586
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2412b/thumb.jpg
+zoom_level: 0.6476688230017538
+---
+_uuid: 1a03cb9f-f08f-4836-8378-ec5f44a1951f
+classification: ''
+constellation: PUP
+data_set_type: Sky
+dec_deg: -25.499852911433415
+description: 'This is a new NASA/ESA Hubble Space Telescope of the spiral galaxy NGC
+  2566, which sits 76 million light-years away in the constellation Puppis. A prominent
+  bar of stars stretches across the centre of this galaxy, and spiral arms emerge
+  from each end of the bar. Because NGC 2566 appears tilted from our perspective,
+  its disc takes on an almond shape, giving the galaxy the appearance of a cosmic
+  eye. As NGC 2566 gazes at us, astronomers gaze right back, using Hubble to survey
+  the galaxy’s star clusters and star-forming regions. The Hubble data are especially
+  valuable for studying stars that are just a few million years old; these stars are
+  bright at the ultraviolet and visible wavelengths to which Hubble is sensitive.
+  Using these data, researchers will measure the ages of NGC 2566’s stars, helping
+  to piece together the timeline of the galaxy’s star formation and the exchange of
+  gas between star-forming clouds and stars themselves. Several other astronomical
+  observatories have examined NGC 2566, including the NASA/ESA/CSA James Webb Space
+  Telescope. The Webb data complement this Hubble image, adding a view of NGC 2566’s
+  warm, glowing dust to Hubble’s stellar portrait. At the long-wavelength end of the
+  electromagnetic spectrum, NGC 2566 has also been observed by the Atacama Large Millimeter/submillimeter
+  Array (ALMA). ALMA is a network of 66 radio telescopes that work together as one
+  to capture detailed images of the clouds of gas in which stars form. Together, Hubble,
+  Webb and ALMA provide an overview of the formation, lives and deaths of stars in
+  galaxies across the Universe. This image has been adjusted slightly to compare with
+  the image from Webb. See the original Hubble image here. [Image Description: An
+  oval-shaped spiral galaxy. Its core is a compact, glowing blue spot. A bright bar
+  of light, lined with dark reddish dust, extends horizontally to the edge of the
+  disc. A spiral arm emerges from each end of the bar and follows the edge of the
+  disc, lined with blue and red glowing patches of stars, to the opposite end and
+  a little off the galaxy. Blue stars are scattered between us and the galaxy.] Links
+  Webb''s NIRCam+MIRI image of NGC 2566 Webb''s MIRI image of NGC 2566 Slider Tool:
+  Webb and Hubble''s views of NGC 2566'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2412c/L{1}X{2}Y{3}.png
+name: NGC 2566 (HST image)
+ra_hr: 8.312755390842172
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2412c/thumb.jpg
+zoom_level: 0.3821280952499354

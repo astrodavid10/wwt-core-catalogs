@@ -3049,3 +3049,430 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Pleiades
 ra_hr: 3.783333333333333
 zoom_level: 23.459999999999997
+---
+_uuid: 276a9a1c-b68a-4501-b649-3cfb09607654
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.864554197582645
+description: 'Using the NASA/ESA/CSA James Webb Space Telescope, scientists have found
+  a record-breaking galaxy observed only 290 million years after the big bang. Note:
+  This post highlights data from Webb science in progress, which has not yet been
+  through the peer-review process.Over the last two years, scientists have used the
+  NASA/ESA/CSA James Webb Space Telescope to explore what astronomers refer to as
+  Cosmic Dawn – the period in the first few hundred million years after the big bang
+  where the first galaxies were born. These galaxies provide vital insight into the
+  ways in which the gas, stars, and black holes were changing when the universe was
+  very young. In October 2023 and January 2024, an international team of astronomers
+  used Webb to observe galaxies as part of the JWST Advanced Deep Extragalactic Survey
+  (JADES) programme. Using Webb’s NIRSpec (Near-Infrared Spectrograph), scientists
+  obtained a spectrum of a record-breaking galaxy observed only two hundred and ninety
+  million years after the big bang. This corresponds to a redshift of about 14, which
+  is a measure of how much a galaxy’s light is stretched by the expansion of the Universe.
+  This infrared image from Webb’s NIRCam (Near-Infrared Camera) was captured as part
+  of the JADES programme. The NIRCam data was used to determine which galaxies to
+  study further with spectroscopic observations. One such galaxy, JADES-GS-z14-0 (identified
+  in this image) was determined to be at a redshift of 14.32 (+0.08/-0.20), making
+  it the current record-holder for the most distant known galaxy. This corresponds
+  to a time less than 300 million years after the big bang. In the background image,
+  blue represents light at 0.9, 1.15, and 1.5 microns (filters F090W + F115W + F150W),
+  green is 2.0 and 2.77 microns (F200W + F277W), and red is 3.56, 4.1, and 4.44 microns
+  (F356W + F410M + F444W). The pullout image shows light at 0.9 and 1.15 microns (F090W
+  + F115W) as blue, 1.5 and 2.0 microns (F150W + F200W) as green, and 2.77 microns
+  (F277W) as red. These results were captured as part of spectroscopic observations
+  from the Guaranteed Time Observations (GTO) programme 1287, and the accompanying
+  MIRI data as part of GTO programme 1180. Learn more about these results here. [Image
+  description: A field of thousands of small galaxies of various shapes and colors
+  on the black background of space. A bright, foreground star with diffraction spikes
+  is at lower left.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/jades5/L{1}X{2}Y{3}.png
+name: Webb finds most distant known galaxy (JADES-GS-z14-0 environment NIRCam image)
+ra_hr: 3.539325192030037
+thumbnail: https://data1.wwtassets.org/feeds/jwst/jades5/thumb.jpg
+zoom_level: 1.0272759495575903
+---
+_uuid: 8a93a1ba-a3c7-4309-a186-e28966df659a
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 31.32433020823929
+description: 'This stunning new mosaic of images from the NASA/ESA/CSA James Webb
+  Space Telescope showcases the nearby star-forming cluster, NGC 1333. The nebula
+  is in the Perseus molecular cloud, and located approximately 960 light-years away.
+  Webb’s superb sensitivity allows astronomers to investigate young objects with extremely
+  low masses. Some of the faintest ‘stars’ in the picture are in fact newly born free-floating
+  brown dwarfs with masses comparable to those of giant planets. The same cluster
+  was featured as the 33rd anniversary image of the NASA/ESA Hubble Space Telescope
+  in April of 2023. Hubble’s image just scratched the surface of this region, because
+  clouds of dust obscure much of the star formation process. Observing with larger
+  aperture and in the infrared part of the spectrum, Webb is capable of peering through
+  the dusty veil to reveal newborn stars, brown dwarfs and planetary mass objects.
+  The centre of the image presents a deep peek into the heart of the NGC1333 cloud.
+  Across the image we see large patches of orange, which represent gas glowing in
+  the infrared. These so-called Herbig-Haro objects form when ionised material ejected
+  from young stars collides with the surrounding cloud. They are hallmarks of a very
+  active site of star formation. Many of the young stars in this image are surrounded
+  by disks of gas and dust, which may eventually produce planetary systems. On the
+  right hand side in the image, we can glimpse the shadow of one of these disks oriented
+  edge-on - two dark cones emanating on opposite sides, seen against a bright background.
+  Similar to the young stars in this mosaic, our own Sun and planets formed inside
+  a dusty molecular cloud, 4.6 billion years ago. Our Sun didn’t form in isolation
+  but as part of a cluster, which was perhaps even more massive than NGC 1333. The
+  cluster in the mosaic, only 1-3 million years old, presents us with an opportunity
+  to study stars like our Sun, as well as brown dwarfs and free-floating planets,
+  in their nascent stages. The images were captured as part of the Webb observation
+  programme 1202 (PI: A. Scholz) to survey a large portion of NGC1333. These data
+  constitute the first deep spectroscopic survey of the young cluster, and have identified
+  brown dwarfs down to planetary masses using the observatory’s Near-InfraRed Imager
+  and Slitless Spectrograph (NIRISS). The first results from this survey have been
+  accepted for publication in the Astronomical Journal. [Image Description: Several
+  images of parts of a nebula in space have been aligned to form a single large image
+  of the nebula. It depicts clouds of gas and dust in blue and orange colours as well
+  as brightly shining stars in various sizes. Around the edge there are some black
+  rectangles where there was no image of that region of space.] Links Science paper
+  NGC 1333 (cropped)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2408b/L{1}X{2}Y{3}.png
+name: Peeking into Perseus (wide field view)
+ra_hr: 3.4835307900514443
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2408b/thumb.jpg
+zoom_level: 0.8181404781556062
+---
+_uuid: ae5d90fa-57a5-4bb4-a4d2-13cd7a1a3b3f
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.78357256020346
+description: 'This image from the NASA/ESA/CSA James Webb Space Telescope revisits
+  one of the most iconic regions of the sky, the Hubble Ultra Deep Field, through
+  the eyes of two of Webb’s instruments. The result is a detailed view that reveals
+  thousands of distant galaxies, some dating back to the earliest periods of cosmic
+  history.The field shown here, known as the MIRI Deep Imaging Survey (MIDIS) region,
+  was observed with the three shortest-wavelength filters of Webb’s Mid-Infrared Instrument
+  (MIRI) for nearly 100 hours in total. This included Webb''s longest observation
+  of an extragalactic field in one filter so far, producing one of the deepest views
+  ever obtained of the Universe. Combined with data from Webb’s Near-Infrared Camera
+  (NIRCam), this image allows astronomers to explore how galaxies formed and evolved
+  over billions of years. These deep observations have revealed more than 2500 sources
+  in this tiny patch of sky. Among them are hundreds of extremely red galaxies — some
+  of which are likely massive, dust-obscured systems or evolved galaxies with mature
+  stars that formed early in the Universe’s history. Thanks to Webb’s sharp resolution,
+  even at mid-infrared wavelengths, researchers can resolve the structures of many
+  of these galaxies and study how their light is distributed, shedding light on their
+  growth and evolution. In this image, the colours that have been assigned to different
+  kinds of infrared light highlight the fine distinctions astronomers can make with
+  this deep data. Orange and red represent the longest mid-infrared wavelengths. The
+  galaxies in these colours have extra features — such as high concentrations of dust,
+  copious star formation, or an active galactic nucleus (AGN) at their centre — which
+  emit more of this farther infrared light. Small, greenish-white galaxies are particularly
+  distant, with high redshift. This shifts their light spectrum into the peak mid-infrared
+  wavelengths of the data, which are depicted in white and green. Most of the galaxies
+  in this image lack any such mid-infrared boosting features, leaving them most bright
+  at shorter near-infrared wavelengths, which are depicted with blue and cyan colours.
+  By returning to this legacy field first made famous by the NASA/ESA Hubble Space
+  Telescope, Webb is continuing and expanding the deep field tradition — revealing
+  new details, uncovering previously hidden galaxies, and offering fresh insights
+  into the formation of the first cosmic structures. The MIRI observations were taken
+  as part of the Webb programmes #1283 and #6511 (PI: G. Östlin). [Image Description:
+  An area of deep space with thousands of galaxies in various shapes and sizes on
+  a black background. Most are circles or ovals, with a few spirals. More distant
+  galaxies are smaller, down to being mere dots, while closer galaxies are larger
+  and some appear to be glowing. Red and orange galaxies contain more dust or more
+  stellar activity.] Links Science paper (G. Östlin et al.) Slider Tool Pan Video
+  Transition video (with Hubble Ultra Deep Field)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2507a/L{1}X{2}Y{3}.png
+name: A fresh look at a classic deep field
+ra_hr: 3.543993371026619
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2507a/thumb.jpg
+zoom_level: 0.30336428154293327
+---
+_uuid: 10ee0c1b-bcad-4ee1-83cb-c6dbabd44c88
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.78357256020346
+description: 'This image shows a portion of the Hubble eXtreme Deep Field, or XDF,
+  as seen by the NASA/ESA Hubble Space Telescope. This image, originally released
+  in 2012, was taken of a patch of sky within the original Hubble Ultra Deep Field,
+  which was released 2004. The original data for the Hubble Ultra Deep Field image
+  was collected from September 2003 to January 2004. [Image Description: An area of
+  deep space with thousands of galaxies in various shapes and sizes on a black background.
+  Most are circles or ovals, with a few spirals.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2507b/L{1}X{2}Y{3}.png
+name: Portion of the Hubble eXtreme Deep Field
+ra_hr: 3.543993371026619
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2507b/thumb.jpg
+zoom_level: 0.30336428154293327
+---
+_uuid: b3395179-094a-49c0-80a9-df5430703f72
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.79271183739938
+description: 'The infrared image shown here was taken as part of the JADES programme
+  (the JWST Advanced Deep Extragalactic Survey) and shows a portion of an area of
+  the sky known as GOODS-South. This region was the focus area of Webb study for an
+  international team of astronomers, who observed the chemical signature of carbon-rich
+  dust grains at redshift ~7. This is roughly equivalent to one billion years after
+  the birth of the Universe. Similar observational signatures have been observed in
+  the much more recent Universe, attributed to complex, carbon-based molecules known
+  as polycyclic aromatic hydrocarbons (PAHs). It is not thought likely, however, that
+  PAHs would have developed within the first billion years of cosmic time. Therefore,
+  this observation suggests the exciting possibility that Webb may have observed a
+  different species of carbon-based molecule: possibly minuscule graphite- or diamond-like
+  grains produced by the earliest stars or supernovae. This observation suggests exciting
+  avenues of investigation into both the production of cosmic dust and the earliest
+  stellar populations in our Universe, and was made possible by Webb’s unprecedented
+  sensitivity. In this image, blue, green, and red were assigned to Webb’s NIRCam
+  (Near-Infrared Camera) data at 0.9, 1.15, and 1.5 microns; 2.0, 2.77, and 3.55 microns;
+  and 3.56, 4.1, and 4.44 microns (F090W, F115W, and F150W; F200W, F277W, and F335M;
+  and F356W, F410M, and F444W), respectively. [Image description: The image shows
+  a deep galaxy field, featuring thousands of galaxies of various shapes and sizes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2317c/L{1}X{2}Y{3}.png
+name: 'Crop of the GOODS-S field: JADES (NIRCam image, clean)'
+ra_hr: 3.543472658518493
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2317c/thumb.jpg
+zoom_level: 0.5950814972381099
+---
+_uuid: cb8a5fc5-d4d9-4238-a5ec-40390a2e0f72
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 32.01374806347407
+description: 'Featured in this image from the NASA/ESA/CSA James Webb Space Telescope
+  is Herbig-Haro 211 (HH 211), a bipolar jet travelling through interstellar space
+  at supersonic speeds. At roughly 1,000 light-years away from Earth in the constellation
+  Perseus, the object is one of the youngest and nearest protostellar outflows, making
+  it an ideal target for Webb. Herbig-Haro objects are luminous regions surrounding
+  newborn stars, and are formed when stellar winds or jets of gas spewing from these
+  newborn stars form shockwaves colliding with nearby gas and dust at high speeds.
+  This spectacular image of HH 211 reveals an outflow from a Class 0 protostar, an
+  infantile analogue of our Sun when it was no more than a few tens of thousands of
+  years old and with a mass only 8% of the present-day Sun (it will eventually grow
+  into a star like the Sun). Infrared imaging is powerful in studying newborn stars
+  and their outflows, because such stars are invariably still embedded within the
+  gas from the molecular cloud in which they formed. The infrared emission of the
+  star’s outflows penetrates the obscuring gas and dust, making a Herbig-Haro object
+  like HH 211 ideal for observation with Webb’s sensitive infrared instruments. Molecules
+  excited by the turbulent conditions, including molecular hydrogen, carbon monoxide
+  and silicon monoxide, emit infrared light that Webb can collect to map out the structure
+  of the outflows. The image showcases a series of bow shocks to the southeast (lower-left)
+  and northwest (upper-right) as well as the narrow bipolar jet that powers them in
+  unprecedented detail — roughly 5 to 10 times higher spatial resolution than any
+  previous images of HH 211. The inner jet is seen to “wiggle” with mirror symmetry
+  on either side of the central protostar. This is in agreement with observations
+  on smaller scales and suggests that the protostar may in fact be an unresolved binary
+  star. [Image description: At the centre is a thin horizontal multi-coloured cloud
+  tilted from bottom left to top right. At its centre is a dark brown cloud from which
+  both outflows are spewing from. These outflows transition from colours of yellow/orange,
+  to a light blue region, with prominent light pink features in the outer regions.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2322a/L{1}X{2}Y{3}.png
+name: HH 211 (NIRCam image, cropped)
+ra_hr: 3.732490299085301
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2322a/thumb.jpg
+zoom_level: 0.2793994646336232
+---
+_uuid: 4f631799-0804-4d6d-bb8a-614b871d17c4
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.889802548953437
+description: 'The incredibly distant galaxy GS-z13-1, observed just 330 million years
+  after the Big Bang, was initially discovered with deep imaging from the NASA/ESA/CSA
+  James Webb Space Telescope. Now, an international team of astronomers has definitively
+  identified powerful hydrogen emission from this galaxy at an unexpectedly early
+  period in the Universe’s history, a probable sign that we are seeing some of the
+  first hot stars from the dawn of the Universe. This image shows the galaxy GS-z13-1
+  (the red dot at centre), imaged with Webb’s Near-Infrared Camera (NIRCam) as part
+  of the JWST Advanced Deep Extragalactic Survey (JADES) programme. These data from
+  NIRCam allowed researchers to identify GS-z13-1 as an incredibly distant galaxy,
+  and to put an estimate on its redshift value. Webb’s unique infrared sensitivity
+  is necessary to observe galaxies at this extreme distance, whose light has been
+  redshifted into infrared wavelengths during its long journey across the cosmos.
+  To confirm the galaxy’s redshift, the team turned to Webb’s Near-Infrared Spectrograph
+  (NIRSpec) instrument. With new observations permitting advanced spectroscopy of
+  the galaxy’s emitted light, the team not only confirmed GS-z13-1’s redshift of 13.0,
+  they also revealed the strong presence of a type of ultraviolet radiation called
+  Lyman-α emission. This is a telltale sign of the presence of newly forming stars,
+  or a possible active galactic nucleus in the galaxy, but at a much earlier time
+  than astronomers had thought possible. The result holds great implications for our
+  understanding of the Universe. [Image description: A small, zoomed-in area of deep
+  space. Numerous galaxies in various shapes are visible, most of them small, but
+  two are quite large and glow brightly. In the very centre is a small red dot, an
+  extremely faraway galaxy. Two lines of light enter the left side: these are diffraction
+  spikes, visual artefacts, caused by a nearby bright star just out of view.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2505b/L{1}X{2}Y{3}.png
+name: JADES-GS-z13-1 (NIRCam close-up)
+ra_hr: 3.5376573230266883
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2505b/thumb.jpg
+zoom_level: 0.028456725391881793
+---
+_uuid: 615dbf0d-e8c1-4641-bdd5-ea2566f62a0d
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 32.141545332833154
+description: 'The NASA/ESA/CSA James Webb Space Telescope recently observed IC 348,
+  a star-forming region just 1000 light-years away. This is one of the largest Webb
+  images released to the public so far. This near-infrared vista of IC 348 reveals
+  a collection of objects called brown dwarfs, which are smaller than the smallest
+  stars. Researchers used the unparalleled sensitivity of Webb’s NIRCam (Near-Infrared
+  Camera) to track down the smallest brown dwarfs in IC 348, which weigh in at just
+  just twice the mass of Jupiter. These are the least massive brown dwarfs known,
+  and their existence poses challenges to models of how stars form. In addition to
+  the brown dwarfs and young stars scattered across the swirling nebula, this image
+  provides a unique perspective on a handful of protostars, which can be seen in the
+  upper-right corner. These protostars are ejecting powerful jets that have crashed
+  into the gas and dust surrounding them, creating luminous regions called Herbig-Haro
+  objects. [Image Description: A star-forming region. It is blanketed in thick clouds
+  of gas and dust, millions of kilometres across, that form swirling patterns. Bright
+  stars are scattered throughout the clouds, with the densest cluster situated in
+  the centre of the scene. Each is crowned with six long points created by the optics
+  of the telescope’s mirrors. In the upper right, a couple of hidden stars blast out
+  long, glowing jets of material.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2619a/L{1}X{2}Y{3}.png
+name: Star-forming region IC 348 (NIRCam image)
+ra_hr: 3.7419053921717245
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2619a/thumb.jpg
+zoom_level: 3.386260864976988
+---
+_uuid: e16a412d-8ca9-42bf-8264-9e4b30d2c7e7
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 32.02566540106302
+description: 'This image showcases a portion of the larger IC 348 field to highlight
+  two stars embedded within a cloud of gas and dust. The central star, despite being
+  brighter and appearing larger than its companion to the lower-right, is in fact
+  more deeply wrapped in the clouds of gas and dust. These clouds block more of the
+  shorter-wavelength infrared light that the star emits, leaving it brightest in the
+  longer wavelengths, which in this image are coloured orange. The smaller star is
+  less shrouded, so the shorter and longer infrared wavelengths combine to make it
+  appear whitish-blue. The galaxies seen in the background are thousands of times
+  further away from Earth than these two stars. The bright lines appearing to radiate
+  out from these stars are a type of distortion that arises from the optical design
+  of the telescope. Called diffraction spikes, they are created because the intense
+  light from the unresolved target is bent (“diffracted”) very slightly at the edges
+  of Webb’s hexagonal mirror panels and around one of the struts that hold up its
+  secondary mirror. This distinctive six-plus-two-pointed pattern is the same for
+  any image taken by Webb. For diffraction spikes to appear, the light source has
+  to be very bright and very concentrated, so they’re most often seen on stars. You
+  can view the full image from which this crop was taken here. [Image description:
+  A star embedded within a cloud of gas and dust. The star is a very bright point
+  in the centre of the image. It radiates six long and two short orange spikes of
+  light, caused by the telescope''s optics. Most of the gas behind it is blue and
+  wispy, but below the star is a patch of bold yellow and red gas in a butterfly-shape.
+  A few glowing shockwaves made by fast-moving gas surround the star. Small, whitish
+  galaxies appear in the distance.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2619c/L{1}X{2}Y{3}.png
+name: 'IC 348 Crop: Star embedded in a nebula'
+ra_hr: 3.745320569406274
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2619c/thumb.jpg
+zoom_level: 0.3508217073840732
+---
+_uuid: b98f254e-6a67-41f7-82ce-2698ee2ad24a
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 32.161907604745494
+description: 'This image from the NASA/ESA/CSA James Webb Space Telescope shows the
+  central portion of the star cluster IC 348. The wispy curtains filling the image
+  are interstellar gas and dust reflecting the light from the cluster’s stars — what
+  is known as a reflection nebula. The material also includes carbon-containing molecules
+  known as polycyclic aromatic hydrocarbons, or PAHs. The bright star closest to the
+  centre of the frame is actually a pair of type B stars in a binary system, the most
+  massive stars in the cluster. Winds from these stars may help sculpt the large loop
+  seen on the right side of the field of view. You can view the full image from which
+  this crop was taken here. [Image description: Wispy, criss-crossing filaments fill
+  the scene, creating dense and highly textured layers of gas in colours from green
+  to yellow to orange and pink. Above the centre, the filaments join into a large
+  loop, while below they bend and create wave-like curves. Dozens of bright stars
+  are layered atop the gas, a pair in the centre being particularly bright; all sport
+  six long and two short spikes of light, created by the telescope’s optics.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2619d/L{1}X{2}Y{3}.png
+name: 'IC 348 Crop: Central star cluster'
+ra_hr: 3.742574817203641
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2619d/thumb.jpg
+zoom_level: 0.9319244498393154
+---
+_uuid: 4f1e25a8-891f-4714-a053-354f33f0d0e1
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 32.10456119589563
+description: 'This image showcases a portion of the larger IC 348 field to highlight
+  two stars among the outskirts of the nebula. These two stars appear equally-sized,
+  because they are similarly bright, but one is orange while the other is blue. The
+  reason for this is that the orange star is more deeply embedded in the clouds of
+  interstellar gas and dust; these clouds block more of the shorter-wavelength infrared
+  light that the star emits, leaving the longer wavelengths, which are coloured orange
+  in this image. The other star is less shrouded, so the shorter and longer infrared
+  wavelengths combine to make it appear whitish-blue. While it doesn’t look like there’s
+  a lot of gas or dust here, the thin red arcs and faint blotches that can be seen
+  around the stars are shockwaves made in that gas. Outbursts from the young stars
+  crash into the interstellar gas, compressing and heating it up until it glows. The
+  bright lines appearing to radiate out from these stars are a type of distortion
+  that arises from the optical design of the telescope. Called diffraction spikes,
+  they are created because the intense light from the unresolved target is bent (“diffracted”)
+  very slightly at the edges of Webb’s hexagonal mirror panels and around one of the
+  struts that hold up its secondary mirror. This distinctive six-plus-two-pointed
+  pattern is the same for any image taken by Webb. For diffraction spikes to appear,
+  the light source has to be very bright and very concentrated, so they’re most often
+  seen on stars. You can view the full image from which this crop was taken here.
+  [Image description: Two bright stars, one golden and one more white in colour, in
+  a mostly-dark area of space. Diffuse, dark blue gas clouds curl around the stars,
+  with dark bands of empty space cutting through the clouds. Thin red arcs near the
+  stars are hot shockwaves in the gas. The background is filled with many small objects
+  in blue, green or yellow; most are distant galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2619e/L{1}X{2}Y{3}.png
+name: 'IC 348 Crop: Stars and faint outflows'
+ra_hr: 3.7543832164463073
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2619e/thumb.jpg
+zoom_level: 0.5375244598962652
+---
+_uuid: 87d99d9f-4e5e-49a0-806b-a9bdfc30efd9
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 32.08917734730561
+description: 'This image from the NASA/ESA/CSA James Webb Space Telescope shows an
+  example of gravitational lensing hidden in the background of the star-forming region
+  IC 348. The round blue dot in the centre of the image is a distant galaxy. The orange
+  line which arcs around it on one side, and the small orange loop touching its centre,
+  are both images of another, even more distant galaxy behind it. Because this orange
+  galaxy lines up just right behind the blue galaxy, the blue galaxy acts like a lens:
+  its gravity bends the path of the light emitted by the orange galaxy, creating these
+  warped images. You can view the full image from which this crop was taken here.
+  [Image description: A close-up of a galaxy among the greenish gas clouds of IC 348.
+  The galaxy appears like a round blue dot. An orange line bends around the bottom-right
+  of the dot, appearing to warp to avoid touching it; a second, smaller orange line
+  forms a loop touching the core of the galaxy. These two lines are images of the
+  same distant background galaxy, made by gravitational lensing.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2619g/L{1}X{2}Y{3}.png
+name: 'IC 348 Crop: Gravitational lensing'
+ra_hr: 3.746052650262536
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2619g/thumb.jpg
+zoom_level: 0.07670642579891013
+---
+_uuid: c64fc3ff-e0bd-48b2-8c86-cac5cee34008
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 32.21295402846835
+description: 'This image from the NASA/ESA/CSA James Webb Space Telescope shows a
+  few of the spiral galaxies that can be seen behind the clouds of gas that make up
+  the nebula around IC 348. The nebula is located around 1000 light-years from Earth:
+  these spiral galaxies are a thousand times further away than that, being millions
+  of light-years distant. The small, featureless dots in the background are further
+  galaxies, and these are a thousand times further away again, at distances up to
+  billions of light-years from Earth. You can view the full image from which this
+  crop was taken here. [Image description: A dark region of space. In the centre lies
+  a relatively purple-coloured spiral galaxy, with two thick, loosely-wound arms that
+  each end in a long tail. Two smaller, more irregularly-shaped spiral galaxies in
+  similar colours are visible in the corner. Dozens of distant galaxies in the background
+  are little more than misshapen, colourful dots; there are also a few stars with
+  bright cores.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2619h/L{1}X{2}Y{3}.png
+name: 'IC 348 Crop: Spiral galaxies'
+ra_hr: 3.7290043085445084
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2619h/thumb.jpg
+zoom_level: 0.18652473331354613

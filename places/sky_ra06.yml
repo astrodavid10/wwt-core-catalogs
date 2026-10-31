@@ -1358,3 +1358,227 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Rosette Nebula
 ra_hr: 6.533055555555555
 zoom_level: 32.0
+---
+_uuid: a3ab6b78-670f-44e5-9130-2e77519fa078
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -55.95043020788156
+description: 'All galaxies are made up of stars, gas, dust, and dark matter, which
+  are bound together by gravity. The Bullet Cluster is made up of two very massive
+  collections of galaxies, known as galaxy clusters, that are themselves bound by
+  gravity. This cluster is found in the Carina constellation 3.8 billion light-years
+  from Earth. The NASA/ESA/CSA James Webb Space Telescope captured the central region
+  of the Bullet Cluster with its NIRCam (Near-Infrared Camera). The scene contains
+  two massive galaxy clusters that sit on either side of the large, light blue spiral
+  galaxy at the center. Webb’s extremely precise images revealed many more distant
+  galaxies and faint objects, allowing a research team to refine the amount of mass
+  in the two galaxy clusters. The team measured thousands of galaxies in Webb’s images
+  to accurately “weigh” both the visible and invisible mass in these galaxy clusters.
+  They also carefully mapped and measured the collective light emitted by stars that
+  are no longer bound to individual galaxies — known as intracluster stars. The team
+  confirmed that the intracluster light can be a reliable tracer of dark matter, even
+  in a highly dynamic environment like the Bullet Cluster. If these stars are not
+  bound to galaxies, but to the cluster’s dark matter, it might become easier to pin
+  down more specifics about the invisible matter. The researchers’ new measurements
+  significantly refine what we know about how mass is spread throughout the Bullet
+  Cluster. The galaxy cluster on the left has an asymmetric, elongated area of mass
+  along the left edge of the blue region, which is a clue pointing to previous mergers
+  in that cluster. This image spans roughly 6.3 million light-years across. It was
+  created with Webb data captured on 20 January 2025 from proposal #4598 (PI: M. Bradac).
+  Several filters were used to sample specific wavelength ranges. The color results
+  from assigning different hues (colors) to each monochromatic (grayscale) image associated
+  with an individual filter. In this case, the assigned colors are: Blue: F090W, Cyan:
+  F115W, Green: F150W, Yellow: F200W, Yellow: F277W, Orange: F356W, Red: F410M, Red:
+  F444W The results have been published in The Astrophysical Journal Letters. [Image
+  description: Webb observation of the Bullet Cluster shows many overlapping objects,
+  including foreground stars, galaxies in galaxy clusters, and distorted background
+  galaxies behind the galaxy clusters, set against the black background of space.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/bullet-cluster/L{1}X{2}Y{3}.png
+name: Bullet Cluster (NIRCam Image)
+ra_hr: 6.9743366885081794
+thumbnail: https://data1.wwtassets.org/feeds/jwst/bullet-cluster/thumb.jpg
+zoom_level: 0.4170774094156561
+---
+_uuid: 7e65994b-ce3b-4373-9212-ee3cb266fb63
+classification: ''
+constellation: PIC
+data_set_type: Sky
+dec_deg: -57.78027641191503
+description: 'An international team of astronomers have used the NASA/ESA/CSA James
+  Webb Space Telescope to discover gravitationally bound star clusters when the Universe
+  was 460 million years old. This is the first discovery of star clusters in an infant
+  galaxy less than 500 million years after the Big bang. Young galaxies in the early
+  Universe underwent significant burst phases of star formation, generating substantial
+  amounts of ionising radiation. However, because of their cosmological distances,
+  direct studies of their stellar content have proven challenging. Using Webb, an
+  international team of astronomers have now detected five young massive star clusters
+  in the Cosmic Gems arc (SPT0615-JD1), a strongly-lensed galaxy emitting light when
+  the Universe was roughly 460 million years old, looking back across 97% of cosmic
+  time. The Cosmic Gems arc was initially discovered in NASA/ESA Hubble Space Telescope
+  images obtained by the RELICS (Reionization Lensing Cluster Survey) programme of
+  the lensing galaxy cluster SPT-CL J0615−5746. With Webb, the science team can now
+  see where stars formed and how they are distributed, in a similar way to how the
+  Hubble Space Telescope is used to study local galaxies. Webb’s view provides a unique
+  opportunity to study star formation and the inner workings of infant galaxies at
+  such an unprecedented distance. [Image description: A field of galaxies on the black
+  background of space. In the middle is a collection of dozens of yellowish galaxies
+  that form a foreground galaxy cluster. Among them are distorted linear features,
+  which mostly appear to follow invisible concentric circles curving around the centre
+  of the image. The linear features are created when the light of a background galaxy
+  is bent and magnified through gravitational lensing. A variety of brightly coloured,
+  red and blue galaxies of various shapes are scattered across the image, making it
+  feel densely populated.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2418a/L{1}X{2}Y{3}.png
+name: Galaxy cluster SPT-CL J0615−5746 (cropped)
+ra_hr: 6.264529902481627
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2418a/thumb.jpg
+zoom_level: 0.2130965849088075
+---
+_uuid: 0961a084-f753-4eb4-9404-9a4cad89d497
+classification: ''
+constellation: PIC
+data_set_type: Sky
+dec_deg: -57.78093332756606
+description: 'An international team of astronomers have used the NASA/ESA/CSA James
+  Webb Space Telescope to discover gravitationally bound star clusters when the Universe
+  was 460 million years old. This is the first discovery of star clusters in an infant
+  galaxy less than 500 million years after the Big bang. Young galaxies in the early
+  Universe underwent significant burst phases of star formation, generating substantial
+  amounts of ionising radiation. However, because of their cosmological distances,
+  direct studies of their stellar content have proven challenging. Using Webb, an
+  international team of astronomers have now detected five young massive star clusters
+  in the Cosmic Gems arc (SPT0615-JD1), a strongly-lensed galaxy emitting light when
+  the Universe was roughly 460 million years old, looking back across 97% of cosmic
+  time. The Cosmic Gems arc was initially discovered in NASA/ESA Hubble Space Telescope
+  images obtained by the RELICS (Reionization Lensing Cluster Survey) programme of
+  the lensing galaxy cluster SPT-CL J0615−5746. With Webb, the science team can now
+  see where stars formed and how they are distributed, in a similar way to how the
+  Hubble Space Telescope is used to study local galaxies. Webb’s view provides a unique
+  opportunity to study star formation and the inner workings of infant galaxies at
+  such an unprecedented distance. [Image description: A field of galaxies on the black
+  background of space. In the middle is a collection of dozens of yellowish galaxies
+  that form a foreground galaxy cluster. Among them are distorted linear features,
+  which mostly appear to follow invisible concentric circles curving around the centre
+  of the image. The linear features are created when the light of a background galaxy
+  is bent and magnified through gravitational lensing. A variety of brightly coloured,
+  red and blue galaxies of various shapes are scattered across the image, making it
+  feel densely populated.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2418d/L{1}X{2}Y{3}.png
+name: Galaxy cluster SPT-CL J0615−5746 (wide-field view)
+ra_hr: 6.264499249157197
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2418d/thumb.jpg
+zoom_level: 0.3754286409193839
+---
+_uuid: 57c8e668-2ad2-4307-9d0d-bb0bcc26e92d
+classification: ''
+constellation: PIC
+data_set_type: Sky
+dec_deg: -57.77222171296391
+description: 'An international team of astronomers have used the NASA/ESA/CSA James
+  Webb Space Telescope to discover gravitationally bound star clusters when the Universe
+  was 460 million years old. This is the first discovery of star clusters in an infant
+  galaxy less than 500 million years after the Big bang. Young galaxies in the early
+  Universe underwent significant burst phases of star formation, generating substantial
+  amounts of ionising radiation. However, because of their cosmological distances,
+  direct studies of their stellar content have proven challenging. Using Webb, an
+  international team of astronomers have now detected five young massive star clusters
+  in the Cosmic Gems arc (SPT0615-JD1), a strongly-lensed galaxy emitting light when
+  the Universe was roughly 460 million years old, looking back across 97% of cosmic
+  time. The Cosmic Gems arc was initially discovered in NASA/ESA Hubble Space Telescope
+  images obtained by the RELICS (Reionization Lensing Cluster Survey) programme of
+  the lensing galaxy cluster SPT-CL J0615−5746. With Webb, the science team can now
+  see where stars formed and how they are distributed, in a similar way to how the
+  Hubble Space Telescope is used to study local galaxies. Webb’s view provides a unique
+  opportunity to study star formation and the inner workings of infant galaxies at
+  such an unprecedented distance. [Image description: This image shows a portion of
+  the lensing galaxy cluster SPT-CL J0615−5746. Two distinct lensed galaxies are visible,
+  of which the lower galaxy (known as the Cosmic Gems arc) is shown with several galaxy
+  clusters within.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2418e/L{1}X{2}Y{3}.png
+name: Star clusters in the Cosmic Gems arc (cropped)
+ra_hr: 6.265288998321686
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2418e/thumb.jpg
+zoom_level: 0.024365552953083007
+---
+_uuid: cf26b11e-04af-4a1a-90ee-227a3f5337fa
+classification: ''
+constellation: CMA
+data_set_type: Sky
+dec_deg: -21.37478346093266
+description: 'The gruesome palette of these galaxies is owed to a mix of mid-infrared
+  light from the NASA/ESA/CSA James Webb Space Telescope, and visible and ultraviolet
+  light from the NASA/ESA Hubble Space Telescope. The pair grazed one another millions
+  of years ago. The smaller spiral on the left, catalogued as IC 2163, passed behind
+  NGC 2207, the larger spiral galaxy at right. Both have increased star formation
+  rates. Combined, they are estimated to form the equivalent of two dozen new stars
+  that are the size of the Sun annually. Our Milky Way galaxy forms the equivalent
+  of two or three new Sun-like stars per year. Both galaxies have hosted seven known
+  supernovae, each of which may have cleared space in their arms, rearranging gas
+  and dust that later cooled, and allowed many new stars to form. (Find these areas
+  by looking for the bluest regions). [Image description: Two spiral galaxies take
+  up almost the entire view and appear to be overlapping. The galaxy at left, IC 2163,
+  is smaller and more compact than the galaxy at right, NGC 2207. The black background
+  of space is dotted with foreground stars and extremely distant galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2426a/L{1}X{2}Y{3}.png
+name: Galaxies IC 2163 and NGC 2207 (Webb and Hubble image)
+ra_hr: 6.273680179456621
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2426a/thumb.jpg
+zoom_level: 0.38419211994058367
+---
+_uuid: d7a402f5-fe35-4e83-a441-a8d1df1d7852
+classification: ''
+constellation: CMA
+data_set_type: Sky
+dec_deg: -21.372710510421086
+description: 'The James Webb Space Telescope’s mid-infrared image of galaxies IC 2163
+  and NGC 2207 recalls the iciness of long-dead bones mixed with eerie vapours. Two
+  large luminous ‘eyes’ lie at the galaxies’ cores, and gauzy spiral arms reach out
+  into the vast distances of space. Webb’s mid-infrared image excels at showing where
+  the cold dust glows throughout these galaxies — and helps pinpoint where stars and
+  star clusters are buried within the dust. Find these regions by looking for the
+  pink dots along the spiral arms. Many of these areas are home to actively forming
+  stars that are still encased in the gas and dust that feeds their growth. Other
+  pink dots may be objects that lie well behind these galaxies, including extremely
+  distant active supermassive black holes known as quasars. The largest, brightest
+  pink region that glimmers with eight prominent diffraction spikes at the bottom
+  right is a mini starburst — a location where many stars are forming in quick succession.
+  Find the lace-like holes in the spiral arms. These areas are brimming with star
+  formation. Finally, scan the black background of space, where objects shine brightly
+  in a rainbow of colours. Blue circles with tiny diffraction spikes are foreground
+  stars. Objects without spikes are very distant galaxies. [Image description: Two
+  spiral galaxies take up almost the entire view and appear to be overlapping. They
+  are angled from top left to bottom right. The galaxy at left, IC 2163, is smaller
+  and more compact than the galaxy at right, NGC 2207. The background of space is
+  black, dotted with tiny foreground stars and extremely distant galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2426b/L{1}X{2}Y{3}.png
+name: Galaxies IC 2163 and NGC 2207 (Webb MIRI image)
+ra_hr: 6.273422162386556
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2426b/thumb.jpg
+zoom_level: 0.6098197674040895
+---
+_uuid: 8f356f98-a33f-421c-8ec0-22c751214d2e
+classification: ''
+constellation: MON
+data_set_type: Sky
+dec_deg: 0.10522497878427788
+description: 'The NASA/ESA/CSA James Webb Space Telescope recently imaged an extremely
+  large stellar jet at the outskirts of our Milky Way galaxy in the proto-cluster
+  Sh2-284. This Herbig-Haro (HH) object, jets of plasma shooting out from newly formed
+  stars, is 8 light-years across. This is about double the distance from our Sun to
+  its closest neighboring star system, Alpha Centauri. Its detection provides evidence
+  that HH jets scale with the mass of their parent stars—the more massive the stellar
+  engine driving the plasma, the larger the resulting jet. [Image description: Gaseous
+  yellow-orange filaments look like a rose seen from the side and tilted slightly
+  from upper left to lower right, slightly higher than the center of the frame. Extending
+  from the rose to upper left and lower right are gaseous outflows that appear as
+  red lobes that have an overall shape of tall, narrow triangles with rounded tips.
+  Each red triangle is made up of wavy, irregular lines. Dozens of stars are scattered
+  across the field. One particularly bright white star with eight diffraction spikes
+  is located at the top of the yellow rose. Another bright blue star with even more
+  prominent diffraction spikes is to its lower left. The background of space is black.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2519a/L{1}X{2}Y{3}.png
+name: Stellar jet in Sh2-284 (NIRCam image)
+ra_hr: 6.771048458623323
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2519a/thumb.jpg
+zoom_level: 0.2532511344200943

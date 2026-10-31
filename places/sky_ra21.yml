@@ -1137,3 +1137,38 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: NGC 7023
 ra_hr: 21.026666666666667
 zoom_level: 3.908333333333333
+---
+_uuid: 20669cb3-ece7-48b8-8df1-d492cb890895
+classification: ''
+constellation: CEP
+data_set_type: Sky
+dec_deg: 66.11250964692198
+description: 'The NASA/ESA/CSA James Webb Space Telescope’s NIRCam (Near-InfraRed
+  Camera) has revealed many protostars and stars within the glowing gases of NGC 7129.
+  The region to the left of the central star is filled with hot, atomic hydrogen gas,
+  which creates a golden glow, while the region to the right is packed with cooler,
+  molecular hydrogen. Embedded protostars in the rightmost region eject outflows that
+  shock and heat the region, giving certain areas a red hue and a clumpy texture.
+  Many of these red outflows, ejected as protostars accumulate mass, are visible throughout
+  the image. The central star and the stars embedded within the golden region are
+  at a more mature stage in their life cycle than the protostars growing to the right
+  of the central star. Their heat breaks down the molecular hydrogen into atoms, driving
+  the differences in temperature and color. The coldest, densest gas, where protostars
+  have yet to form, is shown in grey. [Image description: A young star cluster filled
+  with many stars that display Webb’s unique eight-pronged diffraction pattern. At
+  its center is a yellow star which sports the largest diffraction pattern. To the
+  left of the star, there is a region filled with yellow dust and gas that extends
+  from the star to the left border of the image. This yellow region extends from the
+  bottom, covering about two-thirds of the image. The yellow region has several blue
+  stars of different sizes embedded within. The top third, which lies outside of the
+  yellow region, holds a few bright protostars, within dense gray gas. Those stars
+  illuminate the gas, making it appear blue. A few red outflows from other protostars
+  are visible above this grayish-blue region. To the right of the central star, there
+  is a clumpy, flame-like plume of red dust and gas with protostars that emit a soft
+  white light within. The plume is surrounded by more dense gray gas and dust. There
+  are several background galaxies strewn throughout the image.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2620a/L{1}X{2}Y{3}.png
+name: NGC 7129 (NIRCam image)
+ra_hr: 21.718036086883227
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2620a/thumb.jpg
+zoom_level: 0.992400594631071

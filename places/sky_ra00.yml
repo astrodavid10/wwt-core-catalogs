@@ -3079,3 +3079,151 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: NGC 246
 ra_hr: 0.7841666666666667
 zoom_level: 4.0
+---
+_uuid: f1d18669-b5e2-408c-800b-6e4175312b64
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -15.50505309292642
+description: 'This image shows a portion of the dwarf galaxy Wolf–Lundmark–Melotte
+  (WLM) captured by the NASA/ESA/CSA James Webb Space Telescope’s Near-Infrared Camera.
+  The image demonstrates Webb’s remarkable ability to resolve faint stars outside
+  the Milky Way. This observation was taken as part of Webb’s Early Release Science
+  (ERS) program 1334, focused on resolved stellar populations. The dwarf galaxy WLM
+  was selected for this program as its gas is similar to that which made up galaxies
+  in the early Universe and it is relatively nearby, meaning that Webb can differentiate
+  between its individual stars. Learn more about Webb’s research of the dwarf galaxy
+  WLM here. The galaxy lies roughly 3 million light-years away. This image includes
+  0.9-micron light shown in blue, 1.5-micron in cyan, 2.5-micron in yellow, and 4.3-micron
+  in red (filters F090W, F150W, F250M, and F430M). Note: This image highlights Webb’s
+  science in progress, which has not yet been through the peer-review process. [Image
+  Description: This image shows a wide field view of countless stars and dozens of
+  galaxies in clear detail.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/WLMb/L{1}X{2}Y{3}.png
+name: Dwarf Galaxy WLM
+ra_hr: 0.0328810044327296
+thumbnail: https://data1.wwtassets.org/feeds/jwst/WLMb/thumb.jpg
+zoom_level: 0.36125806536454624
+---
+_uuid: cc926d54-3f81-4d01-b3c5-a4c42f8f80e4
+classification: ''
+constellation: HYI
+data_set_type: Sky
+dec_deg: -75.624861339779
+description: 'This new NASA/ESA/CSA James Webb Space Telescope Picture of the Month
+  features a rare cosmic phenomenon called an Einstein ring. What at first appears
+  to be a single, strangely shaped galaxy is actually two galaxies that are separated
+  by a large distance. The closer foreground galaxy sits at the center of the image,
+  while the more distant background galaxy appears to be wrapped around the closer
+  galaxy, forming a ring. Einstein rings occur when light from a very distant object
+  is bent (or ‘lensed’) about a massive intermediate (or ‘lensing’) object. This is
+  possible because spacetime, the fabric of the Universe itself, is bent by mass,
+  and therefore light travelling through space and time is bent as well. This effect
+  is much too subtle to be observed on a local level, but it sometimes becomes clearly
+  observable when dealing with curvatures of light on enormous, astronomical scales,
+  such as when the light from one galaxy is bent around another galaxy or galaxy cluster.
+  When the lensed object and the lensing object line up just so, the result is the
+  distinctive Einstein ring shape, which appears as a full circle (as seen here) or
+  a partial circle of light around the lensing object, depending on the precision
+  of the alignment. Objects like these are the ideal laboratory in which to research
+  galaxies too faint and distant to otherwise see. The lensing galaxy at the center
+  of this Einstein ring is an elliptical galaxy, as can be seen from the galaxy’s
+  bright core and smooth, featureless body. This galaxy belongs to a galaxy cluster
+  named SMACSJ0028.2-7537. The lensed galaxy wrapped around the elliptical galaxy
+  is a spiral galaxy. Even though its image has been warped as its light travelled
+  around the galaxy in its path, individual star clusters and gas structures are clearly
+  visible. The Webb data used in this image were taken as part of the Strong Lensing
+  and Cluster Evolution (SLICE) survey (programme 5594), which is led by Guillaume
+  Mahler at University of Liège in Belgium, and consists of a team of international
+  astronomers. This survey aims to trace 8 billion years of galaxy cluster evolution
+  by targeting 182 galaxy clusters with Webb’s Near-InfraRed Camera instrument. This
+  image also incorporates data from two of the NASA/ESA Hubble Space Telescope’s instruments,
+  the Wide Field Camera 3 and the Advanced Camera for Surveys. [Image Description:
+  In the centre is an elliptical galaxy, seen as an oval-shaped glow around a small
+  bright core. Around this is wrapped a broad band of light, appearing like a spiral
+  galaxy stretched and warped into a ring, with bright blue lines drawn through it
+  where the spiral arms have been stretched into circles. A few distant objects are
+  visible around the ring on a black background.] Links Pan Video: Einstein ring in
+  galaxy cluster SMACSJ0028.2-7537 Image on ESA website'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/potm2503a/L{1}X{2}Y{3}.png
+name: Spying a spiral through a cosmic lens
+ra_hr: 0.4647460479459814
+thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2503a/thumb.jpg
+zoom_level: 0.03328424638972315
+---
+_uuid: 67e88467-ae80-412b-8925-4c9380a34964
+classification: ''
+constellation: SCL
+data_set_type: Sky
+dec_deg: -33.713234929460306
+description: This image of the Cartwheel and its companion galaxies is a composite
+  from Webb’s Near-Infrared Camera (NIRCam) and Mid-Infrared Instrument (MIRI), which
+  reveals details that are difficult to see in the individual images alone. This galaxy
+  formed as the result of a high-speed collision that occurred about 400 million years
+  ago. The Cartwheel is composed of two rings, a bright inner ring and a colourful
+  outer ring. Both rings expand outward from the centre of the collision like shockwaves.
+  However, despite the impact, much of the character of the large, spiral galaxy that
+  existed before the collision remains, including its rotating arms. This leads to
+  the “spokes” that inspired the name of the Cartwheel Galaxy, which are the bright
+  red streaks seen between the inner and outer rings. These brilliant red hues, located
+  not only throughout the Cartwheel, but also the companion spiral galaxy at the top
+  left, are caused by glowing, hydrocarbon-rich dust. In this near- and mid-infrared
+  composite image, MIRI data are coloured orange while NIRCam data are coloured blue,
+  yellow, and red. Amidst the red swirls of dust, there are many individual blue dots,
+  which represent individual stars or pockets of star formation. NIRCam also defines
+  the difference between the older star populations and dense dust in the core and
+  the younger star populations outside of it. Webb’s observations capture Cartwheel
+  in a very transitory stage. The form that the Cartwheel Galaxy will eventually take,
+  given these two competing forces, is still a mystery. However, this snapshot provides
+  perspective on what happened to the galaxy in the past and what it will do in the
+  future. NIRCam was built by a team at the University of Arizona and Lockheed Martin’s
+  Advanced Technology Center. MIRI was contributed by ESA and NASA, with the instrument
+  designed and built by a consortium of nationally funded European Institutes (the
+  MIRI European Consortium) in partnership with JPL and the University of Arizona.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2211a/L{1}X{2}Y{3}.png
+name: Cartwheel Galaxy (NIRCam and MIRI Composite Image)
+ra_hr: 0.6282314953401344
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2211a/thumb.jpg
+zoom_level: 0.366511056912
+---
+_uuid: db90c634-3cab-4a39-9063-5a8553ba442f
+classification: ''
+constellation: SCL
+data_set_type: Sky
+dec_deg: -33.71193824056045
+description: This image from Webb’s Mid-Infrared Instrument (MIRI) shows a group of
+  galaxies, including a large distorted ring-shaped galaxy known as the Cartwheel.
+  The Cartwheel Galaxy, located 500 million light-years away in the Sculptor constellation,
+  is composed of a bright inner ring and an active outer ring. While this outer ring
+  has a lot of star formation, the dusty area in between reveals many stars and star
+  clusters. The mid-infrared light captured by MIRI reveals fine details about these
+  dusty regions and young stars within the Cartwheel Galaxy, which are rich in hydrocarbons
+  and other chemical compounds, as well as silicate dust, like much of the dust on
+  Earth. Young stars, many of which are present in the bottom right of the outer ring,
+  energise surrounding hydrocarbon dust, causing it to glow orange. On the other hand,
+  the clearly defined dust between the core and the outer ring, which forms the “spokes”
+  that inspire the galaxy’s name, is mostly silicate dust. The smaller spiral galaxy
+  to the upper left of Cartwheel displays much of the same behaviour, showing a large
+  amount of star formation. MIRI was contributed by ESA and NASA, with the instrument
+  designed and built by a consortium of nationally funded European Institutes (the
+  MIRI European Consortium) in partnership with JPL and the University of Arizona.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2211b/L{1}X{2}Y{3}.png
+name: Cartwheel Galaxy (MIRI)
+ra_hr: 0.628225098772443
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2211b/thumb.jpg
+zoom_level: 0.36640627519614255
+---
+_uuid: 85147c1a-28cc-4b08-b442-9da7aa96ca7c
+classification: ''
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.17622418303534
+description: This image features NGC 346, one of the most dynamic star-forming regions
+  in nearby galaxies, as seen by the NASA/ESA/CSA James Webb Space Telescope. NCG
+  346 is located in the Small Magellanic Cloud (SMC), a dwarf galaxy close to our
+  Milky Way.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2301d/L{1}X{2}Y{3}.png
+name: NGC 346 (Webb)
+ra_hr: 0.9849520310740464
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2301d/thumb.jpg
+zoom_level: 0.7769725615461543

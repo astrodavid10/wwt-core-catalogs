@@ -1903,3 +1903,74 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Pinwheel Galaxy
 ra_hr: 14.053333333333335
 zoom_level: 4.0
+---
+_uuid: ae44f04d-0b24-4e33-8612-311026992ab2
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 52.8576244783448
+description: 'When astronomers got their first glimpses of galaxies in the early Universe
+  from the NASA/ESA/CSA James Webb Space Telescope, they were expecting to find galactic
+  pipsqueaks, but instead they found what appeared to be a bevy of Olympic bodybuilders.
+  Some galaxies appeared to have grown so massive, so quickly, that simulations couldn’t
+  account for them. Some researchers suggested this meant that something might be
+  wrong with the theory that explains what the Universe is made of and how it has
+  evolved since the big bang, known as the standard model of cosmology. According
+  to a new study in the Astrophysical Journal, some of those early galaxies are in
+  fact much less massive than they first appeared. Black holes in some of these galaxies
+  make them appear much brighter and bigger than they really are. The evidence was
+  provided by Webb’s Cosmic Evolution Early Release Science (CEERS) Survey. According
+  to this latest study, the galaxies that appeared overly massive likely host black
+  holes rapidly consuming gas. Friction in the fast-moving gas emits heat and light,
+  making these galaxies much brighter than they would be if that light emanated just
+  from stars. This extra light can make it appear that the galaxies contain many more
+  stars, and hence are more massive, than we would otherwise estimate. When scientists
+  remove these galaxies, dubbed “little red dots” (based on their red color and small
+  size), from the analysis, the remaining early galaxies are not too massive to fit
+  within predictions of the standard model. However, there are still roughly twice
+  as many massive galaxies in Webb’s data of the early Universe than expected from
+  the standard model. One possible reason might be that stars formed more quickly
+  in the early Universe than they do today. Star formation happens when hot gas cools
+  enough to succumb to gravity and condense into one or more stars. But as the gas
+  contracts, it heats up, generating outward pressure. In our region of the Universe,
+  the balance of these opposing forces tends to make the star formation process very
+  slow. But perhaps, according to some theories, because the early Universe was denser
+  than today, it was harder to blow gas out during star formation, allowing the process
+  to go faster. This image shows a small portion of the field observed by NASA’s James
+  Webb Space Telescope’s NIRCam (Near-Infrared Camera) for the CEERS survey. The light
+  from some of them has traveled for over 13 billion years to reach the telescope.
+  Read more about the full CEERS image here. [Image description: Thousands of galaxies
+  appear in this view, which is set against the black background of space. There are
+  many overlapping objects at various distances. They include large, blue foreground
+  stars, some with eight diffraction spikes, and white and pink spiral and elliptical
+  galaxies. Numerous tiny red dots appear throughout the scene.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/CEERS11/L{1}X{2}Y{3}.png
+name: CEERS crop (NIRCam image)
+ra_hr: 14.331180408051434
+thumbnail: https://data1.wwtassets.org/feeds/jwst/CEERS11/thumb.jpg
+zoom_level: 0.34783026952551815
+---
+_uuid: 20343473-c262-40bc-b665-3135c910328c
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 24.076670914634988
+description: 'Thousands of glimmering galaxies are bound together by their own gravity,
+  making up a massive cluster formally classified as MACS J1423. The largest bright
+  white oval is a supergiant elliptical galaxy that is the dominant member of this
+  galaxy cluster. The galaxy cluster acts like a lens, magnifying and distorting the
+  light from objects that lie well behind it, an effect known as gravitational lensing
+  that has big research benefits. Astronomers can study lensed galaxies in detail,
+  like the Firefly Sparkle galaxy. This 2023 image is from the James Webb Space Telescope’s
+  NIRCam (Near-InfraRed Camera). Researchers used Webb to survey the same field that
+  the Hubble Space Telescope imaged in 2010. Thanks to its specialisation in high-resolution
+  near-infrared imagery, Webb was able to show researchers many more galaxies in far
+  more detail. [Image description: Thousands of overlapping objects at various distances
+  are spread across this field, including galaxies in a massive galaxy cluster, and
+  distorted background galaxies behind the galaxy cluster. The background of space
+  is black.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/jwst/weic2429a/L{1}X{2}Y{3}.png
+name: Galaxy cluster MACS J1423 (NIRCam image)
+ra_hr: 14.396520153174713
+thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2429a/thumb.jpg
+zoom_level: 0.40855690059927596
