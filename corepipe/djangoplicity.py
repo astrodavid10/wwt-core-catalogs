@@ -213,6 +213,15 @@ class DjangoplicityImageSource(ImageSource):
 
         img = ImageLoader().load_path(img_path)
 
+        # Some AVM TIFFs carry an XMP packet that Pillow reads as a one-element
+        # tuple rather than bytes. Pillow's JPEG writer then crashes when saving
+        # the thumbnail (`can't concat tuple to bytes`). We don't need the XMP
+        # downstream, so drop it from the underlying PIL image.
+        try:
+            img.aspil().info.pop("xmp", None)
+        except Exception:
+            pass
+
         # Do the processing.
 
         builder.tile_base_as_study(img)

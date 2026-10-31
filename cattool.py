@@ -539,12 +539,27 @@ def _emit_record(kind, fields, stream):
             if not prev_had_blank_line:
                 print(file=stream)
 
-            for line in textwrap.wrap(
+            wrapped = textwrap.wrap(
                 f"{key}> {value}",
                 width=80,
                 break_long_words=False,
                 break_on_hyphens=False,
-            ):
+            )
+
+            # Avoid emitting a continuation line whose first token ends in ":"
+            # or ">". `_parse_record_file` would misinterpret such a line as the
+            # start of a new field (e.g. text containing "[Image description:
+            # ...]"). Merge any offending leading token onto the previous line.
+            safe_lines = []
+            for line in wrapped:
+                if safe_lines:
+                    first_tok = line.split(None, 1)[0]
+                    if first_tok.endswith((":", ">")):
+                        safe_lines[-1] = safe_lines[-1] + " " + line
+                        continue
+                safe_lines.append(line)
+
+            for line in safe_lines:
                 print(line, file=stream)
 
             print(file=stream)

@@ -19,6 +19,7 @@ from collections import OrderedDict
 from io import BytesIO
 import json
 import os.path
+import shutil
 import sys
 from typing import BinaryIO, Iterable, Tuple
 import uuid
@@ -462,9 +463,15 @@ class PipelineManager(object):
         src = self.get_image_source()
         cand_dir = self._path("candidates")
         self._ensure_dir("cache_done")
+        self._ensure_dir("cache_failed")
 
         # Lame hack to tidy up output slightly
         par_util.SHOW_INFORMATIONAL_MESSAGES = False
+
+        def _write_prep():
+            with open(self._path("prep.txt"), "wt", encoding="utf-8") as f:
+                for kind, fields in prep_items:
+                    _emit_record(kind, fields, f)
 
         for uniq_id in os.listdir(self._path("cache_todo")):
             cachedir = self._path("cache_todo", uniq_id)
@@ -472,14 +479,25 @@ class PipelineManager(object):
 
             pio = PyramidIO(outdir, scheme="LXY", default_format="png")
             builder = Builder(pio)
-            cdata = open(os.path.join(cand_dir, uniq_id), "rb")
 
             print(f"processing {uniq_id} ... ", end="")
             sys.stdout.flush()
 
-            src.process(uniq_id, cdata, cachedir, builder)
-            cdata.close()
-            builder.write_index_rel_wtml()
+            # Don't let one bad image (e.g. an unreadable source file) abort the
+            # whole batch; set it aside in `cache_failed` and keep going.
+            try:
+                cdata = open(os.path.join(cand_dir, uniq_id), "rb")
+                try:
+                    src.process(uniq_id, cdata, cachedir, builder)
+                finally:
+                    cdata.close()
+                builder.write_index_rel_wtml()
+            except Exception as e:
+                print(f"FAILED: {e}")
+                shutil.rmtree(outdir, ignore_errors=True)
+                os.rename(cachedir, self._path("cache_failed", uniq_id))
+                continue
+
             print("done")
 
             # Woohoo, done!
@@ -506,9 +524,10 @@ class PipelineManager(object):
                 fields["wip"] = "yes"
                 prep_items.append(("corepipe_image", fields))
 
-        with open(self._path("prep.txt"), "wt", encoding="utf-8") as f:
-            for kind, fields in prep_items:
-                _emit_record(kind, fields, f)
+            # Persist after each image so a later failure can't lose progress.
+            _write_prep()
+
+        _write_prep()
 
     def upload(self):
         prep_path = self._path("prep.txt")
