@@ -1,14 +1,3 @@
-_uuid: b8124cd4-abc7-4a7b-ad40-28c4279bdb39
-background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
-classification: ''
-constellation: ''
-data_set_type: Planet
-latitude: 21.5534991666667
-longitude: -137.651001
-name: 'Olympus Mons : Layers in Olympus Mons basal scarp (15.4 km) '
-thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SurfaceVolcanicProcesses
-zoom_level: 0.1
----
 _uuid: 79a50a45-f398-404d-ac23-02a48946f51b
 background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_base_map
 classification: ''

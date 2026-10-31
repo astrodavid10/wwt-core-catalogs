@@ -1,36 +1,3 @@
-_uuid: 7b324949-5dea-4421-a9e3-68662bc7d6e3
-background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
-classification: ''
-constellation: ''
-data_set_type: Planet
-latitude: -34.9962996666667
-longitude: -38.8150025
-name: 'Hale Crater : Flows southwest of Hale Crater (34.2 km) '
-thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SurfaceImpactProcesses
-zoom_level: 0.1
----
-_uuid: 1dcbc1c3-2ba0-4163-b592-0cc3981f8f67
-background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
-classification: ''
-constellation: ''
-data_set_type: Planet
-latitude: -25.8281993333333
-longitude: -32.3460083333333
-name: 'Holden Crater : Unusual terrain east of Holden Crater rim (31.9 km) '
-thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SurfaceMassWastingProcesses
-zoom_level: 0.1
----
-_uuid: 4be37456-a2b3-40db-9f35-22daff989c4c
-background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
-classification: ''
-constellation: ''
-data_set_type: Planet
-latitude: 1.05016005
-longitude: -33.269989
-name: 'Hydraotes Chaos : Hydraotes Chaos (14.9 km) '
-thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SurfaceSedimentary
-zoom_level: 0.1
----
 _uuid: 10a821a7-6863-4f71-b7fe-ed016d6841fc
 background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_base_map
 classification: ''

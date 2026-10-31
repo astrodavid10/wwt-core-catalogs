@@ -5,11 +5,6 @@ children:
 - place 10a821a7-6863-4f71-b7fe-ed016d6841fc
 - place 2ab20e07-2acb-4f5b-a3a3-491afb646a48
 - place 147f884e-8bef-411b-9bce-22d51e487e47
-- place d64bd029-bf9a-4fa0-97ff-db1d22bf2018
-- place 6004ac8c-9984-48f7-8c4d-ac98de529aef
-- place 902fa27d-5ab7-40fc-8144-efd7bc1fc785
-- place dcdd7a77-0e09-4714-b4c9-c093a7128a55
-- place 0fab8946-189d-4288-833d-b26f9ccfb9ca
 group: Explorer
 name: Top ten things to see on Mars
 searchable: true

@@ -35,35 +35,6 @@
     <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=moc</ThumbnailUrl>
   </ImageSet>
   <ImageSet
-    AltUrl="http://wwt.nasa.gov/wwt/p/mars_hirise/{1}/{2}/{3}.auto"
-    BandPass="Visible"
-    BaseDegreesPerTile="360"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="0"
-    CenterY="0"
-    DataSetType="Planet"
-    DemUrl="http://cdn.worldwidetelescope.org/wwtweb/tiles2.aspx?q={0},{1},{2},MarsToastDem"
-    ElevationModel="True"
-    FileType=".auto"
-    Generic="False"
-    MeanRadius="3396000"
-    Name="HiRISE Imagery"
-    Projection="Toast"
-    QuadTreeMap="0123"
-    ReferenceFrame="Mars"
-    Rotation="0"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="18"
-    Url="http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}"
-    WidthFactor="2"
-  >
-    <Credits>University of Arizona / NASA / USGS / Malin Space Science Systems / JPL</Credits>
-    <CreditsUrl>http://hirise.lpl.arizona.edu/science_themes/themes.php</CreditsUrl>
-    <ThumbnailUrl>http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
     AltUrl="http://wwt.nasa.gov/wwt/p/mars_base_map/{1}/{2}/{3}.png"
     BandPass="Visible"
     BaseDegreesPerTile="360"

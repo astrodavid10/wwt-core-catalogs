@@ -3,7 +3,6 @@ children:
 - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_base_map
 - imageset http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_terrain_color
 - imageset http://data1.wwtassets.org/packages/2021/02_themis/{1}/{3}/{3}_{2}.png
-- imageset http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
 - imageset http://cdn.worldwidetelescope.org/wwtweb/MarsMoc.aspx?q={1},{2},{3}&v=2
 - browseable: true
   children: []
@@ -29,22 +28,6 @@ children:
   thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=mars
   type: ''
   url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=MarsNamedFeatures
-- browseable: true
-  children: []
-  group: Explorer
-  name: HiRISE Spotlight
-  searchable: true
-  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise
-  type: ''
-  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=hirisespotlight
-- browseable: true
-  children: []
-  group: Explorer
-  name: HiRISE Single Images
-  searchable: true
-  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise
-  type: ''
-  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=Hiriseone
 - browseable: true
   children: []
   group: Explorer

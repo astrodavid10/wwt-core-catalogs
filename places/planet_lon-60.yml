@@ -1,36 +1,3 @@
-_uuid: a30c1d05-82b7-415b-898c-d384485b6142
-background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
-classification: ''
-constellation: ''
-data_set_type: Planet
-latitude: -14.4425001666667
-longitude: -55.8370056666667
-name: 'Layered mesa in Coprates Chasm (16.1 km) '
-thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SurfaceSedimentary
-zoom_level: 0.1
----
-_uuid: 2e6fb5cd-3984-45c9-b2d5-fc077d784968
-background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
-classification: ''
-constellation: ''
-data_set_type: Planet
-latitude: -14.2347001666667
-longitude: -53.2650146666667
-name: 'Coprates Chasma : Debris flow in Coprates Chasma (16.6 km) '
-thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SurfaceMassWastingProcesses
-zoom_level: 0.1
----
-_uuid: 6be23418-66a3-4fc1-ba52-b47488bac128
-background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/Marshirise.aspx?q={1},{2},{3}
-classification: ''
-constellation: ''
-data_set_type: Planet
-latitude: 24.9766998333333
-longitude: -59.4859925
-name: 'Kasei Valles : Kasei Valles (6.5 km) '
-thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=SurfaceFluvialProcesses
-zoom_level: 0.1
----
 _uuid: cf484493-a7a2-4868-b1cd-559b84a5a687
 background_image_set_url: http://cdn.worldwidetelescope.org/wwtweb/martiantile.aspx?q={1},{2},{3},mars_base_map
 classification: ''
