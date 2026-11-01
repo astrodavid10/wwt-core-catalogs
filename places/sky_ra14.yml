@@ -1974,3 +1974,26 @@ name: Galaxy cluster MACS J1423 (NIRCam image)
 ra_hr: 14.396520153174713
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2429a/thumb.jpg
 zoom_level: 0.40855690059927596
+---
+_uuid: f758b9f4-333b-4513-824a-aee8fc190ede
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -37.9394186705451
+description: 'This 1.7-gigapixel image of a field of stars in the constellation Lupus
+  showcases the unprecedented view of the Universe that NSF–DOE Vera C. Rubin Observatory
+  gives us. Equipped with the LSST Camera — the largest digital camera in the world
+  — Rubin combines a wide view of the sky with the ability to detect extremely faint
+  objects. With this capability, Rubin can reveal details of the cosmos across an
+  enormous range of scales, from distant galaxies, to individual stars, to the wispy
+  clouds of dust spread throughout our galaxy. The faint, glowing clouds spread across
+  this image are galactic cirrus: clouds of interstellar gas and dust that can be
+  seen in the foreground of the Milky Way. Rubin’s ability to capture scenes like
+  this in unmatched detail will open new windows into the structure of our galaxy
+  and the Universe beyond it.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/rubin/noirlab2616a/L{1}X{2}Y{3}.png
+name: Ocean of Stars
+ra_hr: 14.984654079486015
+thumbnail: https://data1.wwtassets.org/feeds/rubin/noirlab2616a/thumb.jpg
+zoom_level: 16.99203374040266

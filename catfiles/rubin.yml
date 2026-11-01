@@ -1,0 +1,13 @@
+browseable: true
+children:
+- place 8adfa1f1-65c6-4b6e-9b90-7673f6e4d925
+- place a849fa52-c2ed-40bf-ae8b-d940a09912bc
+- place 34066141-80a6-4b72-9be6-1d656d316a43
+- place f758b9f4-333b-4513-824a-aee8fc190ede
+- place e2b29764-5554-423a-9268-bbecf86c3195
+- place e904ec2a-f9b7-4a21-8a76-58d638a7baf2
+group: Explorer
+name: Rubin
+searchable: true
+thumbnail: http://data1.wwtassets.org/noirlab2521b/thumb.jpg
+type: Sky

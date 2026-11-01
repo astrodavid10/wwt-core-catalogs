@@ -4995,3 +4995,75 @@ name: FRB 20240304B (NIRCam clean image)
 ra_hr: 12.200655014861166
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2621d/thumb.jpg
 zoom_level: 0.32251439717575425
+---
+_uuid: e2b29764-5554-423a-9268-bbecf86c3195
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 6.930213035807846
+description: 'Welcome to Rubin''s cosmic treasure chest! Introducing the first riches
+  from NSF–DOE Vera C. Rubin Observatory’s cosmic treasure chest, a wealth of data
+  that will help scientists make countless new discoveries about our Universe. This
+  image, one of the first released by Rubin Observatory, exposes a Universe teeming
+  with stars and galaxies — transforming seemingly empty, inky-black pockets of space
+  into glittering tapestries for the first time. Only Rubin can quickly produce such
+  large images with this much color and richness. Here, Rubin’s view is focused on
+  the southern region of the Virgo Cluster, about 55 million light-years away from
+  Earth and the nearest large collection of galaxies to our own Milky Way. What''s
+  in this image? The image offers a stunning variety of objects — from bright stars
+  ranging from blue to red in color, to nearby blue spiral galaxies, to distant red
+  galaxy groups — demonstrating the broad range of science made possible by Rubin
+  data. During the 10-year Legacy Survey of Space and Time, scientists around the
+  world will access Rubin’s treasure trove of data to address questions like: How
+  did the Milky Way form? What makes up the 95% of the Universe we can’t see? What
+  will a detailed inventory of Solar System objects reveal? What will we learn from
+  watching hundreds of millions of changes in the night sky over 10 years? Apart from
+  a few foreground stars in our own Milky Way, the myriad specks of light captured
+  here make up a rich tapestry of about 10 million galaxies— just 0.05% of the roughly
+  20 billion galaxies Rubin will image during its 10-year Legacy Survey of Space and
+  Time (LSST). By the end of the survey, Rubin will have revealed this level of detail
+  across the entire southern sky. How was the image created? In addition to showcasing
+  the richness and variety of celestial light in (this area), this deep, 15-square-degree
+  image provides a sample of the way Rubin will observe during the main survey. Each
+  individual exposure taken by Rubin Observatory covers 10 square degrees, (about
+  45 full Moons). Combining multiple exposures of the same place on the sky — taken
+  at different times and with different color filters — reveals extremely faint details
+  that wouldn’t be captured in a single exposure. The 1185 exposures combined to make
+  this image were taken over a period of just 7 nights. Rubin Observatory is the only
+  astronomical tool in existence that can assemble an image this wide and deep so
+  quickly. The bright stars scattered throughout this image belong to our home galaxy.
+  By tracking their positions, brightness, and for some, even their motion over time,
+  Rubin will help map the Milky Way in extraordinary detail — revealing its structure,
+  history, and how it has evolved over time. With observations of never-before-seen
+  stellar streams, dwarf galaxies, and more, Rubin data will help scientists investigate
+  the dynamic past of our cosmic neighborhood. In Rubin Observatory’s Skyviewer tool,
+  you can use the “display” setting to toggle between a view with and without asteroids,
+  which appear as multicolored streaks. These moving asteroids in our Solar System
+  were captured by Rubin''s fast system at a different location in each exposure,
+  and this is how they look when the exposures are combined. Rubin’s wide field and
+  frequent imaging make it uniquely capable of detecting and tracking asteroids, comets,
+  and distant trans-Neptunian objects — building a detailed inventory of our Solar
+  System and helping protect Earth by alerting scientists to potentially hazardous
+  objects. What''s coming next This image also offers a starting point for watching
+  the ever-changing sky. Rubin will return to this same region many times over the
+  coming decade, catching brief but important events like supernova explosions and
+  the flares from stars as they are consumed by hungry black holes. Rubin’s software
+  will automatically compare new images to templates built from previous images, identifying
+  up to 10 million changes each night and providing insight into short-lived cosmic
+  phenomena and objects in motion. On the largest scales, scientists will use Rubin’s
+  observations of galaxies like those seen here to investigate two of the Universe’s
+  biggest mysteries: dark matter and dark energy. By mapping the shapes and distributions
+  of galaxies over time, scientists can infer the underlying structure of dark matter
+  and observe how the expansion of the Universe is being influenced by dark energy.
+  The image was captured by Rubin Observatory using the 3200-megapixel LSST Camera
+  — the largest digital camera in the world. Rubin Observatory will scan the sky every
+  night for 10 years, creating an ultra-wide, ultra-high-definition, time-lapse record
+  of our Universe. We invite you to zoom in and explore this image in more detail,
+  or take a tour that highlights some noteworthy features using Rubin’s SkyViewer.
+  Explore Rubin’s cosmic treasure chest in detail.'
+foreground_image_set_url: https://data1.wwtassets.org/noirlab2521a/{1}/{3}/{3}_{2}.png
+name: The Cosmic Treasure Chest
+ra_hr: 12.424565649003004
+thumbnail: https://data1.wwtassets.org/noirlab2521a/thumb.jpg
+zoom_level: 29.195514682749646

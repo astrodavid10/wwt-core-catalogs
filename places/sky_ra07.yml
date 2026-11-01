@@ -1566,3 +1566,21 @@ name: Lion Nebula (MIRI image)
 ra_hr: 7.486335501881009
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2616b/thumb.jpg
 zoom_level: 0.21955456953540953
+---
+_uuid: a849fa52-c2ed-40bf-ae8b-d940a09912bc
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -10.500748664966634
+description: Two years ago this month, NSF–DOE Vera C. Rubin Observatory’s engineering
+  test camera, named the LSST Commissioning Camera (ComCam), began capturing images
+  of the sky to prepare for the revolutionary Legacy Survey of Space and Time, which
+  began earlier this year. This image featuring the head of the Seagull Nebula was
+  one of many ComCam images that led to the success of Rubin First Look and helped
+  to document the observatory’s excellent performance.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/rubin/noirlab2625a/L{1}X{2}Y{3}.png
+name: Seagull Nebula (Rubin ComCam image)
+ra_hr: 7.081555997071898
+thumbnail: https://data1.wwtassets.org/feeds/rubin/noirlab2625a/thumb.jpg
+zoom_level: 8.428809714131724

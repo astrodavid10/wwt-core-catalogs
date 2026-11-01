@@ -3811,3 +3811,32 @@ name: Cat’s Head Nebula (Webb MIRI image)
 ra_hr: 10.766517280031877
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2622d/thumb.jpg
 zoom_level: 0.6144770348530347
+---
+_uuid: 34066141-80a6-4b72-9be6-1d656d316a43
+classification: ''
+constellation: SEX
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 2.2318898345166054
+description: 'This exceptionally deep image from NSF–DOE Vera C. Rubin Observatory
+  reveals the renowned COSMOS field and its surroundings in the constellation Sextans.
+  The view is crowded with galaxies and galaxy clusters spanning an immense range
+  of distances and cosmic ages, while only a handful of foreground stars belong to
+  our own Milky Way. It was created by combining multiple observations from Rubin’s
+  LSST Camera into a deep coadded image and is being released to mark Early Data Preview
+  2, the first Rubin data preview based on LSST Camera observations. The COSMOS field
+  was selected more than two decades ago to provide astronomers with a relatively
+  unobstructed window into the distant Universe. Located away from the crowded plane
+  of the Milky Way, it contains comparatively few bright stars and little intervening
+  dust, and it is accessible to major observatories on Earth and in space. Even in
+  this exceptionally clear region, Rubin’s remarkable sensitivity reveals traces of
+  faint, glowing galactic cirrus: wisps of interstellar dust within our own Milky
+  Way superimposed on the much more distant cosmic landscape. Early Data Preview 2
+  comes on the heels of the beginning of the Legacy Survey of Space and Time (LSST).
+  With its ability to observe the southern sky deeply, widely, and repeatedly, Rubin
+  Observatory is poised to transform many areas of astronomy.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/rubin/noirlab2618a/L{1}X{2}Y{3}.png
+name: Rubin Looks Deep Into a Famous Cosmic Field
+ra_hr: 10.01074971125059
+thumbnail: https://data1.wwtassets.org/feeds/rubin/noirlab2618a/thumb.jpg
+zoom_level: 17.16473898725827

@@ -113060,6 +113060,179 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="3.645379901424019"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="224.76984640789192"
+    CenterY="-37.939446521397656"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Ocean of Stars"
+    OffsetX="2.7812041484253076e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.08"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="8"
+    Url="https://data1.wwtassets.org/feeds/rubin/noirlab2616a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="rubin|noirlab2616a"
+    Xcxstatus="skip"
+  >
+    <Credits>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2616a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/rubin/noirlab2616a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.6408547360827366"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="150.161273472"
+    CenterY="2.23186205813"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Rubin Looks Deep Into a Famous Cosmic Field"
+    OffsetX="2.778101932416758e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.00233121132066572"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="8"
+    Url="https://data1.wwtassets.org/feeds/rubin/noirlab2618a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="rubin|noirlab2618a"
+    Xcxstatus="skip"
+  >
+    <Credits>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2618a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/rubin/noirlab2618a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.9101836767594936"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="106.169032233"
+    CenterY="-10.1353021028"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Seagull Nebula (Rubin ComCam image)"
+    OffsetX="0.3654695400850823"
+    OffsetY="-0.05357752433432129"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-89.97623389299801"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="6"
+    Url="https://data1.wwtassets.org/feeds/rubin/noirlab2625a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="rubin|noirlab2625a"
+    Xcxstatus="skip"
+  >
+    <Credits>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA Image Processing: T.A. Rector (University of Alaska Anchorage/NSF NOIRLab), D. de Martin &amp; M. Zamani (NSF NOIRLab)</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2625a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/rubin/noirlab2625a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="3.64012430229504"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="274.26437404"
+    CenterY="-42.77676428"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="2026 ED138 orbital arc"
+    OffsetX="2.7771944445e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-23.870000000000008"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="8"
+    Url="https://data1.wwtassets.org/feeds/rubin/noirlab2626d/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="rubin|noirlab2626d"
+    Xcxstatus="skip"
+  >
+    <Credits>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA Acknowledgement: Image Processing: M. Jurić (UW), D. de Martin &amp; M. Zamani (NSF NOIRLab)</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2626d/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/rubin/noirlab2626d/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="7.279728505977474"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="186.36852420229"
+    CenterY="6.93021574798"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="The Cosmic Treasure Chest"
+    OffsetX="5.553992085248927e-05"
+    OffsetY="2.7769960426244635e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-48.96000000000008"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="9"
+    Url="https://data1.wwtassets.org/noirlab2521a/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="rubin|noirlab2521a"
+    Xcxstatus="skip"
+  >
+    <Credits>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2521a/</CreditsUrl>
+    <Description>Welcome to Rubin's cosmic treasure chest! Introducing the first riches from NSF–DOE Vera C. Rubin Observatory’s cosmic treasure chest, a wealth of data that will help scientists make countless new discoveries about our Universe. This image, one of the first released by Rubin Observatory, exposes a Universe teeming with stars and galaxies — transforming seemingly empty, inky-black pockets of space into glittering tapestries for the first time. Only Rubin can quickly produce such large images with this much color and richness. Here, Rubin’s view is focused on the southern region of the Virgo Cluster, about 55 million light-years away from Earth and the nearest large collection of galaxies to our own Milky Way.  What's in this image? The image offers a stunning variety of objects — from bright stars ranging from blue to red in color, to nearby blue spiral galaxies, to distant red galaxy groups — demonstrating the broad range of science made possible by Rubin data. During the 10-year Legacy Survey of Space and Time, scientists around the world will access Rubin’s treasure trove of data to address questions like: How did the Milky Way form? What makes up the 95% of the Universe we can’t see? What will a detailed inventory of Solar System objects reveal? What will we learn from watching hundreds of millions of changes in the night sky over 10 years?  Apart from a few foreground stars in our own Milky Way, the myriad specks of light captured here make up a rich tapestry of about 10 million galaxies— just 0.05%  of the roughly 20 billion galaxies Rubin will image during its 10-year Legacy Survey of Space and Time (LSST). By the end of the survey, Rubin will have revealed this level of detail across the entire southern sky. How was the image created? In addition to showcasing the richness and variety of celestial light in (this area), this deep, 15-square-degree image provides a sample of the way Rubin will observe during the main survey. Each individual exposure taken by Rubin Observatory covers 10 square degrees, (about 45 full moons). Combining multiple exposures of the same place on the sky — taken at different times and with different color filters — reveals extremely faint details that wouldn’t be captured in a single exposure. The 1185 exposures combined to make this image were taken over a period of just 7 nights. Rubin Observatory is the only astronomical tool in existence that can assemble an image this wide and deep so quickly. The bright stars scattered throughout this image belong to our home galaxy. By tracking their positions, brightness, and for some, even their motion over time, Rubin will help map the Milky Way in extraordinary detail — revealing its structure, history, and how it has evolved over time. With observations of never-before-seen stellar streams, dwarf galaxies, and more, Rubin data will help scientists investigate the dynamic past of our cosmic neighborhood. If you’re viewing this image using Rubin Observatory’s Skyviewer tool, you can use the “display” setting to toggle between a view with and without asteroids, which appear as multicolored streaks. These moving asteroids in our Solar System were captured by Rubin's fast system at a different location in each exposure, and this is how they look when the exposures are combined. Rubin’s wide field and frequent imaging make it uniquely capable of detecting and tracking asteroids, comets, and distant trans-Neptunian objects — building a detailed inventory of our Solar System and helping protect Earth by alerting scientists to potentially hazardous objects. What's coming next This image also offers a starting point for watching the ever-changing sky. Rubin will return to this same region many times over the coming decade, catching brief but important events like supernova explosions and the flares from stars as they are consumed by hungry black holes. Rubin’s software will automatically compare new images to templates built from previous images, identifying up to 10 million changes each night and providing insight into short-lived cosmic phenomena and objects in motion. On the largest scales, scientists will use Rubin’s observations of galaxies like those seen here to investigate two of the Universe’s biggest mysteries: dark matter and dark energy. By mapping the shapes and distributions of galaxies over time, scientists can infer the underlying structure of dark matter and observe how the expansion of the Universe is being influenced by dark energy. The image was captured by Rubin Observatory using the 3200-megapixel LSST Camera — the largest digital camera in the world. Rubin Observatory will scan the sky every night for 10 years, creating an ultra-wide, ultra-high-definition, time-lapse record of our Universe. We invite you to zoom in and explore this image in more detail, or take a tour that highlights some noteworthy features using Rubin’s SkyViewer. Explore Rubin’s cosmic treasure chest in detail. </Description>
+    <ThumbnailUrl>https://data1.wwtassets.org/noirlab2521a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="7.279732321814442"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="271.6317360235"
+    CenterY="-23.762469026534"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Trifid and Lagoon Nebulae"
+    OffsetX="2.7769974982507484e-05"
+    OffsetY="2.7769974982507484e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="11.999999999999984"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="9"
+    Url="https://data1.wwtassets.org/noirlab2521b/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="rubin|noirlab2521b"
+    Xcxstatus="skip"
+  >
+    <Credits>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2521b/</CreditsUrl>
+    <Description>In this immense image NSF-DOE Vera C. Rubin Observatory offers a brand new view of two old friends: the Trifid and Lagoon Nebulae. The image provides a demonstration of what makes Rubin unique: its combination of an extremely wide field of view and the speed that allows it to take lots of big images in a very short time. Combining images reveals subtle details in the clouds of gas and dust. The more images we can combine, the more detail we see!  This almost 5-gigapixel image combines 678 exposures taken in just 7.2 hours of observing time, and was composed from about two trillion pixels of data in total. No other observatory is capable of producing an image of such a wide area so quickly and with this much depth.  The Trifid Nebula (also referred to as Messier 20) is a standout in the sky. It’s a bright, colorful cloud of gas and dust about 5,000 light-years away in the constellation Sagittarius. What makes it especially striking is the combination of features packed into one place: a glowing pink emission nebula, a cool blue reflection nebula, and dark dust lanes that split it into three sections — hence the name “Trifid.” Inside, new stars are forming and blasting out strong winds and radiation, carving up the gas around them. It gives us a dramatic glimpse at how massive stars shape their surroundings even as they’re being born. Below the Trifid Nebula in this image is the Lagoon Nebula (or Messier 8), another vibrant stellar nursery glowing about 4,000 light-years away. You can actually spot the Lagoon with just a pair of binoculars or a small telescope. At its heart is a cluster of young, massive stars — their intense radiation lights up the surrounding gas and shapes the swirling clouds into intricate patterns. The Lagoon nebula provides scientists with a great place to study the earliest stages of star formation — how giant clouds collapse, how star clusters take shape, and how newborn stars start to reshape their environment.  This expansive image of Trifid and Lagoon together exposes an intricate web of dust lanes and star clusters that make this part of the Milky Way come alive with cosmic activity. The exquisite detail in the structure of the nebulosity shown here  demonstrates the exceptional quality of Rubin’s entire system — from its light-collecting power, to its sensitive camera, to its efficient data transfer and processing system. Over ten years, Rubin Observatory will take millions of images and will image each place in the sky, including this one, about 800 times.  Every time we look at the Universe in a new way, we discover new things we never could have predicted — and with Rubin we will see more than we ever have before. The image was captured by Rubin Observatory using the 3200-megapixel LSST Camera — the largest digital camera in the world.  We invite you to zoom in and explore the details in this unique image!</Description>
+    <ThumbnailUrl>https://data1.wwtassets.org/noirlab2521b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.13656208790665247"
     BaseTileLevel="0"
     BottomsUp="False"
