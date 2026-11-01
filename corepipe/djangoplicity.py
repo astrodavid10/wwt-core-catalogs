@@ -159,6 +159,7 @@ class DjangoplicityImageSource(ImageSource):
 
     def _query_listing(self, path: str) -> Iterable["DjangoplicityCandidateInput"]:
         page_num = 1
+        n_pending = 0
 
         while True:
             url = self._base_url + path.format(page=page_num)
@@ -168,6 +169,20 @@ class DjangoplicityImageSource(ImageSource):
                 if resp is None:
                     break  # got a 404 -- all done
 
+                # NOIRLab sometimes answers a listing page with an empty
+                # "202 Accepted" for minutes on end. Skip such a page (its
+                # images will turn up in a later refresh) rather than abort,
+                # but give up on the listing after several in a row.
+                if resp.status_code == 202:
+                    n_pending += 1
+                    print(f"warning: skipping {url}: server says 202 (not ready)")
+                    if n_pending >= 3:
+                        print("warning: giving up on this listing after 3 such pages")
+                        break
+                    page_num += 1
+                    continue
+
+                n_pending = 0
                 text_stream = codecs.getreader("utf8")(resp.raw)
                 json_lines = []
 
@@ -207,6 +222,11 @@ class DjangoplicityImageSource(ImageSource):
         url = self._base_url + urlquote(unique_id) + "/api/json/"
 
         with self.make_request(url) as resp:
+            if resp.status_code == 202 or not resp.content:
+                raise Exception(
+                    f"error fetching {url}: empty response (HTTP {resp.status_code}; "
+                    "server busy? try again later)"
+                )
             info = json.loads(resp.content)
 
         # Clean up the Python bytes reprs, potentially
