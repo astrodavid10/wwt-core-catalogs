@@ -1,0 +1,20 @@
+feed_id: rubin
+source_type: djangoplicity
+default_copyright: Copyright NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA
+default_license_id: CC-BY-4.0
+default_constellations_handle: rubin
+default_prepend_catfile: rubin
+publish_url_prefix: https://data1.wwtassets.org/feeds/rubin/
+astropix_publisher_id: noirlab
+
+# NSF–DOE Vera C. Rubin Observatory images are published through NOIRLab's
+# Djangoplicity archive (rubinobservatory.org's own gallery has no WCS). The
+# "rubin" category misses the flagship First Look images and a text search
+# pulls in every NOIRLab telescope, so use both and keep only Rubin's.
+djangoplicity:
+  base_url: https://noirlab.edu/public/images/
+  listing_paths:
+    - archive/category/rubin/page/{page}/?type=Observation
+    - archive/search/page/{page}/?q=rubin
+  facility_filter: Simonyi|Rubin|LSST|ComCam
+  original_url_template: https://storage.noirlab.edu/media/archives/images/original/{id}.tif

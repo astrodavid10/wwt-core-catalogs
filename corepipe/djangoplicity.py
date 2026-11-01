@@ -18,9 +18,11 @@ import html
 import json
 import numpy as np
 import os.path
+import re
 import requests
 import shutil
-from typing import BinaryIO, Iterable, Optional
+import time
+from typing import BinaryIO, Iterable, List, Optional
 from urllib.parse import quote as urlquote
 import yaml
 
@@ -42,7 +44,7 @@ def fix_djangoplicity_json(obj):
     """
 
     if isinstance(obj, str):
-        if not obj.startswith("b'"):
+        if not obj.startswith(("b'", 'b"')):
             return obj
 
         # We (almost definitely) have a byte-string repr
@@ -67,6 +69,9 @@ class DjangoplicityImageSource(ImageSource):
 
     _base_url: str
     _search_page_name: str
+    _listing_paths: List[str]
+    _facility_filter: Optional["re.Pattern"]
+    _original_url_template: Optional[str]
 
     @classmethod
     def get_config_key(cls) -> str:
@@ -74,16 +79,53 @@ class DjangoplicityImageSource(ImageSource):
 
     @classmethod
     def deserialize(cls, data: dict) -> "DjangoplicityImageSource":
+        """
+        Config keys (under ``djangoplicity:``):
+
+        ``base_url``
+            The image archive root, e.g. ``https://esawebb.org/images/``.
+        ``search_page_name`` (optional, default ``page``)
+            Used to build the default listing path.
+        ``listing_paths`` (optional)
+            Archive listing paths relative to ``base_url``, each containing a
+            ``{page}`` placeholder. Candidates from all of them are merged and
+            de-duplicated. Defaults to the single all-observations listing.
+            NOIRLab, for example, needs both a category listing and a text
+            search to find every Rubin image.
+        ``facility_filter`` (optional)
+            A regular expression. Images whose AVM ``Facility``/``Instrument``
+            don't match it are rejected at fetch time (before any download).
+            Needed when the listings mix several observatories.
+        ``original_url_template`` (optional)
+            Fallback URL for the full-size original, with an ``{id}``
+            placeholder, for sites whose API JSON omits the "Original"
+            resource (NOIRLab).
+        """
         inst = cls()
         inst._base_url = data["base_url"]
         inst._search_page_name = data.get("search_page_name", "page")
+        inst._listing_paths = data.get(
+            "listing_paths",
+            [f"archive/search/{inst._search_page_name}/{{page}}/?type=Observation"],
+        )
+        ff = data.get("facility_filter")
+        inst._facility_filter = re.compile(ff) if ff else None
+        inst._original_url_template = data.get("original_url_template")
         return inst
 
     @contextmanager
     def make_request(
         self, url: str, stream: bool = False, none404: bool = False
     ) -> Iterable[Optional[BinaryIO]]:
-        with requests.get(url, stream=stream) as resp:
+        # NOIRLab answers bursts of requests with 202/429/5xx; back off and retry.
+        for attempt in range(5):
+            resp = requests.get(url, stream=stream)
+            if resp.status_code not in (202, 429, 500, 502, 503, 504) or attempt == 4:
+                break
+            resp.close()
+            time.sleep(5 * (attempt + 1))
+
+        with resp:
             if none404 and resp.status_code == 404:
                 yield None
                 return
@@ -106,13 +148,20 @@ class DjangoplicityImageSource(ImageSource):
             yield resp
 
     def query_candidates(self) -> Iterable["DjangoplicityCandidateInput"]:
+        seen = set()
+
+        for path in self._listing_paths:
+            for item in self._query_listing(path):
+                uid = item.get_unique_id()
+                if uid not in seen:
+                    seen.add(uid)
+                    yield item
+
+    def _query_listing(self, path: str) -> Iterable["DjangoplicityCandidateInput"]:
         page_num = 1
 
         while True:
-            url = (
-                self._base_url
-                + f"archive/search/{self._search_page_name}/{page_num}/?type=Observation"
-            )
+            url = self._base_url + path.format(page=page_num)
             print(f"requesting {url} ...")
 
             with self.make_request(url, stream=True, none404=True) as resp:
@@ -172,6 +221,27 @@ class DjangoplicityImageSource(ImageSource):
                 fullsize_url = resource["URL"]
                 break
 
+        # Validate that there's actually WCS we can use, and that it's from the
+        # right observatory, before hunting for (and downloading) the original.
+
+        if not isinstance(info.get("Spatial.CoordsystemProjection", None), str):
+            raise NotActionableError("image does not have full WCS")
+
+        if self._facility_filter is not None:
+            facs = " ".join(
+                str(x)
+                for key in ("Facility", "Instrument")
+                for x in (info.get(key) or [])
+                if x
+            )
+            if not self._facility_filter.search(facs):
+                raise NotActionableError(f"facility not wanted for this feed: {facs!r}")
+
+        if fullsize_url is None and self._original_url_template:
+            url = self._original_url_template.format(id=unique_id)
+            if requests.head(url, allow_redirects=True).ok:
+                fullsize_url = url
+
         if fullsize_url is None:
             raise Exception(
                 f'error processing {unique_id}: can\'t identify "fullsize original" image URL'
@@ -179,11 +249,6 @@ class DjangoplicityImageSource(ImageSource):
 
         ext = fullsize_url.rsplit(".", 1)[-1].lower()
         info["toasty_image_extension"] = ext
-
-        # Validate that there's actually WCS we can use
-
-        if not isinstance(info.get("Spatial.CoordsystemProjection", None), str):
-            raise NotActionableError("image does not have full WCS")
 
         # Download it
 
