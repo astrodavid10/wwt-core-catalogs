@@ -48,6 +48,14 @@ children:
 - browseable: true
   children: []
   group: Explorer
+  name: Rubin
+  searchable: true
+  thumbnail: https://data1.wwtassets.org/noirlab2521b/thumb.jpg
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=rubin
+- browseable: true
+  children: []
+  group: Explorer
   name: Spitzer Studies
   searchable: true
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=spitzer
