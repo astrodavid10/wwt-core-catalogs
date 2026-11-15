@@ -84,7 +84,33 @@ The tiles for these are kept in `on-hold/`; reasons are in `wcs/_curation.csv`.
    - Run `cattool ingest _merge/chandra-new-2026-11-merged.wtml --cx-handle=skip` with a prepend or new catfile.
    - Set `Xbands` from `_batch_2026-11.csv`.
    - Decide which of the 64 replace older Chandra imagesets of the same field (`existing_chandra_in_wwt`).
-3. **The 138 unregistered releases.** Options: astrometry.net, which isn't installed here, or retrying with a seed from SIMBAD. Many will stay manual.
+3. **The 136 unregistered releases.** See "Plate solving: deferred" below.
+
+**Update (later the same day):** the main session merged this branch at a22448c into the fork's main and ingested the 64 scenes as Chandra Studies (26143e7). They were prepended to `catfiles/studieschandra.yml` with `Multi` + `Xbands` from `_batch_2026-11.csv`. Older images of the same field are flagged in a list, not removed. The 14 held images stay out, with their tiles kept in `on-hold/`.
+
+### Plate solving: deferred (2026-11-14)
+
+The user chose to skip plate solving for now. Nothing was installed and no outside service was used. The 136 unregistered releases are listed in `wcs/_review.csv` (decision `hold`, reason "no registration"). Expect a modest yield whichever option is used:
+
+- 51 of the 136 have no usable seed (collections, sonification and illustration releases, or a fact sheet without coordinates or scale).
+- Many of the rest are X-ray-only fields with few optical stars.
+- A plate solver would mainly help the composites and images with an optical layer: perhaps a few dozen.
+
+astrometry.net can't simply go into a new conda env here. conda-forge builds `astrometry` (0.97) only for Linux/macOS, not win-64, and WSL is enabled but has no distribution installed. The options:
+
+1. **WSL Ubuntu + astrometry.net (recommended).**
+   - The user installs a distro: `wsl --install -d Ubuntu` needs admin and may need a reboot.
+   - Then create a conda env (e.g. `astrometry`) inside it from conda-forge.
+   - Download only the 4100/4200-series index files for the seed scales, roughly 0.3–60′ fields: tens of MB for the 4100 series, about 2 GB with the 4200 tiles near each seed.
+   - Run `solve-field --ra --dec --radius --scale-low/--scale-high`, seeded from the AVM or fact sheet (±30% scale).
+2. **ASTAP**, a Windows-native plate solver.
+   - It needs its installer and a star catalogue (D50, ~1 GB) from hnsky.org, a third-party download the user has to approve.
+   - It's fast, with similar position and scale seeding.
+3. **nova.astrometry.net web API.**
+   - No local install, but it needs the user's API key (an account).
+   - The images would be uploaded to an external service. They are public Chandra press images, but that is the user's call.
+
+Whichever is used, accept a solution only if it passes the same checks as the registered batch: the `review_queue.py` scale and centre rules, plus the `overlay_check.py` DSS overlap and a look at the overlay. Then tile, run the `nodata_alpha.py` survey, and build a second batch (`_merge/chandra-new-2026-11b-merged.wtml`, `_batch_2026-11b.csv`).
 
 ### Running it again
 
