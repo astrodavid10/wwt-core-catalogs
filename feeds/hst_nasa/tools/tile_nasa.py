@@ -18,12 +18,14 @@ import sys
 import unicodedata
 
 from astropy.io import fits
-from astropy.wcs import WCS
 from toasty.builder import Builder
 from toasty.image import ImageLoader
 from toasty.pyramid import PyramidIO
 from wwt_data_formats.folder import Folder, make_absolutizing_url_mutator
 from wwt_data_formats.place import Place
+
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "..", ".."))
+from corepipe.chandra import sidecar_image_wcs  # noqa: E402  (FITS y-up sidecar -> top-down image WCS)
 
 PREFIX = "https://data1.wwtassets.org/feeds/hst/"
 FEED_TAG = "hst_nasa"
@@ -73,7 +75,7 @@ def main():
             if (hdr["IMAGEW"], hdr["IMAGEH"]) != (img.width, img.height):
                 print(uid, "size mismatch; skipped")
                 continue
-            img._wcs = WCS(hdr)
+            img._wcs = sidecar_image_wcs(hdr)
             img.ensure_negative_parity()
             os.makedirs(out, exist_ok=True)
             b = Builder(PyramidIO(out, scheme="LXY", default_format="png"))
