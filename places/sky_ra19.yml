@@ -2240,6 +2240,37 @@ ra_hr: 19.162686900170673
 thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523e/thumb.jpg
 zoom_level: 6.969202632
 ---
+_uuid: 939c9feb-33e1-4ac4-8701-ebe313a7c685
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -14.830105948105667
+description: This Hubble image features Caldwell 57 (C57) also called NGC 6822. This
+  galaxy was is often called Barnard’s galaxy.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-57/L{1}X{2}Y{3}.png
+name: Caldwell 57 (NGC 6822)
+ra_hr: 19.752576528272588
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-57/thumb.jpg
+zoom_level: 0.5531790871403202
+---
+_uuid: b33cb965-d8be-4889-a4ba-c55d72927d62
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -30.962665341559624
+description: This image shows just a portion of M55, the cluster as a whole appears
+  spherical because the stars’ intense gravitational attraction pulls them together.
+  Hubble’s clear view above Earth’s atmosphere resolves individual stars in this cluster.
+  Ground-based telescopes can also resolve individual stars in M55, but fewer stars
+  are visible. This globular cluster holds 100,000 stars including 55 variable stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-messier-55/L{1}X{2}Y{3}.png
+name: Messier 55
+ra_hr: 19.66654056632598
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-messier-55/thumb.jpg
+zoom_level: 0.5819966647015793
+---
 _uuid: 5524d2a3-f952-4844-bcba-e74e690f55a1
 classification: ''
 constellation: SGE

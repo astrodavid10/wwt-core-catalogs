@@ -1,0 +1,1946 @@
+[
+ {
+  "id": "nasa-caldwell-1",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-1/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/c1-wfc3-jpg.webp",
+  "title": "Caldwell 1",
+  "caption": "",
+  "summary": "Also known as NGC 188, this group of stars formed from a large cloud of gas making the stars roughly the same age.",
+  "credit": "NASA, ESA, and L. Dressel (STScI); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 188",
+   "Caldwell 1"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 188",
+   "ra": 11.797917,
+   "dec": 85.243889
+  },
+  "file": "_dl/nasa-caldwell-1.webp",
+  "size": [
+   1705,
+   1336
+  ],
+  "png": "_png/nasa-caldwell-1.png"
+ },
+ {
+  "id": "nasa-caldwell-107",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-107/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc6101_wfc3_acs_21pi_cropfinal-jpg.webp",
+  "title": "Caldwell 107",
+  "caption": "",
+  "summary": "This loosely-packed cluster of stars was first observed in 1826 by Scottish astronomer James Dunlop.",
+  "credit": "NASA, ESA, G. Piotto (Università degli Studi di Padova), and A. Sarajedini (Florida Atlantic University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 6101",
+   "Caldwell 107"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 6101",
+   "ra": 246.4505,
+   "dec": -72.202194
+  },
+  "file": "_dl/nasa-caldwell-107.webp",
+  "size": [
+   3265,
+   3090
+  ],
+  "png": "_png/nasa-caldwell-107.png"
+ },
+ {
+  "id": "nasa-caldwell-108",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-108/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc4372_wfc3_withgap_final-jpg.webp",
+  "title": "Caldwell 108",
+  "caption": "This image of Caldwell 108 has a dark line bisecting the image in two. This line is called a \"chip gap.\" Hubble's Wide Field Camera 3 uses two detectors that are near but not exactly next to each other, leaving a thin gap in the exposure.",
+  "summary": "The colorful stars of Caldwell 108 offer clues to the cluster's internal dynamics and subsequent evolution.",
+  "credit": "NASA, ESA, and M. Reinhart (STScI); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 108",
+   "NGC 4372"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 4372",
+   "ra": 186.439292,
+   "dec": -72.659083
+  },
+  "file": "_dl/nasa-caldwell-108.webp",
+  "size": [
+   3994,
+   4017
+  ],
+  "png": "_png/nasa-caldwell-108.png"
+ },
+ {
+  "id": "nasa-caldwell-109",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-109/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/c109-1b-jpg.webp",
+  "title": "Caldwell 109",
+  "caption": "",
+  "summary": "A dying star at Caldwell 109's heart shed its outer layers, creating a shell of gas around the star.",
+  "credit": "NASA, ESA, and Howard Bond (STScI); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 3195",
+   "Caldwell 109"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 3195",
+   "ra": 152.337125,
+   "dec": -80.858536
+  },
+  "file": "_dl/nasa-caldwell-109.webp",
+  "size": [
+   1200,
+   1218
+  ],
+  "png": "_png/nasa-caldwell-109.png"
+ },
+ {
+  "id": "nasa-caldwell-12",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-12/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/c12-1-ngc6946_acs_final-jpg.webp",
+  "title": "Caldwell 12",
+  "caption": "",
+  "summary": "This majestic spiral has had ten observed supernovae in its spiral arms since 1917.",
+  "credit": "NASA, ESA, and L. Ho (Peking University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 6946",
+   "Caldwell 12"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 6946",
+   "ra": 308.71805,
+   "dec": 60.153678
+  },
+  "file": "_dl/nasa-caldwell-12.webp",
+  "size": [
+   1200,
+   1246
+  ],
+  "png": "_png/nasa-caldwell-12.png"
+ },
+ {
+  "id": "nasa-caldwell-14",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-14/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc869_wfpc2_crop_final_blue-jpg.webp",
+  "title": "Caldwell 14",
+  "caption": "These two bright star clusters appear side by side in the northern sky.",
+  "summary": "This Hubble image features two bright open star clusters collectively called Caldwell 14 (C14) and better known as the Double Cluster.",
+  "credit": "NASA, ESA, and S. Casertano (Space Telescope Science Institute); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 14",
+   "NGC 869",
+   "NGC 884"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 869",
+   "ra": 34.740833,
+   "dec": 57.133889
+  },
+  "file": "_dl/nasa-caldwell-14.webp",
+  "size": [
+   1478,
+   1501
+  ],
+  "png": "_png/nasa-caldwell-14.png"
+ },
+ {
+  "id": "nasa-caldwell-17",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-17/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc147_wfc3_centerflatcrop_final-jpg.webp",
+  "title": "Caldwell 17",
+  "caption": "",
+  "summary": "Also known as NGC 147, Caldwell 17 is a dwarf galaxy in our local group of galaxies.",
+  "credit": "NASA, ESA, and A. Ferguson (University of Edinburgh, Institute for Astronomy); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 147",
+   "Caldwell 17",
+   "Caldwell 18"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 147",
+   "ra": 8.3005,
+   "dec": 48.508739
+  },
+  "file": "_dl/nasa-caldwell-17.webp",
+  "size": [
+   4198,
+   3881
+  ],
+  "png": "_png/nasa-caldwell-17.png"
+ },
+ {
+  "id": "nasa-caldwell-18",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-18/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc185_wfc3_center_flat_final-jpg.webp",
+  "title": "Caldwell 18",
+  "caption": "",
+  "summary": "Caldwell 18 is a nearby galaxy in the local group with an active galactic nucleus.",
+  "credit": "NASA, ESA, and A. Ferguson (University of Edinburgh, Institute for Astronomy); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 18",
+   "Caldwell 17",
+   "NGC 185"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 185",
+   "ra": 9.741417,
+   "dec": 48.33751
+  },
+  "file": "_dl/nasa-caldwell-18.webp",
+  "size": [
+   4022,
+   4030
+  ],
+  "png": "_png/nasa-caldwell-18.png"
+ },
+ {
+  "id": "nasa-caldwell-2",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-2/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/c2_ngc40_final3-jpg.webp",
+  "title": "Caldwell 2",
+  "caption": "This image of Caldwell 2 (C2) was taken in 1995 as part of a survey of nearby planetary nebulae. Astronomers used Hubble’s Wide Field and Planetary Camera 2 to search for central stars that have close companion stars. These companion stars are helpful to astronomers because they can be used to determine the distance to planetary nebulae like C2.",
+  "summary": "This Hubble image features the planetary nebula Caldwell 2 (C2), a shell of gas expanding outward away from the dying star within.",
+  "credit": "NASA, ESA, and H. Bond (Pennsylvania State University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 2",
+   "NGC 40"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 40",
+   "ra": 3.254238,
+   "dec": 72.521954
+  },
+  "file": "_dl/nasa-caldwell-2.webp",
+  "size": [
+   1503,
+   1483
+  ],
+  "png": "_png/nasa-caldwell-2.png"
+ },
+ {
+  "id": "nasa-caldwell-20",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-20/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc7000_wfpc2_2flat_final-jpg.webp",
+  "title": "Caldwell 20",
+  "caption": "While the spiral feature in the upper portion of this Hubble image may resemble the arm of a galaxy or the heart of a cosmic storm, it is actually a small portion of Caldwell 20 (NGC 7000), or the North America Nebula.",
+  "summary": "Nicknamed the North American Nebula because its shape resembles the continent, Caldwell 20 was discovered by William Herschel in 1786.",
+  "credit": "NASA, ESA, and K. Stapelfeldt (Jet Propulsion Laboratory); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 20",
+   "NGC 7000"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 7000",
+   "ra": 314.695833,
+   "dec": 44.33
+  },
+  "file": "_dl/nasa-caldwell-20.webp",
+  "size": [
+   1330,
+   1452
+  ],
+  "png": "_png/nasa-caldwell-20.png"
+ },
+ {
+  "id": "nasa-caldwell-29",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-29/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc5005_acs_newhp_final-jpg.webp",
+  "title": "Caldwell 29",
+  "caption": "",
+  "summary": "You can spot this spiral galaxy's bright core in most backyard telescopes.",
+  "credit": "NASA, ESA, and L. Ho (Peking University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 29",
+   "NGC 5005"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 5005",
+   "ra": 197.734633,
+   "dec": 37.058942
+  },
+  "file": "_dl/nasa-caldwell-29.webp",
+  "size": [
+   3442,
+   1964
+  ],
+  "png": "_png/nasa-caldwell-29.png"
+ },
+ {
+  "id": "nasa-caldwell-3",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-3/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/c3-1.png",
+  "title": "Caldwell 3",
+  "caption": "",
+  "summary": "This barred spiral galaxy was first spotted by British astronomer William Herschel in April 1793 in the constellation Draco.",
+  "credit": "NASA, ESA, P. Seitzer (University of Michigan), and M. Regan (STScI); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 3",
+   "NGC 4236"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 4236",
+   "ra": 184.175492,
+   "dec": 69.462569
+  },
+  "file": "_dl/nasa-caldwell-3.png",
+  "size": [
+   1496,
+   1472
+  ],
+  "png": "_png/nasa-caldwell-3.png"
+ },
+ {
+  "id": "nasa-caldwell-36",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-36/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc4559_wfpc2_2hdr_crop_2_final-jpg.webp",
+  "title": "Caldwell 36",
+  "caption": "",
+  "summary": "Northern Hemisphere observers can spy this beauty in the spring, while Southern Hemisphere observers should look for it in the northern sky in autumn.",
+  "credit": "NASA, ESA, and S. Smartt (The Queen's University of Belfast); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 36",
+   "NGC 4559"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 4559",
+   "ra": 188.990168,
+   "dec": 27.959961
+  },
+  "file": "_dl/nasa-caldwell-36.webp",
+  "size": [
+   1503,
+   1488
+  ],
+  "png": "_png/nasa-caldwell-36.png"
+ },
+ {
+  "id": "nasa-caldwell-38",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-38/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/c38-1-jpg.webp",
+  "title": "Caldwell 38",
+  "caption": "",
+  "summary": "Also called \"The Needle\" galaxy, or NGC 4565, Caldwell 38 was discovered by astronomer William Herschel in 1785.",
+  "credit": "NASA, ESA, and K. Ashman (University of Missouri); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 4565",
+   "Caldwell 38"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 4565",
+   "ra": 189.086683,
+   "dec": 25.987392
+  },
+  "file": "_dl/nasa-caldwell-38.webp",
+  "size": [
+   1430,
+   420
+  ],
+  "png": "_png/nasa-caldwell-38.png"
+ },
+ {
+  "id": "nasa-caldwell-40",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-40/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc3626_wfc3_6crop_final-2-jpg.webp",
+  "title": "Caldwell 40",
+  "caption": "The central structure of Caldwell 40 is a densely packed region of stars that encompasses the heart of a spiral galaxy. Most galactic bulges host supermassive black holes. The visible, ultraviolet, and infrared observations used to create this image of Caldwell 40 were made using Hubble’s Wide Field Camera 3.",
+  "summary": "The Hubble image of Caldwell 40 (C40) reveals its densely packed central region of stars that encompasses the heart of a spiral galaxy.",
+  "credit": "NASA, ESA, and P. Erwin (Max Planck Institute for Extraterrestrial Physics); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 40",
+   "Caldwell 40. 70",
+   "NGC 3626"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 3626",
+   "ra": 170.015862,
+   "dec": 18.356818
+  },
+  "file": "_dl/nasa-caldwell-40.webp",
+  "size": [
+   1041,
+   1011
+  ],
+  "png": "_png/nasa-caldwell-40.png"
+ },
+ {
+  "id": "nasa-caldwell-45",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-45/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc5248_wfc3_wfpc2_4flatcrop2_final-jpg.webp",
+  "title": "Caldwell 45",
+  "caption": "",
+  "summary": "This Hubble image features Caldwell 45, or NGC 5248, a spiral galaxy notable for the ring structure around its nucleus.",
+  "credit": "NASA, ESA, J. Lee (California Institute of Technology), and A. Filippenko (University of California – Berkeley); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 45",
+   "NGC 5248"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 5248",
+   "ra": 204.383394,
+   "dec": 8.885138
+  },
+  "file": "_dl/nasa-caldwell-45.webp",
+  "size": [
+   2972,
+   2992
+  ],
+  "png": "_png/nasa-caldwell-45.png"
+ },
+ {
+  "id": "nasa-caldwell-5",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-5/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2022/11/hubble-c5-ic342-acs-3-final2-1.jpg",
+  "title": "Caldwell 5",
+  "caption": "",
+  "summary": "This Hubble image features the spiral galaxy Caldwell 5 (C5) located some 11 million light-years away in the constellation Camelopardalis.",
+  "credit": "NASA, ESA, and P. Kaaret (University of Iowa); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 5",
+   "IC 342"
+  ],
+  "date": "",
+  "seed": {
+   "name": "IC 342",
+   "ra": 56.702142,
+   "dec": 68.096106
+  },
+  "file": "_dl/nasa-caldwell-5.jpg",
+  "size": [
+   3973,
+   3895
+  ],
+  "png": "_png/nasa-caldwell-5.png"
+ },
+ {
+  "id": "nasa-caldwell-51",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-51/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ic1613_wfc3_mos_1pi_flat_final-jpg.webp",
+  "title": "Caldwell 51",
+  "caption": "",
+  "summary": "This irregular dwarf galaxy is in the constellation Cetus.",
+  "credit": "NASA, ESA, and J. Holtzman (New Mexico State University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 51",
+   "IC 1613"
+  ],
+  "date": "",
+  "seed": {
+   "name": "IC 1613",
+   "ra": 16.201696,
+   "dec": 2.119496
+  },
+  "file": "_dl/nasa-caldwell-51.webp",
+  "size": [
+   4068,
+   3705
+  ],
+  "png": "_png/nasa-caldwell-51.png"
+ },
+ {
+  "id": "nasa-caldwell-52",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-52/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc4697_acs_7_final-jpg.webp",
+  "title": "Caldwell 52",
+  "caption": "",
+  "summary": "This Hubble image features the elliptical galaxy Caldwell 52 (C52) located 40 million light-years away in the constellation Virgo.",
+  "credit": "NASA, ESA, and C. Sarazin (University of Virginia); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 4697",
+   "Caldwell 52"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 4697",
+   "ra": 192.149576,
+   "dec": -5.80069
+  },
+  "file": "_dl/nasa-caldwell-52.webp",
+  "size": [
+   3737,
+   1953
+  ],
+  "png": "_png/nasa-caldwell-52.png"
+ },
+ {
+  "id": "nasa-caldwell-53",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-53/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2024/07/ngc3115-acs-new-cropflat-smallres-5.jpg",
+  "title": "Caldwell 53",
+  "caption": "A NASA Hubble Space Telescope image of the lenticular galaxy Caldwell 53.",
+  "summary": "This Hubble image features the galaxy Caldwell 53 (C53). The black hole at Caldwell 53's heart has a estimated mass of one billion times the Sun.",
+  "credit": "NASA, ESA, and J. Erwin (University of Alabama); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 53",
+   "NGC 3115"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 3115",
+   "ra": 151.308029,
+   "dec": -7.718606
+  },
+  "file": "_dl/nasa-caldwell-53.jpg",
+  "size": [
+   3372,
+   2041
+  ],
+  "png": "_png/nasa-caldwell-53.png"
+ },
+ {
+  "id": "nasa-caldwell-56",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-56/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc246_wfpc2_2crop_cfinal-jpg.webp",
+  "title": "Caldwell 56",
+  "caption": "This image of the planetary nebula Caldwell 56 was captured by Hubble’s Wide Field and Planetary Camera 2. It provides a detailed look at the structure of C56 and its central star. These observations, and subsequent ones, were taken to better understand how the wispy filaments in planetary nebulae change over time.",
+  "summary": "This Hubble image features the planetary nebula Caldwell 56 (C56). Caldwell 56 is the remains of a dying star, a white dwarf at the nebula's center.",
+  "credit": "NASA, ESA, J. Westphal (California Institute of Technology), and K. Werner (Eberhard Karls Universitat); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 56",
+   "NGC 246"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 246",
+   "ra": 11.763925,
+   "dec": -11.871936
+  },
+  "file": "_dl/nasa-caldwell-56.webp",
+  "size": [
+   1488,
+   1501
+  ],
+  "png": "_png/nasa-caldwell-56.png"
+ },
+ {
+  "id": "nasa-caldwell-57",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-57/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/c57-1.png",
+  "title": "Caldwell 57",
+  "caption": "",
+  "summary": "This Hubble image features Caldwell 57 (C57) also called NGC 6822. This galaxy was is often called Barnard’s galaxy.",
+  "credit": "NASA, ESA, and J. Cannon (Macalester College); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 57",
+   "NGC 6822"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 6822",
+   "ra": 296.234163,
+   "dec": -14.797581
+  },
+  "file": "_dl/nasa-caldwell-57.png",
+  "size": [
+   1300,
+   1294
+  ],
+  "png": "_png/nasa-caldwell-57.png"
+ },
+ {
+  "id": "nasa-caldwell-58",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-58/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc2360_acs_1_flat-jpg.webp",
+  "title": "Caldwell 58",
+  "caption": "",
+  "summary": "This Hubble image features the open star cluster Caldwell 58 (C58), also called Caroline’s Cluster in honor of astronomer Caroline Herschel.",
+  "credit": "NASA, ESA, and T. von Hippel (Embry-Riddle Aeronautical University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 58",
+   "NGC 2360"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 2360",
+   "ra": 109.442917,
+   "dec": -15.631111
+  },
+  "file": "_dl/nasa-caldwell-58.webp",
+  "size": [
+   4015,
+   3895
+  ],
+  "png": "_png/nasa-caldwell-58.png"
+ },
+ {
+  "id": "nasa-caldwell-59",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-59/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/c59-1c-jpg.webp",
+  "title": "Caldwell 59",
+  "caption": "",
+  "summary": "Also called NGC 3242 and the Ghost of Jupiter, Caldwell 59 was discovered by astronomer William Herschel in 1785.",
+  "credit": "NASA, ESA, Bruce Balick and Jason Alexander (University of Washington), Arsen Hajian (U.S. Naval Observatory), Yervant Terzian (Cornell University), Mario Perinotto (University of Florence), Patrizio Patriarchi (Arcetri Observatory), and Reginald Dufour (Rice University); Processing by Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 3242",
+   "Caldwell 59"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 3242",
+   "ra": 156.192223,
+   "dec": -18.642305
+  },
+  "file": "_dl/nasa-caldwell-59.webp",
+  "size": [
+   1200,
+   1045
+  ],
+  "png": "_png/nasa-caldwell-59.png"
+ },
+ {
+  "id": "nasa-caldwell-66",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-66/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_ngc5694_wfpc2_5flatokcrop2_mstr_otherpi_final2b-jpg.webp",
+  "title": "Caldwell 66",
+  "caption": "",
+  "summary": "Also known as NGC 5694, Caldwell 66 was discovered by William Herschel in 1784 and is one of the oldest, most remote globular clusters in our galaxy.",
+  "credit": "NASA, ESA, G. Fahlman (Dominion Astrophysical Observatory), R. Ibata (Université de Strasbourg), and F. Ferraro (Università di Bologna); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 5694",
+   "Caldwell 66"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 5694",
+   "ra": 219.902167,
+   "dec": -26.538333
+  },
+  "file": "_dl/nasa-caldwell-66.webp",
+  "size": [
+   1071,
+   833
+  ],
+  "png": "_png/nasa-caldwell-66.png"
+ },
+ {
+  "id": "nasa-caldwell-68",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-68/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc6729_wfpc2_field1_1color_cropfinal-jpg.webp",
+  "title": "Caldwell 68",
+  "caption": "",
+  "summary": "A young star whose brightness fluctuates over time illuminates this reflection nebula.",
+  "credit": "NASA, ESA, and K. Stapelfeldt (Jet Propulsion Laboratory); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 6729",
+   "Caldwell 68"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 6729",
+   "ra": 285.443333,
+   "dec": -36.961111
+  },
+  "file": "_dl/nasa-caldwell-68.webp",
+  "size": [
+   1483,
+   764
+  ],
+  "png": "_png/nasa-caldwell-68.png"
+ },
+ {
+  "id": "nasa-caldwell-71",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-71/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc2477_wfpc2_field2_2flat_final-jpg.webp",
+  "title": "Caldwell 71",
+  "caption": "",
+  "summary": "Backyard observers can find this group of stars by using the bright stars Sirius and Canopus as guides.",
+  "credit": "NASA, ESA, and T. von Hippel (Embry-Riddle Aeronautical University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 71",
+   "NGC 2477",
+   "NGC 2451"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 2477",
+   "ra": 118.045833,
+   "dec": -38.536944
+  },
+  "file": "_dl/nasa-caldwell-71.webp",
+  "size": [
+   1486,
+   1503
+  ],
+  "png": "_png/nasa-caldwell-71.png"
+ },
+ {
+  "id": "nasa-caldwell-72",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-72/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc55_acs1_new_flatcrop_final-jpg.webp",
+  "title": "Caldwell 72",
+  "caption": "",
+  "summary": "This galaxy is similar to, but smaller than, the Large Magellanic Cloud.",
+  "credit": "NASA, ESA, R. de Jong (Leibniz-Institut fur Astrophysik Potsdam [AIP]), and G. Illingworth (University of California – Santa Cruz); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 72",
+   "NGC 55"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 55",
+   "ra": 3.723342,
+   "dec": -39.196628
+  },
+  "file": "_dl/nasa-caldwell-72.webp",
+  "size": [
+   3989,
+   3768
+  ],
+  "png": "_png/nasa-caldwell-72.png"
+ },
+ {
+  "id": "nasa-caldwell-73",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-73/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc1851_wfc3_flatcrop_final-jpg.webp",
+  "title": "Caldwell 73",
+  "caption": "",
+  "summary": "Caldwell 73 may be a remnant of two clusters that collided within a dwarf galaxy that once hosted them both.",
+  "credit": "NASA, ESA, and G. Piotto (Università degli Studi di Padova); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 73",
+   "NGC 1851"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 1851",
+   "ra": 78.528167,
+   "dec": -40.046556
+  },
+  "file": "_dl/nasa-caldwell-73.webp",
+  "size": [
+   2666,
+   2607
+  ],
+  "png": "_png/nasa-caldwell-73.png"
+ },
+ {
+  "id": "nasa-caldwell-76",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-76/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc6231_wfpc2_5flat_final-jpg.webp",
+  "title": "Caldwell 76",
+  "caption": "",
+  "summary": "This bright star cluster was first cataloged by the Italian astronomer Giovanni Battista Hodierna.",
+  "credit": "NASA, ESA, and J. Maiz Apellaniz (Centro de Astrobiologia [CSIC/INTA]); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 76",
+   "NGC 6231"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 6231",
+   "ra": 253.545,
+   "dec": -41.811944
+  },
+  "file": "_dl/nasa-caldwell-76.webp",
+  "size": [
+   1514,
+   1492
+  ],
+  "png": "_png/nasa-caldwell-76.png"
+ },
+ {
+  "id": "nasa-caldwell-78",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-78/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc6541_wfc3_1cropflat_final-jpg.webp",
+  "title": "Caldwell 78",
+  "caption": "",
+  "summary": "This beautiful globular cluster is best seen from equatorial latitudes.",
+  "credit": "NASA, ESA, and G. Piotto (Università degli Studi di Padova); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 78",
+   "NGC 6541"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 6541",
+   "ra": 272.009833,
+   "dec": -43.714889
+  },
+  "file": "_dl/nasa-caldwell-78.webp",
+  "size": [
+   4319,
+   3754
+  ],
+  "png": "_png/nasa-caldwell-78.png"
+ },
+ {
+  "id": "nasa-caldwell-81",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-81/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc6352_7new_3filters_flat_final-jpg.webp",
+  "title": "Caldwell 81",
+  "caption": "",
+  "summary": "Located in the constellation Ara, the Altar, Caldwell 81 was discovered in 1826 by Scottish astronomer James Dunlop while he lived in Australia.",
+  "credit": "NASA, ESA, A. Sarajedini (Florida Atlantic University), A. Kong (National Tsing Hua University), and G. Piotto (Università degli Studi di Padova); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 81",
+   "NGC 6352"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 6352",
+   "ra": 261.371292,
+   "dec": -48.422167
+  },
+  "file": "_dl/nasa-caldwell-81.webp",
+  "size": [
+   3414,
+   3422
+  ],
+  "png": "_png/nasa-caldwell-81.png"
+ },
+ {
+  "id": "nasa-caldwell-82",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-82/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc6193_newflat_final-jpg.webp",
+  "title": "Caldwell 82",
+  "caption": "This image of open star cluster C82 was taken by Hubble's Advanced Camera for Surveys (ACS), using optical and infrared light. The two bright stars near the center of this image are very large, hot, rare O-type stars.",
+  "summary": "This bright open cluster of stars is just visible to the unaided eye away from light polluted skies.",
+  "credit": "NASA, ESA, and J. Maiz Apellaniz (Centro de Astrobiologia [CSIC/INTA]); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 82",
+   "NGC 6193"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 6193",
+   "ra": 250.319167,
+   "dec": -48.776944
+  },
+  "file": "_dl/nasa-caldwell-82.webp",
+  "size": [
+   3995,
+   3904
+  ],
+  "png": "_png/nasa-caldwell-82.png"
+ },
+ {
+  "id": "nasa-caldwell-83",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-83/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc4945_wfpc2_2_final_crop-jpg.webp",
+  "title": "Caldwell 83",
+  "caption": "",
+  "summary": "Caldwell 83 is interesting to astronomers because it is the source of the first water megamaser.",
+  "credit": "NASA, ESA, and H. Falcke (Max Planck Institute for Radio Astronomy); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 83",
+   "NGC 4945"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 4945",
+   "ra": 196.363663,
+   "dec": -49.4679
+  },
+  "file": "_dl/nasa-caldwell-83.webp",
+  "size": [
+   1492,
+   1473
+  ],
+  "png": "_png/nasa-caldwell-83.png"
+ },
+ {
+  "id": "nasa-caldwell-84",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-84/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc5286_wfc3_acs_4crop_final-jpg.webp",
+  "title": "Caldwell 84",
+  "caption": "",
+  "summary": "Scattered light from a nearby bright star can interfere with observing this beautiful cluster.",
+  "credit": "NASA, ESA, A. Sarajedini (Florida Atlantic University), and G. Piotto (Università degli Studi di Padova); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 5286",
+   "Caldwell 84"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 5286",
+   "ra": 206.611708,
+   "dec": -51.37425
+  },
+  "file": "_dl/nasa-caldwell-84.webp",
+  "size": [
+   3995,
+   4143
+  ],
+  "png": "_png/nasa-caldwell-84.png"
+ },
+ {
+  "id": "nasa-caldwell-87",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-87/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc1261_wfc3_acs_2flat_final-jpg.webp",
+  "title": "Caldwell 87",
+  "caption": "",
+  "summary": "This image combines observations from Hubble’s Wide Field Camera 3 in visible and ultraviolet light with infrared observations from its Advanced Camera for Surveys.",
+  "credit": "NASA, ESA, G. Piotto (Università degli Studi di Padova), and A. Sarajedini (Florida Atlantic University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 87",
+   "NGC 1261"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 1261",
+   "ra": 48.067542,
+   "dec": -55.216222
+  },
+  "file": "_dl/nasa-caldwell-87.webp",
+  "size": [
+   3837,
+   3648
+  ],
+  "png": "_png/nasa-caldwell-87.png"
+ },
+ {
+  "id": "nasa-caldwell-89",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-89/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc6087_wfc3_ir_bwcrop_final-jpg.webp",
+  "title": "Caldwell 89",
+  "caption": "",
+  "summary": "This cluster is visible in binoculars, and a small telescope can resolve some of its stars.",
+  "credit": "NASA, ESA, and A. Riess (Johns Hopkins University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 89",
+   "NGC 6087"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 6087",
+   "ra": 244.720833,
+   "dec": -57.916111
+  },
+  "file": "_dl/nasa-caldwell-89.webp",
+  "size": [
+   1495,
+   1340
+  ],
+  "png": "_png/nasa-caldwell-89.png"
+ },
+ {
+  "id": "nasa-caldwell-9",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-9/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/sh2_155_wfpc2_final-jpg.webp",
+  "title": "Caldwell 9",
+  "caption": "",
+  "summary": "Also called the Cave Nebula, Caldwell 9 is an area where new stars are forming.",
+  "credit": "NASA, ESA, and K. Stapelfeldt (Jet Propulsion Laboratory); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Sh2-155",
+   "Caldwell 9"
+  ],
+  "date": "",
+  "seed": {
+   "name": "Sh2-155",
+   "ra": 344.274583,
+   "dec": 62.635833
+  },
+  "file": "_dl/nasa-caldwell-9.webp",
+  "size": [
+   1504,
+   1493
+  ],
+  "png": "_png/nasa-caldwell-9.png"
+ },
+ {
+  "id": "nasa-caldwell-96",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-96/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/ngc2516_wfpc2_fieldright_3flat_final-jpg.webp",
+  "title": "Caldwell 96",
+  "caption": "",
+  "summary": "Caldwell 96 was first recorded by the French astronomer Nicolas-Louis de Lacaille in 1751 from the Cape of Good Hope in Africa.",
+  "credit": "NASA, ESA, R. Griffiths (Carnegie Mellon University); S. Casertano (Space Telescope Science Institute), and J. MacKenty (Space Telescope Science Institute); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Caldwell 96",
+   "NGC 2516"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NGC 2516",
+   "ra": 119.527083,
+   "dec": -60.8
+  },
+  "file": "_dl/nasa-caldwell-96.webp",
+  "size": [
+   1519,
+   1388
+  ],
+  "png": "_png/nasa-caldwell-96.png"
+ },
+ {
+  "id": "nasa-caldwell-99",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-caldwell-catalog/caldwell-99/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/coalsack_acs1_hpfinal-jpg.webp",
+  "title": "Caldwell 99",
+  "caption": "",
+  "summary": "Visible to the unaided eye as it obscures part of the Milky Way, dark Caldwell 99 is better known as the Coalsack Nebula.",
+  "credit": "NASA, ESA, and R. Sahai (Jet Propulsion Laboratory); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NAME Coalsack Nebula",
+   "Caldwell 99"
+  ],
+  "date": "",
+  "seed": {
+   "name": "NAME Coalsack Nebula",
+   "ra": 187.829167,
+   "dec": -63.743333
+  },
+  "file": "_dl/nasa-caldwell-99.webp",
+  "size": [
+   1863,
+   1873
+  ],
+  "png": "_png/nasa-caldwell-99.png"
+ },
+ {
+  "id": "nasa-messier-10",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-10/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M10_WFC3UVIS_flat_FINAL_2026.jpg",
+  "title": "Messier 10",
+  "caption": "This image of Messier 10 was created with ultraviolet light gathered by Hubble’s Wide Field Camera 3. The data is from an observing program that established an archive of globular clusters in ultraviolet light. This ultraviolet light image compliments the visible and infrared light image below, and highlights the energetic, bright, young, blue stars that dot the cluster.",
+  "summary": "Hubble’s image of Messier 10’s dense core holds observations taken in visible and infrared light.",
+  "credit": "NASA, ESA, G. Piotto (Universita degli Studi di Padova); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 10",
+   "Messier 10",
+   "M 10"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 10",
+   "ra": 254.287708,
+   "dec": -4.100306
+  },
+  "file": "_dl/nasa-messier-10.jpg",
+  "size": [
+   1280,
+   1179
+  ],
+  "png": "_png/nasa-messier-10.png"
+ },
+ {
+  "id": "nasa-messier-108",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-108/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2018/03/hubble-m108-1-flat-final-new.jpg",
+  "title": "Messier 108",
+  "caption": "M108 is one of the largest and brightest members of the Ursa Major cluster, which is part of the Virgo Supercluster of galaxies. A portion of the galaxy is visible in this image.",
+  "summary": "Messier 108 is one of the largest and brightest members of the Ursa Major galaxy cluster, which is part of the Virgo Supercluster.",
+  "credit": "NASA, ESA, and H. Bond (The Pennsylvania State University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 108",
+   "M 108",
+   "Messier 108"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 108",
+   "ra": 167.879029,
+   "dec": 55.674122
+  },
+  "file": "_dl/nasa-messier-108.jpg",
+  "size": [
+   894,
+   795
+  ],
+  "png": "_png/nasa-messier-108.png"
+ },
+ {
+  "id": "nasa-messier-109",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-109/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/06/hubble-m109-wfc3-2flat-jpg.webp",
+  "title": "Messier 109",
+  "caption": "",
+  "summary": "This barred spiral is the brightest member of the Ursa Major Galaxy Group of roughly 80 galaxies.",
+  "credit": "NASA, ESA, and J. Walsh (Texas A&M University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 109",
+   "Messier 109"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 109",
+   "ra": 179.399846,
+   "dec": 53.374724
+  },
+  "file": "_dl/nasa-messier-109.webp",
+  "size": [
+   1994,
+   1985
+  ],
+  "png": "_png/nasa-messier-109.png"
+ },
+ {
+  "id": "nasa-messier-14",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-14/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_m14_wfc3_1flat_cont_final-jpg.webp",
+  "title": "Messier 14",
+  "caption": "This image of M14 includes observations taken in ultraviolet, visible, and near-infrared wavelengths of light. Astronomers used this data to better understand the formation and chemical makeup of different populations of stars that reside within this cluster.",
+  "summary": "Messier 14 is home to over 150,000 stars.",
+  "credit": "NASA, ESA, and F. D'Antona (INAF, Osservatorio Astronomico di Roma); Image Processing: Gladys Kober",
+  "names": [
+   "M 14",
+   "M 14",
+   "Messier 14"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 14",
+   "ra": 264.400625,
+   "dec": -3.245917
+  },
+  "file": "_dl/nasa-messier-14.webp",
+  "size": [
+   1651,
+   1868
+  ],
+  "png": "_png/nasa-messier-14.png"
+ },
+ {
+  "id": "nasa-messier-17",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-17/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2017/10/m17-field2-f110wf160w-a1-final-vers1.jpg",
+  "title": "Messier 17",
+  "caption": "",
+  "summary": "Messier 17 is better known as the Omega Nebula or Swan Nebula.",
+  "credit": "Image credit: NASA, ESA, and A. Kraus (The University of Texas at Austin); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 17",
+   "Messier 17",
+   "M 17"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 17",
+   "ra": 275.195833,
+   "dec": -16.171667
+  },
+  "file": "_dl/nasa-messier-17.jpg",
+  "size": [
+   3067,
+   1728
+  ],
+  "png": "_png/nasa-messier-17.png"
+ },
+ {
+  "id": "nasa-messier-19",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-19/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_m19_wfc3_str_gapfilled_flat_cont_final-jpg.webp",
+  "title": "Messier 19",
+  "caption": "This image of M19 includes Hubble observations taken in ultraviolet, visible, and near-infrared wavelengths of light. A small gap in Hubble data (horizontal line at center right) is instead filled in with observations from the ground-based Victor M. Blanco 4-meter Telescope. The Hubble proposal associated with this image sought to investigate M19’s formation and the ratios of different populations of stars within the cluster.",
+  "summary": "Messier 19 is one of several globular clusters found in the constellation Ophiuchus.",
+  "credit": "NASA, ESA, and C. Johnson (STScI); Image Processing: Gladys Kober",
+  "names": [
+   "M 19",
+   "M 19",
+   "Messier 19"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 19",
+   "ra": 255.657042,
+   "dec": -26.267944
+  },
+  "file": "_dl/nasa-messier-19.webp",
+  "size": [
+   1684,
+   1795
+  ],
+  "png": "_png/nasa-messier-19.png"
+ },
+ {
+  "id": "nasa-messier-24",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-24/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/star-cloud/Hubble_M24_1_flat_FINAL_A_rot90.jpg",
+  "title": "Messier 24",
+  "caption": "This detailed Hubble view of Messier 24 captures a huge number of stars in only a tiny portion of the region, which is also known as the Small Sagittarius Star Cloud.",
+  "summary": "This Hubble image features the striking Small Sagittarius Star Cloud, Messier 24 (M24) which offers a view into the starry depths of our galaxy.",
+  "credit": "NASA, ESA, and R. Sahai (Jet Propulsion Laboratory); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 24",
+   "Messier 24",
+   "M 24"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 24",
+   "ra": 274.2,
+   "dec": -18.55
+  },
+  "file": "_dl/nasa-messier-24.jpg",
+  "size": [
+   1280,
+   685
+  ],
+  "png": "_png/nasa-messier-24.png"
+ },
+ {
+  "id": "nasa-messier-32",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-32/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/elliptical/Hubble_M32_str2_flat_FINAL_2026.jpg",
+  "title": "Messier 32",
+  "caption": "This Hubble image of Messier 32 was taken as part of the Panchromatic Hubble Andromeda Southern Treasury (PHAST) that created a legacy map of the southern half of M31 (the Great Andromeda Galaxy) in visible and near-ultraviolet light.",
+  "summary": "Messier 32 (M32) is a compact elliptical galaxy located 2.5 million light-years from Earth. It is a satellite galaxies orbiting the Andromeda Galaxy.",
+  "credit": "NASA, ESA, B. Williams (University of Washington); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 32",
+   "Messier 32",
+   "M 31",
+   "M 32",
+   "M 110"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 32",
+   "ra": 10.67427,
+   "dec": 40.86517
+  },
+  "file": "_dl/nasa-messier-32.jpg",
+  "size": [
+   1280,
+   1174
+  ],
+  "png": "_png/nasa-messier-32.png"
+ },
+ {
+  "id": "nasa-messier-35",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-35/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/open-clusters/Hubble_M35_WFPC2ok_flat_FINAL1.jpg",
+  "title": "Messier 35",
+  "caption": "Open clusters are groups of stars that are only loosely bound by gravity. This image captures several of the hundreds of stars in open cluster M35, also known as the Shoe Buckle cluster.",
+  "summary": "The only Messier object in the constellation Gemini, Messier 35 (M35), also called NGC 2168 or the Shoe Buckle Cluster, is a relatively young open cluster of",
+  "credit": "NASA, ESA, and E. Nelan (Space Telescope Science Institute), A. Riess (The Johns Hopkins University), J. Rhodes (Jet Propulsion Laboratory) ; Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 35",
+   "M 35",
+   "Messier 35",
+   "NGC 2168"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 35",
+   "ra": 92.272083,
+   "dec": 24.336111
+  },
+  "file": "_dl/nasa-messier-35.jpg",
+  "size": [
+   1280,
+   840
+  ],
+  "png": "_png/nasa-messier-35.png"
+ },
+ {
+  "id": "nasa-messier-4",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-4/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M4_WFC3_ACS_ok_flat_cont_FINAL.jpg",
+  "title": "Messier 4",
+  "caption": "This Hubble image of Messier 4 includes data from both Hubble’s Wide Field Camera 3 and Advanced Camera for Surveys. The image spans the wide range of wavelengths Hubble’s instruments are sensitive to, allowing astronomers to study the different ages, temperatures, and compositions of the cluster’s stars.",
+  "summary": "This Hubble image features the globular star cluster called Messier 4 (M4). You can use the bright star Antares to help you find Messier 4.",
+  "credit": "NASA, ESA, G. Piotto (Universita degli Studi di Padova), S. Anderson (University of Washington), A. Sarajedini (Florida Atlantic University), L. Bedin (INAF - Osservatorio Astronomico di Padova); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 4",
+   "Messier 4",
+   "M 4"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 4",
+   "ra": 245.89675,
+   "dec": -26.52575
+  },
+  "file": "_dl/nasa-messier-4.jpg",
+  "size": [
+   1275,
+   1280
+  ],
+  "png": "_png/nasa-messier-4.png"
+ },
+ {
+  "id": "nasa-messier-44",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-44/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2024/02/m44-acs-1-color-2-final.jpg",
+  "title": "Messier 44",
+  "caption": "Hubble peered through the far southwestern edge of open cluster Messier 44 with its Advanced Camera for Surveys (ACS) instrument to view this teeming collection of stars and background galaxies. Hubble was studying distant galaxies to explore the distribution of their surrounding magnetic fields, which may be elevated from the galaxies by outflowing galactic winds.",
+  "summary": "Messier 44, or the \"Beehive Cluster,\" buzzes with bright young stars in these Hubble images.",
+  "credit": "NASA, ESA, and S. Lilly (Eidgenossiche Technische Hochschule) and DECam/CTIO/NOIRLabProcessing/NSF/AURA; Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 44",
+   "Messier 44"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 44",
+   "ra": 130.054167,
+   "dec": 19.621111
+  },
+  "file": "_dl/nasa-messier-44.jpg",
+  "size": [
+   3970,
+   4027
+  ],
+  "png": "_png/nasa-messier-44.png"
+ },
+ {
+  "id": "nasa-messier-46",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-46/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_ngc2438_wfpc2_screen_3mb.png",
+  "title": "Messier 46",
+  "caption": "",
+  "summary": "This Hubble image features the planetary nebula NGC 2438, which is located in front of the open star cluster M46 (also known as NGC 2437).",
+  "credit": "NASA, ESA, K. Knoll (NASA Goddard), and S. Öttl (Leopold Franzens Universität Innsbruck), et. al.; Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 46",
+   "NGC 2438",
+   "M 46",
+   "NGC 2437",
+   "Messier 46"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 46",
+   "ra": 115.445,
+   "dec": -14.843889
+  },
+  "file": "_dl/nasa-messier-46.png",
+  "size": [
+   1077,
+   621
+  ],
+  "png": "_png/nasa-messier-46.png"
+ },
+ {
+  "id": "nasa-messier-48",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-48/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2024/08/hubble-m48-1-flat-final-2.jpg",
+  "title": "Messier 48",
+  "caption": "This Hubble Space Telescope image captures a portion of the open cluster, Messier 48 (NGC 2548).",
+  "summary": "This Hubble image features Messier 48 (M48) an open star cluster some 2,5000 light-years away in the constellation Hydra.",
+  "credit": "NASA, ESA, A. Riess (The Johns Hopkins University): Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 48",
+   "Messier 48",
+   "NGC 2548",
+   "M 48"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 48",
+   "ra": 123.412083,
+   "dec": -5.726111
+  },
+  "file": "_dl/nasa-messier-48.jpg",
+  "size": [
+   2998,
+   1746
+  ],
+  "png": "_png/nasa-messier-48.png"
+ },
+ {
+  "id": "nasa-messier-5",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-5/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/stars/globular-clusters/Hubble_M5_WFC3_UV_flat_FINAL.jpg",
+  "title": "Messier 5",
+  "caption": "This beautiful Hubble image of Messier 5 was created with ultraviolet light gathered by Hubble’s Wide Field Camera 3. The data is from an observing program that established an archive of globular clusters in ultraviolet light. This ultraviolet light image compliments the visible and infrared light image below, and highlights the energetic, bright, young, blue stars that dot the cluster.",
+  "summary": "Hubble captures Messier 5 (M5) in stunning detail, resolving the patch of faint, fuzzy light into individual stars.",
+  "credit": "NASA, ESA, G. Piotto (Universita degli Studi di Padova); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 5",
+   "Messier 5",
+   "M 5"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 5",
+   "ra": 229.638417,
+   "dec": 2.081028
+  },
+  "file": "_dl/nasa-messier-5.jpg",
+  "size": [
+   1280,
+   1188
+  ],
+  "png": "_png/nasa-messier-5.png"
+ },
+ {
+  "id": "nasa-messier-55",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-55/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/06/hubble-m55-mos-acs-long-flat-final2-jpg.webp",
+  "title": "Messier 55",
+  "caption": "This image shows just a portion of M55, the cluster as a whole appears spherical because the stars’ intense gravitational attraction pulls them together. Hubble’s clear view above Earth’s atmosphere resolves individual stars in this cluster. Ground-based telescopes can also resolve individual stars in M55, but fewer stars are visible.",
+  "summary": "This globular cluster holds 100,000 stars including 55 variable stars.",
+  "credit": "NASA, ESA, A. Sarajedini (Florida Atlantic University), and M. Libralato (STScI, ESA, JWST); Image Processing: Gladys Kober",
+  "names": [
+   "M 55",
+   "M 55",
+   "Messier 55"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 55",
+   "ra": 294.998792,
+   "dec": -30.96475
+  },
+  "file": "_dl/nasa-messier-55.webp",
+  "size": [
+   5248,
+   5134
+  ],
+  "png": "_png/nasa-messier-55.png"
+ },
+ {
+  "id": "nasa-messier-58",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-58/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_M58_1_flat_FINAL.jpg",
+  "title": "Messier 58",
+  "caption": "The data in this Hubble image of Messier 58 includes infrared, visible, and ultraviolet light taken with Hubble's Wide Field Camera 3. This broad range of wavelengths allows astronomers to study the galaxy’s star forming regions, new stars, and the gas and dust that form them.",
+  "summary": "The data in this Hubble image of Messier 58 includes infrared, visible, and ultraviolet light taken with Hubble's Wide Field Camera 3.",
+  "credit": "NASA, ESA, D. Thilker (The Johns Hopkins University); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 58",
+   "Messier 58",
+   "M 58"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 58",
+   "ra": 189.431656,
+   "dec": 11.81809
+  },
+  "file": "_dl/nasa-messier-58.jpg",
+  "size": [
+   1280,
+   1252
+  ],
+  "png": "_png/nasa-messier-58.png"
+ },
+ {
+  "id": "nasa-messier-64",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-64/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_M64_UVIS_V4_flat_HST_FINAL2.jpg",
+  "title": "Messier 64",
+  "caption": "This new Hubble image of Messier 64 (released on March 20, 2026) includes ultraviolet, visible, and near-infrared wavelengths of light from Hubble's Wide Field Camera 3.",
+  "summary": "This Hubble image of Messier 64. also known as the \"Black Eye\" or \"Evil Eye\" galaxy, includes ultraviolet, visible, and near-infrared wavelengths.",
+  "credit": "NASA, CSA, ESA, F. Belfiore (European Southern Observatory – Germany), J. Lee (Space Telescope Science Institute), A. Leroy (The Ohio State University), and D. Thilker (The Johns Hopkins University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 64",
+   "Messier 64",
+   "M 64"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 64",
+   "ra": 194.182067,
+   "dec": 21.682658
+  },
+  "file": "_dl/nasa-messier-64.jpg",
+  "size": [
+   1211,
+   1280
+  ],
+  "png": "_png/nasa-messier-64.png"
+ },
+ {
+  "id": "nasa-messier-67",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-67/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2024/02/m67-acs-1mstr-flat-final.jpg",
+  "title": "Messier 67",
+  "caption": "Hubble's detailed view of a small portion of M67 showcases some of the open cluster's stars. The spikes surrounding many of the stars in this image are “diffraction spikes,” which occur when the glow from bright points of light reflects off of Hubble's secondary mirror support.",
+  "summary": "This Hubble image features the open cluster of stars called Messier 67 (M67).",
+  "credit": "NASA, ESA, and J. Krist (Jet Propulsion Laboratory); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 67",
+   "M 67",
+   "Messier 67",
+   "NGC 2682"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 67",
+   "ra": 132.845833,
+   "dec": 11.813889
+  },
+  "file": "_dl/nasa-messier-67.jpg",
+  "size": [
+   4035,
+   3737
+  ],
+  "png": "_png/nasa-messier-67.png"
+ },
+ {
+  "id": "nasa-messier-7",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-7/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/06/hubble-m7-wfc3-2-flat-final-jpg.webp",
+  "title": "Messier 7",
+  "caption": "Visible right next to the stinger of the scorpion in the constellation Scorpius, Messier 7 is an easy naked-eye target for stargazers in southern latitudes. The second-century astronomer Claudius Ptolemy first recorded this open star cluster in 130 AD, earning it the nickname Ptolemy's Cluster.",
+  "summary": "This open cluster is the southernmost object in Messier's catalog.",
+  "credit": "NASA, ESA, D. Bennett (University of Maryland), and K. Sahu (STScI); Image Processing: Gladys Kober",
+  "names": [
+   "M 7",
+   "Messier 7"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 7",
+   "ra": 268.447083,
+   "dec": -34.841111
+  },
+  "file": "_dl/nasa-messier-7.webp",
+  "size": [
+   987,
+   1016
+  ],
+  "png": "_png/nasa-messier-7.png"
+ },
+ {
+  "id": "nasa-messier-8",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-8/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/nebulae/emission/Hubble_M8_ACS_1_flat_FINAL.jpg",
+  "title": "Messier 8",
+  "caption": "Clouds of gas and knots of dark dust are strewn with a scattering of bright blue stars in this Hubble image of a portion of M8. The Lagoon Nebula is a vast stellar birthing place; new stars arise as portions of the dusty molecular cloud collapse.",
+  "summary": "Famously known as the Lagoon Nebula, Messier 8 shines by the ionizing ultraviolet radiation of its embedded young stars.",
+  "credit": "NASA, ESA, M. Mutchler (Space Telescope Science Institute); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 8",
+   "Messier 8",
+   "M 8"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 8",
+   "ra": 270.904167,
+   "dec": -24.386667
+  },
+  "file": "_dl/nasa-messier-8.jpg",
+  "size": [
+   1280,
+   684
+  ],
+  "png": "_png/nasa-messier-8.png"
+ },
+ {
+  "id": "nasa-messier-80",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-80/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/hubble_m80_wfc3_acs_comb_final2-jpg.webp",
+  "title": "Messier 80",
+  "caption": "In this image of M80, observations in ultraviolet, visible, and infrared wavelengths of light are featured. This data helped scientists learn more about the sequence of cosmic events that lead to the formation of various sub-populations of stars in globular clusters like this one.",
+  "summary": "Hubble’s ultraviolet observations of this globular cluster helped astronomers identify the remains of a nova-producing white dwarf.",
+  "credit": "NASA, ESA, and G. Piotto (Universita degli Studi di Padova); Image Processing: Gladys Kober",
+  "names": [
+   "M 80",
+   "M 80",
+   "Messier 80"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 80",
+   "ra": 244.260042,
+   "dec": -22.976083
+  },
+  "file": "_dl/nasa-messier-80.webp",
+  "size": [
+   2078,
+   2031
+  ],
+  "png": "_png/nasa-messier-80.png"
+ },
+ {
+  "id": "nasa-messier-84",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-84/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/elliptical/M84_1_wholegal_flat_FINAL3.jpg",
+  "title": "Messier 84",
+  "caption": "M84 glows softly with the light of mostly older stars, typical of elliptical galaxies. The galaxy’s bright central core -- home to a supermassive black hole -- and its warped dust lanes are distinctive even with this wider frame of view.",
+  "summary": "This Hubble image features Messier 84 (M84), an elliptical galaxy in the Virgo cluster of galaxies.",
+  "credit": "NASA, ESA, P. Cote (National Research Council of Canada); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 84",
+   "M 84",
+   "Messier 84"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 84",
+   "ra": 186.265597,
+   "dec": 12.886983
+  },
+  "file": "_dl/nasa-messier-84.jpg",
+  "size": [
+   1280,
+   1148
+  ],
+  "png": "_png/nasa-messier-84.png"
+ },
+ {
+  "id": "nasa-messier-91",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-91/",
+  "image": "https://science.nasa.gov/wp-content/uploads/2023/04/m91_wfc3_4_crop_v2_final-jpg.webp",
+  "title": "Messier 91",
+  "caption": "",
+  "summary": "Messier 91 is one of the faintest objects in Messier’s catalog.",
+  "credit": "NASA, ESA, and J. Lee (California Institute of Technology); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 91",
+   "Messier 91",
+   "M 91",
+   "NGC 4548",
+   "M 84",
+   "M 92"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 91",
+   "ra": 188.860186,
+   "dec": 14.496322
+  },
+  "file": "_dl/nasa-messier-91.webp",
+  "size": [
+   4085,
+   3922
+  ],
+  "png": "_png/nasa-messier-91.png"
+ },
+ {
+  "id": "nasa-messier-95",
+  "source": "https://science.nasa.gov/mission/hubble/science/explore-the-night-sky/hubble-messier-catalog/messier-95/",
+  "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_M95_center_ma_flat_FINAL.jpg",
+  "title": "Messier 95",
+  "caption": "This beautiful image of Messier 95 includes data from two different Hubble observing programs. The first looked at connections between young stars and cold gas in star clusters and molecular clouds. The second looked at more than 50,000 gas clouds in 19 nearby galaxies. These datasets will help astronomers better understand the process of star formation and the large-scale evolution of galaxies.",
+  "summary": "This Hubble image of Messier 95 (M95, also called NGC 3351) reveals details in this beautiful barred spiral galaxy located in the constellation Leo.",
+  "credit": "NASA, ESA, J. Lee (STScI), and R. Chandar (University of Toledo); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "M 95",
+   "Messier 95",
+   "M 95",
+   "NGC 3351"
+  ],
+  "date": "",
+  "seed": {
+   "name": "M 95",
+   "ra": 160.990547,
+   "dec": 11.703695
+  },
+  "file": "_dl/nasa-messier-95.jpg",
+  "size": [
+   1266,
+   1280
+  ],
+  "png": "_png/nasa-messier-95.png"
+ },
+ {
+  "id": "nasa-black-eye-galaxy",
+  "source": "https://www.nasa.gov/image-article/black-eye-galaxy/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/06/55158722798-9bb0f41f19-o.jpg",
+  "title": "Black Eye Galaxy",
+  "caption": "Easily identified by the spectacular band of dark dust that partially obscures its bright core, Messier 64, or the Black Eye Galaxy, is characterized by its bizarre internal motion.",
+  "summary": "This March 20, 2026, image of Messier 64, or the Black Eye Galaxy , is a composite view from NASA’s Hubble Space Telescope and James Webb Space Telescope. It shows Messier 64 captured at near- and mid-infrared wavelengths by Webb, while Hubble’s image shows the galaxy in ultraviolet, visible, and near-infrared light. Messier 64 is characterized by its bizarre internal motion. The gas in the outer regions of this spiral galaxy is rotating in the opposite direction from the gas and stars in its inner regions. This strange behavior may be the result of a merger between M64 and a satellite galaxy over a billion years ago. Image credit: NASA, CSA, ESA, F. Belfiore (European Southern Observatory – Germany), J. Lee (Space Telescope Science Institute), A. Leroy (The Ohio State University), and D. Thilker (The Johns Hopkins University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "credit": "NASA, CSA, ESA, F. Belfiore (European Southern Observatory – Germany), J. Lee (Space Telescope Science Institute), A. Leroy (The Ohio State University), and D. Thilker (The Johns Hopkins University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Messier 64",
+   "M 64"
+  ],
+  "date": "2026-06-12",
+  "seed": {
+   "name": "Messier 64",
+   "ra": 194.182067,
+   "dec": 21.682658
+  },
+  "file": "_dl/nasa-black-eye-galaxy.jpg",
+  "size": [
+   3853,
+   4070
+  ],
+  "png": "_png/nasa-black-eye-galaxy.png"
+ },
+ {
+  "id": "nasa-hubble-observations-give-missing-globular-cluster-time-to-shine",
+  "source": "https://www.nasa.gov/image-article/hubble-observations-give-missing-globular-cluster-time-to-shine/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2025/07/54641783315-26ffa3e65d-o.jpg",
+  "title": "Hubble Observations Give “Missing” Globular Cluster Time to Shine",
+  "caption": "This NASA Hubble Space Telescope image features a dense and dazzling array of blazing stars that form globular cluster ESO 591-12.",
+  "summary": "A previously unexplored globular cluster glitters with multicolored stars in this NASA Hubble Space Telescope image. Globular clusters like this one, called ESO 591-12 or Palomar 8, are spherical collections of tens of thousands to millions of stars tightly bound together by gravity. Globular clusters generally form early in the galaxies’ histories in regions rich in gas and dust. Since the stars form from the same cloud of gas as it collapses, they typically hover around the same age. Strewn across this image of ESO 591-12 are a number of red and blue stars. The colors indicate their temperatures; red stars are cooler, while the blue stars are hotter. Hubble captured the data used to create this image of ESO 591-12 as part of a study intended to resolve individual stars of the entire globular cluster system of the Milky Way. Hubble revolutionized the study of globular clusters since earthbound telescopes are unable to distinguish individual stars in the compact clusters. The study is part of the Hubble Missing Globular Clusters Survey, which targets 34 confirmed Milky Way globular clusters that Hubble has yet to observe. The program aims to provide complete observations of ages and distances for all of the Milky Way’s globular clusters and investigate fundamental properties of still-unexplored clusters in the galactic bulge or halo. The observations will provide key information on the early stages of our galaxy, when globular clusters formed. Image credit: NASA, ESA, and D. Massari (INAF — Osservatorio di Astrofisica e Scienza dello Spazio); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "credit": "NASA, ESA, and D. Massari (INAF — Osservatorio di Astrofisica e Scienza dello Spazio); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "ESO 591-12",
+   "Palomar 8"
+  ],
+  "date": "2025-07-15",
+  "seed": {
+   "name": "ESO 591-12",
+   "ra": 280.374583,
+   "dec": -19.825833
+  },
+  "file": "_dl/nasa-hubble-observations-give-missing-globular-cluster-time-to-shine.jpg",
+  "size": [
+   4044,
+   3722
+  ],
+  "png": "_png/nasa-hubble-observations-give-missing-globular-cluster-time-to-shine.png"
+ },
+ {
+  "id": "nasa-hubble-pinpoints-a-dim-starry-mini-galaxy",
+  "source": "https://www.nasa.gov/image-article/hubble-pinpoints-a-dim-starry-mini-galaxy/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2024/08/pegasus-acs-flatcrop-cont-final.jpg",
+  "title": "Hubble Pinpoints a Dim, Starry Mini-galaxy",
+  "caption": "The Pegasus Dwarf spheroidal galaxy, also known as Andromeda VI, is one of at least 13 dwarf galaxies that orbit the Andromeda galaxy.",
+  "summary": "A glittering collection of stars shines against a background of much more distant galaxies in this view from NASA’s Hubble Space Telescope of the Pegasus Dwarf spheroidal galaxy, also known as Andromeda VI. The Andromeda galaxy, also known as Messier 31, is the Milky Way’s closest grand spiral galaxy neighbor, and is host to at least 13 dwarf galaxies that orbit around it. The Pegasus Dwarf spheroidal galaxy is one of these mini-galaxies. Dwarf spheroidal galaxies are the dimmest and least massive galaxies known. They tend to have elliptical shapes and relatively smooth distributions of stars. Dwarf spheroidal galaxies are usually devoid of gas and dominated by old and intermediate-age stars, although some have experienced small amounts of recent star formation. The Pegasus Dwarf Spheroidal galaxy was discovered in 1998 and has been characterized as having a small amount of heavy elements and little of the gas needed to form another generation of stars ― though more than many of the dwarf spheroidal galaxies within our Local Group of galaxies. Researchers suspect that Andromeda’s gravitational field may have stripped the star-forming gases from it, leaving a dearth of material to build more than a few generations of stars. In comparison, some of the dwarf spheroidal companion galaxies of the Milky Way found at comparable distances do contain some intermediate-age stars, but this could be because Andromeda is so massive and extended that its gravitational effects extend farther. The jury is still out on how dwarf spheroidal galaxies form. Theories include collisions between galaxies that break off small fragments, the gravitational influence of larger galaxies on small disk-shaped dwarf galaxies, and processes associated with the birth of small systems among collections of dark matter. Andromeda and the Milky Way are the only galaxies close enough for astronomers to view these dim satellite galaxies, so clues to their formation will have to come from close neighbors like this one.",
+  "credit": "NASA, ESA, and D. Weisz (University of California – Berkeley); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "And VI",
+   "Messier 31"
+  ],
+  "date": "2024-08-27",
+  "seed": {
+   "name": "And VI",
+   "ra": 357.942917,
+   "dec": 24.5825
+  },
+  "file": "_dl/nasa-hubble-pinpoints-a-dim-starry-mini-galaxy.jpg",
+  "size": [
+   3662,
+   3682
+  ],
+  "png": "_png/nasa-hubble-pinpoints-a-dim-starry-mini-galaxy.png"
+ },
+ {
+  "id": "nasa-hubble-views-the-dawn-of-a-sun-like-star",
+  "source": "https://www.nasa.gov/image-article/hubble-views-the-dawn-of-a-sun-like-star/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2024/05/hubble-hptau-wfc3-1-flat-finalok.jpg",
+  "title": "Hubble Views the Dawn of a Sun-like Star",
+  "caption": "This NASA Hubble Space Telescope image captures a triple-star star system.",
+  "summary": "Looking like a glittering cosmic geode, a trio of dazzling stars blaze from the hollowed-out cavity of a reflection nebula in this new image from NASA’s Hubble Space Telescope . The triple-star system is made up of the variable star HP Tau, HP Tau G2, and HP Tau G3. HP Tau is known as a T Tauri star, a type of young variable star that hasn’t begun nuclear fusion yet but is beginning to evolve into a hydrogen-fueled star similar to our Sun. T Tauri stars tend to be younger than 10 million years old ― in comparison, our Sun is around 4.6 billion years old ― and are often found still swaddled in the clouds of dust and gas from which they formed. Learn more about HP Tau. Image Credit: NASA, ESA, G. Duchene (Universite de Grenoble I); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "credit": "NASA, ESA, G. Duchene (Universite de Grenoble I); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "HP Tau"
+  ],
+  "date": "2024-05-17",
+  "seed": {
+   "name": "HP Tau",
+   "ra": 68.969925,
+   "dec": 22.906432
+  },
+  "file": "_dl/nasa-hubble-views-the-dawn-of-a-sun-like-star.jpg",
+  "size": [
+   1536,
+   1438
+  ],
+  "png": "_png/nasa-hubble-views-the-dawn-of-a-sun-like-star.png"
+ },
+ {
+  "id": "nasa-hubble-views-a-vibrant-virgo-cluster-galaxy",
+  "source": "https://www.nasa.gov/image-article/hubble-views-a-vibrant-virgo-cluster-galaxy/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2023/10/ngc4654-1-v5f-final.webp",
+  "title": "Hubble Views a Vibrant Virgo Cluster Galaxy",
+  "caption": "",
+  "summary": "It’s easy to get swept up in the swirling starry arms of this intermediate spiral galaxy, NGC 4654, in the constellation Virgo. The galaxy has a bright center and is labeled “intermediate” because it has characteristics of both unbarred and barred spirals. NGC 4654 is just north of the celestial equator, making it visible from the northern hemisphere and most of the southern hemisphere. The galaxy is around 55 million light-years from Earth. NGC 4654 is one of many Virgo Cluster galaxies that have an asymmetric distribution of stars and of neutral hydrogen gas. Astronomers reason that NGC 4654 may be experiencing a process called “ram pressure stripping,” where the gravitational pull of the Virgo galaxy cluster puts pressure on NGC 4654 as it moves through a superheated plasma made largely of hydrogen called the “intracluster medium.” This pressure feels like a gust of wind – think of a biker feeling wind even on a still day – that strips NGC 4654 of its gas. This process produced a long, thin tail of hydrogen gas on the galaxy’s southeastern side. Most galaxies that experienced ram pressure stripping hold very little cold gas, halting the galaxy’s ability to form new stars, since stars generate from dense gas. However, NGC 4654 has star formation rates consistent with other galaxies of its size. NGC 4654 also had an interaction with the companion galaxy NGC 4639 about 500 million years ago. The gravity of NGC 4639 stripped NGC 4654’s gas along its edge, limiting star formation in that region and causing the asymmetrical distribution of the galaxy’s stars. Scientists study galaxies like NGC 4654 to examine the connection between young stars and the cold gas from which they form. NASA’s Hubble Space Telescope took this image in visible, ultraviolet, and infrared light.",
+  "credit": "NASA, ESA, Space Telescope Science Institute/J. Lee; Processing: NASA/Catholic University of America/Gladys Kober",
+  "names": [
+   "NGC 4654",
+   "NGC 4639"
+  ],
+  "date": "2023-10-11",
+  "seed": {
+   "name": "NGC 4654",
+   "ra": 190.985992,
+   "dec": 13.12635
+  },
+  "file": "_dl/nasa-hubble-views-a-vibrant-virgo-cluster-galaxy.webp",
+  "size": [
+   4096,
+   3843
+  ],
+  "png": "_png/nasa-hubble-views-a-vibrant-virgo-cluster-galaxy.png"
+ },
+ {
+  "id": "nasa-nasas-hubble-marks-way-for-roman-space-telescope",
+  "source": "https://www.nasa.gov/image-article/nasas-hubble-marks-way-for-roman-space-telescope/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/55606049603-e8822462fe-o.jpg",
+  "title": "NASA’s Hubble Marks Way for Roman Space Telescope",
+  "caption": "A sinuous spiral galaxy (center) appears in the same field of view as a vivid gravitational lens (right corner) in this Hubble image.",
+  "summary": "A sweeping barred galaxy takes center stage in this Oct. 22, 2026, image, but the gravitational lensing at bottom right is the real target. This observation is one of many gravitational lensing images taken by NASA’s Hubble Space Telescope in preparation for science with the new Nancy Grace Roman Space Telescope . Astronomers will use these images to analyze gravitational distortions to learn more about dark matter in the foreground galaxies and to lay the groundwork for future Roman observations. Images like this offer a glimpse of how Hubble and Roman will work together to build an even more comprehensive picture of the cosmos. Image credit: NASA, ESA, and X. Huang (University of San Francisco); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "credit": "NASA, ESA, and X. Huang (University of San Francisco); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [],
+  "date": "2026-10-29",
+  "seed": null
+ },
+ {
+  "id": "nasa-spirals-edge",
+  "source": "https://www.nasa.gov/image-article/spirals-edge/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/10/hubble-ngc1827-1-flat-final.jpg",
+  "title": "Spiral’s Edge",
+  "caption": "",
+  "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 Milky Way-like host galaxies within a radius of about 32 million light-years from Earth. Low-mass galaxies like the ones in this Hubble observing program provide a way to test the predictions of cosmological models on small scales, which struggle to match observations. Image credit: NASA, ESA, Michael Jones (California Institute of Technology); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "credit": "NASA, ESA, Michael Jones (California Institute of Technology); Image Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 1827"
+  ],
+  "date": "2026-10-22",
+  "seed": {
+   "name": "NGC 1827",
+   "ra": 77.519113,
+   "dec": -36.960242
+  },
+  "file": "_dl/nasa-spirals-edge.jpg",
+  "size": [
+   4057,
+   3935
+  ],
+  "png": "_png/nasa-spirals-edge.png"
+ },
+ {
+  "id": "nasa-hubble-sees-crimson-cloud-and-stars",
+  "source": "https://www.nasa.gov/image-article/hubble-sees-crimson-cloud-and-stars/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/07/55382014220-1dd17df9c0-o.jpg",
+  "title": "Hubble Sees Crimson Cloud and Stars",
+  "caption": "A glowing landscape of gas and dust is heated and illuminated by a thriving population of young stars in the LH 95 region of the Large Magellanic Cloud.",
+  "summary": "Blue and white stars shine brilliantly against a crimson background of glowing gas in this July 3, 2026, image of stellar nursery LH 95 from NASA’s Hubble Space Telescope . LH 95 is a region in the Large Magellanic Cloud , a dwarf galaxy that orbits the Milky Way. Low-mass infant stars live alongside massive blue giant stars in what is known as a stellar association, one of many in the Large Magellanic Cloud. Learn more about LH 95. Image credit: NASA, ESA, and N. Da Rio (The University of Virginia), G. De Marchi (European Space Agency – ESTEC), and D. Gouliermis (Universitat Heidelberg); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "credit": "NASA, ESA, and N. Da Rio (The University of Virginia), G. De Marchi (European Space Agency – ESTEC), and D. Gouliermis (Universitat Heidelberg); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "LH 95"
+  ],
+  "date": "2026-07-14",
+  "seed": {
+   "name": "LH 95",
+   "ra": 84.265696,
+   "dec": -66.367414
+  },
+  "file": "_dl/nasa-hubble-sees-crimson-cloud-and-stars.jpg",
+  "size": [
+   2048,
+   2104
+  ],
+  "png": "_png/nasa-hubble-sees-crimson-cloud-and-stars.png"
+ },
+ {
+  "id": "nasa-hubble-captures-star-studded-cluster",
+  "source": "https://www.nasa.gov/image-article/hubble-captures-star-studded-cluster/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/07/hubble-m3-july4-final.jpg",
+  "title": "Hubble Captures Star-Studded Cluster",
+  "caption": "This image from NASA’s Hubble Space Telescope shows Messier 3, a densely packed cluster of stars whose origins may be a merger between globular clusters in the early universe.",
+  "summary": "This image from NASA’s Hubble Space Telescope showcases Messier 3 (M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical collections of gravitationally bound stars. Globular clusters are made up of ancient stars that formed at roughly the same time from the same cloud of gas, giving those stars similar ages. Around 150 known globular clusters are sprinkled around the outer regions of the Milky Way. Learn more about M3. Image credit: NASA, ESA, and A. Sarajedini (Florida Atlantic University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "credit": "NASA, ESA, and A. Sarajedini (Florida Atlantic University); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Messier 3",
+   "M 3"
+  ],
+  "date": "2026-07-08",
+  "seed": {
+   "name": "Messier 3",
+   "ra": 205.548417,
+   "dec": 28.377278
+  },
+  "file": "_dl/nasa-hubble-captures-star-studded-cluster.jpg",
+  "size": [
+   2048,
+   2085
+  ],
+  "png": "_png/nasa-hubble-captures-star-studded-cluster.png"
+ },
+ {
+  "id": "nasa-hubble-sees-swarm-of-galaxies",
+  "source": "https://www.nasa.gov/image-article/hubble-sees-swarm-of-galaxies/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/06/macs0329-0211-sky-sreg-flat-final.jpg",
+  "title": "Hubble Sees Swarm of Galaxies",
+  "caption": "This NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.",
+  "summary": "Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211. Galaxy clusters like MACS0329-0211 are important signposts in the story of how the structure of the universe evolved, and are the ultimate telescopic lenses, placing gravitationally lensed galaxies from the earliest stages of the universe into our view. Zoom into this galaxy swarm and you will find large, oval-shaped elliptical galaxies, and thin spiral and lenticular galaxies viewed from the edge. We can also see the full, face-on view of spiral galaxies and their curving spiral arms. The image’s upper-right quadrant holds faint arcs of distant galaxies gravitationally lensed by the cluster’s massive gravity. The largest of these arcs appears above the bright oval shape of a giant elliptical galaxy. Closer inspection of the image’s center reveals several bright-white intersecting curves that appear as a distorted figure eight. This may be another distant galaxy whose light was magnified and distorted by this massive cluster’s gravity. Hubble looked at MACS0329-0211 as part of an observing program of X-ray bright galaxy clusters. Researchers used Hubble’s two main cameras, the Advanced Camera for Surveys and its Wide Field Camera 3 , to gather data visible and infrared light from the cluster. Hubble’s ability to see such a broad spectrum of light makes it a valuable tool in understanding the very nature of these galaxy clusters. Image credit: NASA, ESA, M. Postman (STScI); Image Processing: G. Kober (NASA/Catholic University of America)",
+  "credit": "NASA, ESA, M. Postman (STScI); Image Processing: G. Kober (NASA/Catholic University of America)",
+  "names": [
+   "MACS J0329.6-0211",
+   "MACS 0329-0211"
+  ],
+  "date": "2026-06-17",
+  "seed": {
+   "name": "MACS J0329.6-0211",
+   "ra": 52.423333,
+   "dec": -2.196389
+  },
+  "file": "_dl/nasa-hubble-sees-swarm-of-galaxies.jpg",
+  "size": [
+   2048,
+   1843
+  ],
+  "png": "_png/nasa-hubble-sees-swarm-of-galaxies.png"
+ },
+ {
+  "id": "nasa-hubble-spies-faint-irregular-galaxy",
+  "source": "https://www.nasa.gov/image-article/hubble-spies-faint-irregular-galaxy/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/05/eso490-017-1-flat-final-crop.jpg",
+  "title": "Hubble Spies Faint Irregular Galaxy",
+  "caption": "This NASA Hubble Space Telescope image captures the faint glow of the dwarf irregular galaxy ESO 490-017.",
+  "summary": "This NASA Hubble Space Telescope image released on May 27, 2026, features the dwarf irregular galaxy ESO 490-017, roughly 12,000 light-years in diameter and some 23 million light-years away in the constellation Canis Major. The galaxy’s low surface brightness makes it appear as a faint, starry swarm behind brighter foreground stars that are easily recognized by their diffraction spikes . Numerous red, orange, and beige dots are distant galaxies peppering the black background, many exhibiting distinct spiral structure. The data in this image of ESO 490-017 was part of a Hubble observing program that looked at the movement of galaxies and galaxy clusters through space. Matter in the universe is distributed unevenly, and the gravitational influence of that matter drives the “ cosmic flow ” or movement of large-scale structures in the universe. Image credit: NASA, ESA, R. Tully (University of Hawaii); Image Processing: G. Kober (NASA/Catholic University of America)",
+  "credit": "Credit: NASA, ESA, R. Tully (University of Hawaii); Image Processing: G. Kober (NASA/Catholic University of America)",
+  "names": [
+   "ESO 490-017"
+  ],
+  "date": "2026-05-29",
+  "seed": {
+   "name": "ESO 490-017",
+   "ra": 99.487875,
+   "dec": -26.000861
+  },
+  "file": "_dl/nasa-hubble-spies-faint-irregular-galaxy.jpg",
+  "size": [
+   2048,
+   1696
+  ],
+  "png": "_png/nasa-hubble-spies-faint-irregular-galaxy.png"
+ },
+ {
+  "id": "nasa-hubble-sights-galaxy-in-transition",
+  "source": "https://www.nasa.gov/image-article/hubble-sights-galaxy-in-transition/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/05/hubble-ngc1266-2-4f-flat-final-crop2.jpg",
+  "title": "Hubble Sights Galaxy in Transition",
+  "caption": "",
+  "summary": "This NASA Hubble Space Telescope image reveals an enigmatic galaxy with a bright center and a face that hints at spiral structure, yet it holds no obvious spiral arms. Reddish-brown clumps and filaments of dust partially obscure the galaxy’s full face, while red, blue, and orange light from distant galaxies shines through its diffuse outer regions and dots the inky-black background. NGC 1266 is a lenticular galaxy located some 100 million light-years away in the constellation Eridanus (the Celestial River). Astronomers classify lenticulars as transitional galaxies that represent an evolutionary bridge between spirals and ellipticals. Lenticulars are “lens-shaped” and have a bright central bulge and flattened disk like spirals, but they have no spiral arms and little to no star formation like ellipticals. Read more about NGC 1266, its interesting features, and why astronomers study galaxies like it. Image credit: NASA, ESA, K. Alatalo (STScI); Image Processing: G. Kober (NASA/Catholic University of America)",
+  "credit": "NASA, ESA, K. Alatalo (STScI); Image Processing: G. Kober (NASA/Catholic University of America)",
+  "names": [
+   "NGC 1266"
+  ],
+  "date": "2026-05-21",
+  "seed": {
+   "name": "NGC 1266",
+   "ra": 49.003225,
+   "dec": -2.427174
+  },
+  "file": "_dl/nasa-hubble-sights-galaxy-in-transition.jpg",
+  "size": [
+   2048,
+   1906
+  ],
+  "png": "_png/nasa-hubble-sights-galaxy-in-transition.png"
+ },
+ {
+  "id": "nasa-nasas-hubble-webb-telescopes-survey-pinwheel-galaxy",
+  "source": "https://www.nasa.gov/image-article/nasas-hubble-webb-telescopes-survey-pinwheel-galaxy/",
+  "image": "https://www.nasa.gov/wp-content/uploads/2026/03/55150964901-45196b40b6-o.jpg",
+  "title": "NASA’s Hubble, Webb Telescopes Survey Pinwheel Galaxy",
+  "caption": "",
+  "summary": "This March 16, 2026, image from NASA’s Hubble Space Telescope and the James Webb Space Telescope takes a closer look at the core of Messier 101, also known as the Pinwheel Galaxy. At 25 million light-years away, M101 is one of the closest “face-on” spiral galaxies to us. With that in mind, Hubble’s ultraviolet, visible, and near-infrared data were taken as part of studies to find out more about its stellar population and galactic structure. See more images from Hubble’s Messier Marathon 2026. Image credit: NASA, CSA, ESA, D. Calzetti (University of Massachusetts – Amherst), C. Clark (Space Telescope Science Institute – ESA – JWST), K. Kuntz (The John Hopkins University), and B. Shappee (University of Hawaii); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "credit": "NASA, CSA, ESA, D. Calzetti (University of Massachusetts – Amherst), C. Clark (Space Telescope Science Institute – ESA – JWST), K. Kuntz (The John Hopkins University), and B. Shappee (University of Hawaii); Processing: Gladys Kober (NASA/Catholic University of America)",
+  "names": [
+   "Messier 101",
+   "M 101"
+  ],
+  "date": "2026-03-23",
+  "seed": {
+   "name": "Messier 101",
+   "ra": 210.802429,
+   "dec": 54.34875
+  },
+  "file": "_dl/nasa-nasas-hubble-webb-telescopes-survey-pinwheel-galaxy.jpg",
+  "size": [
+   3029,
+   2108
+  ],
+  "png": "_png/nasa-nasas-hubble-webb-telescopes-survey-pinwheel-galaxy.png"
+ }
+]

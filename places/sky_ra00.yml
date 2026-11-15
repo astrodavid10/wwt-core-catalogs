@@ -3327,6 +3327,65 @@ ra_hr: 0.3786530624379347
 thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523a/thumb.jpg
 zoom_level: 6.969202632
 ---
+_uuid: a655a530-ba9b-40f8-b53a-9e798218e901
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 48.51880763667906
+description: Also known as NGC 147, Caldwell 17 is a dwarf galaxy in our local group
+  of galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-17/L{1}X{2}Y{3}.png
+name: Caldwell 17 (NGC 147)
+ra_hr: 0.5543755466862943
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-17/thumb.jpg
+zoom_level: 0.435509854414746
+---
+_uuid: 0702efaa-223c-48cc-b7e9-2d8b90308675
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 48.33711831239205
+description: Caldwell 18 is a nearby galaxy in the local group with an active galactic
+  nucleus.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-18/L{1}X{2}Y{3}.png
+name: Caldwell 18 (NGC 185)
+ra_hr: 0.6498897535701408
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-18/thumb.jpg
+zoom_level: 0.4515193711396557
+---
+_uuid: b4cd1ea5-c94d-4814-8cb3-49cca80cde56
+classification: ''
+constellation: CEP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 72.52718791403792
+description: This image of Caldwell 2 (C2) was taken in 1995 as part of a survey of
+  nearby planetary nebulae. Astronomers used Hubble’s Wide Field and Planetary Camera
+  2 to search for central stars that have close companion stars. These companion stars
+  are helpful to astronomers because they can be used to determine the distance to
+  planetary nebulae like C2. This Hubble image features the planetary nebula Caldwell
+  2 (C2), a shell of gas expanding outward away from the dying star within.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-2/L{1}X{2}Y{3}.png
+name: Caldwell 2 (NGC 40)
+ra_hr: 0.21573876659031163
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-2/thumb.jpg
+zoom_level: 0.4198698361358331
+---
+_uuid: 1c4c70e6-6445-4107-9006-9bd84ef3e09d
+classification: ''
+constellation: SCL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -39.197567106787695
+description: This galaxy is similar to, but smaller than, the Large Magellanic Cloud.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-72/L{1}X{2}Y{3}.png
+name: Caldwell 72 (NGC 55)
+ra_hr: 0.24824394535355984
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-72/thumb.jpg
+zoom_level: 0.5339005540994824
+---
 _uuid: cb010cf0-8499-47a9-9a29-f391602df5bc
 classification: ''
 constellation: PSC

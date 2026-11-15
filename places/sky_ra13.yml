@@ -4047,6 +4047,41 @@ ra_hr: 13.882383080081755
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic2505i/thumb.jpg
 zoom_level: 0.4537013129887876
 ---
+_uuid: 86f273d8-63f5-4c07-b2d3-0fe32c8c9765
+classification: ''
+constellation: CVN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 37.05933346588762
+description: You can spot this spiral galaxy's bright core in most backyard telescopes.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-29/L{1}X{2}Y{3}.png
+name: Caldwell 29 (NGC 5005)
+ra_hr: 13.182241696547038
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-29/thumb.jpg
+zoom_level: 0.2799283868237572
+---
+_uuid: 38f26179-1150-4879-b027-019cd7654904
+classification: ''
+constellation: CVN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 28.375321092399055
+description: 'This image from NASA’s Hubble Space Telescope shows Messier 3, a densely
+  packed cluster of stars whose origins may be a merger between globular clusters
+  in the early universe. This image from NASA’s Hubble Space Telescope showcases Messier
+  3 (M3), one of the Milky Way galaxy’s most massive globular clusters, or spherical
+  collections of gravitationally bound stars. Globular clusters are made up of ancient
+  stars that formed at roughly the same time from the same cloud of gas, giving those
+  stars similar ages. Around 150 known globular clusters are sprinkled around the
+  outer regions of the Milky Way. Learn more about M3. Image credit: NASA, ESA, and
+  A. Sarajedini (Florida Atlantic University); Processing: Gladys Kober (NASA/Catholic
+  University of America)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-hubble-captures-star-studded-cluster/L{1}X{2}Y{3}.png
+name: Hubble Captures Star-Studded Cluster
+ra_hr: 13.703158987937085
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-hubble-captures-star-studded-cluster/thumb.jpg
+zoom_level: 0.5845410621001864
+---
 _uuid: 86495366-e89b-48bf-87aa-fb74990d4941
 classification: ''
 constellation: CEN

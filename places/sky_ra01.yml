@@ -2212,6 +2212,19 @@ ra_hr: 1.705484558862279
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic2408a/thumb.jpg
 zoom_level: 0.5369430243899421
 ---
+_uuid: 01ae30c0-e871-4409-bb71-9cda9cc38232
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 2.1175837180680532
+description: This irregular dwarf galaxy is in the constellation Cetus.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-51/L{1}X{2}Y{3}.png
+name: Caldwell 51 (IC 1613)
+ra_hr: 1.0799361666443343
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-51/thumb.jpg
+zoom_level: 0.419537653975371
+---
 _uuid: 5a355d85-4cc6-4b28-9637-af99f9a1ad65
 classification: ''
 constellation: CET

@@ -7130,6 +7130,20 @@ ra_hr: 5.575706724020218
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic2607a/thumb.jpg
 zoom_level: 1.0877895665839876
 ---
+_uuid: 75833e62-9f8e-4650-b88d-2e3ee160a70b
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -40.046641096154985
+description: Caldwell 73 may be a remnant of two clusters that collided within a dwarf
+  galaxy that once hosted them both.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-73/L{1}X{2}Y{3}.png
+name: Caldwell 73 (NGC 1851)
+ra_hr: 5.23521161749011
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-73/thumb.jpg
+zoom_level: 0.3694539569577425
+---
 _uuid: 887e0b73-fca1-4ecd-a2aa-8d3104d74274
 classification: ''
 constellation: ORI
