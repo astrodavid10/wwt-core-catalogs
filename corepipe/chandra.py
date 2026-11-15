@@ -207,6 +207,30 @@ def _f(v):
     return float(re.sub(r"[^0-9eE+\-.]", "", v))
 
 
+def sidecar_image_wcs(hdr):
+    """WCS for a registration sidecar, in the image's own (top-down) pixel convention.
+
+    The sidecars (``register.py``) are written in the FITS convention, with y counting
+    up from the bottom row. Images loaded from JPEG/PNG/TIFF count rows down from the
+    top, so the y axis is flipped here: CRPIX2 -> H + 1 - CRPIX2 and the second
+    column of the CD matrix changes sign. Handing toasty the sidecar unchanged makes
+    it "fix" the parity by flipping the pixels, which mirrors the picture top to
+    bottom on the sky.
+    """
+    from astropy.wcs import WCS
+
+    src = WCS(hdr).celestial
+    height = int(hdr["IMAGEH"])
+    cd = src.pixel_scale_matrix.copy()
+    cd[:, 1] *= -1
+    w = WCS(naxis=2)
+    w.wcs.ctype = list(src.wcs.ctype)
+    w.wcs.crval = list(src.wcs.crval)
+    w.wcs.crpix = [src.wcs.crpix[0], height + 1 - src.wcs.crpix[1]]
+    w.wcs.cd = cd
+    return w
+
+
 def avm_wcs_headers(s: dict, width: int, height: int):
     """FITS headers in image (JPEG-like, negative parity) convention, or (None, reason).
 
@@ -385,15 +409,17 @@ class ChandraImageSource(ImageSource):
             from astropy.wcs import WCS
 
             with fits.open(sidecar) as hdul:
-                hdr = hdul[0].header
-                wcs = WCS(hdr)
+                hdr = hdul[0].header.copy()
             ww, wh = hdr.get("IMAGEW"), hdr.get("IMAGEH")
             if (ww, wh) != (img.width, img.height):
                 raise Exception(
                     f"sidecar WCS is for a {ww}x{wh} image but {img_path} is {img.width}x{img.height}"
                 )
             info["wcs_source"] = f"sidecar {os.path.basename(sidecar)}: {hdr.get('WCSSRC', '')}"
+            wcs = sidecar_image_wcs(hdr)
             img._wcs = wcs
+            # A press image is a sky view, so after the conversion this should be a
+            # no-op; if it ever flips, the picture was published mirrored.
             img.ensure_negative_parity()
         else:
             headers, note = best_avm([img_path, os.path.join(cachedir, "avm.jpg")], img.width, img.height)
