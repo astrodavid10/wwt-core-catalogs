@@ -3236,6 +3236,39 @@ ra_hr: 3.544301467250075
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic2609b/thumb.jpg
 zoom_level: 0.2722068985073006
 ---
+_uuid: 34c453bc-c7a8-476a-a6dd-746b2292c7f5
+classification: ''
+constellation: ERI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -2.1961070144840704
+description: 'This NASA Hubble Space Telescope image features the galaxy cluster MACS0329-0211.
+  Looking somewhat like a swarm of bees returning to their hive, this NASA Hubble
+  Space Telescope image released on June 12, 2026, features the galaxy cluster MACS0329-0211.
+  Galaxy clusters like MACS0329-0211 are important signposts in the story of how the
+  structure of the universe evolved, and are the ultimate telescopic lenses, placing
+  gravitationally lensed galaxies from the earliest stages of the universe into our
+  view. Zoom into this galaxy swarm and you will find large, oval-shaped elliptical
+  galaxies, and thin spiral and lenticular galaxies viewed from the edge. We can also
+  see the full, face-on view of spiral galaxies and their curving spiral arms. The
+  image’s upper-right quadrant holds faint arcs of distant galaxies gravitationally
+  lensed by the cluster’s massive gravity. The largest of these arcs appears above
+  the bright oval shape of a giant elliptical galaxy. Closer inspection of the image’s
+  center reveals several bright-white intersecting curves that appear as a distorted
+  figure eight. This may be another distant galaxy whose light was magnified and distorted
+  by this massive cluster’s gravity. Hubble looked at MACS0329-0211 as part of an
+  observing program of X-ray bright galaxy clusters. Researchers used Hubble’s two
+  main cameras, the Advanced Camera for Surveys and its Wide Field Camera 3 , to gather
+  data visible and infrared light from the cluster. Hubble’s ability to see such a
+  broad spectrum of light makes it a valuable tool in understanding the very nature
+  of these galaxy clusters. Image credit: NASA, ESA, M. Postman (STScI); Image Processing:
+  G. Kober (NASA/Catholic University of America)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-hubble-sees-swarm-of-galaxies/L{1}X{2}Y{3}.png
+name: Hubble Sees Swarm of Galaxies
+ra_hr: 3.4948924682363027
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-hubble-sees-swarm-of-galaxies/thumb.jpg
+zoom_level: 0.3500487414659796
+---
 _uuid: 9a583858-815d-4d93-a8f2-0aa28d66f609
 classification: ''
 constellation: PER

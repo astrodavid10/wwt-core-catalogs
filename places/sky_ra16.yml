@@ -2398,6 +2398,74 @@ ra_hr: 16.883578079434375
 thumbnail: https://data1.wwtassets.org/feeds/eso/potw2337b/thumb.jpg
 zoom_level: 0.17139804427005145
 ---
+_uuid: 8b137024-f7d3-428b-8047-da4cb34c4a81
+classification: ''
+constellation: APS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -72.20204841161028
+description: This loosely-packed cluster of stars was first observed in 1826 by Scottish
+  astronomer James Dunlop.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-107/L{1}X{2}Y{3}.png
+name: Caldwell 107 (NGC 6101)
+ra_hr: 16.43027690327381
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-107/thumb.jpg
+zoom_level: 0.43675115185078195
+---
+_uuid: ac52d267-761c-408d-9b53-4f58d3cfe4fc
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.10173247602899
+description: This image of Messier 10 was created with ultraviolet light gathered
+  by Hubble’s Wide Field Camera 3. The data is from an observing program that established
+  an archive of globular clusters in ultraviolet light. This ultraviolet light image
+  compliments the visible and infrared light image below, and highlights the energetic,
+  bright, young, blue stars that dot the cluster. Hubble’s image of Messier 10’s dense
+  core holds observations taken in visible and infrared light.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-messier-10/L{1}X{2}Y{3}.png
+name: Messier 10
+ra_hr: 16.95258154421999
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-messier-10/thumb.jpg
+zoom_level: 0.4472683892400016
+---
+_uuid: f58cdf56-926d-4f9a-b3ea-10bb2f97b4bd
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -26.524174346266193
+description: This Hubble image of Messier 4 includes data from both Hubble’s Wide
+  Field Camera 3 and Advanced Camera for Surveys. The image spans the wide range of
+  wavelengths Hubble’s instruments are sensitive to, allowing astronomers to study
+  the different ages, temperatures, and compositions of the cluster’s stars. This
+  Hubble image features the globular star cluster called Messier 4 (M4). You can use
+  the bright star Antares to help you find Messier 4.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-messier-4/L{1}X{2}Y{3}.png
+name: Messier 4
+ra_hr: 16.393142873210103
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-messier-4/thumb.jpg
+zoom_level: 0.4296236030889973
+---
+_uuid: 97cb2a68-9097-4a26-9975-6498322f6495
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -22.975976475307682
+description: In this image of M80, observations in ultraviolet, visible, and infrared
+  wavelengths of light are featured. This data helped scientists learn more about
+  the sequence of cosmic events that lead to the formation of various sub-populations
+  of stars in globular clusters like this one. Hubble’s ultraviolet observations of
+  this globular cluster helped astronomers identify the remains of a nova-producing
+  white dwarf.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-messier-80/L{1}X{2}Y{3}.png
+name: Messier 80
+ra_hr: 16.284012066059287
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-messier-80/thumb.jpg
+zoom_level: 0.4147254004749924
+---
 _uuid: 5caa6566-3360-4dee-8585-9e07299b7b02
 classification: ''
 constellation: DRA

@@ -3582,6 +3582,55 @@ ra_hr: 17.272514751012093
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic2020c/thumb.jpg
 zoom_level: 0.0172627922952972
 ---
+_uuid: 59a3c336-8072-4cfd-b796-aea96f7fff14
+classification: ''
+constellation: ARA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -48.42230333912287
+description: Located in the constellation Ara, the Altar, Caldwell 81 was discovered
+  in 1826 by Scottish astronomer James Dunlop while he lived in Australia.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-81/L{1}X{2}Y{3}.png
+name: Caldwell 81 (NGC 6352)
+ra_hr: 17.424702179359972
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-81/thumb.jpg
+zoom_level: 0.4841612848346044
+---
+_uuid: f9699c8b-1fa5-4b8b-904e-70dd79b2662e
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -3.2460435680005273
+description: This image of M14 includes observations taken in ultraviolet, visible,
+  and near-infrared wavelengths of light. Astronomers used this data to better understand
+  the formation and chemical makeup of different populations of stars that reside
+  within this cluster. Messier 14 is home to over 150,000 stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-messier-14/L{1}X{2}Y{3}.png
+name: Messier 14
+ra_hr: 17.626870831720403
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-messier-14/thumb.jpg
+zoom_level: 0.4659640003082637
+---
+_uuid: bd0d68a3-efa8-411f-a5ec-eaad02bff669
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -26.26720873341324
+description: This image of M19 includes Hubble observations taken in ultraviolet,
+  visible, and near-infrared wavelengths of light. A small gap in Hubble data (horizontal
+  line at center right) is instead filled in with observations from the ground-based
+  Victor M. Blanco 4-meter Telescope. The Hubble proposal associated with this image
+  sought to investigate M19’s formation and the ratios of different populations of
+  stars within the cluster. Messier 19 is one of several globular clusters found in
+  the constellation Ophiuchus.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-messier-19/L{1}X{2}Y{3}.png
+name: Messier 19
+ra_hr: 17.04400285418596
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-messier-19/thumb.jpg
+zoom_level: 0.4577812830823722
+---
 _uuid: 80680cba-c870-407d-919e-f3b8fef4a05f
 classification: ''
 constellation: HER

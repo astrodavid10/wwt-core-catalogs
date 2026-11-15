@@ -5111,6 +5111,129 @@ ra_hr: 12.864220354333506
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic2601c/thumb.jpg
 zoom_level: 0.25348435821506843
 ---
+_uuid: e7d4830e-a352-4282-b8ad-6bd8d3110b1b
+classification: ''
+constellation: MUS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -72.66202883275568
+description: This image of Caldwell 108 has a dark line bisecting the image in two.
+  This line is called a "chip gap." Hubble's Wide Field Camera 3 uses two detectors
+  that are near but not exactly next to each other, leaving a thin gap in the exposure.
+  The colorful stars of Caldwell 108 offer clues to the cluster's internal dynamics
+  and subsequent evolution.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-108/L{1}X{2}Y{3}.png
+name: Caldwell 108 (NGC 4372)
+ra_hr: 12.429254149676982
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-108/thumb.jpg
+zoom_level: 0.45061413550717294
+---
+_uuid: 079aeae0-2ba7-4190-b2da-900c8db5070e
+classification: ''
+constellation: DRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 69.44646316249063
+description: This barred spiral galaxy was first spotted by British astronomer William
+  Herschel in April 1793 in the constellation Draco.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-3/L{1}X{2}Y{3}.png
+name: Caldwell 3 (NGC 4236)
+ra_hr: 12.280932124326485
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-3/thumb.jpg
+zoom_level: 0.4164080238660032
+---
+_uuid: 0960d9b6-0d6c-4559-b30d-556c278461f7
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.962267552754014
+description: Northern Hemisphere observers can spy this beauty in the spring, while
+  Southern Hemisphere observers should look for it in the northern sky in autumn.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-36/L{1}X{2}Y{3}.png
+name: Caldwell 36 (NGC 4559)
+ra_hr: 12.599141346744965
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-36/thumb.jpg
+zoom_level: 0.4215276225823046
+---
+_uuid: ed81453a-c3ef-43f5-a7d1-50c66b0259b3
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 25.98785797039159
+description: Also called "The Needle" galaxy, or NGC 4565, Caldwell 38 was discovered
+  by astronomer William Herschel in 1785.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-38/L{1}X{2}Y{3}.png
+name: Caldwell 38 (NGC 4565)
+ra_hr: 12.605743570005162
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-38/thumb.jpg
+zoom_level: 0.2163820240634633
+---
+_uuid: ba95bcc3-66e2-4797-a1a1-75e19e7bdb70
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 13.130867066211973
+description: It’s easy to get swept up in the swirling starry arms of this intermediate
+  spiral galaxy, NGC 4654, in the constellation Virgo. The galaxy has a bright center
+  and is labeled “intermediate” because it has characteristics of both unbarred and
+  barred spirals. NGC 4654 is just north of the celestial equator, making it visible
+  from the northern hemisphere and most of the southern hemisphere. The galaxy is
+  around 55 million light-years from Earth. NGC 4654 is one of many Virgo Cluster
+  galaxies that have an asymmetric distribution of stars and of neutral hydrogen gas.
+  Astronomers reason that NGC 4654 may be experiencing a process called “ram pressure
+  stripping,” where the gravitational pull of the Virgo galaxy cluster puts pressure
+  on NGC 4654 as it moves through a superheated plasma made largely of hydrogen called
+  the “intracluster medium.” This pressure feels like a gust of wind – think of a
+  biker feeling wind even on a still day – that strips NGC 4654 of its gas. This process
+  produced a long, thin tail of hydrogen gas on the galaxy’s southeastern side. Most
+  galaxies that experienced ram pressure stripping hold very little cold gas, halting
+  the galaxy’s ability to form new stars, since stars generate from dense gas. However,
+  NGC 4654 has star formation rates consistent with other galaxies of its size. NGC
+  4654 also had an interaction with the companion galaxy NGC 4639 about 500 million
+  years ago. The gravity of NGC 4639 stripped NGC 4654’s gas along its edge, limiting
+  star formation in that region and causing the asymmetrical distribution of the galaxy’s
+  stars. Scientists study galaxies like NGC 4654 to examine the connection between
+  young stars and the cold gas from which they form. NASA’s Hubble Space Telescope
+  took this image in visible, ultraviolet, and infrared light.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-hubble-views-a-vibrant-virgo-cluster-galaxy/L{1}X{2}Y{3}.png
+name: Hubble Views a Vibrant Virgo Cluster Galaxy
+ra_hr: 12.73218095861876
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-hubble-views-a-vibrant-virgo-cluster-galaxy/thumb.jpg
+zoom_level: 0.43167531342121473
+---
+_uuid: 76d46706-6f7f-4566-9eb2-6a92abcf84f6
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 11.81929150070624
+description: The data in this Hubble image of Messier 58 includes infrared, visible,
+  and ultraviolet light taken with Hubble's Wide Field Camera 3.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-messier-58/L{1}X{2}Y{3}.png
+name: Messier 58
+ra_hr: 12.628794975353518
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-messier-58/thumb.jpg
+zoom_level: 0.44651038510712127
+---
+_uuid: 7b9fa841-07a4-425d-9e08-52c27280e7bc
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 21.685305782428397
+description: This new Hubble image of Messier 64 (released on March 20, 2026) includes
+  ultraviolet, visible, and near-infrared wavelengths of light from Hubble's Wide
+  Field Camera 3. This Hubble image of Messier 64. also known as the "Black Eye" or
+  "Evil Eye" galaxy, includes ultraviolet, visible, and near-infrared wavelengths.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-messier-64/L{1}X{2}Y{3}.png
+name: Messier 64
+ra_hr: 12.94534576961844
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-messier-64/thumb.jpg
+zoom_level: 0.4556617420329857
+---
 _uuid: bcf81647-0888-400a-8c97-8050c15b9302
 classification: ''
 constellation: VIR

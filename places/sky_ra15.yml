@@ -1112,6 +1112,25 @@ ra_hr: 15.835277336651513
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic1920a/thumb.jpg
 zoom_level: 0.4011395264241334
 ---
+_uuid: d545973d-a7e2-4234-ad4f-e5d862bf96e9
+classification: ''
+constellation: SER1
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 2.0793890047784984
+description: This beautiful Hubble image of Messier 5 was created with ultraviolet
+  light gathered by Hubble’s Wide Field Camera 3. The data is from an observing program
+  that established an archive of globular clusters in ultraviolet light. This ultraviolet
+  light image compliments the visible and infrared light image below, and highlights
+  the energetic, bright, young, blue stars that dot the cluster. Hubble captures Messier
+  5 (M5) in stunning detail, resolving the patch of faint, fuzzy light into individual
+  stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-messier-5/L{1}X{2}Y{3}.png
+name: Messier 5
+ra_hr: 15.30920941467557
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-messier-5/thumb.jpg
+zoom_level: 0.4512368495631426
+---
 _uuid: 3071f8de-e9a5-4a1b-9801-c5b0d6fc91da
 classification: ''
 constellation: LIB

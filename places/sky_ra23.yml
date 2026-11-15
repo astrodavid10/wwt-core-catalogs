@@ -1802,6 +1802,44 @@ ra_hr: 23.73051846113259
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic2413a/thumb.jpg
 zoom_level: 0.26094591291500124
 ---
+_uuid: 40c77d64-0d1d-41ec-adca-087d20e853b4
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 24.597446821316343
+description: The Pegasus Dwarf spheroidal galaxy, also known as Andromeda VI, is one
+  of at least 13 dwarf galaxies that orbit the Andromeda galaxy. A glittering collection
+  of stars shines against a background of much more distant galaxies in this view
+  from NASA’s Hubble Space Telescope of the Pegasus Dwarf spheroidal galaxy, also
+  known as Andromeda VI. The Andromeda galaxy, also known as Messier 31, is the Milky
+  Way’s closest grand spiral galaxy neighbor, and is host to at least 13 dwarf galaxies
+  that orbit around it. The Pegasus Dwarf spheroidal galaxy is one of these mini-galaxies.
+  Dwarf spheroidal galaxies are the dimmest and least massive galaxies known. They
+  tend to have elliptical shapes and relatively smooth distributions of stars. Dwarf
+  spheroidal galaxies are usually devoid of gas and dominated by old and intermediate-age
+  stars, although some have experienced small amounts of recent star formation. The
+  Pegasus Dwarf Spheroidal galaxy was discovered in 1998 and has been characterized
+  as having a small amount of heavy elements and little of the gas needed to form
+  another generation of stars ― though more than many of the dwarf spheroidal galaxies
+  within our Local Group of galaxies. Researchers suspect that Andromeda’s gravitational
+  field may have stripped the star-forming gases from it, leaving a dearth of material
+  to build more than a few generations of stars. In comparison, some of the dwarf
+  spheroidal companion galaxies of the Milky Way found at comparable distances do
+  contain some intermediate-age stars, but this could be because Andromeda is so massive
+  and extended that its gravitational effects extend farther. The jury is still out
+  on how dwarf spheroidal galaxies form. Theories include collisions between galaxies
+  that break off small fragments, the gravitational influence of larger galaxies on
+  small disk-shaped dwarf galaxies, and processes associated with the birth of small
+  systems among collections of dark matter. Andromeda and the Milky Way are the only
+  galaxies close enough for astronomers to view these dim satellite galaxies, so clues
+  to their formation will have to come from close neighbors like this one.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-hubble-pinpoints-a-dim-starry-mini-galaxy/L{1}X{2}Y{3}.png
+name: Hubble Pinpoints a Dim, Starry Mini-galaxy
+ra_hr: 23.863136017905617
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-hubble-pinpoints-a-dim-starry-mini-galaxy/thumb.jpg
+zoom_level: 0.5245364700963965
+---
 _uuid: 92dd7f40-7219-4896-a264-648f97f2f3a5
 classification: ''
 constellation: PHE

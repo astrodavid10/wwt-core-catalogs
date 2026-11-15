@@ -1,0 +1,8 @@
+_cache/
+_dl/
+_work/
+processed/
+_merge/
+*.log
+_png/
+_check/

@@ -3577,6 +3577,40 @@ ra_hr: 18.041291581956486
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic2608a/thumb.jpg
 zoom_level: 0.44266113452263833
 ---
+_uuid: de810b70-15ac-4101-a9e8-5512fee80fd0
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -19.82639672153343
+description: 'This NASA Hubble Space Telescope image features a dense and dazzling
+  array of blazing stars that form globular cluster ESO 591-12. A previously unexplored
+  globular cluster glitters with multicolored stars in this NASA Hubble Space Telescope
+  image. Globular clusters like this one, called ESO 591-12 or Palomar 8, are spherical
+  collections of tens of thousands to millions of stars tightly bound together by
+  gravity. Globular clusters generally form early in the galaxies’ histories in regions
+  rich in gas and dust. Since the stars form from the same cloud of gas as it collapses,
+  they typically hover around the same age. Strewn across this image of ESO 591-12
+  are a number of red and blue stars. The colors indicate their temperatures; red
+  stars are cooler, while the blue stars are hotter. Hubble captured the data used
+  to create this image of ESO 591-12 as part of a study intended to resolve individual
+  stars of the entire globular cluster system of the Milky Way. Hubble revolutionized
+  the study of globular clusters since earthbound telescopes are unable to distinguish
+  individual stars in the compact clusters. The study is part of the Hubble Missing
+  Globular Clusters Survey, which targets 34 confirmed Milky Way globular clusters
+  that Hubble has yet to observe. The program aims to provide complete observations
+  of ages and distances for all of the Milky Way’s globular clusters and investigate
+  fundamental properties of still-unexplored clusters in the galactic bulge or halo.
+  The observations will provide key information on the early stages of our galaxy,
+  when globular clusters formed. Image credit: NASA, ESA, and D. Massari (INAF — Osservatorio
+  di Astrofisica e Scienza dello Spazio); Processing: Gladys Kober (NASA/Catholic
+  University of America)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-hubble-observations-give-missing-globular-cluster-time-to-shine/L{1}X{2}Y{3}.png
+name: Hubble Observations Give “Missing” Globular Cluster Time to Shine
+ra_hr: 18.691957030457008
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-hubble-observations-give-missing-globular-cluster-time-to-shine/thumb.jpg
+zoom_level: 0.5278013019633573
+---
 _uuid: 1b176f45-a7ee-484b-a040-f4921fcf4c8c
 classification: ''
 constellation: SGR

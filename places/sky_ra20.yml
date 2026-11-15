@@ -1712,6 +1712,20 @@ ra_hr: 20.603216767596294
 thumbnail: https://data1.wwtassets.org/feeds/eso/potw2240a/thumb.jpg
 zoom_level: 0.12917396596534558
 ---
+_uuid: abb18a38-410f-438a-8bc0-e931f3ae7915
+classification: ''
+constellation: CYG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 60.16816021504134
+description: This majestic spiral has had ten observed supernovae in its spiral arms
+  since 1917.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-12/L{1}X{2}Y{3}.png
+name: Caldwell 12 (NGC 6946)
+ra_hr: 20.581394965895516
+thumbnail: https://data1.wwtassets.org/feeds/hst/nasa-caldwell-12/thumb.jpg
+zoom_level: 0.5598772448447801
+---
 _uuid: a2a75c9e-d022-4df4-adfb-0cc5325820eb
 classification: ''
 constellation: CYG
